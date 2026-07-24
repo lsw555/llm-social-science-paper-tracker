@@ -16,7 +16,12 @@ QUERIES=[
     'LLM climate behavior communication',
 ]
 MAX_NEW_PAPERS=10
-SYSTEM='''You are screening academic papers for an LLM social science tracker. Return ONLY JSON.
+PREFILTER_SYSTEM='''You are the first, conservative screening pass for an LLM social science paper tracker. Return ONLY {"candidate": true} or {"candidate": false}.
+
+Return true when the paper might substantively concern LLMs, ChatGPT, or generative AI in at least one of these areas: (1) LLMs as a social-science research tool such as public-opinion prediction, simulation, or content analysis; (2) human–AI interaction and social outcomes such as trust, mental health, support, health or climate behavior, learning, work, or AI-generated news; or (3) whether LLM behavior resembles human attitudes, values, cognition, stereotypes, or bias.
+
+Return false only for clearly unrelated or purely technical architecture, benchmark, coding, mathematics, hardware, or generic performance papers. When uncertain, return true for final review.'''
+FINAL_SYSTEM='''You are the final screening pass for an LLM social science tracker. Return ONLY JSON.
 
 Include a paper only if it substantively concerns large language models, ChatGPT, or generative AI and belongs to at least one of these streams:
 1. AI AS A SOCIAL-SCIENCE RESEARCH TOOL: using LLMs to predict or simulate public opinion, analyze text/content, classify social data, conduct surveys/experiments, or otherwise improve social-science research.
@@ -30,9 +35,8 @@ def get_json(url,headers=None):
     with urlopen(Request(url,headers=headers or {}),timeout=60) as r:return json.load(r)
 def abstract(work):
     words=work.get('abstract_inverted_index') or {}; ordered=sorted(((i,w) for w,positions in words.items() for i in positions)); return ' '.join(w for _,w in ordered)
-def text_response(prompt):
-    payload=json.dumps({'model':'gpt-5.6-luna','input':[{'role':'system','content':SYSTEM},{'role':'user','content':prompt}],'text':{'verbosity':'low'}}).encode()
-    result=get_json('https://api.openai.com/v1/responses',{'Authorization':f'Bearer {KEY}','Content-Type':'application/json'}) if False else None
+def text_response(model, instructions, prompt):
+    payload=json.dumps({'model':model,'input':[{'role':'system','content':instructions},{'role':'user','content':prompt}],'text':{'verbosity':'low'}}).encode()
     request=Request('https://api.openai.com/v1/responses',data=payload,method='POST',headers={'Authorization':f'Bearer {KEY}','Content-Type':'application/json'})
     with urlopen(request,timeout=90) as r:return json.load(r)['output_text']
 def authors(work): return ', '.join(a['author']['display_name'] for a in work.get('authorships',[])[:8]) or 'Author unavailable'
@@ -47,7 +51,11 @@ def main():
         if work['id'] in seen or not work.get('title'): continue
         abs_text=abstract(work)
         if not abs_text: continue
-        try: verdict=json.loads(re.search(r'\{.*\}',text_response(f"Title: {work['title']}\nAbstract: {abs_text}"),re.S).group())
+        prompt=f"Title: {work['title']}\nAbstract: {abs_text}"
+        try:
+            prefilter=json.loads(re.search(r'\{.*\}',text_response('gpt-5-nano',PREFILTER_SYSTEM,prompt),re.S).group())
+            if not prefilter.get('candidate'): continue
+            verdict=json.loads(re.search(r'\{.*\}',text_response('gpt-5.6-luna',FINAL_SYSTEM,prompt),re.S).group())
         except Exception as error: print(f"Skipping {work['id']}: {error}"); continue
         if not verdict.get('include'): continue
         source=((work.get('primary_location') or {}).get('source') or {}).get('display_name') or 'Venue unavailable'
