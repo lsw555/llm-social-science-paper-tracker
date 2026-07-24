@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="An automated weekly digest of social science research on large language models." />
+    <title>LLM Social Science Paper Tracker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header>
+        <h1>LLM Social Science Paper Tracker</h1>
+        <p class="subtitle">Automated weekly digest of research on LLMs as social-science tools, human–AI interaction, and LLM behavior. <span id="updatedAt">Loading latest papers…</span></p>
+      </header>
+      <div class="rule"></div>
+      <section class="toolbar" aria-label="Paper filters">
+        <label><span class="sr-only">Search papers</span><input id="search" type="search" placeholder="Search papers, authors, journals" /></label>
+        <select id="fieldFilter" aria-label="Filter by field"><option value="all">All social science fields</option></select>
+        <span id="resultCount"></span>
+      </section>
+      <section id="paperList" class="paper-list" aria-live="polite"></section>
+      <p class="disclosure">Papers are discovered from OpenAlex and screened using their titles and abstracts. AI summaries are generated from the available abstract and may contain errors; use the linked original paper as the source of record.</p>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,32 @@
+# LLM Social Science Paper Tracker
+
+An automated GitHub Pages digest of recent social-science research about large language models, ChatGPT, and generative AI.
+
+## Automated workflow
+
+Every Monday, the GitHub Action in `.github/workflows/update-papers.yml`:
+
+1. Searches OpenAlex for papers published in the last 10 days across three streams: LLMs as social-science research tools; human–AI interaction and social outcomes; and LLM behavior, values, and bias.
+2. Retrieves metadata, author names, venue, publication year, DOI/link, and abstract.
+3. Uses the OpenAI Responses API to retain only papers that substantively fit one of these streams, while excluding purely technical AI work.
+4. Creates three short abstract-grounded fields: **Goal**, **Methodology**, and **Finding**.
+5. Adds the approved records to `data/papers.json`, commits them, and thereby refreshes the GitHub Pages site.
+
+The website is deliberately simple: a headline, latest-update timestamp, search/field filter, and paper cards. There is no subscription component.
+
+## Publish on GitHub Pages
+
+1. Create a public GitHub repository and upload this folder's contents.
+2. In **Settings → Pages**, select **Deploy from a branch**, then select `main` and `/ (root)`.
+3. In **Settings → Secrets and variables → Actions**, create a secret named `OPENAI_API_KEY`.
+4. Open the **Actions** tab and run **Find and summarize new papers** once to populate the initially empty tracker.
+
+Never place `OPENAI_API_KEY` in frontend files, repository variables, or `data/papers.json`. The current dataset is intentionally empty until the first workflow run.
+
+## Run locally
+
+```sh
+python3 -m http.server 4173
+```
+
+Then visit `http://localhost:4173`.
