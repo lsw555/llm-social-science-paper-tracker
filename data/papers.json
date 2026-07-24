@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T08:10:40.438763+00:00",
+  "updatedAt": "2026-07-24T08:21:48.269895+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7143585285",
@@ -16,6 +16,34 @@
       }
     },
     {
+      "id": "https://openalex.org/W7170094742",
+      "title": "What do we know about generative AI and learning?",
+      "authors": "Nancy Butler Songer, C.M. Logan, Niral Shah, David Stroupe",
+      "journal": "Open Access Government",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.56367/oag-051-12544",
+      "summary": {
+        "goal": "The paper discusses what is known about generative AI and its impact on learning.",
+        "methodology": "The abstract presents a conceptual discussion of generative AI, its development, and its capabilities.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170054538",
+      "title": "Towards a methodologically congruent framework for GenAI use in nonpositivist qualitative research",
+      "authors": "Kien Nguyen‐Trung, Susanne Friese",
+      "journal": "International Journal of Social Research Methodology",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1080/13645579.2026.2703248",
+      "summary": {
+        "goal": "The article develops a methodologically congruent framework for using GenAI in nonpositivist qualitative research.",
+        "methodology": "It distinguishes technological and qualitative methodological incongruence and proposes using GenAI as an interlocutor through relational, ethical, researcher-led, and abductive practices.",
+        "finding": "GenAI can support surfacing, retrieving, comparing, and suggesting qualitative material, but human researchers remain responsible for interpretation and meaning-making."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170061789",
       "title": "The serial mediating effects of learning motivation and learning engagement on the relationship between gen AI literacy and EFL perceived proficiency among vocational students",
       "authors": "Rui Zhang, Othman Bin Talib, Shengnan Liu, Zhixinlu Chen, Daliang Lu, Yufang Meng",
@@ -27,6 +55,20 @@
         "goal": "The study examines whether learning motivation and engagement serially mediate the relationship between generative AI literacy and vocational students’ perceived EFL proficiency.",
         "methodology": "It uses a cross-sectional survey of 383 vocational college students in China with validated measures of Gen AI literacy, motivation, engagement, and perceived EFL proficiency.",
         "finding": "Gen AI literacy positively predicted perceived proficiency and motivation, with a significant serial mediation pathway through motivation and engagement."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7169839650",
+      "title": "The algorithmic capture of public opinion: social control and artificial intelligence, from the Chicago School to algorithmic agenda setting",
+      "authors": "Carlos Frederico De Angelis",
+      "journal": "Aposta",
+      "year": 2026,
+      "field": "Public opinion & politics",
+      "url": "https://doi.org/10.23900/ra.v24i116.1416",
+      "summary": {
+        "goal": "The article develops a renewed theory of agenda-setting by examining how artificial intelligence transforms social control and the structuring of public opinion.",
+        "methodology": "It presents a systematic review of recent literature organized around four analytical axes: algorithmic gatekeeping, internalized framing in LLMs, agenda building with generative AI, and the media-AI intermediary loop.",
+        "finding": "It argues that AI creates a distributed, obscured, and automated layer of control with theoretical, methodological, and normative implications for how perceived reality is structured."
       }
     },
     {
@@ -58,6 +100,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7169834902",
+      "title": "Reliability Evaluation of Large Language Models for Social Media Sentiment Annotation: An Empirical Study Based on Model Agreement and Downstream Tasks",
+      "authors": "Wenjing Pi, Changxian He",
+      "journal": "Computers and artificial intelligence.",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.70267/cai.26v3n3.193199",
+      "summary": {
+        "goal": "The study evaluates the reliability of large language models for annotating sentiment in Chinese social media comments and the effects of their labels on downstream classification.",
+        "methodology": "Three LLMs generated zero-shot sentiment labels for 1,543 Bilibili comments, 500 comments received manual annotations for Cohen’s Kappa comparison, and classifiers were trained on the resulting labels.",
+        "finding": "Doubao had the highest agreement with human labels, and classifiers trained on its annotations achieved the best reported Macro-F1 scores."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169838404",
       "title": "Measuring complex constructs in large-scale text with computational social mixed methods",
       "authors": "Alina Herderich, Jana Lasser, Mirta Galešić, Segun Aroyehun, David Garcia, Joshua Garland",
@@ -83,6 +139,20 @@
         "goal": "The study evaluates AI-generated abstractive summaries as accessible alternative representations of recorded lecture content.",
         "methodology": "It compares students’ perceptions of AI-generated and human-generated lecture summaries using a quality-of-experience analysis.",
         "finding": "Students viewed AI-generated summaries as coherent, valuable, and beneficial additions to learning materials, but educators should curate them to ensure quality."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7169815768",
+      "title": "LLM-enhanced computational grounded theory and the triadic dynamics of human-AI-society interaction",
+      "authors": "Kun He, Qianru Meng, Xiangyuan Feng, Xiao Zhang, Malvina Nissim",
+      "journal": "Theory and Society",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1007/s11186-026-09734-7",
+      "summary": {
+        "goal": "The paper develops a triadic framework of human-AI-society interaction and an LLM-enhanced computational grounded theory method for analyzing public discourse about ChatGPT.",
+        "methodology": "It analyzes 584,160 English-language tweets using five phases combining LLM-assisted topic generation and refinement, computational confirmation, and human-led theory generation.",
+        "finding": "The analysis identifies 10 themes and 54 subtopics that converge into three stakeholder-oriented interaction patterns, recursive feedback mechanisms, and temporal asymmetries in AI sociotechnical systems."
       }
     },
     {
@@ -128,6 +198,48 @@
       }
     },
     {
+      "id": "https://openalex.org/W7169762234",
+      "title": "Evaluación de metáforas visuales sobre convivencia escolar con inteligencia artificial generativa y juicio experto",
+      "authors": "Karla Karina Ruiz Mendoza, Luis Horacio Pedroza Zúñiga, Héctor Manuel Rodríguez Figueroa",
+      "journal": "RELATEC Revista Latinoamericana de Tecnología Educativa",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.17398/1695-288x.25.2.225",
+      "summary": {
+        "goal": "The study compares generative AI models and human experts in evaluating visual metaphors of school coexistence.",
+        "methodology": "Six human experts and five LLMs rated three metaphors and student explanations using rubric-based measures of agreement, reliability, and generalizability.",
+        "finding": "Human experts had higher Coexistence Index scores, ChatGPT-5 Pro was closest to human consensus, and one to two human experts plus about ten AI runs achieved generalizability of at least 0.95."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7169851679",
+      "title": "Dual mediating effects of learning motivation and hope on the relationship between generative AI acceptance and learning engagement among Chinese college students: moderated mediation effect of self-directed learning",
+      "authors": "Yinshun Zhang, Chang Seek Lee, Chao Deng, Xin Liao",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1842819",
+      "summary": {
+        "goal": "The study aimed to examine how generative AI acceptance relates to university students’ learning engagement through learning motivation and hope, with self-directed learning as a moderator.",
+        "methodology": "The researchers surveyed 478 Chinese university students online and analyzed the data using correlation, structural equation, and moderated mediation analyses.",
+        "finding": "Generative AI acceptance was positively associated with learning engagement through sequential mediation by learning motivation and hope, while self-directed learning moderated the motivation-to-hope pathway."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170113442",
+      "title": "Coordinating Meaning with AI System Cards: A Thematic Analysis",
+      "authors": "Jennifer Rene French Cyrek",
+      "journal": "Scholars Crossing (Liberty University)",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://openalex.org/W7170113442",
+      "summary": {
+        "goal": "The study examines how AI developers use system cards to frame risk and responsible development in public discourse.",
+        "methodology": "It conducts a thematic content analysis of a purposive corpus of AI system cards from 2023–2025 using coordinated management of meaning theory.",
+        "finding": "The analysis finds that system cards prioritize catastrophic risks, omit broader societal harms such as declining critical thinking, and use scientific conventions and benchmarks to build trust through transparency."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170080721",
       "title": "Climate-control ChatGPT for EFL writing and AI literacy",
       "authors": "Hesham Aldamen, Salwa Mohammad Alawneh, Mohamad Almashour, Mutasim Al-Deaibes, Rami Alsharefeen",
@@ -139,6 +251,34 @@
         "goal": "The study examines whether a prompting design requiring learners to justify, qualify, counterexample, and re-author claims improves AI literacy, harm-sensitive reasoning, and independent argumentative writing among EFL students.",
         "methodology": "A mixed-methods quasi-experiment assigned 120 Jordanian undergraduates to no-ChatGPT, standard ChatGPT, or climate-control ChatGPT conditions and analyzed essays, dialogue logs, drafts, reflections, interviews, and annotated language units.",
         "finding": "The climate-control condition produced the largest gains in harm-sensitive AI literacy and argumentative writing, maintained delayed no-AI transfer, reduced direct uptake, increased self-repair and authorial control, and improved distinctions between AI competence and consciousness."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7166006500",
+      "title": "Algorithmic Justice and Responsible AI Journalism: A Comparative Communication Policy Perspective in East Asia",
+      "authors": "Renxiudi Huang, Linjia Bai",
+      "journal": "PhilPapers (PhilPapers Foundation)",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.17613/d0ee4-h2e12",
+      "summary": {
+        "goal": "The study compares how China and South Korea regulate algorithmic fairness and platform accountability in AI journalism.",
+        "methodology": "It conducts comparative textual analysis of policy documents and examines evidence from Toutiao and Naver.",
+        "finding": "Both regulatory models mitigate infodemics and algorithmic bias but involve trade-offs between regulatory efficiency and editorial independence."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7168759378",
+      "title": "AI-Assisted Analysis of PowerPoint Slides: A Methodological Approach to Decolonising Business Education",
+      "authors": "Timothy Groves, Jordan Allison, Omar El Masri",
+      "journal": "Journal of Educational Computing Research",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1177/07356331261468611",
+      "summary": {
+        "goal": "The study develops a reproducible AI-assisted workflow for identifying and auditing colonial markers in MBA lecture slides.",
+        "methodology": "It used expert review, AI-assisted analysis, thematic synthesis, and exploratory Langflow- and LangChain-Python-based workflows to analyze teaching materials.",
+        "finding": "AI-generated markers substantially converged with expert-identified markers, although technical limitations constrained effectiveness and outputs were considered useful for reflective curriculum review."
       }
     }
   ]
