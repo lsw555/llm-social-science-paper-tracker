@@ -1,4 +1,145 @@
 {
-  "updatedAt": "2026-07-24T07:55:14.604937+00:00",
-  "papers": []
+  "updatedAt": "2026-07-24T08:10:40.438763+00:00",
+  "papers": [
+    {
+      "id": "https://openalex.org/W7143585285",
+      "title": "The Ethical and Legal Complexities of Regulating Companion AI Chatbots",
+      "authors": "Sue Anne Teo, S. P. Mann, Paul Jurcys",
+      "journal": "Lund University Publications (Lund University)",
+      "year": 2027,
+      "field": "Human–AI interaction",
+      "url": "https://openalex.org/W7143585285",
+      "summary": {
+        "goal": "The article examines the ethical and legal challenges posed by companion AI chatbots and develops a theory of harm for digitally mediated intimacy.",
+        "methodology": "It analyzes companion AI through anthropomorphism, emotional AI, emergent vulnerabilities, and mismatched legal taxonomies.",
+        "finding": "The article argues that existing frameworks inadequately address companion AI harms and proposes intimacy capitalism as a framework for analyzing the monetization and exploitation of digitally mediated intimate relations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170061789",
+      "title": "The serial mediating effects of learning motivation and learning engagement on the relationship between gen AI literacy and EFL perceived proficiency among vocational students",
+      "authors": "Rui Zhang, Othman Bin Talib, Shengnan Liu, Zhixinlu Chen, Daliang Lu, Yufang Meng",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1862619",
+      "summary": {
+        "goal": "The study examines whether learning motivation and engagement serially mediate the relationship between generative AI literacy and vocational students’ perceived EFL proficiency.",
+        "methodology": "It uses a cross-sectional survey of 383 vocational college students in China with validated measures of Gen AI literacy, motivation, engagement, and perceived EFL proficiency.",
+        "finding": "Gen AI literacy positively predicted perceived proficiency and motivation, with a significant serial mediation pathway through motivation and engagement."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7164183113",
+      "title": "The Sociolinguistics of Machine Identity: LLM Personality and Ideology Propagation",
+      "authors": "Guangni Li",
+      "journal": "Open MIND",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.17613/fdwhn-ejz93",
+      "summary": {
+        "goal": "The paper develops a sociolinguistic account of LLM personality, cognitive style, and the propagation of language ideology.",
+        "methodology": "It synthesizes published findings conceptually and proposes Personality Engineering and Language Ideology Propagation frameworks without presenting original experiments or a systematic review.",
+        "finding": "The paper argues that LLMs exhibit measurable personality traits and may amplify standard-language ideology, while emphasizing that its proposed frameworks require empirical validation."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170031323",
+      "title": "The ClimaSentAR dataset for evaluating cross-domain transferability of large language models in climate sentiment analysis",
+      "authors": "Sanaa Kaddoura, Mariam AlZaabi, Reem Nassar",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s41598-026-59024-6",
+      "summary": {
+        "goal": "The paper introduces an Arabic climate sentiment dataset and evaluates the cross-domain transferability of language models for climate sentiment analysis.",
+        "methodology": "The authors compile and annotate 23,957 Arabic X posts, then fine-tune Arabic language models using domain-adaptive pre-training, AdapterFusion, and data augmentation.",
+        "finding": "Climate-specific fine-tuning improves in-domain performance, with AraBERT achieving a macro F1 of 0.753, while cross-domain performance declines to at most 0.599."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7169838404",
+      "title": "Measuring complex constructs in large-scale text with computational social mixed methods",
+      "authors": "Alina Herderich, Jana Lasser, Mirta Galešić, Segun Aroyehun, David Garcia, Joshua Garland",
+      "journal": "Behavior Research Methods",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3758/s13428-026-03046-5",
+      "summary": {
+        "goal": "The paper develops guidelines for using computational social mixed-methods pipelines to measure complex social phenomena in large-scale text while improving conceptual validity and technical performance.",
+        "methodology": "It integrates social-science and machine-learning practices across annotation, model training, and statistical analysis, introduces iterative annotation and training on confident examples, and illustrates the approach with online-hate detection while discussing large language models as alternatives to transformer classifiers.",
+        "finding": "The case study indicates that integrating social-science and machine-learning expertise improves the validity and comparability of computational social-science measurements."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170101981",
+      "title": "Making Lectures Accessible: AI-Based Abstractive Summarisation for Video Content",
+      "authors": "Helard Becerra Martinez, Walsh Mt, Conor Fagan, Andrew Hines",
+      "journal": "Technology Knowledge and Learning",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s10758-026-10015-6",
+      "summary": {
+        "goal": "The study evaluates AI-generated abstractive summaries as accessible alternative representations of recorded lecture content.",
+        "methodology": "It compares students’ perceptions of AI-generated and human-generated lecture summaries using a quality-of-experience analysis.",
+        "finding": "Students viewed AI-generated summaries as coherent, valuable, and beneficial additions to learning materials, but educators should curate them to ensure quality."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170088336",
+      "title": "Generative AI Risk Governance in Organizational Information Systems: A Conceptual Model Integrating Security, Ethics, and Digital Trust",
+      "authors": "Nurdiyanto Yusuf",
+      "journal": "International Journal Science and Technology",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.56127/ijst.v5i2.2876",
+      "summary": {
+        "goal": "The study aims to develop a conceptual model explaining how organizations can adopt generative AI securely, ethically, responsibly, and with user trust.",
+        "methodology": "It uses an integrative literature review and thematic synthesis of academic, conference, and technical sources to identify constructs, relationships, and research propositions.",
+        "finding": "The abstract reports that governance readiness strengthens security controls and ethical awareness, which build digital trust and support effective generative AI adoption."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170067921",
+      "title": "Faculty development and institutional readiness for incorporating AI in health professions education- A narrative review",
+      "authors": "Prathibha Prasad, Mahinour Amin, Elizabeth Fitriana Sari, Lovely M. Annamma, Jayaraj Narayanan, Dinesh Yasothkumar, Mehzabin Ahmed",
+      "journal": "Frontiers in Dental Medicine",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fdmed.2026.1874590",
+      "summary": {
+        "goal": "The review examines strategies for institutional readiness and faculty development in integrating AI into health professions and dental education.",
+        "methodology": "It uses a structured narrative review of literature from PubMed, Scopus, Google Scholar, and ScienceDirect published between 2015 and 2025.",
+        "finding": "The review recommends governance, curriculum integration, faculty training, assessment reform, and human oversight while noting AI's potential benefits and ethical and educational risks."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170035547",
+      "title": "Evolution and Ecological Activation Mechanisms of Chinese Electric Vehicles’ International Image: A Complex Adaptive Systems Perspective",
+      "authors": "Yueqin Wu, Zhipeng Yu",
+      "journal": "Systems",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3390/systems14070880",
+      "summary": {
+        "goal": "The study examines how international digital discourse constructs the evolving image of Chinese electric vehicles.",
+        "methodology": "It analyzes large-scale YouTube textual and behavioral data using BERTopic modeling, LLM semantic mapping, the Entropy Weight Method, and social network analysis.",
+        "finding": "The abstract reports that perceptions have expanded beyond low-cost manufacturing, with intelligent ecosystems strongly activated while cost-effectiveness remains marginal and technological and geopolitical frames form a dual-core configuration."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170080721",
+      "title": "Climate-control ChatGPT for EFL writing and AI literacy",
+      "authors": "Hesham Aldamen, Salwa Mohammad Alawneh, Mohamad Almashour, Mutasim Al-Deaibes, Rami Alsharefeen",
+      "journal": "Frontiers in Artificial Intelligence",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/frai.2026.1869343",
+      "summary": {
+        "goal": "The study examines whether a prompting design requiring learners to justify, qualify, counterexample, and re-author claims improves AI literacy, harm-sensitive reasoning, and independent argumentative writing among EFL students.",
+        "methodology": "A mixed-methods quasi-experiment assigned 120 Jordanian undergraduates to no-ChatGPT, standard ChatGPT, or climate-control ChatGPT conditions and analyzed essays, dialogue logs, drafts, reflections, interviews, and annotated language units.",
+        "finding": "The climate-control condition produced the largest gains in harm-sensitive AI literacy and argumentative writing, maintained delayed no-AI transfer, reduced direct uptake, increased self-repair and authorial control, and improved distinctions between AI competence and consciousness."
+      }
+    }
+  ]
 }
