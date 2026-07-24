@@ -35,20 +35,29 @@ def get_json(url,headers=None):
     with urlopen(Request(url,headers=headers or {}),timeout=60) as r:return json.load(r)
 def abstract(work):
     words=work.get('abstract_inverted_index') or {}; ordered=sorted(((i,w) for w,positions in words.items() for i in positions)); return ' '.join(w for _,w in ordered)
+def normalise(value): return re.sub(r'[^a-z0-9]+','',str(value).lower())
 def text_response(model, instructions, prompt):
     payload=json.dumps({'model':model,'input':[{'role':'system','content':instructions},{'role':'user','content':prompt}],'text':{'verbosity':'low'}}).encode()
     request=Request('https://api.openai.com/v1/responses',data=payload,method='POST',headers={'Authorization':f'Bearer {KEY}','Content-Type':'application/json'})
-    with urlopen(request,timeout=90) as r:return json.load(r)['output_text']
+    with urlopen(request,timeout=90) as r: response=json.load(r)
+    for item in response.get('output',[]):
+        if item.get('type') != 'message': continue
+        for content in item.get('content',[]):
+            if content.get('type') == 'output_text': return content['text']
+    raise ValueError('The OpenAI response did not contain output text.')
 def authors(work): return ', '.join(a['author']['display_name'] for a in work.get('authorships',[])[:8]) or 'Author unavailable'
 def main():
-    existing=json.loads(DATA.read_text()); seen={p['id'] for p in existing.get('papers',[]) if p.get('id')}; since=(datetime.now(timezone.utc)-timedelta(days=10)).date().isoformat(); candidates=[]
+    existing=json.loads(DATA.read_text()); papers=existing.get('papers',[])
+    seen_ids={p['id'] for p in papers if p.get('id')}; seen_dois={normalise(p.get('url','')) for p in papers if p.get('url')}; seen_titles={normalise(p.get('title','')) for p in papers if p.get('title')}
+    lookback_days=90 if not papers else 10; since=(datetime.now(timezone.utc)-timedelta(days=lookback_days)).date().isoformat(); candidates=[]
     for query in QUERIES:
         url='https://api.openalex.org/works?'+urlencode({'search':query,'filter':f'from_publication_date:{since},has_abstract:true','per-page':25,'sort':'publication_date:desc','select':'id,doi,title,publication_year,publication_date,authorships,primary_location,abstract_inverted_index'})
         candidates.extend(get_json(url).get('results',[]))
     added=0
     for work in candidates:
         if added >= MAX_NEW_PAPERS: break
-        if work['id'] in seen or not work.get('title'): continue
+        doi=work.get('doi') or ''; title_key=normalise(work.get('title',''))
+        if work['id'] in seen_ids or normalise(doi) in seen_dois or title_key in seen_titles or not work.get('title'): continue
         abs_text=abstract(work)
         if not abs_text: continue
         prompt=f"Title: {work['title']}\nAbstract: {abs_text}"
@@ -59,6 +68,6 @@ def main():
         except Exception as error: print(f"Skipping {work['id']}: {error}"); continue
         if not verdict.get('include'): continue
         source=((work.get('primary_location') or {}).get('source') or {}).get('display_name') or 'Venue unavailable'
-        existing['papers'].append({'id':work['id'],'title':work['title'],'authors':authors(work),'journal':source,'year':work.get('publication_year','Year unavailable'),'field':verdict['field'],'url':work.get('doi') or work['id'],'summary':{k:verdict[k] for k in ('goal','methodology','finding')}}); seen.add(work['id']); added+=1
+        existing['papers'].append({'id':work['id'],'title':work['title'],'authors':authors(work),'journal':source,'year':work.get('publication_year','Year unavailable'),'field':verdict['field'],'url':doi or work['id'],'summary':{k:verdict[k] for k in ('goal','methodology','finding')}}); seen_ids.add(work['id']); seen_dois.add(normalise(doi)); seen_titles.add(title_key); added+=1
     existing['papers'].sort(key=lambda p:(str(p['year']),p['title']),reverse=True); existing['updatedAt']=datetime.now(timezone.utc).isoformat(); DATA.write_text(json.dumps(existing,ensure_ascii=False,indent=2)+'\n')
 if __name__=='__main__':main()

@@ -6,11 +6,11 @@ An automated GitHub Pages digest of recent social-science research about large l
 
 Every day, the GitHub Action in `.github/workflows/update-papers.yml`:
 
-1. Searches OpenAlex for papers published in the last 10 days across three streams: LLMs as social-science research tools; human–AI interaction and social outcomes; and LLM behavior, values, and bias.
+1. Searches OpenAlex across three streams: LLMs as social-science research tools; human–AI interaction and social outcomes; and LLM behavior, values, and bias. The first empty run searches the previous 90 days to seed the tracker; later daily runs search the previous 10 days.
 2. Retrieves metadata, author names, venue, publication year, DOI/link, and abstract.
 3. Uses a low-cost first pass (`gpt-5-nano`) to remove clearly irrelevant papers, then uses `gpt-5.6-luna` to make the final social-science inclusion decision while excluding purely technical AI work.
 4. Creates three short abstract-grounded fields: **Goal**, **Methodology**, and **Finding**.
-5. Adds up to 10 approved records to `data/papers.json`, commits them, and thereby refreshes the GitHub Pages site.
+5. Adds up to 10 approved records to `data/papers.json`, rejects duplicates by OpenAlex ID, DOI, and normalized title, commits them, and thereby refreshes the GitHub Pages site.
 
 The website is deliberately simple: a headline, latest-update timestamp, search/field filter, and paper cards. There is no subscription component.
 
