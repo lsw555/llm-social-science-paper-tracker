@@ -23,3 +23,25 @@ jobs:
           git add data/papers.json
           git diff --cached --quiet || git commit -m 'Update LLM social science papers'
           git push
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout published tracker
+        uses: actions/checkout@v6
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload tracker
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: '.'
+      - name: Deploy tracker
+        id: deployment
+        uses: actions/deploy-pages@v4

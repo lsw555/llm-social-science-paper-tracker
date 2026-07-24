@@ -18,8 +18,9 @@ The website is deliberately simple: a headline, latest-update timestamp, search/
 
 1. Create a public GitHub repository and upload this folder's contents.
 2. In **Settings → Pages**, select **Deploy from a branch**, then select `main` and `/ (root)`.
-3. In **Settings → Secrets and variables → Actions**, create a secret named `OPENAI_API_KEY`.
-4. Open the **Actions** tab and run **Find and summarize new papers** once to populate the initially empty tracker.
+3. In **Settings → Pages**, set **Source** to **GitHub Actions**.
+4. In **Settings → Secrets and variables → Actions**, create a secret named `OPENAI_API_KEY`.
+5. Open the **Actions** tab and run **Find and summarize new papers** once to populate the initially empty tracker. On completion, the same workflow deploys the public site; use the link shown on its `deploy` job.
 
 Never place `OPENAI_API_KEY` in frontend files, repository variables, or `data/papers.json`. The current dataset is intentionally empty until the first workflow run.
 
