@@ -15,6 +15,7 @@ QUERIES=[
     '"large language model" human behavior bias',
     'LLM climate behavior communication',
 ]
+MAX_NEW_PAPERS=10
 SYSTEM='''You are screening academic papers for an LLM social science tracker. Return ONLY JSON.
 
 Include a paper only if it substantively concerns large language models, ChatGPT, or generative AI and belongs to at least one of these streams:
@@ -40,7 +41,9 @@ def main():
     for query in QUERIES:
         url='https://api.openalex.org/works?'+urlencode({'search':query,'filter':f'from_publication_date:{since},has_abstract:true','per-page':25,'sort':'publication_date:desc','select':'id,doi,title,publication_year,publication_date,authorships,primary_location,abstract_inverted_index'})
         candidates.extend(get_json(url).get('results',[]))
+    added=0
     for work in candidates:
+        if added >= MAX_NEW_PAPERS: break
         if work['id'] in seen or not work.get('title'): continue
         abs_text=abstract(work)
         if not abs_text: continue
@@ -48,6 +51,6 @@ def main():
         except Exception as error: print(f"Skipping {work['id']}: {error}"); continue
         if not verdict.get('include'): continue
         source=((work.get('primary_location') or {}).get('source') or {}).get('display_name') or 'Venue unavailable'
-        existing['papers'].append({'id':work['id'],'title':work['title'],'authors':authors(work),'journal':source,'year':work.get('publication_year','Year unavailable'),'field':verdict['field'],'url':work.get('doi') or work['id'],'summary':{k:verdict[k] for k in ('goal','methodology','finding')}}); seen.add(work['id'])
+        existing['papers'].append({'id':work['id'],'title':work['title'],'authors':authors(work),'journal':source,'year':work.get('publication_year','Year unavailable'),'field':verdict['field'],'url':work.get('doi') or work['id'],'summary':{k:verdict[k] for k in ('goal','methodology','finding')}}); seen.add(work['id']); added+=1
     existing['papers'].sort(key=lambda p:(str(p['year']),p['title']),reverse=True); existing['updatedAt']=datetime.now(timezone.utc).isoformat(); DATA.write_text(json.dumps(existing,ensure_ascii=False,indent=2)+'\n')
 if __name__=='__main__':main()
