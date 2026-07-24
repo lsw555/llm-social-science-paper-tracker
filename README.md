@@ -12,6 +12,10 @@ Every day, the GitHub Action in `.github/workflows/update-papers.yml`:
 4. Creates three short abstract-grounded fields: **Goal**, **Methodology**, and **Finding**.
 5. Adds up to 10 approved records to `data/papers.json`, rejects duplicates by OpenAlex ID, DOI, and normalized title, commits them, and thereby refreshes the GitHub Pages site.
 
+## Journal priority
+
+When multiple suitable papers are available, the tracker screens the following journals first: **Nature**, **Science**, **Nature Climate Change**, **Nature Human Behaviour**, **Nature Communications**, **PNAS**, **PNAS Nexus**, **Journal of Communication**, **Human Communication Research**, **Communication Research**, **Communication Methods and Measures**, and **Journal of Computer-Mediated Communication**. Other journals remain eligible; the weighting only affects the order of selection. Edit `JOURNAL_WEIGHTS` in `scripts/update_papers.py` to add or change priorities.
+
 The website is deliberately simple: a headline, latest-update timestamp, search/field filter, and paper cards. There is no subscription component.
 
 ## Publish on GitHub Pages

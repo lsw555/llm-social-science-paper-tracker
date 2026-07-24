@@ -16,6 +16,16 @@ QUERIES=[
     'LLM climate behavior communication',
 ]
 MAX_NEW_PAPERS=10
+JOURNAL_WEIGHTS={
+    # Broad, multidisciplinary journals
+    'nature':100, 'science':100, 'nature climate change':100, 'nature human behaviour':100,
+    'nature communications':95, 'proceedings of the national academy of sciences':90,
+    'pnas':90, 'pnas nexus':90,
+    # Communication journals
+    'journal of communication':85, 'human communication research':85,
+    'communication research':85, 'communication methods and measures':80,
+    'journal of computer-mediated communication':80,
+}
 PREFILTER_SYSTEM='''You are the first, conservative screening pass for an LLM social science paper tracker. Return ONLY {"candidate": true} or {"candidate": false}.
 
 Return true when the paper might substantively concern LLMs, ChatGPT, or generative AI in at least one of these areas: (1) LLMs as a social-science research tool such as public-opinion prediction, simulation, or content analysis; (2) human–AI interaction and social outcomes such as trust, mental health, support, health or climate behavior, learning, work, or AI-generated news; or (3) whether LLM behavior resembles human attitudes, values, cognition, stereotypes, or bias.
@@ -36,6 +46,10 @@ def get_json(url,headers=None):
 def abstract(work):
     words=work.get('abstract_inverted_index') or {}; ordered=sorted(((i,w) for w,positions in words.items() for i in positions)); return ' '.join(w for _,w in ordered)
 def normalise(value): return re.sub(r'[^a-z0-9]+','',str(value).lower())
+def journal_weight(work):
+    source=((work.get('primary_location') or {}).get('source') or {}).get('display_name') or ''
+    name=source.lower().strip()
+    return max((weight for journal,weight in JOURNAL_WEIGHTS.items() if journal == name),default=0)
 def text_response(model, instructions, prompt):
     payload=json.dumps({'model':model,'input':[{'role':'system','content':instructions},{'role':'user','content':prompt}],'text':{'verbosity':'low'}}).encode()
     request=Request('https://api.openai.com/v1/responses',data=payload,method='POST',headers={'Authorization':f'Bearer {KEY}','Content-Type':'application/json'})
@@ -53,6 +67,10 @@ def main():
     for query in QUERIES:
         url='https://api.openalex.org/works?'+urlencode({'search':query,'filter':f'from_publication_date:{since},has_abstract:true','per-page':25,'sort':'publication_date:desc','select':'id,doi,title,publication_year,publication_date,authorships,primary_location,abstract_inverted_index'})
         candidates.extend(get_json(url).get('results',[]))
+    # A paper may appear in more than one query; screen each OpenAlex record once.
+    candidates=list({work['id']:work for work in candidates if work.get('id')}.values())
+    # Prioritize prestigious outlets when several suitable papers are available.
+    candidates.sort(key=lambda work:(journal_weight(work),work.get('publication_date') or ''),reverse=True)
     added=0
     for work in candidates:
         if added >= MAX_NEW_PAPERS: break
