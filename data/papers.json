@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T08:21:48.269895+00:00",
+  "updatedAt": "2026-07-25T05:22:11.369291+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7143585285",
@@ -13,6 +13,20 @@
         "goal": "The article examines the ethical and legal challenges posed by companion AI chatbots and develops a theory of harm for digitally mediated intimacy.",
         "methodology": "It analyzes companion AI through anthropomorphism, emotional AI, emergent vulnerabilities, and mismatched legal taxonomies.",
         "finding": "The article argues that existing frameworks inadequately address companion AI harms and proposes intimacy capitalism as a framework for analyzing the monetization and exploitation of digitally mediated intimate relations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7164453256",
+      "title": "When Health Is at Stake: Comparing User Perceptions of Generative AI Chatbots for Chronic Disease Information Seeking",
+      "authors": "Mahed Maddah, Pouyan Esmaeilzadeh",
+      "journal": "Journal of the Association for Information Systems",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://openalex.org/W7164453256",
+      "summary": {
+        "goal": "The study examines how perceived information and interaction quality influence trust, continued use, and behavioral intentions when people use generative AI chatbots for chronic disease information seeking.",
+        "methodology": "It uses a scenario-based online experiment in which participants interact with one of four assigned chatbots: ChatGPT, Gemini, Claude, or DeepSeek.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -55,6 +69,20 @@
         "goal": "The study examines whether learning motivation and engagement serially mediate the relationship between generative AI literacy and vocational students’ perceived EFL proficiency.",
         "methodology": "It uses a cross-sectional survey of 383 vocational college students in China with validated measures of Gen AI literacy, motivation, engagement, and perceived EFL proficiency.",
         "finding": "Gen AI literacy positively predicted perceived proficiency and motivation, with a significant serial mediation pathway through motivation and engagement."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7169860822",
+      "title": "The effects of AI second opinions on collaborative confidence and decision-making: evidence from a controlled study of postgraduate vocal accompanists",
+      "authors": "Tong Zhu, Li Xia",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1862379",
+      "summary": {
+        "goal": "The study examines how AI-generated second opinions affect collaborative self-efficacy, music performance anxiety, and decision-making among postgraduate vocal accompanists.",
+        "methodology": "It uses a controlled study comparing postgraduate students who received AI second opinions with a control group using pretest and posttest measures.",
+        "finding": "AI second opinions increased self-efficacy and reduced performance anxiety but did not significantly change decision-making style."
       }
     },
     {
@@ -114,6 +142,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7170034880",
+      "title": "Navigating the labyrinth of involution: LLM-assisted smart agent-based simulation of social resource competition",
+      "authors": "Renxian Zuo, Mengxi Yang, Yang Ding, Shouyang Wang, 余进 YU Jin, Jiang Wu",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1057/s41599-026-08137-4",
+      "summary": {
+        "goal": "The study aims to model how positional scarcity and competition shape involution in social resource competition.",
+        "methodology": "It combines rule-based agent-based modeling with large-language-model-assisted agents that make bounded decisions and provide natural-language rationales.",
+        "finding": "The abstract reports that crowding and embedded catfish agents intensify involution, while heterogeneity, diversified advancement paths, and competitive exit mitigate it."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169838404",
       "title": "Measuring complex constructs in large-scale text with computational social mixed methods",
       "authors": "Alina Herderich, Jana Lasser, Mirta Galešić, Segun Aroyehun, David Garcia, Joshua Garland",
@@ -142,6 +184,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7170061719",
+      "title": "Large Language Models for Risk Detection in E-commerce: Reliability, Semantic Alignment, and Managerial Insights",
+      "authors": "Laleh Davoodi, Filip Ginter, Sima Salimi, Harri Lorentz",
+      "journal": "SN Computer Science",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1007/s42979-026-05213-z",
+      "summary": {
+        "goal": "The study evaluates whether LLMs can detect supply-chain risks and generate managerial risk summaries from business news.",
+        "methodology": "Researchers manually annotated 121 articles about five steel companies using the Cambridge Risk Taxonomy and evaluated two LLMs with few-shot prompting for multi-label classification and summary generation.",
+        "finding": "LLMs approximated human annotations and produced semantically aligned summaries, but struggled with domain-specific geopolitical risks and label overgeneration."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169815768",
       "title": "LLM-enhanced computational grounded theory and the triadic dynamics of human-AI-society interaction",
       "authors": "Kun He, Qianru Meng, Xiangyuan Feng, Xiao Zhang, Malvina Nissim",
@@ -156,6 +212,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7169844906",
+      "title": "Integrating AI into Mobile Development Workflows: A System-Level Approach to Prompt-to-Code Engineering",
+      "authors": "YASIN ARIK",
+      "journal": "International Journal of Research Publications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.47119/ijrp1002011720269539",
+      "summary": {
+        "goal": "The paper develops a system-level framework for integrating generative AI into mobile software development workflows.",
+        "methodology": "It presents a layered conceptual architecture and examines human–AI interaction, productivity, cognitive transformation, reliability, and organizational implications.",
+        "finding": "The abstract suggests that prompt-to-code systems may improve efficiency while transforming developer roles and introducing challenges involving trust, correctness, and risk management."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170088336",
       "title": "Generative AI Risk Governance in Organizational Information Systems: A Conceptual Model Integrating Security, Ethics, and Digital Trust",
       "authors": "Nurdiyanto Yusuf",
@@ -167,6 +237,48 @@
         "goal": "The study aims to develop a conceptual model explaining how organizations can adopt generative AI securely, ethically, responsibly, and with user trust.",
         "methodology": "It uses an integrative literature review and thematic synthesis of academic, conference, and technical sources to identify constructs, relationships, and research propositions.",
         "finding": "The abstract reports that governance readiness strengthens security controls and ethical awareness, which build digital trust and support effective generative AI adoption."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170110549",
+      "title": "Functional Design of LLM-based Human-AI Interaction",
+      "authors": "Florian Lehmann",
+      "journal": "EPub Bayreuth (University of Bayreuth)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.15495/epub_ubt_00009485",
+      "summary": {
+        "goal": "The thesis investigates how to integrate generative AI into user workflows and how initiative and control shape human–AI interaction.",
+        "methodology": "It uses functional prototypes, interaction-log analysis, quantitative and qualitative questionnaires, and web-based user studies.",
+        "finding": "The abstract reports that greater user control and lower system initiative foster authorship in AI-assisted writing."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170039278",
+      "title": "From rule-based to generative AI: a systematic review of algorithmic evolution and multimodal fusion in VR interview training systems",
+      "authors": "Runlai Li, Riji Yu",
+      "journal": "Frontiers in Virtual Reality",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/frvir.2026.1864150",
+      "summary": {
+        "goal": "The review examines the evolution of AI-driven immersive VR interview training systems, including the adoption of generative AI and large language models.",
+        "methodology": "The authors conducted a PRISMA 2020 systematic review of 23 studies published between 2015 and 2025 across four academic databases.",
+        "finding": "The review finds that systems evolved from rule-based methods to generative AI and LLMs, improving interactivity, personalization, and adaptive feedback while raising concerns about cost, bias, and privacy."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7169871216",
+      "title": "Freedom of Thought, Conscience, and AI",
+      "authors": "Andrea Pin",
+      "journal": "Journal of Law and Religion",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1017/jlr.2026.10079",
+      "summary": {
+        "goal": "The article examines how increasingly capable AI challenges freedom of thought and conscience.",
+        "methodology": "It develops a legal and conceptual analysis drawing on theories of freedom of thought, conscience, manipulation, and the extended mind.",
+        "finding": "The article argues that AI’s ability to extract information about thoughts and feelings requires stronger protection for users and renewed attention to freedom of thought and conscience."
       }
     },
     {
@@ -226,6 +338,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7169884242",
+      "title": "Designing GenAI-Mediated Mathematics Storybooks: Process Patterns and Tool Affordance Uptake Among Pre-Service Early Childhood Teachers",
+      "authors": "Yau Yu Chan, Kwok Man Keith Ho",
+      "journal": "Education Sciences",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3390/educsci16071163",
+      "summary": {
+        "goal": "The study examines how pre-service early childhood educators use GenAI to design mathematics storybooks while maintaining pedagogical control.",
+        "methodology": "It uses exploratory qualitative cross-case workflow analysis of 27 Hong Kong pre-service educators’ presentations, ChatGPT and Krea interaction records, and completed storybooks.",
+        "finding": "Participants used pedagogical constraints, explored alternatives, and critically selected and revised outputs, following two recurring workflows while balancing efficiency, creativity, coherence, and local contextual fit."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170113442",
       "title": "Coordinating Meaning with AI System Cards: A Thematic Analysis",
       "authors": "Jennifer Rene French Cyrek",
@@ -265,6 +391,20 @@
         "goal": "The study compares how China and South Korea regulate algorithmic fairness and platform accountability in AI journalism.",
         "methodology": "It conducts comparative textual analysis of policy documents and examines evidence from Toutiao and Naver.",
         "finding": "Both regulatory models mitigate infodemics and algorithmic bias but involve trade-offs between regulatory efficiency and editorial independence."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7161413391",
+      "title": "After the Interface: Relocating Human Agency in the Age of Conversational AI",
+      "authors": "Mengke Wu, Mike Yao",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1145/3816046.3816301",
+      "summary": {
+        "goal": "The paper aims to reconceptualize human agency in conversational, generative, and agentic AI systems.",
+        "methodology": "It revisits control as a diagnostic lens, distinguishes process control from outcome control, and maps systems across these dimensions conceptually.",
+        "finding": "The paper argues that agency is redistributed from interface affordances to interaction through goal articulation, output evaluation, and outcome negotiation."
       }
     },
     {
