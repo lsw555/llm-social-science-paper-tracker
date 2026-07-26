@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T05:22:11.369291+00:00",
+  "updatedAt": "2026-07-26T05:37:26.086778+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7143585285",
@@ -86,6 +86,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7170645143",
+      "title": "The creative ghost in the algorithm: AI-generated photo-based images",
+      "authors": "Zsolt Bátori",
+      "journal": "Synthese",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1007/s11229-026-05491-3",
+      "summary": {
+        "goal": "The paper examines creative autonomy and human control in the production of AI-generated photo-based images.",
+        "methodology": "It conceptually analyzes these images through debates about AI creativity, photographic indexicality, and human–algorithmic interaction.",
+        "finding": "It argues that users retain partial creative autonomy while ceding some production details to partially predictable algorithmic processes."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169839650",
       "title": "The algorithmic capture of public opinion: social control and artificial intelligence, from the Chicago School to algorithmic agenda setting",
       "authors": "Carlos Frederico De Angelis",
@@ -114,6 +128,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7170471305",
+      "title": "The Language of Affect Heuristic in Online Discourse: A Corpus Study with Human and Llm Coders",
+      "authors": "Paulina Żelewska, Barbara Konat",
+      "journal": "Człowiek i Społeczeństwo",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.14746/cis.2026.61.8",
+      "summary": {
+        "goal": "The paper investigates affect heuristics and related cognitive biases in online discussions of climate change and artificial intelligence using human and LLM annotation.",
+        "methodology": "Four human annotators and GPT-4o classified over 30,000 Reddit and X posts using predefined categories, with inter-annotator agreement and lexical-discursive patterns analyzed.",
+        "finding": "Affect heuristic was the most frequent pattern, and GPT-4o showed partial alignment with human judgments while exhibiting systematic differences in category distributions."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170031323",
       "title": "The ClimaSentAR dataset for evaluating cross-domain transferability of large language models in climate sentiment analysis",
       "authors": "Sanaa Kaddoura, Mariam AlZaabi, Reem Nassar",
@@ -125,6 +153,20 @@
         "goal": "The paper introduces an Arabic climate sentiment dataset and evaluates the cross-domain transferability of language models for climate sentiment analysis.",
         "methodology": "The authors compile and annotate 23,957 Arabic X posts, then fine-tune Arabic language models using domain-adaptive pre-training, AdapterFusion, and data augmentation.",
         "finding": "Climate-specific fine-tuning improves in-domain performance, with AraBERT achieving a macro F1 of 0.753, while cross-domain performance declines to at most 0.599."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170814019",
+      "title": "Sentiment Analysis of Student Perceptions of Generative AI using Data Augmentation and Machine Learning Models",
+      "authors": "Ni Made Satvika Iswari, I Nyoman Yudi Anggara Wijaya",
+      "journal": "Jurnal Teknologi Terapan G-Tech",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.70609/g-tech.v10i3.10613",
+      "summary": {
+        "goal": "The study evaluates sentiment-analysis models for analyzing student perceptions of generative AI in higher education.",
+        "methodology": "It uses preprocessing, lexical, semantic, and generative data augmentation, TF-IDF features, four machine-learning models, and Stratified K-Fold cross-validation on an imbalanced text dataset.",
+        "finding": "Linear SVM performed best, while augmentation improved observed accuracy and weighted F1 but still produced substantial misclassification and was affected by a dataset-distribution discrepancy."
       }
     },
     {
@@ -142,6 +184,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7164453460",
+      "title": "Paradoxes in Human-AI Interaction: A Diary Study",
+      "authors": "Simran Dhillon, Audrey Li, Gurpreet Dhillon",
+      "journal": "Journal of the Association for Information Systems",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://openalex.org/W7164453460",
+      "summary": {
+        "goal": "The study examined how students’ trust, reliance, and ethical awareness develop through lived interactions with generative AI over time.",
+        "methodology": "It used a diary-based qualitative design with higher-education students.",
+        "finding": "AI adoption was nonlinear, shaped by emotional comfort, task demands, and ethical reflection, with tensions involving transparency and bias, efficiency and overreliance, and automation and empathy."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170034880",
       "title": "Navigating the labyrinth of involution: LLM-assisted smart agent-based simulation of social resource competition",
       "authors": "Renxian Zuo, Mengxi Yang, Yang Ding, Shouyang Wang, 余进 YU Jin, Jiang Wu",
@@ -156,6 +212,34 @@
       }
     },
     {
+      "id": "https://openalex.org/W7170243731",
+      "title": "Multi-Agent Social Simulation: Protocolizing LLM-Driven Agent-Based Modeling as a Quantitative Research Method",
+      "authors": "Xiaoli Hu, Yi Shen",
+      "journal": "AI",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3390/ai7080279",
+      "summary": {
+        "goal": "The study proposes a protocolized LLM-driven agent-based modeling method for simulating social and behavioral research scenarios as a repeatable pre-experimental tool.",
+        "methodology": "It embeds LLMs in an agent-based framework with role settings, controlled information and rules, structured outputs, logging, validation checks, and replication manifests, evaluating the approach across three real-world contexts.",
+        "finding": "The method produced analyzable outputs, with evidence for rule-shock identification, reduced undecided opinion under targeting, and consistent links between governance responses, public sentiment, and behavioral intentions."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170831170",
+      "title": "Media and information literacy and civic actors to counter disinformation in the age of artificial intelligence: insights from Mexico",
+      "authors": "María del Carmen Fernández Chapou, Adalí Frias Deniz",
+      "journal": "Frontiers in Communication",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.3389/fcomm.2026.1874444",
+      "summary": {
+        "goal": "The study examines how Mexican civil society and academic actors develop media literacy, fact-checking, and digital media observation to address AI-mediated disinformation during elections.",
+        "methodology": "It analyzes the cases of Verificado and the Digital Media Observatory at Tecnológico de Monterrey using UNESCO’s media and information literacy framework, Media Ecology, and General Semantics.",
+        "finding": "The article proposes a collaborative civil society–university model for addressing technological and informational challenges and supporting democratic sustainability."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169838404",
       "title": "Measuring complex constructs in large-scale text with computational social mixed methods",
       "authors": "Alina Herderich, Jana Lasser, Mirta Galešić, Segun Aroyehun, David Garcia, Joshua Garland",
@@ -167,6 +251,20 @@
         "goal": "The paper develops guidelines for using computational social mixed-methods pipelines to measure complex social phenomena in large-scale text while improving conceptual validity and technical performance.",
         "methodology": "It integrates social-science and machine-learning practices across annotation, model training, and statistical analysis, introduces iterative annotation and training on confident examples, and illustrates the approach with online-hate detection while discussing large language models as alternatives to transformer classifiers.",
         "finding": "The case study indicates that integrating social-science and machine-learning expertise improves the validity and comparability of computational social-science measurements."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170150909",
+      "title": "Measuring Large Language Models Dependency: Validating the Arabic Version of the LLM-D12 Scale",
+      "authors": "Sameha Alshakhsi, Ala Yankouskaya, Magnus Liebherr, Raian Ali",
+      "journal": "Arabian Journal for Science and Engineering",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1007/s13369-026-11386-9",
+      "summary": {
+        "goal": "The study aims to validate an Arabic version of the LLM-D12 scale measuring instrumental and relationship dependency on large language models.",
+        "methodology": "A total of 250 Arab participants completed the Arabic LLM-D12, which was evaluated using confirmatory factor analysis, internal reliability measures, and external associations.",
+        "finding": "The scale retained its two-factor structure with strong reliability, while instrumental dependency was associated with AI acceptance and internet addiction and relationship dependency with lower need for cognition and greater trust in LLMs."
       }
     },
     {
@@ -223,6 +321,20 @@
         "goal": "The paper develops a system-level framework for integrating generative AI into mobile software development workflows.",
         "methodology": "It presents a layered conceptual architecture and examines human–AI interaction, productivity, cognitive transformation, reliability, and organizational implications.",
         "finding": "The abstract suggests that prompt-to-code systems may improve efficiency while transforming developer roles and introducing challenges involving trust, correctness, and risk management."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170750971",
+      "title": "Human-aligned AI for supply chain risk detection: validation and calibration of LLM-based early-warning assessments",
+      "authors": "Janis Purk",
+      "journal": "Logistics Research",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1108/lore-12-2025-0184",
+      "summary": {
+        "goal": "The paper examines how human expert judgment can validate and calibrate LLM-based supply-chain risk assessments.",
+        "methodology": "It compares AI-generated risk indicators with expert assessments across two validation rounds and iteratively refines prompts using human-in-the-loop feedback.",
+        "finding": "Context-specific prompt calibration reduced mean absolute error and improved alignment between AI outputs and human judgments."
       }
     },
     {
@@ -338,6 +450,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7170656412",
+      "title": "Do language families matter? Evaluating LLMs for sentiment analysis through a hierarchical cross-lingual lens",
+      "authors": "Muhamet Kastrati, Abdul Manaf, Ali Shariq Imran, Zenun Kastrati, Sher Muhammad Daudpota, Marenglen Biba",
+      "journal": "Frontiers in Artificial Intelligence",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3389/frai.2026.1854873",
+      "summary": {
+        "goal": "The study evaluates whether language families and resource levels affect LLM performance in multilingual social media sentiment analysis.",
+        "methodology": "It tests five LLMs on three-class sentiment classification across 36 datasets and languages using zero-shot and few-shot prompting, with hierarchical analysis by language family.",
+        "finding": "Few-shot prompting generally improves performance, but low-resource languages remain substantially worse served, while GPT-4o and Claude perform best in high- and medium-resource settings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169884242",
       "title": "Designing GenAI-Mediated Mathematics Storybooks: Process Patterns and Tool Affordance Uptake Among Pre-Service Early Childhood Teachers",
       "authors": "Yau Yu Chan, Kwok Man Keith Ho",
@@ -419,6 +545,20 @@
         "goal": "The study develops a reproducible AI-assisted workflow for identifying and auditing colonial markers in MBA lecture slides.",
         "methodology": "It used expert review, AI-assisted analysis, thematic synthesis, and exploratory Langflow- and LangChain-Python-based workflows to analyze teaching materials.",
         "finding": "AI-generated markers substantially converged with expert-identified markers, although technical limitations constrained effectiveness and outputs were considered useful for reflective curriculum review."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170320095",
+      "title": "A Study on the Impact of Generative AI on Consumer Decision-Making in Live-Streamed E-commerce within the Apparel Industry",
+      "authors": "yi jiang, Xueyu Zhao",
+      "journal": "Journal of Financial and Economic Dynamics (JFED)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.66361/jfed.126",
+      "summary": {
+        "goal": "The study examines how virtual try-on tools, smart shopping assistants, and virtual hosts affect consumer decision-making in apparel livestreaming.",
+        "methodology": "It combines a literature review, case study, questionnaire survey, reliability and validity tests, correlation analysis, and Bootstrap mediation tests using the Stimulus-Organism-Response framework.",
+        "finding": "All three AI functions positively affect consumer decision-making, with smart shopping assistants having the strongest effect and perceived trust partially mediating all pathways."
       }
     }
   ]
