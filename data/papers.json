@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T05:37:26.086778+00:00",
+  "updatedAt": "2026-07-27T05:55:34.659722+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7143585285",
@@ -69,6 +69,20 @@
         "goal": "The study examines whether learning motivation and engagement serially mediate the relationship between generative AI literacy and vocational students’ perceived EFL proficiency.",
         "methodology": "It uses a cross-sectional survey of 383 vocational college students in China with validated measures of Gen AI literacy, motivation, engagement, and perceived EFL proficiency.",
         "finding": "Gen AI literacy positively predicted perceived proficiency and motivation, with a significant serial mediation pathway through motivation and engagement."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171048387",
+      "title": "The quasi-gods of algorithmic providence: recommender systems and religious frameworks",
+      "authors": "Ljubiša Bojić, Mark Coeckelbergh, Ernest Ženko, Petar Stevanović, Damian Guzek",
+      "journal": "AI & Society",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1007/s00146-026-03103-9",
+      "summary": {
+        "goal": "The paper examines how recommender systems and large language models transform authority, meaning-making, and moral agency through algorithmic guidance.",
+        "methodology": "It develops a comparative, integrative framework drawing on religious doctrines of providence, AI ethics, sociology of digital religion, and philosophy of technology.",
+        "finding": "The analysis finds that recommender systems resemble providence in perceived ubiquity and guidance but optimize engagement rather than human goods, while LLM integration intensifies conversational persuasion and agentic influence."
       }
     },
     {
@@ -156,6 +170,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7164629562",
+      "title": "Social Without Society: Parasocial Relationships in Human–Generative AI Agent Interaction",
+      "authors": "Ye Han, Shuang Wu",
+      "journal": "Journal of the Association for Information Systems",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://openalex.org/W7164629562",
+      "summary": {
+        "goal": "The study examines how users develop parasocial relationships with generative AI and how these relationships influence continued use and subjective well-being.",
+        "methodology": "It draws on social support and parasocial relationship theories to propose that AI interactions provide emotional support, informational support, and companionship.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170814019",
       "title": "Sentiment Analysis of Student Perceptions of Generative AI using Data Augmentation and Machine Learning Models",
       "authors": "Ni Made Satvika Iswari, I Nyoman Yudi Anggara Wijaya",
@@ -167,6 +195,20 @@
         "goal": "The study evaluates sentiment-analysis models for analyzing student perceptions of generative AI in higher education.",
         "methodology": "It uses preprocessing, lexical, semantic, and generative data augmentation, TF-IDF features, four machine-learning models, and Stratified K-Fold cross-validation on an imbalanced text dataset.",
         "finding": "Linear SVM performed best, while augmentation improved observed accuracy and weighted F1 but still produced substantial misclassification and was affected by a dataset-distribution discrepancy."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7166533473",
+      "title": "Research on Attention Guidance and User Autonomy in AI-Powered Immersive Environments",
+      "authors": "Mulin Qiao",
+      "journal": "PhilPapers (PhilPapers Foundation)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.17613/vpe2q-5qg42",
+      "summary": {
+        "goal": "The paper aims to examine how excessive AI attention guidance in immersive environments may undermine user autonomy and exploratory behavior.",
+        "methodology": "It develops a conceptual framework linking excessive guidance to perceived control, voluntary choice, and decision-making authority, and proposes behavioral indicators for measuring user agency.",
+        "finding": "The paper argues for shifting from attention optimization to curiosity-led design and presents AI as an exploratory collaborator rather than a provider of fixed routes."
       }
     },
     {
@@ -184,6 +226,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7170446542",
+      "title": "Perceived control influences users' acceptance of AI-enabled services",
+      "authors": "Zhongliang Li, Hao Li",
+      "journal": "Acta Psychologica",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1016/j.actpsy.2026.107512",
+      "summary": {
+        "goal": "The study examined whether perceived control influences acceptance of AI-enabled services through AI anxiety and whether robot role moderates this relationship.",
+        "methodology": "It conducted three scenario-based experiments with college students, involving 190, 280, and 360 participants.",
+        "finding": "Higher perceived control predicted stronger acceptance intentions, AI anxiety partially mediated this relationship, and the association was stronger for companion-type than tutor-type robots."
+      }
+    },
+    {
       "id": "https://openalex.org/W7164453460",
       "title": "Paradoxes in Human-AI Interaction: A Diary Study",
       "authors": "Simran Dhillon, Audrey Li, Gurpreet Dhillon",
@@ -198,6 +254,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7170690777",
+      "title": "News Sufficiency: How Generative AI Summaries Reduce News Consumption in Zero-Click Searches",
+      "authors": "Paulo Couraceiro, Pedro Caldeira Pais",
+      "journal": "Journalism and Media",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.3390/journalmedia7030152",
+      "summary": {
+        "goal": "The study examines whether generative AI news summaries create a sense of informational sufficiency that reduces incentives to access full news articles.",
+        "methodology": "The authors conducted a content analysis of 72 queries submitted by eight users in European Portuguese to ChatGPT, Gemini, and Google Search using three news-related prompts.",
+        "finding": "ChatGPT and Gemini produced coherent summaries that could satisfy curiosity but differed in sourcing and contextual awareness, while basic keyword prompts often yielded outdated or irrelevant information."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170034880",
       "title": "Navigating the labyrinth of involution: LLM-assisted smart agent-based simulation of social resource competition",
       "authors": "Renxian Zuo, Mengxi Yang, Yang Ding, Shouyang Wang, 余进 YU Jin, Jiang Wu",
@@ -209,6 +279,20 @@
         "goal": "The study aims to model how positional scarcity and competition shape involution in social resource competition.",
         "methodology": "It combines rule-based agent-based modeling with large-language-model-assisted agents that make bounded decisions and provide natural-language rationales.",
         "finding": "The abstract reports that crowding and embedded catfish agents intensify involution, while heterogeneity, diversified advancement paths, and competitive exit mitigate it."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170427706",
+      "title": "Natural Language Processing-Driven Chatbot for Algorithm Learning: A Retrieval-Augmented Generation Approach using Romanized Nepali and English",
+      "authors": "Saroj Bhandari, Puja Dhital",
+      "journal": "Aadim Journal of Multidisciplinary Research",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3126/ajmr.v2i1.97539",
+      "summary": {
+        "goal": "The paper aims to improve data structures and algorithms learning for students using code-mixed Romanized Nepali and English through a retrieval-augmented chatbot.",
+        "methodology": "It presents AlgoSathi and evaluates it in a 12-week quasi-experiment with 52 undergraduates assigned to chatbot and control groups.",
+        "finding": "The chatbot group achieved significantly larger learning gains and higher satisfaction than the control group, with retrieval precision at five of 0.79."
       }
     },
     {
@@ -237,6 +321,20 @@
         "goal": "The study examines how Mexican civil society and academic actors develop media literacy, fact-checking, and digital media observation to address AI-mediated disinformation during elections.",
         "methodology": "It analyzes the cases of Verificado and the Digital Media Observatory at Tecnológico de Monterrey using UNESCO’s media and information literacy framework, Media Ecology, and General Semantics.",
         "finding": "The article proposes a collaborative civil society–university model for addressing technological and informational challenges and supporting democratic sustainability."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171051392",
+      "title": "Measuring senior high school students’ use of GenAI using structural equation modeling and artificial neural networks",
+      "authors": "Chuan-Chung Hsieh, Sandrotua Bali, Mohammad Romadhoni, Ai-Chun Yen, Tsai-Ching Chen, Ruqoyyah Amilia Andania",
+      "journal": "Quality & Quantity",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s11135-026-03015-2",
+      "summary": {
+        "goal": "The study examines Indonesian senior high school students’ behavioral intentions and self-reported use of DeepSeek using the UTAUT2 framework.",
+        "methodology": "Researchers surveyed 882 students online and analyzed the data using PLS-SEM, artificial neural networks, and importance–performance map analysis.",
+        "finding": "Performance expectancy, effort expectancy, hedonic motivation, and facilitating conditions predicted behavioral intention, while behavioral intention and facilitating conditions predicted use behavior, with performance expectancy and facilitating conditions showing the strongest predictive importance."
       }
     },
     {
@@ -335,6 +433,20 @@
         "goal": "The paper examines how human expert judgment can validate and calibrate LLM-based supply-chain risk assessments.",
         "methodology": "It compares AI-generated risk indicators with expert assessments across two validation rounds and iteratively refines prompts using human-in-the-loop feedback.",
         "finding": "Context-specific prompt calibration reduced mean absolute error and improved alignment between AI outputs and human judgments."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170332713",
+      "title": "How Teacher–Learner–AI collaboration empowers AI literacy of older adults: a case study of an older adult school in China",
+      "authors": "Dengke Liu, J H Li",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-08471-7",
+      "summary": {
+        "goal": "The study investigates how a Teacher–Learner–AI collaboration model supports AI literacy development among older adults.",
+        "methodology": "It uses classroom observations and semi-structured interviews with three teachers and twelve older learners at an older adult school in China.",
+        "finding": "The abstract reports that teachers, LLMs, and learners collaboratively enhanced AI literacy, practical skills, metacognitive awareness, and self-efficacy."
       }
     },
     {
@@ -464,6 +576,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171144936",
+      "title": "Detecting and managing participants’ large language model use for open–ended questions in online research",
+      "authors": "Justus Mann, Jutta Stumpf-Wollersheim",
+      "journal": "Journal of Business Economics",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1007/s11573-026-01268-9",
+      "summary": {
+        "goal": "The study examines how participants’ large language model use affects the validity and authenticity of open-ended online research data.",
+        "methodology": "Researchers conducted creative brainstorming studies with 450 Prolific and 442 MTurk participants, using self-reports and activity-monitoring indicators including keystrokes, word-generation rates, webpage exits, and response characteristics.",
+        "finding": "Indicators of LLM use were associated with more ideas, longer responses, and lower construct reliability, with stronger effects on MTurk than Prolific data."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169884242",
       "title": "Designing GenAI-Mediated Mathematics Storybooks: Process Patterns and Tool Affordance Uptake Among Pre-Service Early Childhood Teachers",
       "authors": "Yau Yu Chan, Kwok Man Keith Ho",
@@ -517,6 +643,20 @@
         "goal": "The study compares how China and South Korea regulate algorithmic fairness and platform accountability in AI journalism.",
         "methodology": "It conducts comparative textual analysis of policy documents and examines evidence from Toutiao and Naver.",
         "finding": "Both regulatory models mitigate infodemics and algorithmic bias but involve trade-offs between regulatory efficiency and editorial independence."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170847925",
+      "title": "Ageism in Human-AI Social Interaction: A Scoping Review of Age Bias in Large Language Model Chatbots for Older Adults",
+      "authors": "Soni Rudi Hartanto, Suwarni, Ramadhani Ulansari, Yudhi Biantoro, Suharyanto, Taufikur Ramadhan",
+      "journal": "Journal of Scientific Insights",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.69930/jsi.v3i4.831",
+      "summary": {
+        "goal": "The study examines ageism in large language model chatbots and proposes a framework for detecting and reducing age bias.",
+        "methodology": "It conducts a PRISMA-ScR systematic evaluation of 12 papers published between 2023 and 2026 and develops a dual-stage debiasing framework.",
+        "finding": "The review identifies explicit ageist values and condescending conversational styles in LLMs, while finding that standard benchmarks often miss these interactional biases."
       }
     },
     {
