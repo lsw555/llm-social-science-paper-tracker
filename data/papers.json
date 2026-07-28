@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T05:55:34.659722+00:00",
+  "updatedAt": "2026-07-28T05:21:37.216676+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7143585285",
@@ -30,6 +30,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171084142",
+      "title": "When AI speaks: user imaginaries of generative AI and freedom of expression",
+      "authors": "Petter Bae Brandtzæg, Xi Wang",
+      "journal": "AI & Society",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1007/s00146-026-03188-2",
+      "summary": {
+        "goal": "The study examines how active generative AI users understand the technology’s effects on freedom of expression, authorship, visibility, and public debate.",
+        "methodology": "Researchers conducted in-depth interviews with active GenAI users on X and analyzed them thematically using the concept of GenAI imaginaries.",
+        "finding": "Participants identified five imaginaries—Pragmatic Tool, Knowledge Authority, Hybrid Speech, Power Struggle, and Ethical Issues—highlighting concerns about guardrails, misinformation, authorship, autonomy, and accountability."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170094742",
       "title": "What do we know about generative AI and learning?",
       "authors": "Nancy Butler Songer, C.M. Logan, Niral Shah, David Stroupe",
@@ -41,6 +55,20 @@
         "goal": "The paper discusses what is known about generative AI and its impact on learning.",
         "methodology": "The abstract presents a conceptual discussion of generative AI, its development, and its capabilities.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171165155",
+      "title": "University students’ AI attitudes: an experiential transformation",
+      "authors": "Aydın Çivilidağ, Yiğit Dora, Şüheda Erbay, Şaduman Şimşek, Şerife Durmaz",
+      "journal": "Aposta",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.23900/ra.v24i116.1520",
+      "summary": {
+        "goal": "The study examines how direct interaction with ChatGPT-4o changes university students’ perceptions of AI and career-related attitudes.",
+        "methodology": "Eighteen university students participated in a two-stage qualitative study involving metaphor elicitation before and after a structured chess interaction with ChatGPT-4o.",
+        "finding": "Students shifted from idealized perceptions of AI to more critical evaluations after observing its strategic limitations and inconsistencies."
       }
     },
     {
@@ -128,6 +156,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7164619090",
+      "title": "The Sycophancy Trap: Measuring the Behavioral Conformity of Generative AI",
+      "authors": "Heeseung Lee, Jaebong Son, Chang Heon Lee",
+      "journal": "Journal of the Association for Information Systems",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://openalex.org/W7164619090",
+      "summary": {
+        "goal": "The paper aims to develop a framework for measuring sycophantic conformity in generative AI decision-making.",
+        "methodology": "It proposes multidimensional evaluation metrics grounded in cognitive psychology and behavioral economics to assess whether AI conclusions respond to objective evidence or user biases.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7164183113",
       "title": "The Sociolinguistics of Machine Identity: LLM Personality and Ideology Propagation",
       "authors": "Guangni Li",
@@ -153,6 +195,20 @@
         "goal": "The paper investigates affect heuristics and related cognitive biases in online discussions of climate change and artificial intelligence using human and LLM annotation.",
         "methodology": "Four human annotators and GPT-4o classified over 30,000 Reddit and X posts using predefined categories, with inter-annotator agreement and lexical-discursive patterns analyzed.",
         "finding": "Affect heuristic was the most frequent pattern, and GPT-4o showed partial alignment with human judgments while exhibiting systematic differences in category distributions."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170429305",
+      "title": "The Impact of AI Literacy and Virtual Social Interaction on Self-Efficacy in the Age of AI",
+      "authors": "Linfang Guo, Tengfei Liu, Wei Cui",
+      "journal": "International Journal of Healthcare Information Systems and Informatics",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.4018/ijhisi.416701",
+      "summary": {
+        "goal": "The study examines how AI literacy, virtual social interaction, and experience with the Doubao AI platform influence users’ perceived self-efficacy.",
+        "methodology": "It surveys 319 Doubao users in Beijing and applies multiple regression and mediation analyses.",
+        "finding": "Virtual identity integration, virtual social support, platform experience, and AI literacy positively affect self-efficacy, with situational virtual awareness fully mediating the effects of identity integration and social support."
       }
     },
     {
@@ -450,6 +506,34 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171240870",
+      "title": "Generative AI in Online English Learning: A Qualitative Case Study of Non-English-Major Students in a Vietnamese Blended-Learning Environment",
+      "authors": "Thi Minh Hai Ngo, Vu Phi Ho Pham, Thuy Nguyen",
+      "journal": "Computer-Assisted Language Learning Electronic Journal",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.54855/callej.262727",
+      "summary": {
+        "goal": "The study examines Vietnamese non-English-major students’ perceptions and use of generative AI for English learning in a blended-learning environment.",
+        "methodology": "It uses a qualitative case study based on focus groups with 30 students, chat-history analysis from 23 students, and interviews with 8 lecturers.",
+        "finding": "Students generally viewed GenAI as useful, easy to use, and engaging, but reported concerns about AI literacy, feedback reliability, unclear institutional guidance, and overreliance on AI-generated content."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171259924",
+      "title": "Generative AI and lexical change in digital discourse: a systematic review of empirical linguistic research (2023–2026)",
+      "authors": "Abdullah Ali M. Altamimi, Zunaira Rehman, Aynur Mahmud",
+      "journal": "Aposta",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.23900/ra.v24i116.1522",
+      "summary": {
+        "goal": "The study aims to synthesize empirical research on how generative AI influences lexical change in digital discourse.",
+        "methodology": "It systematically reviews 59 empirical studies published from 2023 to May 2026 using the PRISMA 2020 framework, descriptive analysis, and thematic synthesis.",
+        "finding": "The review finds that generative AI accelerates lexical innovation, spreads new terms across digital platforms, and contributes to semantic expansion and varied word-formation processes."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170088336",
       "title": "Generative AI Risk Governance in Organizational Information Systems: A Conceptual Model Integrating Security, Ethics, and Digital Trust",
       "authors": "Nurdiyanto Yusuf",
@@ -492,6 +576,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171054755",
+      "title": "From AI Dependence to AI Literacy",
+      "authors": "Brahim Machaal",
+      "journal": "Proceedings of The World Conference on Research in Teaching and Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.33422/worldte.v5i1.1979",
+      "summary": {
+        "goal": "The study examines students’ ability to critically evaluate AI-assisted translation output and argues for integrating AI literacy into translation education.",
+        "methodology": "It analyzes 360 translations by 45 Moroccan undergraduate students across eight genres using a seven-category error taxonomy and follow-up interviews.",
+        "finding": "Students showed systematic over-formalization, literal cultural transfer, and platform-constraint violations, while interviews indicated that they relied mainly on surface grammatical correctness when evaluating AI output."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169871216",
       "title": "Freedom of Thought, Conscience, and AI",
       "authors": "Andrea Pin",
@@ -517,6 +615,20 @@
         "goal": "The review examines strategies for institutional readiness and faculty development in integrating AI into health professions and dental education.",
         "methodology": "It uses a structured narrative review of literature from PubMed, Scopus, Google Scholar, and ScienceDirect published between 2015 and 2025.",
         "finding": "The review recommends governance, curriculum integration, faculty training, assessment reform, and human oversight while noting AI's potential benefits and ethical and educational risks."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170470909",
+      "title": "Exposure To Ai Content And The Rationalisation of Digital Privacy Abuse: A Study Among Students at University X in Pekanbaru",
+      "authors": "Sa’diyah Aristawati Septini, Fakhri Usmita",
+      "journal": "Jurnal Penelitian dan Pengabdian Masyarakat",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.61231/cr506f66",
+      "summary": {
+        "goal": "The study examines whether exposure to “photos with idols” generative-AI content is related to students’ normalization of digital privacy abuse.",
+        "methodology": "It uses a quantitative descriptive design with online four-point Likert questionnaires from 103 purposively sampled students and Pearson correlation analysis.",
+        "finding": "Exposure to the AI content had a significant moderate positive relationship with normalization of digital privacy abuse (r=0.535, p=0.000)."
       }
     },
     {
@@ -573,6 +685,20 @@
         "goal": "The study evaluates whether language families and resource levels affect LLM performance in multilingual social media sentiment analysis.",
         "methodology": "It tests five LLMs on three-class sentiment classification across 36 datasets and languages using zero-shot and few-shot prompting, with hierarchical analysis by language family.",
         "finding": "Few-shot prompting generally improves performance, but low-resource languages remain substantially worse served, while GPT-4o and Claude perform best in high- and medium-resource settings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171122019",
+      "title": "Development and Query Analysis of an LLM-Powered Police Chatbot with Expert Accuracy Evaluation",
+      "authors": "Nabila Putri Shalehah, Mohammad Givi Efgivia",
+      "journal": "INTERNATIONAL JOURNAL OF MATHEMATICS AND COMPUTER RESEARCH",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.47191/ijmcr/v14i7.03",
+      "summary": {
+        "goal": "The study aims to develop an SOP-compliant police public-service chatbot and analyze user inquiries to identify public needs and trends.",
+        "methodology": "The system integrates Google Gemini, information retrieval using TF-IDF and cosine similarity, an official SOP database, conversation-log analysis, and evaluations involving black-box tests, IR metrics, experts, and 100 citizens.",
+        "finding": "The chatbot achieved 95.42% accuracy and high satisfaction ratings from experts (4.83/5) and citizens (4.73/5), outperforming the comparison systems."
       }
     },
     {
@@ -671,6 +797,20 @@
         "goal": "The paper aims to reconceptualize human agency in conversational, generative, and agentic AI systems.",
         "methodology": "It revisits control as a diagnostic lens, distinguishes process control from outcome control, and maps systems across these dimensions conceptually.",
         "finding": "The paper argues that agency is redistributed from interface affordances to interaction through goal articulation, output evaluation, and outcome negotiation."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7170251778",
+      "title": "Adoption of generative artificial intelligence in instruction: a mixed-methods UTAUT study of K-12 computer science teachers in China",
+      "authors": "Shu Zhao, Chunchen Kang, Wanshan Hu, Zhijuan Feng",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-08461-9",
+      "summary": {
+        "goal": "The study examines factors influencing K-12 computer science teachers’ adoption of generative AI in instruction in China.",
+        "methodology": "It uses a mixed-methods design combining structural equation modeling of survey data from 338 teachers across 20 provinces with thematic analysis of concept map-supported interviews with 12 teachers.",
+        "finding": "Performance expectancy, effort expectancy, innovation expectation, cost-benefit, attitude, and perceived risk shaped adoption intentions, while interviews identified concerns about teacher authority, student overreliance, limited understanding, and data security."
       }
     },
     {
