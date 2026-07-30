@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T05:27:45.656497+00:00",
+  "updatedAt": "2026-07-30T05:16:54.990304+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7143585285",
@@ -13,6 +13,20 @@
         "goal": "The article examines the ethical and legal challenges posed by companion AI chatbots and develops a theory of harm for digitally mediated intimacy.",
         "methodology": "It analyzes companion AI through anthropomorphism, emotional AI, emergent vulnerabilities, and mismatched legal taxonomies.",
         "finding": "The article argues that existing frameworks inadequately address companion AI harms and proposes intimacy capitalism as a framework for analyzing the monetization and exploitation of digitally mediated intimate relations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7166266336",
+      "title": "When Intelligence Becomes Exposure: The Cybersecurity Implications of Organizational LLM",
+      "authors": "Issack Shama Guyo, Stefan A Mills, Nan Xiao",
+      "journal": "Journal of the Association for Information Systems",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://openalex.org/W7166266336",
+      "summary": {
+        "goal": "The study examines how organizational reliance on LLM-generated outputs may reduce employees’ cybersecurity vigilance and increase vulnerability.",
+        "methodology": "It develops a conceptual argument drawing on Sociotechnical Systems Theory and research on automation bias.",
+        "finding": "The abstract argues that cognitive delegation to LLMs can weaken verification behavior, with effects shaped by AI literacy, cybersecurity culture, and human review mechanisms."
       }
     },
     {
@@ -366,6 +380,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171371269",
+      "title": "Not just answers: ChatGPT’s expanding role in supporting student motivation",
+      "authors": "Jayne Ann Harder, Catherine E. Klehm, Andrew S.I.D. Lang, L. Leland Locke, Aleksandra Turtova, Enrique F. Valderrama Araya, Stephen R. Wheat, Jan H. R. Wörner",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.62617/aie2075",
+      "summary": {
+        "goal": "The study examines how college students’ use of ChatGPT has evolved from obtaining answers to supporting motivation and learning engagement.",
+        "methodology": "Researchers surveyed two cohorts of students in 2023 and 2025 using a Self-Determination Theory-based instrument measuring six types of motivation, supplemented by repeat-participant analyses, class-standing comparisons, and cluster analysis.",
+        "finding": "Students reported significant increases in intrinsic and extrinsic motivation and increasingly used ChatGPT to overcome mental blocks, build momentum, and remain engaged with academic work."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170690777",
       "title": "News Sufficiency: How Generative AI Summaries Reduce News Consumption in Zero-Click Searches",
       "authors": "Paulo Couraceiro, Pedro Caldeira Pais",
@@ -534,6 +562,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171363145",
+      "title": "Investigating Pre-Service Language Teachers’ Experiences with Generative AI in Language Education",
+      "authors": "Ramazan Yetkin, Zekiye Özer‐Altınkaya",
+      "journal": "Kuramsal Eğitimbilim",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.30831/akukeg.1829191",
+      "summary": {
+        "goal": "The study examines how pre-service English teachers experience and perceive generative AI in language education.",
+        "methodology": "Fourteen participants completed AI-supported activities, and researchers analyzed reflective journals, focus-group interviews, and instructional materials using thematic analysis.",
+        "finding": "Participants reported benefits including creativity, efficiency, adaptability, and professional-development support, alongside concerns about reliability, over-reliance, cultural limitations, and ethics."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169844906",
       "title": "Integrating AI into Mobile Development Workflows: A System-Level Approach to Prompt-to-Code Engineering",
       "authors": "YASIN ARIK",
@@ -573,6 +615,20 @@
         "goal": "The study investigates how a Teacher–Learner–AI collaboration model supports AI literacy development among older adults.",
         "methodology": "It uses classroom observations and semi-structured interviews with three teachers and twelve older learners at an older adult school in China.",
         "finding": "The abstract reports that teachers, LLMs, and learners collaboratively enhanced AI literacy, practical skills, metacognitive awareness, and self-efficacy."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171541389",
+      "title": "Generative AI use, self-regulation, and Neuro-AI Pedagogical competence in higher education: a comparative study of undergraduate and graduate students in Uzbekistan",
+      "authors": "Dilnoza Zaripova, Kudratjon Zohirov, Nasibakhon Rasulova, Umidjon Khayitov, Dildora Saidova, Zavqiddin Temirov, Rashid Nasimov",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1846709",
+      "summary": {
+        "goal": "The study examines generative AI use among undergraduate and graduate students and its relationship with cognitive regulation, motivation, self-regulation, and ethical awareness.",
+        "methodology": "Researchers surveyed 381 students at a technical university in Uzbekistan and used scale comparisons and multiple regression analyses.",
+        "finding": "Graduate and undergraduate students differed significantly on six of seven scales, while Neuro-AI Pedagogical Competence was most strongly associated with ethics and academic autonomy, self-regulation, and motivation rather than AI-use frequency."
       }
     },
     {
@@ -716,6 +772,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171549322",
+      "title": "Evaluating Healthcare Provider and Artificial Intelligence Chatbot Responses to Patient Messages from a Health System Using the CREATE TRUST Framework",
+      "authors": "Matthew R. Allen, Vijay M. Tiyyala, Armaan Johal, Akhila Chekuri, Elizabeth Conner, Nimit Desai, Kaitlyn Dykes, Tanim Jain",
+      "journal": "Journal of Health Communication",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1080/10810730.2026.2707323",
+      "summary": {
+        "goal": "The study compares the clinical substance and communication quality of healthcare provider and AI chatbot responses to cancer patients’ messages.",
+        "methodology": "Oncologists blindly evaluated triplicate, anonymized responses from healthcare providers, GPT-4, and Mixtral to 189 real-world patient messages using the CREATE TRUST framework.",
+        "finding": "Overall quality was comparable, with healthcare providers scoring higher on authenticity and tailoring while chatbots scored higher on empathy and referencing."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169762234",
       "title": "Evaluación de metáforas visuales sobre convivencia escolar con inteligencia artificial generativa y juicio experto",
       "authors": "Karla Karina Ruiz Mendoza, Luis Horacio Pedroza Zúñiga, Héctor Manuel Rodríguez Figueroa",
@@ -727,6 +797,20 @@
         "goal": "The study compares generative AI models and human experts in evaluating visual metaphors of school coexistence.",
         "methodology": "Six human experts and five LLMs rated three metaphors and student explanations using rubric-based measures of agreement, reliability, and generalizability.",
         "finding": "Human experts had higher Coexistence Index scores, ChatGPT-5 Pro was closest to human consensus, and one to two human experts plus about ten AI runs achieved generalizability of at least 0.95."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171498901",
+      "title": "Enacted AI Literacy Towards Epistemic Visibility; Embedding Human-AI Design as Assessment-as-Learning in Pre-Service Science Teachers’ Lesson Redesign",
+      "authors": "Kallia Katsampoxaki-Hodgetts",
+      "journal": "Research in Science Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s11165-026-10360-7",
+      "summary": {
+        "goal": "The study examines how generative AI mediates science lesson design and reshapes self-regulation, pedagogical agency, and assessment-as-learning among pre-service science teachers.",
+        "methodology": "It analyzes prompt-based interactions during AI-supported lesson redesign alongside reflective texts using Learning by Design and design-based research frameworks.",
+        "finding": "The abstract reports that iterative engagement with AI activated planning, monitoring, evaluation, and reflective judgement while making teachers’ reasoning and responsibility visible."
       }
     },
     {
@@ -884,6 +968,34 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171462819",
+      "title": "An Integrated Human and Digital Communication Model for AI-Empowered Translation Education",
+      "authors": "Minna Liang, Anurak Panyanuwat",
+      "journal": "Science Insights Education Frontiers",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.15354/sief.26.or304",
+      "summary": {
+        "goal": "The study aims to develop an integrated model for translation learning through structured human–AI engagement and teacher guidance.",
+        "methodology": "It combines communication, educational, digital literacy, and critical-thinking frameworks and evaluates the model through a preliminary assessment by five domain specialists.",
+        "finding": "Experts provided initial support for the model’s coherence, utility, understandability, and acceptability, while classroom effectiveness remains untested."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171526687",
+      "title": "Aligning ChatGPT with e-portfolio assessment as EFL learning model: Its effect on student’s speaking performance and feedback literacy",
+      "authors": "I Putu Yoga Laksana, Ni Made Ratminingsih, Made Hery Santosa, I Putu Indra Kusuma",
+      "journal": "Technology in Language Teaching & Learning",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.29140/tltl.2026.103616",
+      "summary": {
+        "goal": "The study examines whether integrating ChatGPT with e-portfolio assessment improves students’ speaking performance and feedback literacy in an English course.",
+        "methodology": "Using an explanatory sequential mixed-methods design, the study compared 60 students receiving ChatGPT-integrated e-portfolio assessment with a control group using conventional e-portfolios, drawing on speaking tests, questionnaires, and interviews.",
+        "finding": "ChatGPT-integrated e-portfolio assessment significantly improved speaking performance and feedback literacy, with interview analysis identifying seven related themes."
+      }
+    },
+    {
       "id": "https://openalex.org/W7166006500",
       "title": "Algorithmic Justice and Responsible AI Journalism: A Comparative Communication Policy Perspective in East Asia",
       "authors": "Renxiudi Huang, Linjia Bai",
@@ -979,6 +1091,34 @@
         "goal": "The study examines how virtual try-on tools, smart shopping assistants, and virtual hosts affect consumer decision-making in apparel livestreaming.",
         "methodology": "It combines a literature review, case study, questionnaire survey, reliability and validity tests, correlation analysis, and Bootstrap mediation tests using the Stimulus-Organism-Response framework.",
         "finding": "All three AI functions positively affect consumer decision-making, with smart shopping assistants having the strongest effect and perceived trust partially mediating all pathways."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171519562",
+      "title": "A Study of the Challenges and Professional Development Strategies for Foreign Language Teachers in the Age of Artificial Intelligence",
+      "authors": "Ting Yang",
+      "journal": "International Journal of Social Science Education and Humanities",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.63313/ijsseh.9062",
+      "summary": {
+        "goal": "The study examines challenges faced by foreign language teachers and strategies for professional development in the context of AI-driven educational change.",
+        "methodology": "It uses the TPACK framework and Teacher Identity Theory to analyze AI’s impact on teachers’ professional development and identify pathways for sustainable growth.",
+        "finding": "The study argues that teachers should improve their knowledge, digital integration, teaching innovation, role adaptation, and lifelong learning, supported by institutional mechanisms."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171361904",
+      "title": "&lt;p&gt;Sequencing Human-Artificial Intelligence Creative Writing Collaboration Affects Perceived Authorship&lt;/p&gt;",
+      "authors": "Philipp Lizat, Patrick Jost, Daria Leus, Melani Da Cunha Alves, Laureen Vanessa Schmidt",
+      "journal": "Cureus Journal of Computer Science.",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.7759/s44389-026-00183-y",
+      "summary": {
+        "goal": "The study examines how the sequencing of human and AI contributions affects perceived creativity, authorship, and satisfaction in creative writing.",
+        "methodology": "In a between-subjects experiment with 84 participants, one group wrote a story before using generatestory.io to improve it, while another revised an AI-generated draft.",
+        "finding": "Participants reported similar satisfaction, but writing first increased initial authorship feelings, which became more similar after revision; early perceived authorship mediated later satisfaction, whereas perceived creativity did not."
       }
     }
   ]
