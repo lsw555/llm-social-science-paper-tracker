@@ -7,13 +7,17 @@ from urllib.request import Request, urlopen
 
 ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/'data'/'papers.json'; KEY=os.environ['OPENAI_API_KEY']
 QUERIES=[
+    '"large language model" social science',
+    '"generative AI" social science',
     '"large language model" public opinion',
-    'ChatGPT "content analysis" social science',
-    '"generative AI" "human AI interaction"',
-    'ChatGPT mental health empathy support',
-    'AI generated news perception credibility',
+    '"large language model" "content analysis"',
+    '"large language model" communication media journalism',
+    '"large language model" "human AI interaction"',
+    '"generative AI" mental health empathy social support',
+    '"generative AI" health behavior climate behavior',
+    '"AI generated news" perception credibility',
     '"large language model" human behavior bias',
-    'LLM climate behavior communication',
+    '"large language model" values stereotypes discrimination',
 ]
 MAX_NEW_PAPERS=10
 JOURNAL_WEIGHTS={
@@ -25,6 +29,10 @@ JOURNAL_WEIGHTS={
     'journal of communication':85, 'human communication research':85,
     'communication research':85, 'communication methods and measures':80,
     'journal of computer-mediated communication':80,
+    'computers in human behavior':80, 'digital journalism':80,
+    'social science computer review':80, 'humanities and social sciences communications':80,
+    'media, culture & society':75, 'media culture & society':75,
+    'media and society':75, 'communication & society':75,
 }
 PREFILTER_SYSTEM='''You are the first, conservative screening pass for an LLM social science paper tracker. Return ONLY {"candidate": true} or {"candidate": false}.
 
