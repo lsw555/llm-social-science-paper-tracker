@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T05:16:54.990304+00:00",
+  "updatedAt": "2026-07-31T05:41:44.654568+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7143585285",
@@ -72,6 +72,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7166260371",
+      "title": "Voxvoro: Repurposing Social Media UI Patterns for AI-Augmented Scholarly Synthesis",
+      "authors": "P. Matthew Healey",
+      "journal": "Journal of the Association for Information Systems",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://openalex.org/W7166260371",
+      "summary": {
+        "goal": "The project aims to reduce scholarly information overload by using a local LLM to transform academic metadata into structured concept cards and audio summaries.",
+        "methodology": "It describes a mobile PWA that retrieves scholarly works through OpenAlex, summarizes them with Gemma3:27b, generates audio with a text-to-speech model, and evaluates the artifact with university faculty using self-reported engagement data and qualitative feedback.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171165155",
       "title": "University students’ AI attitudes: an experiential transformation",
       "authors": "Aydın Çivilidağ, Yiğit Dora, Şüheda Erbay, Şaduman Şimşek, Şerife Durmaz",
@@ -83,6 +97,20 @@
         "goal": "The study examines how direct interaction with ChatGPT-4o changes university students’ perceptions of AI and career-related attitudes.",
         "methodology": "Eighteen university students participated in a two-stage qualitative study involving metaphor elicitation before and after a structured chess interaction with ChatGPT-4o.",
         "finding": "Students shifted from idealized perceptions of AI to more critical evaluations after observing its strategic limitations and inconsistencies."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171639151",
+      "title": "Trust-driven consensus reaching in human-AI hybrid large-scale group decision-making",
+      "authors": "Xinyu Wang, Xuanhua Xu, Weiwei Zhang",
+      "journal": "Frontiers in Artificial Intelligence",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.3389/frai.2026.1886098",
+      "summary": {
+        "goal": "The paper aims to improve trust representation, conflict feedback, and consensus efficiency in human–AI group decision-making.",
+        "methodology": "It models dynamic trust relationships between human experts and large language models, uses trust-based opinion updating, and iteratively regulates consensus using the Zhengzhou “7.20” rainstorm case.",
+        "finding": "The abstract reports that the method preliminarily achieves higher consensus quality with lower intervention costs than traditional weight adjustment and deep-reinforcement-learning regulation methods."
       }
     },
     {
@@ -156,6 +184,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171654279",
+      "title": "The current roles of Artificial Intelligence in public health: A scoping review (Preprint)",
+      "authors": "Sean Harrison, Claire Tatton, G. J. Meléndez‐Torres, Joelle Kirby, Sophie Robinson, Daniel Mutanda, Alisha Davies, J. M. Armitage",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.2196/preprints.108250",
+      "summary": {
+        "goal": "The review aims to summarize how AI-assisted interventions, including large language models, are used by public health professionals.",
+        "methodology": "The authors conducted a scoping review of reports published from January 2020 to July 2025 across four databases, screening 5,400 records and including eight reports.",
+        "finding": "The evidence was sparse and mixed, with one report describing both benefits and drawbacks of a large language model used to communicate with socially isolated individuals."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170645143",
       "title": "The creative ghost in the algorithm: AI-generated photo-based images",
       "authors": "Zsolt Bátori",
@@ -226,6 +268,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7164131933",
+      "title": "The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies",
+      "authors": "Yundong Wu",
+      "journal": "Open MIND",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.17613/g7mbr-1s626",
+      "summary": {
+        "goal": "The paper examines how generative AI can be used responsibly in Korean language learning.",
+        "methodology": "It presents a conceptual narrative review synthesizing scholarship on AI-assisted language learning, Korean education, technology acceptance, and educational ethics.",
+        "finding": "The review suggests that generative AI can support Korean language skills but poses risks involving cultural accuracy, assessment, privacy, unequal access, teacher readiness, and learner dependency."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170471305",
       "title": "The Language of Affect Heuristic in Online Discourse: A Corpus Study with Human and Llm Coders",
       "authors": "Paulina Żelewska, Barbara Konat",
@@ -237,6 +293,20 @@
         "goal": "The paper investigates affect heuristics and related cognitive biases in online discussions of climate change and artificial intelligence using human and LLM annotation.",
         "methodology": "Four human annotators and GPT-4o classified over 30,000 Reddit and X posts using predefined categories, with inter-annotator agreement and lexical-discursive patterns analyzed.",
         "finding": "Affect heuristic was the most frequent pattern, and GPT-4o showed partial alignment with human judgments while exhibiting systematic differences in category distributions."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7169852343",
+      "title": "The Impact of AI on the Landscape Design Process",
+      "authors": "Jacob Owen Huff",
+      "journal": "Digital Commons - USU (Utah State University)",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.26076/ejma-xz30",
+      "summary": {
+        "goal": "The study examines how Midjourney affects landscape architecture students’ design processes and perceptions.",
+        "methodology": "Students completed one project using AI-generated images and another using traditional precedent images, with designs evaluated by professionals and students surveyed about their experiences.",
+        "finding": "AI-integrated designs scored higher on originality but did not differ significantly on other descriptors, and students generally viewed the process positively."
       }
     },
     {
@@ -307,6 +377,20 @@
         "goal": "The study evaluates sentiment-analysis models for analyzing student perceptions of generative AI in higher education.",
         "methodology": "It uses preprocessing, lexical, semantic, and generative data augmentation, TF-IDF features, four machine-learning models, and Stratified K-Fold cross-validation on an imbalanced text dataset.",
         "finding": "Linear SVM performed best, while augmentation improved observed accuracy and weighted F1 but still produced substantial misclassification and was affected by a dataset-distribution discrepancy."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171670677",
+      "title": "SEM-based parallel and serial mediation linking instructor technology integration competence to academic performance in AI-supported online learning",
+      "authors": "Münevver Başman, Gökçen Seyra Çakır",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1038/s41598-026-64469-w",
+      "summary": {
+        "goal": "The study examines how instructor technology integration competence in AI-supported online learning relates to student academic performance through psychological and social mechanisms.",
+        "methodology": "Using data from 339 preservice teachers, the authors validate a measurement model and test parallel-sequential mediation models with structural equation modeling.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -702,6 +786,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171619349",
+      "title": "From digital ecosystems to intelligent maturity: how AI tools reshape the form and content of digital communication",
+      "authors": "Mohamed Mallek, Riadh Jeljeli, Faycal Farhi, Elsir Ali Saad Mohamed",
+      "journal": "Frontiers in Communication",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.3389/fcomm.2026.1871781",
+      "summary": {
+        "goal": "The paper aims to conceptualize how AI tools, particularly generative AI, are reshaping digital communication and producing a model of organizational co-intelligence.",
+        "methodology": "It conducts a structured literature review of 85 peer-reviewed sources published between 2020 and 2026.",
+        "finding": "The review finds that AI has become a strategic actor in communication, enabling scalable personalization while raising concerns about authorship, authenticity, bias, synthetic media, and the need for human oversight and governance."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171054755",
       "title": "From AI Dependence to AI Literacy",
       "authors": "Brahim Machaal",
@@ -755,6 +853,20 @@
         "goal": "The study examines whether exposure to “photos with idols” generative-AI content is related to students’ normalization of digital privacy abuse.",
         "methodology": "It uses a quantitative descriptive design with online four-point Likert questionnaires from 103 purposively sampled students and Pearson correlation analysis.",
         "finding": "Exposure to the AI content had a significant moderate positive relationship with normalization of digital privacy abuse (r=0.535, p=0.000)."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171639172",
+      "title": "Explainable artificial intelligence as AI literacy scaffolding",
+      "authors": "Brady Lund, Zoë Abbie Teel, Brett Porter, Anuradha Chandrasekaran, Sanket Ramchandra Patole",
+      "journal": "Journal of Documentation",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1108/jd-02-2026-0088",
+      "summary": {
+        "goal": "The paper conceptualizes explainable AI as scaffolding that develops users’ AI literacy during interaction with LLMs and other AI systems.",
+        "methodology": "It develops a conceptual framework integrating literature on explainable AI, AI literacy, educational scaffolding, and human–AI teaming.",
+        "finding": "The authors argue that adaptive explanations can teach users about model behavior, limitations, and bias while fostering calibrated trust."
       }
     },
     {
@@ -954,6 +1066,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171645569",
+      "title": "Artificial intelligence companionship for loneliness in older adults: An interview with Vijeth Iyengar and Elizabeth Broadbent",
+      "authors": "Priyam Joshi, Anna Rader, Shreya Venkatesh",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.38105/spr.8wpfadwog7",
+      "summary": {
+        "goal": "The paper examines whether AI companions could address loneliness and support health among older adults.",
+        "methodology": "It presents an interview with experts in human-robot interaction, aging, and brain health.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171354883",
       "title": "Artificial intelligence and teacher competence: a scoping review of assessment, analytics, and professional development",
       "authors": "Nurseit Baizhanov, Batyr Sharimbayev, Zhairan Churbanova, Akzhan Khaidarova, Lyazzat Shinetova",
@@ -1049,6 +1175,20 @@
         "goal": "The study examines factors influencing K-12 computer science teachers’ adoption of generative AI in instruction in China.",
         "methodology": "It uses a mixed-methods design combining structural equation modeling of survey data from 338 teachers across 20 provinces with thematic analysis of concept map-supported interviews with 12 teachers.",
         "finding": "Performance expectancy, effort expectancy, innovation expectation, cost-benefit, attitude, and perceived risk shaped adoption intentions, while interviews identified concerns about teacher authority, student overreliance, limited understanding, and data security."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171679543",
+      "title": "AI-Based Reflection on Character Strengths at Work: Testing a Digital Strengths Intervention in a Randomized Controlled Study",
+      "authors": "Lara Watermann, Ricarda Kochems, Eva Lermer, Simone Kubowitsch",
+      "journal": "International Journal of Applied Positive Psychology",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1007/s41042-026-00319-4",
+      "summary": {
+        "goal": "The study tested whether AI-supported reflection on character strengths improves strengths use and adaptive functioning at work.",
+        "methodology": "In a randomized controlled trial, 111 working adults received AI-supported reflection, unaided self-reflection, or waitlist control across three weekly assessments.",
+        "finding": "Neither intervention significantly improved primary outcomes, but strengths-related lexical density in the AI condition predicted later strengths use."
       }
     },
     {
