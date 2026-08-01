@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-07-31T05:41:44.654568+00:00",
+  "updatedAt": "2026-08-01T05:35:14.215608+00:00",
   "papers": [
+    {
+      "id": "https://openalex.org/W7165701127",
+      "title": "Specialeafhandling: Scaling AI in Organisations: An Empirical Study of Organisational Conditions Differentiating Enterprise Adoption from the Pilot Trap",
+      "authors": "Nicolai Friis Jensen, Rasmus Grønbek",
+      "journal": "RUCforsk (Roskilde University)",
+      "year": 2031,
+      "field": "Work & education",
+      "url": "https://openalex.org/W7165701127",
+      "summary": {
+        "goal": "The study examines organisational conditions that enable enterprises to scale AI beyond isolated pilot projects.",
+        "methodology": "It uses a sociotechnical and dynamic-capabilities perspective based on six semi-structured interviews with external consultants across industries.",
+        "finding": "Successful scaling depends on organisational alignment, governance, strategic anchoring, collaboration, user adoption, workflow integration, and adaptive, absorptive, and innovative capabilities, while fragmented ownership, skill gaps, and compliance barriers contribute to the pilot trap."
+      }
+    },
     {
       "id": "https://openalex.org/W7143585285",
       "title": "The Ethical and Legal Complexities of Regulating Companion AI Chatbots",
@@ -13,6 +27,20 @@
         "goal": "The article examines the ethical and legal challenges posed by companion AI chatbots and develops a theory of harm for digitally mediated intimacy.",
         "methodology": "It analyzes companion AI through anthropomorphism, emotional AI, emergent vulnerabilities, and mismatched legal taxonomies.",
         "finding": "The article argues that existing frameworks inadequately address companion AI harms and proposes intimacy capitalism as a framework for analyzing the monetization and exploitation of digitally mediated intimate relations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171872428",
+      "title": "When language feels like recognition: Parasocial Mattering Resonance as a cognitive vulnerability in human–LLM interaction",
+      "authors": "Gillian W. Oakenfull",
+      "journal": "Frontiers in Computer Science",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.3389/fcomp.2026.1829545",
+      "summary": {
+        "goal": "The paper develops the concept of Parasocial Mattering Resonance to explain how LLM language may produce experiences of recognition and mattering among individuals with unmet relational needs.",
+        "methodology": "It uses schema accessibility theory, dual-process models of social cognition, and a five-dimension mattering framework to propose a mechanism and six formal propositions.",
+        "finding": "The paper argues that PMR may increase compliance, reduce skepticism, extend engagement, and displace human relationships, with vulnerability concentrated among marginalized and isolated individuals."
       }
     },
     {
@@ -97,6 +125,20 @@
         "goal": "The study examines how direct interaction with ChatGPT-4o changes university students’ perceptions of AI and career-related attitudes.",
         "methodology": "Eighteen university students participated in a two-stage qualitative study involving metaphor elicitation before and after a structured chess interaction with ChatGPT-4o.",
         "finding": "Students shifted from idealized perceptions of AI to more critical evaluations after observing its strategic limitations and inconsistencies."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171804681",
+      "title": "Uncovering Bias: Leveraging Large Language Models for News Analysis inthe Context of Palestine",
+      "authors": "Saba Saddique, Usman Ahmad",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.66157/jisca.1.1.27",
+      "summary": {
+        "goal": "The study aims to detect and understand media bias in news coverage of the Israel-Palestine conflict using sentiment as a proxy for emotional framing.",
+        "methodology": "It analyzes 9,000 labeled news articles and compares DistilBERT, BERT-Mini, TinyBERT, GRU, RNN, and LSTM models.",
+        "finding": "Transformer-based models outperform sequential models, with DistilBERT achieving the best performance at 94% accuracy."
       }
     },
     {
@@ -394,6 +436,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171713825",
+      "title": "Rethinking assessment in the age of generative AI: A systematic literature review of African higher education",
+      "authors": "Ahmed Antwi-Boampong, Mark Ofori Nketia, Frank Senyo Loglo, Naomi Frimpong, Linda Osei-Fosuaa",
+      "journal": "Social Sciences & Humanities Open",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1016/j.ssaho.2026.103332",
+      "summary": {
+        "goal": "The study examines how African higher education is adapting assessment practices to generative AI.",
+        "methodology": "It conducts a PRISMA 2020-guided systematic review of ten empirical studies published between 2023 and 2025, using research involving surveys, interviews, and case studies.",
+        "finding": "The review finds a gap between students’ frequent AI use and educators’ preparedness, while AI-inclusive, process-based assessment may support originality, higher-order thinking, and academic resilience."
+      }
+    },
+    {
       "id": "https://openalex.org/W7166533473",
       "title": "Research on Attention Guidance and User Autonomy in AI-Powered Immersive Environments",
       "authors": "Mulin Qiao",
@@ -433,6 +489,20 @@
         "goal": "The study aimed to identify persuasive features for LLM-generated psychoeducation and test whether they improve confidence in mental health professionals.",
         "methodology": "In two phases, participants rated texts with varying persuasive features, then 40 randomized participants read psychoeducation generated with either a feature-engineered or baseline LLM prompt.",
         "finding": "Source credibility, argument quality, and processing fluency improved perceived credibility and persuasiveness, and feature-engineered texts produced greater improvements in attitudes toward mental health professionals."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171723443",
+      "title": "Personalized programming support in higher education via emotion-guided prompt generation and GenAI",
+      "authors": "A. Geetha, T. Mala",
+      "journal": "Journal of Biological Regulators and Homeostatic Agents/Journal of Biological Regulators & Homeostatic Agents",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.65746/jbrha124",
+      "summary": {
+        "goal": "The study aims to develop a personalized programming assistant that adapts generative-AI code explanations to learners’ emotional states.",
+        "methodology": "It uses a hybrid ResNet-50 and LSTM facial-emotion model to guide prompt generation for a generative language model, which was tested with students in real-time classroom use.",
+        "finding": "The emotion-aware AI improved students’ learning performance and motivation compared with a normal AI tutor."
       }
     },
     {
@@ -587,6 +657,20 @@
         "goal": "The study aims to validate an Arabic version of the LLM-D12 scale measuring instrumental and relationship dependency on large language models.",
         "methodology": "A total of 250 Arab participants completed the Arabic LLM-D12, which was evaluated using confirmatory factor analysis, internal reliability measures, and external associations.",
         "finding": "The scale retained its two-factor structure with strong reliability, while instrumental dependency was associated with AI acceptance and internet addiction and relationship dependency with lower need for cognition and greater trust in LLMs."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171781770",
+      "title": "Measuring Consistency Between Large Language Models’ Responses to Preventive Care Queries and Official US Preventive Services Task Force (USPSTF) Recommendations: Systematic Test Involving All USPSTF Preventive Care Topics via Simulated User Prompts",
+      "authors": "Tim Johnson, Wolfgang Gaissmaier",
+      "journal": "JMIR AI",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.2196/87034",
+      "summary": {
+        "goal": "The study assesses whether large language models provide preventive care guidance consistent with USPSTF recommendations.",
+        "methodology": "Researchers tested 35 LLMs on 142 USPSTF topics using simulated user prompts and evaluated response concordance across prompting strategies.",
+        "finding": "Concordance varied substantially across models but increased with newer models and chain-of-thought, role-based, and iterative prompting."
       }
     },
     {
@@ -828,6 +912,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171850512",
+      "title": "Faculty perceptions of ChatGPT on academic integrity and institutional roles in higher education",
+      "authors": "S. Alalwani",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1038/s41598-026-63852-x",
+      "summary": {
+        "goal": "The study examines faculty perceptions of ChatGPT regarding academic integrity, assessment, and institutional roles in Saudi Arabian public universities.",
+        "methodology": "Researchers used a sequential explanatory mixed-methods design involving a survey of 202 faculty members across eight universities, Kruskal–Wallis tests, and thematic analysis of qualitative responses.",
+        "finding": "Assistant and associate professors expressed greater concerns about cheating, unequal evaluation, and effects on student skills, while administrators emphasized the need for clearer institutional guidelines and assessment procedures."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170067921",
       "title": "Faculty development and institutional readiness for incorporating AI in health professions education- A narrative review",
       "authors": "Prathibha Prasad, Mahinour Amin, Elizabeth Fitriana Sari, Lovely M. Annamma, Jayaraj Narayanan, Dinesh Yasothkumar, Mehzabin Ahmed",
@@ -1066,6 +1164,34 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171785182",
+      "title": "ChatGPT-5 as a leisure health advisor: multidimensional assessment of reliability, quality, usefulness and readability",
+      "authors": "Alican Bayram",
+      "journal": "Frontiers in Public Health",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fpubh.2026.1889768",
+      "summary": {
+        "goal": "The study aims to assess ChatGPT-5’s reliability, quality, usefulness, and readability when providing non-clinical leisure health advice.",
+        "methodology": "Researchers generated ChatGPT-5 responses to 34 leisure-and-health questions and evaluated them using mDISCERN, GQS, a usefulness Likert scale, and the Flesch Reading Ease formula.",
+        "finding": "ChatGPT-5 showed moderate reliability, good quality, and relatively high usefulness, but difficult readability, inconsistent source transparency, and limitations with personalized scenarios constrained its utility."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171893954",
+      "title": "Artificial intelligence dependency in college students: a critical narrative review",
+      "authors": "Xuehua He, Shan Li, Ren Cha, Li Wang, Yunxia Shen, Ruijuan Wu, Lili Wu, Xiaoyan Gong",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1808268",
+      "summary": {
+        "goal": "The review examines AI dependency among college students, including its conceptualization, determinants, consequences, measurement, and interventions.",
+        "methodology": "It conducts a critical narrative review of evidence from the past decade on students’ use of generative AI and LLM applications.",
+        "finding": "The literature suggests that cognitive delegation, emotional reliance, and reduced self-regulation may accompany AI dependency, while assessment remains fragmented and interventions should emphasize augmentation, AI literacy, and critical evaluation."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171645569",
       "title": "Artificial intelligence companionship for loneliness in older adults: An interview with Vijeth Iyengar and Elizabeth Broadbent",
       "authors": "Priyam Joshi, Anna Rader, Shreya Venkatesh",
@@ -1217,6 +1343,20 @@
         "goal": "The study examines how different AI usage patterns relate to Chinese university students’ perceived critical thinking and how academic motivation moderates these relationships.",
         "methodology": "A cross-sectional survey of 342 undergraduate students measured information retrieval, content generation, and text revision uses of AI, academic motivation, and perceived critical thinking dispositions.",
         "finding": "Information retrieval use was positively associated with perceived critical thinking, content generation use was negatively associated, text revision use was not significant, and motivation moderated these associations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171863420",
+      "title": "A self-training framework using pre-trained language models to detect and classify technology adoption in protest event analysis",
+      "authors": "Jun Liu, Xin Li",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s41598-026-61347-3",
+      "summary": {
+        "goal": "The paper aims to detect and classify technology adoption and contextual dynamics in protest events from large-scale news data.",
+        "methodology": "It develops a self-training pipeline combining pre-trained language models, syntactic graph convolutional networks, and pattern matching to reconstruct protest datasets while reducing manual annotation.",
+        "finding": "The framework supports context-sensitive protest event classification and demonstrates the analytical value of integrating LLMs with GCNs."
       }
     },
     {
