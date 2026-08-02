@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T05:35:14.215608+00:00",
+  "updatedAt": "2026-08-02T05:39:14.156772+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -114,6 +114,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171836412",
+      "title": "Uso de la inteligencia artificial en el desarrollo del pensamiento crítico en estudiantes de bachillerato.",
+      "authors": "María Paz Mancheno-Oviedo, Santiago David Yanzapanta-Garcés, Genesis Dayana Pinto Almeida, Jacqueline Estefania Rodríguez-Loor",
+      "journal": "Innova Science Journal",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.63618/omd/isj/v4/n3/341",
+      "summary": {
+        "goal": "Analizar la influencia del uso de ChatGPT en el desarrollo del pensamiento crítico de estudiantes de bachillerato.",
+        "methodology": "Se aplicó un enfoque cuantitativo descriptivo no experimental mediante una encuesta estructurada a 182 estudiantes.",
+        "finding": "El 60% usa ChatGPT frecuentemente, principalmente para generar ideas y comprender contenidos, sin evidenciarse una disminución significativa del pensamiento crítico, cuyo desarrollo depende del tipo de uso."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171165155",
       "title": "University students’ AI attitudes: an experiential transformation",
       "authors": "Aydın Çivilidağ, Yiğit Dora, Şüheda Erbay, Şaduman Şimşek, Şerife Durmaz",
@@ -195,6 +209,20 @@
         "goal": "The paper examines how recommender systems and large language models transform authority, meaning-making, and moral agency through algorithmic guidance.",
         "methodology": "It develops a comparative, integrative framework drawing on religious doctrines of providence, AI ethics, sociology of digital religion, and philosophy of technology.",
         "finding": "The analysis finds that recommender systems resemble providence in perceived ubiquity and guidance but optimize engagement rather than human goods, while LLM integration intensifies conversational persuasion and agentic influence."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172024913",
+      "title": "The mediating and moderating roles of achievement goal orientation in the relationship between AI writing feedback and English writing self-efficacy among Chinese university students",
+      "authors": "Xiangyu Kan, Lin Li",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1860723",
+      "summary": {
+        "goal": "The study examines how GPT-4-based writing feedback affects English writing self-efficacy among Chinese university students and how achievement goal orientation mediates or moderates this relationship.",
+        "methodology": "A 12-week quasi-experimental pretest-posttest study compared 148 English majors receiving GPT-4-based automated feedback with students receiving conventional teacher feedback, measuring self-efficacy and achievement goal orientation.",
+        "finding": "AI feedback significantly increased writing self-efficacy, with mastery-approach goals partially mediating and strengthening the effect while performance-approach goals weakened it."
       }
     },
     {
@@ -394,6 +422,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171765211",
+      "title": "Studi Pedagogis dan Etika Teknologi pada Penggunaan Sistem Penilaian Esai Berbasis AI di Pendidikan Tinggi",
+      "authors": "Rizki Adha, Lusianto Lusianto, Dodi Syaripudin, Agus Nursikuwagus, Usep Mohamad Ishaq, Andrias Darmayadi",
+      "journal": "Academic Journal of Computer Science Research",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.38101/ajcsr.v8i2.16265",
+      "summary": {
+        "goal": "The study analyzes the pedagogical and ethical implications of AI-based essay assessment using student and instructor perceptions.",
+        "methodology": "It uses an exploratory mixed-methods design combining surveys of 36 students and 24 instructors with qualitative analysis.",
+        "finding": "Students viewed the system positively but expressed concerns about trust and transparency, while instructors showed high acceptance under controlled implementation, supporting a human-in-the-loop approach."
+      }
+    },
+    {
       "id": "https://openalex.org/W7164629562",
       "title": "Social Without Society: Parasocial Relationships in Human–Generative AI Agent Interaction",
       "authors": "Ye Han, Shuang Wu",
@@ -492,6 +534,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172021603",
+      "title": "Policy analysis of artificial intelligence in social science research at higher education institutions: problems and possibilities",
+      "authors": "Rashmi Gopi, Smita Agarwal",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3389/feduc.2026.1896524",
+      "summary": {
+        "goal": "The paper evaluates policies governing artificial intelligence use in social science research at Indian higher education institutions.",
+        "methodology": "It analyzes policy documents through human-coded textual analysis using critical technology studies and a digital ethics framework.",
+        "finding": "The analysis identifies AI invisibility, algorithmic bias, plagiarism risks, unreliable detection tools, weakened critical thinking, and fragmented regulation as major concerns."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171723443",
       "title": "Personalized programming support in higher education via emotion-guided prompt generation and GenAI",
       "authors": "A. Geetha, T. Mala",
@@ -573,6 +629,20 @@
         "goal": "The study aims to model how positional scarcity and competition shape involution in social resource competition.",
         "methodology": "It combines rule-based agent-based modeling with large-language-model-assisted agents that make bounded decisions and provide natural-language rationales.",
         "finding": "The abstract reports that crowding and embedded catfish agents intensify involution, while heterogeneity, diversified advancement paths, and competitive exit mitigate it."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171962931",
+      "title": "Navigating academic integrity in the age of on-demand artificial intelligence: implications for globalizing higher education at the University of Ibadan",
+      "authors": "Solomon O. Ojedeji",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1862601",
+      "summary": {
+        "goal": "The study examines how students’ use of on-demand AI tools relates to academic integrity at the University of Ibadan.",
+        "methodology": "Researchers surveyed 205 undergraduate students using a structured questionnaire and analyzed responses with descriptive statistics and Pearson correlation.",
+        "finding": "AI tool use was strongly positively correlated with academic dishonesty, although students also reported benefits for learning effectiveness and access to knowledge."
       }
     },
     {
@@ -786,6 +856,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172003924",
+      "title": "Generative Artificial Intelligence in Education: Bridging the Gap between Opportunity and Teacher Readiness via the Extended UTAUT Framework",
+      "authors": "Laurence Nehmtallah Ajaka",
+      "journal": "Journal of Intelligent Decision Making and Information Science",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.59543/jidmis.v3.1054",
+      "summary": {
+        "goal": "The study examines teachers’ perceptions of generative AI, including pedagogical effectiveness, AI literacy, implementation challenges, and readiness to use it.",
+        "methodology": "It uses a descriptive survey of 146 teachers analyzed with descriptive and inferential statistics within an extended UTAUT framework.",
+        "finding": "Perceived pedagogical utility and technical expertise increase teacher confidence, while inadequate training, unclear governance, and ethical concerns hinder implementation."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171541389",
       "title": "Generative AI use, self-regulation, and Neuro-AI Pedagogical competence in higher education: a comparative study of undergraduate and graduate students in Uzbekistan",
       "authors": "Dilnoza Zaripova, Kudratjon Zohirov, Nasibakhon Rasulova, Umidjon Khayitov, Dildora Saidova, Zavqiddin Temirov, Rashid Nasimov",
@@ -870,6 +954,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172017099",
+      "title": "From learners to contributors: how an AI-infused STEM program shaped youth identity and initiated them to an AI-future",
+      "authors": "Mark Weckel, Preeti Gupta, Katherine S. Moore, Rachel Chaffee, Irene Lee, Gabrielle Rabinowitz, Safinah Ali",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1811339",
+      "summary": {
+        "goal": "The study examines how an AI-infused STEM workforce program shapes high school students’ machine-learning knowledge, attitudes, ethical awareness, self-efficacy, belonging, and identities as future AI users and contributors.",
+        "methodology": "It uses a mixed-methods time-series design combining surveys of 42 participants across three timepoints with interviews and research-artifact analysis from 17 participants.",
+        "finding": "The program increased machine-learning knowledge and skills, fostered ethical awareness and informed ambivalence toward AI, and supported emerging self-efficacy, belonging, and identities as future AI contributors."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171619349",
       "title": "From digital ecosystems to intelligent maturity: how AI tools reshape the form and content of digital communication",
       "authors": "Mohamed Mallek, Riadh Jeljeli, Faycal Farhi, Elsir Ali Saad Mohamed",
@@ -881,6 +979,20 @@
         "goal": "The paper aims to conceptualize how AI tools, particularly generative AI, are reshaping digital communication and producing a model of organizational co-intelligence.",
         "methodology": "It conducts a structured literature review of 85 peer-reviewed sources published between 2020 and 2026.",
         "finding": "The review finds that AI has become a strategic actor in communication, enabling scalable personalization while raising concerns about authorship, authenticity, bias, synthetic media, and the need for human oversight and governance."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7166255613",
+      "title": "From Work-from-Home to Return-to-Office: A Theory-Anchored Reddit Study of Remote Work Discourse",
+      "authors": "Zheng Cui, Zixing Shen",
+      "journal": "Journal of the Association for Information Systems",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://openalex.org/W7166255613",
+      "summary": {
+        "goal": "The study examines how employees interpret and experience work-from-home, hybrid work, and return-to-office arrangements in online communities.",
+        "methodology": "It uses theory-anchored LLM-enabled analysis of Reddit discourse from 2015 to 2026 to measure job demands, resources, burnout, EVLN responses, and emotions across multiple aggregation levels.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -909,6 +1021,20 @@
         "goal": "The article examines how increasingly capable AI challenges freedom of thought and conscience.",
         "methodology": "It develops a legal and conceptual analysis drawing on theories of freedom of thought, conscience, manipulation, and the extended mind.",
         "finding": "The article argues that AI’s ability to extract information about thoughts and feelings requires stronger protection for users and renewed attention to freedom of thought and conscience."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4414876892",
+      "title": "Fairness evaluation of large language models in academic library reference services",
+      "authors": "Haining Wang, Jason Clark, Yueru Yan, Star Bradley, Ruiyang Chen, Y. Zhang, Hengyi Fu, Zuoyu Tian",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1057/s41599-026-08465-5",
+      "summary": {
+        "goal": "The study evaluates whether large language models provide equitable academic library reference services across users with different identities and social roles.",
+        "methodology": "Researchers prompted six state-of-the-art LLMs to assist patrons varying in sex, race or ethnicity, and institutional role.",
+        "finding": "The models showed no racial or ethnic differentiation, minor stereotypical bias against women in one model, and nuanced role-based linguistic adaptation reflecting professional norms."
       }
     },
     {
@@ -1217,6 +1343,20 @@
         "goal": "The review maps how artificial intelligence is connected to teacher competence in assessment, analytics, and professional development.",
         "methodology": "It conducts a scoping review of 33 peer-reviewed articles published from 2022 to 2026 and identified through a bounded Web of Science search.",
         "finding": "The literature emphasizes AI-based competence assessment and teacher AI literacy but reports limited explainable AI, fairness analysis, multimodal validation, and longitudinal research."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4416285046",
+      "title": "ArchiveGPT: A human-centered evaluation of using a vision language model for image cataloguing",
+      "authors": "Line Abele, Gerrit Anders, Tolgahan Aydın, Jürgen Buder, Helen Fischer, Dominik Kimmel, Markus Huff",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-08367-6",
+      "summary": {
+        "goal": "The study examines whether AI-generated catalogue descriptions approximate human-written quality and how generative AI could support archival and museum cataloguing workflows.",
+        "methodology": "InternVL2 generated descriptions of archaeological photographs, which experts and non-experts evaluated after human curation by classifying authorship, rating quality, and reporting willingness to use and trust AI tools.",
+        "finding": "Participants performed above chance at identifying AI descriptions, while OCR errors and hallucinations reduced quality perceptions and experts showed lower willingness to adopt AI, supporting human verification and transparent collaboration."
       }
     },
     {
