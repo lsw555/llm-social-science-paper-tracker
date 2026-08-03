@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T05:39:14.156772+00:00",
+  "updatedAt": "2026-08-03T05:48:26.407870+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -142,6 +142,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7166261370",
+      "title": "Understanding the Influence of Agentic AI on Workplace Dignity",
+      "authors": "Xu Pei, Rupinder Gupta",
+      "journal": "Journal of the Association for Information Systems",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://openalex.org/W7166261370",
+      "summary": {
+        "goal": "The study examines how varying levels of Agentic AI automation influence workers’ perceptions of workplace dignity.",
+        "methodology": "It uses a field experiment that randomly presents participants with task designs involving different levels of AI autonomy.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171804681",
       "title": "Uncovering Bias: Leveraging Large Language Models for News Analysis inthe Context of Palestine",
       "authors": "Saba Saddique, Usman Ahmad",
@@ -251,6 +265,20 @@
         "goal": "The study examines how AI-generated second opinions affect collaborative self-efficacy, music performance anxiety, and decision-making among postgraduate vocal accompanists.",
         "methodology": "It uses a controlled study comparing postgraduate students who received AI second opinions with a control group using pretest and posttest measures.",
         "finding": "AI second opinions increased self-efficacy and reduced performance anxiety but did not significantly change decision-making style."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171947646",
+      "title": "The descent into AI dictation: A framework for AI in the organization of information for information literacy instruction",
+      "authors": "Michael Deike",
+      "journal": "The Journal of Academic Librarianship",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1016/j.acalib.2026.103316",
+      "summary": {
+        "goal": "The article aims to develop an information literacy framework for understanding generative AI’s role in information organization and research instruction.",
+        "methodology": "It proposes a conceptual framework contrasting traditional library discovery systems with generative AI and illustrates it through a visualization created with Google Gemini.",
+        "finding": "The author argues that over-reliance on generative AI may narrow research paths, reduce autonomy, and erode creative problem-solving."
       }
     },
     {
@@ -436,6 +464,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171969979",
+      "title": "Social dynamics of AI adoption in parents’ educational decisions",
+      "authors": "Leonardo Bursztyn, Alex Imas, Rafael Jiménez-Durán, Aaron Leonard, Christopher Roth",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1073/pnas.2533193123",
+      "summary": {
+        "goal": "The study examines how peer adoption and information about AI’s potential skill effects influence parents’ willingness to pay for educational AI tools and support for school restrictions.",
+        "methodology": "Researchers conducted preregistered, incentive-compatible experiments with approximately 2,000 parents in the United States, Canada, and the United Kingdom.",
+        "finding": "Parents’ demand rose sharply with perceived peer adoption, while risk information increased support for school restrictions but had little effect on individual demand, indicating social pressure rather than social learning."
+      }
+    },
+    {
       "id": "https://openalex.org/W7164629562",
       "title": "Social Without Society: Parasocial Relationships in Human–Generative AI Agent Interaction",
       "authors": "Ye Han, Shuang Wu",
@@ -590,6 +632,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172115617",
+      "title": "Optimized to Please: Why ChatGPT Masters Empathic Vali-dation but Fails Therapeutic Challenge",
+      "authors": "Jonah Constantin Schua, Katrin Etzrodt",
+      "journal": "Open Science Framework",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.17605/osf.io/a8h7r",
+      "summary": {
+        "goal": "The study examines how sycophancy shapes the psychotherapeutic conversational competencies of ChatGPT configurations.",
+        "methodology": "Four independent raters coded 36 simulated conversations involving three ChatGPT configurations and four clinical vignettes using measures derived from the Therapist Empathy Scale and Motivational Interviewing, supplemented by qualitative analysis.",
+        "finding": "All configurations showed strong approval-congruent competencies but minimal confrontation and handling of sustain talk, while crisis-safety rankings inversely matched empathy rankings and failure patterns included fabricated intimacy, affective escalation, and delayed crisis response."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171371269",
       "title": "Not just answers: ChatGPT’s expanding role in supporting student motivation",
       "authors": "Jayne Ann Harder, Catherine E. Klehm, Andrew S.I.D. Lang, L. Leland Locke, Aleksandra Turtova, Enrique F. Valderrama Araya, Stephen R. Wheat, Jan H. R. Wörner",
@@ -660,6 +716,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172000441",
+      "title": "Más allá de la instrucción: el diseño de prompts como competencia didáctica en la era de la inteligencia artificial",
+      "authors": "Cristian Nava Guzmán",
+      "journal": "Educación matemática",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.24844/em3802.06",
+      "summary": {
+        "goal": "The essay aims to conceptualize prompt engineering as a pedagogical competence within PCK and TPACK for mathematics education.",
+        "methodology": "It draws on literature about mathematical questioning, open-ended tasks, and the Theory of Didactical Situations, and analyzes a conversational tutor prompt for covariational reasoning.",
+        "finding": "It proposes organizing educational prompt design around cognitive intentionality, didactical constraints, and reflective iteration, and argues that prompt literacy should be integrated into teacher education."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170243731",
       "title": "Multi-Agent Social Simulation: Protocolizing LLM-Driven Agent-Based Modeling as a Quantitative Research Method",
       "authors": "Xiaoli Hu, Yi Shen",
@@ -671,6 +741,20 @@
         "goal": "The study proposes a protocolized LLM-driven agent-based modeling method for simulating social and behavioral research scenarios as a repeatable pre-experimental tool.",
         "methodology": "It embeds LLMs in an agent-based framework with role settings, controlled information and rules, structured outputs, logging, validation checks, and replication manifests, evaluating the approach across three real-world contexts.",
         "finding": "The method produced analyzable outputs, with evidence for rule-shock identification, reduced undecided opinion under targeting, and consistent links between governance responses, public sentiment, and behavioral intentions."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172132727",
+      "title": "Modeling generative AI adoption among rural teachers: the moderating role of the digital divide in resource-constrained contexts",
+      "authors": "Yang Xin, Deng Shusheng, Hu Weina, Deng Yan",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1038/s41598-026-64624-3",
+      "summary": {
+        "goal": "The study examines factors associated with rural teachers’ adoption of generative AI and whether digital divide conditions moderate these relationships.",
+        "methodology": "Researchers surveyed 971 rural teachers in Guangxi, China, and analyzed the data using structural equation modeling and moderation analysis.",
+        "finding": "Technical support, perceived usefulness, and perceived ease of use were positively associated with adoption attitudes, while digital divide conditions moderated the relationship between ease of use and attitudes."
       }
     },
     {
@@ -895,6 +979,20 @@
         "goal": "The study examines Vietnamese non-English-major students’ perceptions and use of generative AI for English learning in a blended-learning environment.",
         "methodology": "It uses a qualitative case study based on focus groups with 30 students, chat-history analysis from 23 students, and interviews with 8 lecturers.",
         "finding": "Students generally viewed GenAI as useful, easy to use, and engaging, but reported concerns about AI literacy, feedback reliability, unclear institutional guidance, and overreliance on AI-generated content."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172102053",
+      "title": "Generative AI as an epistemic mirror: six cognitive operations in future-oriented reasoning — replication package",
+      "authors": "Hayoun Won",
+      "journal": "Open Science Framework",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.17605/osf.io/wheg7",
+      "summary": {
+        "goal": "The study examines generative AI as an epistemic mirror through six cognitive operations in future-oriented reasoning.",
+        "methodology": "The replication package provides analysis code, a coded corpus, lexical dictionaries, derived tables and figures, and supporting materials.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -1248,6 +1346,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172097533",
+      "title": "CropChain: An AI-Powered Agricultural Social Platform Integrating Rice Disease Detection, Expert Collaboration, and Digital Marketplace Services for Smallholder Farmers",
+      "authors": "Author unavailable",
+      "journal": "Trends in Animal and Plant Sciences",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.62324/taps/2026.029",
+      "summary": {
+        "goal": "The study aims to develop an integrated agricultural platform combining rice-disease detection, an Urdu LLM advisory chatbot, expert collaboration, and a marketplace for Pakistani smallholder farmers.",
+        "methodology": "The authors trained and compared three image-classification models and assessed user acceptance through a 54-item questionnaire completed by 52 respondents from Pakistan’s rice-growing region.",
+        "finding": "Respondents rated the platform positively, with 94.2% agreeing that combining AI, expert, and community input supports better decisions than AI alone."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170113442",
       "title": "Coordinating Meaning with AI System Cards: A Thematic Analysis",
       "authors": "Jennifer Rene French Cyrek",
@@ -1486,6 +1598,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7171970502",
+      "title": "AI chatbots and youth suicide risk: current evidence, critical gaps, and a clinical research agenda",
+      "authors": "Kelly L. Zuromski, Margaret Meagher, Tracy Costigan, Elizabeth A. Olson",
+      "journal": "npj Digital Medicine",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41746-026-03080-9",
+      "summary": {
+        "goal": "The paper reviews evidence on how generative AI chatbots detect and respond to youth suicide risk and proposes a clinical research agenda.",
+        "methodology": "It synthesizes existing studies of general-purpose chatbots and AI companions, focusing on their responses to suicide-risk disclosures, and outlines qualitative, evaluative, and prospective research priorities.",
+        "finding": "Existing studies predominantly use single-turn researcher-generated prompts, chatbot performance declines with indirect or gradually disclosed risk, and real-world effects on youth suicide risk remain unknown."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171863420",
       "title": "A self-training framework using pre-trained language models to detect and classify technology adoption in protest event analysis",
       "authors": "Jun Liu, Xin Li",
@@ -1497,6 +1623,20 @@
         "goal": "The paper aims to detect and classify technology adoption and contextual dynamics in protest events from large-scale news data.",
         "methodology": "It develops a self-training pipeline combining pre-trained language models, syntactic graph convolutional networks, and pattern matching to reconstruct protest datasets while reducing manual annotation.",
         "finding": "The framework supports context-sensitive protest event classification and demonstrates the analytical value of integrating LLMs with GCNs."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172118602",
+      "title": "A Twelve-Layer Empirical Atlas of Terms and Phenomena from a Longitudinal Human-AI Interaction Corpus",
+      "authors": "Andreas Ehstand",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.5281/zenodo.21748385",
+      "summary": {
+        "goal": "The study aims to create a machine-readable atlas of terms and phenomena from a longitudinal human–AI interaction corpus without releasing raw dialogues.",
+        "methodology": "It analyzes an N=1 corpus subset of 20,448 conversational turns involving two frontier language models and organizes 142,773 entries into twelve layers and three tiers.",
+        "finding": "The resulting atlas contains 23,911 empirical, 117,276 theoretical, and 1,586 methodological entries, while the underlying corpus and construction procedure remain restricted."
       }
     },
     {
