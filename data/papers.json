@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T05:48:26.407870+00:00",
+  "updatedAt": "2026-08-04T05:21:00.929314+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -394,6 +394,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172115374",
+      "title": "The Landscape of Ai-Driven Interactive Storytelling In Adolescent Mental Health: A Scoping Review On Nursing and Communication Perspectives",
+      "authors": "Muhammad Faiz Alfarizi, Ilham Fauzi Agiliansyah, Talitha Nabilah",
+      "journal": "International Journal of Science and Environment (IJSE)",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.51601/ijse.v6i2.740",
+      "summary": {
+        "goal": "The study maps the effectiveness, linguistic barriers, and ethical implications of AI-driven interactive storytelling for adolescent mental health management.",
+        "methodology": "It conducts a PRISMA 2020 scoping review of 18 studies identified from searches of Scopus, ScienceDirect, and CINAHL using the PCC framework.",
+        "finding": "The review finds that AI chatbots support anonymous emotional expression, digital triage, and Psychological First Aid, but struggle with adolescent slang and crisis metaphors and require strict safeguards and referral to clinical professionals."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169852343",
       "title": "The Impact of AI on the Landscape Design Process",
       "authors": "Jacob Owen Huff",
@@ -422,6 +436,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7166272010",
+      "title": "The Efficiency Paradox of Workplace AI: Understanding AI-Enabled Cyberloafing",
+      "authors": "Mariia Kyrychenko, Sara Memarian Esfahani",
+      "journal": "Journal of the Association for Information Systems",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://openalex.org/W7166272010",
+      "summary": {
+        "goal": "The paper examines how workplace generative AI may create perceived slack that contributes to AI-enabled cyberloafing.",
+        "methodology": "It uses a scenario-based 2 × 2 vignette experiment with employed adults, drawing on the Stimulus-Organism-Response framework.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170031323",
       "title": "The ClimaSentAR dataset for evaluating cross-domain transferability of large language models in climate sentiment analysis",
       "authors": "Sanaa Kaddoura, Mariam AlZaabi, Reem Nassar",
@@ -433,6 +461,20 @@
         "goal": "The paper introduces an Arabic climate sentiment dataset and evaluates the cross-domain transferability of language models for climate sentiment analysis.",
         "methodology": "The authors compile and annotate 23,957 Arabic X posts, then fine-tune Arabic language models using domain-adaptive pre-training, AdapterFusion, and data augmentation.",
         "finding": "Climate-specific fine-tuning improves in-domain performance, with AraBERT achieving a macro F1 of 0.753, while cross-domain performance declines to at most 0.599."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172209787",
+      "title": "Tahap Pengetahuan dan Penerimaan Pelajar TVET terhadap Penggunaan Kecerdasan Buatan dalam Pembelajaran Digital: Kajian di Kolej Komuniti Temerloh",
+      "authors": "Siti Shuhaili Mohamad Moha, Mohd Fazli Khaisunizam Ismail",
+      "journal": "Jurnal Wacana Sarjana",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.17576/jws.v10i2.720",
+      "summary": {
+        "goal": "The study examines TVET students’ knowledge, acceptance, readiness, and challenges regarding AI use in digital learning.",
+        "methodology": "A structured five-point Likert questionnaire was administered to 133 students at Temerloh Community College, and responses were analyzed using descriptive statistics in SPSS.",
+        "finding": "Students reported high AI knowledge and acceptance, while identifying ethical concerns, overdependence, and insufficient guidance as challenges."
       }
     },
     {
@@ -898,6 +940,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172124834",
+      "title": "Integration of Artificial Intelligence in Social Media Content Production Workflow to Improve Efficiency and Productivity: A Case Study of the Publication Team at SMP Islam Al Azhar 12 Rawamangun",
+      "authors": "Arrum Dara Efda, Ropik, Izzaty Zephaniah, Feri Johansah",
+      "journal": "International Journal of Science and Environment (IJSE)",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.51601/ijse.v6i2.745",
+      "summary": {
+        "goal": "The study examines how integrating AI into an educational institution’s social media content workflow affects efficiency and productivity and identifies related obstacles and optimization strategies.",
+        "methodology": "It uses a qualitative case study based on interviews with five team members, participant observation, and document analysis.",
+        "finding": "AI reduced workload, accelerated visual-asset creation, and improved content aesthetics, but saved only 15–30 minutes per item because human finishing remained necessary."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169844906",
       "title": "Integrating AI into Mobile Development Workflows: A System-Level Approach to Prompt-to-Code Engineering",
       "authors": "YASIN ARIK",
@@ -909,6 +965,20 @@
         "goal": "The paper develops a system-level framework for integrating generative AI into mobile software development workflows.",
         "methodology": "It presents a layered conceptual architecture and examines human–AI interaction, productivity, cognitive transformation, reliability, and organizational implications.",
         "finding": "The abstract suggests that prompt-to-code systems may improve efficiency while transforming developer roles and introducing challenges involving trust, correctness, and risk management."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172147402",
+      "title": "Individual skill differences and human AI interaction shape creative outcomes",
+      "authors": "Yuan Yuan, Zizhou Peng",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1038/s41598-026-64597-3",
+      "summary": {
+        "goal": "The study examines how individual skill levels and different forms of human–AI interaction relate to creative outcomes measured by novelty and usefulness.",
+        "methodology": "Using quasi-experimental data, the study compares cognitive, informative, and logical AI interactions among low-, medium-, and high-skill individuals.",
+        "finding": "Logical interactions are positively associated with novelty and usefulness, cognitive interactions with novelty, and informative interactions with usefulness, while medium-skill individuals perform best overall and low-skill individuals show the greatest improvement potential."
       }
     },
     {
@@ -965,6 +1035,20 @@
         "goal": "The study examines generative AI use among undergraduate and graduate students and its relationship with cognitive regulation, motivation, self-regulation, and ethical awareness.",
         "methodology": "Researchers surveyed 381 students at a technical university in Uzbekistan and used scale comparisons and multiple regression analyses.",
         "finding": "Graduate and undergraduate students differed significantly on six of seven scales, while Neuro-AI Pedagogical Competence was most strongly associated with ethics and academic autonomy, self-regulation, and motivation rather than AI-use frequency."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172205295",
+      "title": "Generative AI in education: fostering critical thinking or promoting dependency?",
+      "authors": "Ngo Cong-Lem",
+      "journal": "Monash University",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.26180/33137378.v1",
+      "summary": {
+        "goal": "The review examines how generative AI tools such as ChatGPT influence students’ critical thinking in educational contexts.",
+        "methodology": "It conducts a scoping review of 25 empirical studies identified through searches of four databases and systematic screening.",
+        "finding": "GenAI supports critical thinking in structured activities requiring evaluation and revision, whereas unstructured use can promote passive acceptance and reduced cognitive engagement."
       }
     },
     {
@@ -1556,6 +1640,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4415936043",
+      "title": "Addressing longstanding challenges in cognitive science with language models",
+      "authors": "Dirk U. Wulff, Rui Mata",
+      "journal": "Trends in Cognitive Sciences",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1016/j.tics.2026.06.016",
+      "summary": {
+        "goal": "The paper examines how language models could address longstanding challenges in cognitive science research integration, formalization, conceptual clarity, and analysis of naturalistic data.",
+        "methodology": "It presents a conceptual discussion of potential applications and risks of using language models in cognitive science.",
+        "finding": "The paper concludes that language models could support a more integrative and cumulative cognitive science when used judiciously alongside human researchers."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171679543",
       "title": "AI-Based Reflection on Character Strengths at Work: Testing a Digital Strengths Intervention in a Randomized Controlled Study",
       "authors": "Lara Watermann, Ricarda Kochems, Eva Lermer, Simone Kubowitsch",
@@ -1668,6 +1766,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172210526",
+      "title": "A Blinded Multi-LLM Content-Coding Instrument: Protocol Specification and Inter-Coder Reliability Validation on an Organizational Corpus",
+      "authors": "Dmitry Zharnikov",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.5281/zenodo.21756063",
+      "summary": {
+        "goal": "The paper aims to specify and validate a blinded multi-LLM instrument for organizational content coding.",
+        "methodology": "Several LLMs independently coded evidence dossiers under blinding, with logged model calls and majority-vote-or-flag adjudication on a 30-case organizational corpus.",
+        "finding": "The instrument achieved almost-perfect inter-coder agreement (Fleiss' κ = .838), while human-coding validation remains future work."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171361904",
       "title": "&lt;p&gt;Sequencing Human-Artificial Intelligence Creative Writing Collaboration Affects Perceived Authorship&lt;/p&gt;",
       "authors": "Philipp Lizat, Patrick Jost, Daria Leus, Melani Da Cunha Alves, Laureen Vanessa Schmidt",
@@ -1679,6 +1791,34 @@
         "goal": "The study examines how the sequencing of human and AI contributions affects perceived creativity, authorship, and satisfaction in creative writing.",
         "methodology": "In a between-subjects experiment with 84 participants, one group wrote a story before using generatestory.io to improve it, while another revised an AI-generated draft.",
         "finding": "Participants reported similar satisfaction, but writing first increased initial authorship feelings, which became more similar after revision; early perceived authorship mediated later satisfaction, whereas perceived creativity did not."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172121508",
+      "title": "&lt;b&gt;An AI Enabled Comparison CDA Using ChatGPT and DeepSeek to Identify Discourse Strategies in Imam Ali’s Al-Shaqshaqiyya Sermon in Nahj al-Balagh&lt;/b&gt;",
+      "authors": "Basim Badar, Muayyed Juma, Muna Abdualhussein Swear",
+      "journal": "مجلة واسط للعلوم الانسانية",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.31185/wjfh.vol22.iss3/pt2.1754",
+      "summary": {
+        "goal": "The study aims to compare AI-enabled critical discourse analyses of Imam Ali’s Al-Shaqshaqiyya sermon.",
+        "methodology": "It applies the van Dijk, Fairclough, and Wodak models to the original Arabic sermon and its English translation using ChatGPT-4, ChatGPT-3.5, and DeepSeek.",
+        "finding": "ChatGPT-4 provides the most accurate and consistent analysis, DeepSeek handles culturally and historically loaded Arabic elements well but is weaker with English, and English translations are more accessible but lose rhetorical force and cultural precision."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172127773",
+      "title": "&lt;b&gt;AI-Assisted Multilingual Pedagogy in Computing Education: A Culturo-Techno-Contextual Approach Framework for Enhancing Achievement and Attitudinal Outcomes in Mobile and Adaptive Systems&lt;/b&gt;&lt;b&gt;&lt;/b&gt;",
+      "authors": "Alli Abdurrazaq, Omar Camara, Saidu Conteh, Ebrima Kanteh",
+      "journal": "Elicit Journal of Education Studies",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.65820/ejes-12vol2-issue2-2026",
+      "summary": {
+        "goal": "The study evaluated how traditional lectures and three AI-supported multilingual CTCA 2.0 instructional modalities affect students’ OSI model achievement and attitudes.",
+        "methodology": "A quasi-experimental study assigned 75 students in four intact groups and analyzed pre-test and post-test data using MANCOVA.",
+        "finding": "CTCA modalities produced significantly more positive attitudes, while their higher achievement means were not statistically significant compared with the control group."
       }
     }
   ]
