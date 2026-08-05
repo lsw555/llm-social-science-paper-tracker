@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T05:21:00.929314+00:00",
+  "updatedAt": "2026-08-05T05:21:31.590453+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -111,6 +111,20 @@
         "goal": "The project aims to reduce scholarly information overload by using a local LLM to transform academic metadata into structured concept cards and audio summaries.",
         "methodology": "It describes a mobile PWA that retrieves scholarly works through OpenAlex, summarizes them with Gemma3:27b, generates audio with a text-to-speech model, and evaluates the artifact with university faculty using self-reported engagement data and qualitative feedback.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172311662",
+      "title": "Vietnamese EFL Students’ Perceptions and Preferences for ChatGPT, Peer, and Teacher Feedback in Writing Revision&lt;b&gt;&lt;/b&gt;",
+      "authors": "Thi Diep Nguyen, Xuan Quan Nguyen",
+      "journal": "Computer-Assisted Language Learning Electronic Journal",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.54855/callej.262729",
+      "summary": {
+        "goal": "The study examined Vietnamese university EFL students’ perceptions and preferences regarding ChatGPT, peer, and teacher feedback during writing revision.",
+        "methodology": "It used an explanatory sequential mixed-methods design with questionnaires from 110 English majors and semi-structured interviews with 10 selected participants.",
+        "finding": "Students rated teacher feedback highest, valued ChatGPT for immediacy, and generally supported combining all three feedback sources with explicit training."
       }
     },
     {
@@ -464,6 +478,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7163821660",
+      "title": "The Autonomy Paradox: Artificial Intelligence and the Foundations of Political Behavior",
+      "authors": "Chris Anderson, Elena Pro",
+      "journal": "Perspectives on Politics",
+      "year": 2026,
+      "field": "Public opinion & politics",
+      "url": "https://doi.org/10.1017/s1537592726105775",
+      "summary": {
+        "goal": "The paper develops a framework for examining how AI systems affect citizens’ political judgment and capacity for political action.",
+        "methodology": "It develops a conceptual framework and research agenda focused on how citizens engage with AI systems across political tasks.",
+        "finding": "The paper argues that AI creates an autonomy paradox by potentially reducing participation barriers while weakening independent judgment or constraining political agency."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172209787",
       "title": "Tahap Pengetahuan dan Penerimaan Pelajar TVET terhadap Penggunaan Kecerdasan Buatan dalam Pembelajaran Digital: Kajian di Kolej Komuniti Temerloh",
       "authors": "Siti Shuhaili Mohamad Moha, Mohd Fazli Khaisunizam Ismail",
@@ -548,6 +576,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172347329",
+      "title": "Safety, accuracy, empathy, reliability, and readability of large language model chatbot responses to public-facing vegetarian and vegan nutrition advice questions: a cross-sectional comparative study",
+      "authors": "Jiyong Zhou, Qiongjiao Zhou, Lijun Zhou, Jiajia Wang, Jing Gao, Long Qin, Bing Tan, Ping Fan",
+      "journal": "Frontiers in Public Health",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fpubh.2026.1921819",
+      "summary": {
+        "goal": "The study aims to compare the safety, accuracy, empathy, reliability, information quality, and readability of five LLM chatbots responding to vegetarian and vegan nutrition questions.",
+        "methodology": "Researchers submitted 58 predefined questions to ChatGPT, Gemini, Copilot, DeepSeek, and Doubao and had five blinded clinically trained raters evaluate 290 responses using established quality and readability measures.",
+        "finding": "All models produced potentially harmful responses, while their accuracy, empathy, reliability, information quality, and readability differed significantly. "
+      }
+    },
+    {
       "id": "https://openalex.org/W7171670677",
       "title": "SEM-based parallel and serial mediation linking instructor technology integration competence to academic performance in AI-supported online learning",
       "authors": "Münevver Başman, Gökçen Seyra Çakır",
@@ -615,6 +657,20 @@
         "goal": "The study aimed to identify persuasive features for LLM-generated psychoeducation and test whether they improve confidence in mental health professionals.",
         "methodology": "In two phases, participants rated texts with varying persuasive features, then 40 randomized participants read psychoeducation generated with either a feature-engineered or baseline LLM prompt.",
         "finding": "Source credibility, argument quality, and processing fluency improved perceived credibility and persuasiveness, and feature-engineered texts produced greater improvements in attitudes toward mental health professionals."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172287401",
+      "title": "Posthuman Sociality of AI-Simulacrum",
+      "authors": "Mariia A. Ivanchenko",
+      "journal": "Galactica Media Journal of Media Studies",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.46539/gmd.v8i3.771",
+      "summary": {
+        "goal": "The paper aims to critically examine AI as a non-human form of sociality, subject, and moral agent and its role in emerging psychotic reality.",
+        "methodology": "It uses philosophical-anthropological, critical, and deconstructive approaches to analyze LLM systems as posthuman simulacra or “digital undead.”",
+        "finding": "The paper concludes that AI cannot be a subject or agent but can shape a new psychotic reality by reflecting and amplifying human alienation and madness."
       }
     },
     {
@@ -884,6 +940,34 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172340274",
+      "title": "Longitudinal Intelligence: A New Paradigm for Artificial Intelligence",
+      "authors": "Teodor Minchev",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.5281/zenodo.21768558",
+      "summary": {
+        "goal": "The paper proposes longitudinal intelligence as a paradigm for AI systems that continuously model and support individuals across repeated interactions.",
+        "methodology": "It presents the ACOS reference architecture and develops conceptual arguments about persistent cognitive representations, evaluation, ethics, and governance.",
+        "finding": "The abstract does not report empirical findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172251686",
+      "title": "Large language models in adolescent suicide prevention: from language signals to accountable action",
+      "authors": "Man Li, Wendi Huang, Jingjing Wu, Nanyu Kuang, Yong Luo, Juan Huang, Nanqu Huang",
+      "journal": "Frontiers in Public Health",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fpubh.2026.1872450",
+      "summary": {
+        "goal": "The paper examines how large language models could support adolescent suicide prevention by turning language signals into timely and accountable human action.",
+        "methodology": "It presents a focused mini review organized around an Evidence-to-Action perspective, covering LLM use for risk-signal flagging, summarization, information extraction, and crisis intervention.",
+        "finding": "The abstract reports that evidence is strongest for supervised risk-signal flagging, weaker for autonomous crisis intervention, and supports only human-reviewed deployment within clinically accountable and ethically governed systems."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170061719",
       "title": "Large Language Models for Risk Detection in E-commerce: Reliability, Semantic Alignment, and Managerial Insights",
       "authors": "Laleh Davoodi, Filip Ginter, Sima Salimi, Harri Lorentz",
@@ -993,6 +1077,20 @@
         "goal": "The paper examines how human expert judgment can validate and calibrate LLM-based supply-chain risk assessments.",
         "methodology": "It compares AI-generated risk indicators with expert assessments across two validation rounds and iteratively refines prompts using human-in-the-loop feedback.",
         "finding": "Context-specific prompt calibration reduced mean absolute error and improved alignment between AI outputs and human judgments."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172342944",
+      "title": "Human-Supervised LLM-Assisted Mapping of Educational Research at Scale: A Mathematics Education Demonstration",
+      "authors": "Xia Yang, Haoyi Wang, Zachary Hawes",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.31234/osf.io/6tyqw_v1",
+      "summary": {
+        "goal": "The study develops and evaluates a human-supervised LLM workflow for large-scale mapping of educational research.",
+        "methodology": "Two LLMs independently coded 4,940 mathematics education abstracts using a hierarchical framework, with a third model resolving disagreements and humans auditing and adjudicating cases.",
+        "finding": "The workflow achieved strong agreement overall, but model disagreement identified boundary cases requiring human review, and the resulting labels revealed trends in research focus and sociocultural attention."
       }
     },
     {
@@ -1262,6 +1360,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172271238",
+      "title": "Exploring New Teaching Way: Integrating the Silent Way with Artificial Intelligence",
+      "authors": "XinYao Wang",
+      "journal": "Education and Social Work",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.63313/esw.9165",
+      "summary": {
+        "goal": "The paper examines how artificial intelligence can be integrated with the Silent Way language-teaching approach while preserving learner autonomy.",
+        "methodology": "It uses conceptual discussion to analyze the philosophical and practical compatibility between the Silent Way and AI.",
+        "finding": "It proposes that the Silent Way can counteract the over-mechanization of AI teaching and offers strategies for preserving learner independence while using AI tools."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171639172",
       "title": "Explainable artificial intelligence as AI literacy scaffolding",
       "authors": "Brady Lund, Zoë Abbie Teel, Brett Porter, Anuradha Chandrasekaran, Sanket Ramchandra Patole",
@@ -1343,6 +1455,20 @@
         "goal": "The study investigates whether aggregating judgments from LLM agents can improve email fraud detection through a wisdom-of-crowds approach.",
         "methodology": "The researchers collected fraud-likelihood assessments from 122 human agents and 505 LLM agents with varied temperature settings and compared aggregated with individual predictions.",
         "finding": "Aggregated LLM-agent judgments generally outperformed individual agents and mitigated errors, although many agents showed a paranoid bias."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7166271116",
+      "title": "ECHO: An AI-Driven Social Learning Framework for Social Presence in Asynchronous Online Discussions",
+      "authors": "Xiaojiao Duan",
+      "journal": "Journal of the Association for Information Systems",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://openalex.org/W7166271116",
+      "summary": {
+        "goal": "The paper presents ECHO, a generative-AI framework designed to strengthen social presence and peer engagement in asynchronous online discussions without replacing human interaction.",
+        "methodology": "It proposes a three-layer Observe–Curate–Humanize workflow and a future three-arm field experiment with approximately 48–60 graduate students, validated surveys, and interviews.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -1497,6 +1623,20 @@
         "goal": "The study aims to assess ChatGPT-5’s reliability, quality, usefulness, and readability when providing non-clinical leisure health advice.",
         "methodology": "Researchers generated ChatGPT-5 responses to 34 leisure-and-health questions and evaluated them using mDISCERN, GQS, a usefulness Likert scale, and the Flesch Reading Ease formula.",
         "finding": "ChatGPT-5 showed moderate reliability, good quality, and relatively high usefulness, but difficult readability, inconsistent source transparency, and limitations with personalized scenarios constrained its utility."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172212085",
+      "title": "Can Large Language Models Support University Counseling? Evidence from Perceived Counseling Alliance, Disclosure Willingness, and Risk Recognition",
+      "authors": "Jianshan Cheng",
+      "journal": "Behavioral Sciences",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3390/bs16081316",
+      "summary": {
+        "goal": "The study examined whether an LLM-based counseling agent improves perceived counseling alliance, disclosure willingness, and recognition of mental health risks among Chinese university students.",
+        "methodology": "Using a randomized between-subjects experiment, the researchers compared 388 students assigned to an LLM-based counseling condition or a control condition.",
+        "finding": "The LLM agent improved counseling alliance, disclosure willingness, and general risk recognition, but showed limited performance for crisis-level disclosures and was best suited as complementary front-end support."
       }
     },
     {
