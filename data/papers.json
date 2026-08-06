@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T05:21:31.590453+00:00",
+  "updatedAt": "2026-08-06T05:24:30.666191+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -27,6 +27,20 @@
         "goal": "The article examines the ethical and legal challenges posed by companion AI chatbots and develops a theory of harm for digitally mediated intimacy.",
         "methodology": "It analyzes companion AI through anthropomorphism, emotional AI, emergent vulnerabilities, and mismatched legal taxonomies.",
         "finding": "The article argues that existing frameworks inadequately address companion AI harms and proposes intimacy capitalism as a framework for analyzing the monetization and exploitation of digitally mediated intimate relations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172263487",
+      "title": "“Noticed but not used”: The gap between AI feedback and its delayed application in L2 academic writing",
+      "authors": "Akihiko Sasaki Akihiko Sasaki, Osamu Takeuchi",
+      "journal": "Asian Journal of English Language Teaching",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.65961/ajelt-2026-4-005",
+      "summary": {
+        "goal": "The study investigates which linguistic forms university students notice through ChatGPT feedback in L2 academic writing and whether they subsequently apply them.",
+        "methodology": "It qualitatively analyzes student interviews, ChatGPT history logs, and draft revisions.",
+        "finding": "Students noticed diverse vocabulary and syntactic structures, but cognitive load, fear of mistakes, and task-completion pressure limited their independent use."
       }
     },
     {
@@ -534,6 +548,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172451374",
+      "title": "Sovereignty, Collaboration, and Capability: Three Dilemmas and a Transformation Framework for Sci-Tech Journal Editors in the Digital-Intelligence Era",
+      "authors": "Sisi Fan",
+      "journal": "Journal of Scholarly Communication",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.62160/jsc77",
+      "summary": {
+        "goal": "The paper examines how generative AI affects sci-tech journal editors’ roles, competencies, ethical responsibilities, and organizational support.",
+        "methodology": "It draws on existing research, editorial practice, case studies, and survey data to develop a transformation framework.",
+        "finding": "The paper proposes a “sovereignty–collaboration–capability” framework in which editors clarify their roles, strengthen human–machine collaboration, update their skills, and become knowledge service providers."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171969979",
       "title": "Social dynamics of AI adoption in parents’ educational decisions",
       "authors": "Leonardo Bursztyn, Alex Imas, Rafael Jiménez-Durán, Aaron Leonard, Christopher Roth",
@@ -629,6 +657,20 @@
         "goal": "The paper aims to examine how excessive AI attention guidance in immersive environments may undermine user autonomy and exploratory behavior.",
         "methodology": "It develops a conceptual framework linking excessive guidance to perceived control, voluntary choice, and decision-making authority, and proposes behavioral indicators for measuring user agency.",
         "finding": "The paper argues for shifting from attention optimization to curiosity-led design and presents AI as an exploratory collaborator rather than a provider of fixed routes."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172386376",
+      "title": "Request routing services undermine the reproducibility of open weight LLMs",
+      "authors": "Joe Higton, Joshua A. Tucker, Christopher Barrie",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.31235/osf.io/sr9hy_v1",
+      "summary": {
+        "goal": "The paper examines whether request-routing services undermine the reproducibility of LLM-based social-science text classification.",
+        "methodology": "The authors classify British manifesto sentences 100 times across eight open-weight models and 33 hosting providers via OpenRouter, comparing results with five configurations run on their own hardware.",
+        "finding": "OpenRouter classifications were nondeterministic at temperature zero, whereas classifications on the authors’ hardware were perfectly reproducible, showing that reproducibility depends on the full hosting environment."
       }
     },
     {
@@ -968,6 +1010,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172260541",
+      "title": "Large Language Models in public policy research: methodological opportunities, normative standards, and potential challenges",
+      "authors": "Song Lan, Xiaoying Zhang, Xiaolin Wang",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1057/s41599-026-08575-0",
+      "summary": {
+        "goal": "The paper examines how LLMs can augment established public policy research methods while addressing methodological and ethical challenges.",
+        "methodology": "It provides a conceptual analysis of LLM applications in qualitative inquiry, quantitative analysis, and simulation-based research and proposes an Objective-Path-Boundary governance framework.",
+        "finding": "The paper argues that LLMs are enabling research tools whose value depends on validation, transparency, standardized protocols, and ethical scrutiny."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170061719",
       "title": "Large Language Models for Risk Detection in E-commerce: Reliability, Semantic Alignment, and Managerial Insights",
       "authors": "Laleh Davoodi, Filip Ginter, Sima Salimi, Harri Lorentz",
@@ -1262,6 +1318,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172440500",
+      "title": "From anxiety to adaptation: A study on the relationship between college students' AI interaction experience and mental health in higher education",
+      "authors": "Xiang Yu, jiahao luo",
+      "journal": "Acta Psychologica",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1016/j.actpsy.2026.107567",
+      "summary": {
+        "goal": "The study examines how college students’ experiences interacting with generative AI relate to their mental health.",
+        "methodology": "It analyzes 902 empirical observations using frameworks based on the Job Demands-Resources model and Conservation of Resources theory.",
+        "finding": "AI anxiety is negatively associated with mental well-being, while AI adaptation and effectiveness partly explain this relationship, which follows a U-shaped pattern."
+      }
+    },
+    {
       "id": "https://openalex.org/W7166255613",
       "title": "From Work-from-Home to Return-to-Office: A Theory-Anchored Reddit Study of Remote Work Discourse",
       "authors": "Zheng Cui, Zixing Shen",
@@ -1301,6 +1371,20 @@
         "goal": "The article examines how increasingly capable AI challenges freedom of thought and conscience.",
         "methodology": "It develops a legal and conceptual analysis drawing on theories of freedom of thought, conscience, manipulation, and the extended mind.",
         "finding": "The article argues that AI’s ability to extract information about thoughts and feelings requires stronger protection for users and renewed attention to freedom of thought and conscience."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172412031",
+      "title": "Fake News Detection Using Machine Learning and LLM Embeddings: A Comparative Study of TF-IDF and BERT Representations on the Welfake Dataset",
+      "authors": "Umme Noor Us Saqa, Sreenivasa B. R.",
+      "journal": "International Journal of Innovative Science and Research Technology (IJISRT)",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.38124/ijisrt/26jul1352",
+      "summary": {
+        "goal": "The study aims to improve automated fake news detection using traditional machine learning features and BERT-based embeddings.",
+        "methodology": "It preprocesses news data from the WELFake and LIAR datasets, compares TF-IDF and BERT representations, and evaluates several classifiers using standard performance metrics.",
+        "finding": "BERT embeddings capture contextual and semantic information more effectively than TF-IDF and improve fake news classification accuracy."
       }
     },
     {
@@ -1542,6 +1626,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7164452628",
+      "title": "Designing an AI-Enabled Virtual Reality Artifact for Cybersecurity Soft Skill Development: A Design Science Approach",
+      "authors": "Nicholas Mensah Amoah, Motahareh Pourbehzadi, Moez Farokhnia Hamedani, Lakshmi Iyer",
+      "journal": "Journal of the Association for Information Systems",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://openalex.org/W7164452628",
+      "summary": {
+        "goal": "The study aims to develop an AI-enabled virtual reality artifact for cybersecurity soft-skills training.",
+        "methodology": "It uses a design science approach to create immersive NIST CSF-aligned audit scenarios with generative AI conversational agents that provide mentoring feedback.",
+        "finding": "The abstract does not report findings because the artifact is currently being piloted."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169884242",
       "title": "Designing GenAI-Mediated Mathematics Storybooks: Process Patterns and Tool Affordance Uptake Among Pre-Service Early Childhood Teachers",
       "authors": "Yau Yu Chan, Kwok Man Keith Ho",
@@ -1637,6 +1735,20 @@
         "goal": "The study examined whether an LLM-based counseling agent improves perceived counseling alliance, disclosure willingness, and recognition of mental health risks among Chinese university students.",
         "methodology": "Using a randomized between-subjects experiment, the researchers compared 388 students assigned to an LLM-based counseling condition or a control condition.",
         "finding": "The LLM agent improved counseling alliance, disclosure willingness, and general risk recognition, but showed limited performance for crisis-level disclosures and was best suited as complementary front-end support."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172405806",
+      "title": "Artificial intelligence-based positive youth development intervention protocol in school settings",
+      "authors": "Mehmet Akif Karaman, Ashraf Mahmud",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1901161",
+      "summary": {
+        "goal": "The paper aims to outline an eight-week AI-supported positive youth development intervention for high school students and a feasibility-oriented mixed-method evaluation design.",
+        "methodology": "The intervention combines daily AI micro-nudges, voluntary micro-coaching dialogues, weekly counselor sessions, pre–post trait measures, daily ecological momentary assessments, quantitative effect-size and Tau-U analyses, and qualitative thematic analysis.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -1791,6 +1903,34 @@
         "goal": "The paper examines how language models could address longstanding challenges in cognitive science research integration, formalization, conceptual clarity, and analysis of naturalistic data.",
         "methodology": "It presents a conceptual discussion of potential applications and risks of using language models in cognitive science.",
         "finding": "The paper concludes that language models could support a more integrative and cumulative cognitive science when used judiciously alongside human researchers."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172397606",
+      "title": "AI-GENERATED CONTEXTUAL LISTENING MATERIALS EXPLORING TEACHER AND STUDENTS PERCEPTIONS IN EFL CLASSROOMS",
+      "authors": "Mikael Albinus Silitonga, Dedi Irwan, Rahayu Meliasari",
+      "journal": "CENDEKIA PENDIDIKAN",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.36841/cendekiapendidikan.v5i3.8445",
+      "summary": {
+        "goal": "The study explores students’ and a teacher’s perceptions of AI-generated contextual listening materials in an EFL classroom.",
+        "methodology": "Researchers used a descriptive qualitative design involving interviews and observations of three ninth-grade students and one English teacher, analyzed thematically.",
+        "finding": "Students reported greater confidence and comprehension from familiar local content, while the teacher valued customization but noted inconsistent audio clarity and the need for human editing and feedback."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172416951",
+      "title": "AI-Based Resume Screening and Job Matching Systems: A Comprehensive Review of NLP, Machine Learning, Explainable AI, and Fairness-Aware Recruitment Approaches",
+      "authors": "Naveen J, Manoj M, Jayanth Vishwakarma G",
+      "journal": "IARJSET",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.17148/iarjset.2026.13743",
+      "summary": {
+        "goal": "The paper reviews how AI, including large language models, supports resume screening and job matching while addressing efficiency, explainability, and fairness.",
+        "methodology": "It surveys approaches including TF-IDF, cosine similarity, transformers, neural networks, and large language models across hiring environments.",
+        "finding": "The abstract reports that AI can improve screening efficiency and job matching but raises concerns about bias, opacity, privacy, and the need for human oversight."
       }
     },
     {
