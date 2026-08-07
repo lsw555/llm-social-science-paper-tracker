@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T05:24:30.666191+00:00",
+  "updatedAt": "2026-08-07T04:30:52.122581+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -436,6 +436,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172517430",
+      "title": "The Impact of Generative AI Music Systems on Creative Labor, Production, and Industry Structures: A PRISMA-Aligned Systematic Review and Conceptual Framework",
+      "authors": "Hayder Albayati",
+      "journal": "Open Science Framework",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.17605/osf.io/djmx5",
+      "summary": {
+        "goal": "The study examines how public AI experience, media trust, and verified organizational transparency practices influence comfort with AI-produced news while assessing LLM-assisted institutional coding.",
+        "methodology": "It analyzes Reuters Institute survey data from 27 countries and transparency indicators for 45 news organizations using statistical models and a coding process involving LLM assistance, human recoding, reliability assessment, and adjudication.",
+        "finding": "Public AI usage is the strongest predictor of comfort with AI-produced news, while verified transparency practices show no reliable relationship after coding errors are corrected."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169852343",
       "title": "The Impact of AI on the Landscape Design Process",
       "authors": "Jacob Owen Huff",
@@ -601,6 +615,20 @@
         "goal": "The study evaluates sentiment-analysis models for analyzing student perceptions of generative AI in higher education.",
         "methodology": "It uses preprocessing, lexical, semantic, and generative data augmentation, TF-IDF features, four machine-learning models, and Stratified K-Fold cross-validation on an imbalanced text dataset.",
         "finding": "Linear SVM performed best, while augmentation improved observed accuracy and weighted F1 but still produced substantial misclassification and was affected by a dataset-distribution discrepancy."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7164460264",
+      "title": "Scale or Validity? Measuring Competitive Moves with Validated LLM Coding",
+      "authors": "Lucas Carassato Fernandes Brites, Gabriele Piccoli, Joaquin Rodriguez, Sun Tae Kim",
+      "journal": "Journal of the Association for Information Systems",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://openalex.org/W7164460264",
+      "summary": {
+        "goal": "The study aims to measure competitive moves at scale while preserving construct validity using calibrated large language models.",
+        "methodology": "It constructs a human-reviewed gold standard from Nation’s Restaurant News articles and calibrates an LLM classifier using a shared codebook and evidence-grounding requirements.",
+        "finding": "The resulting pipeline enables traceable, large-scale classification of competitive moves and analysis of temporal patterns, firm heterogeneity, and action sequences."
       }
     },
     {
@@ -814,6 +842,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172534522",
+      "title": "Neuro-semantic graph fusion for explainable depression risk trajectory mapping using a graph-enhanced RoBERTa framework",
+      "authors": "M. Karthiga, Emerson Raja Joseph, Subhash Patil, K. Saranya",
+      "journal": "Frontiers in Artificial Intelligence",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/frai.2026.1854179",
+      "summary": {
+        "goal": "The study aims to develop an explainable framework for identifying depression risk trajectories in social media posts.",
+        "methodology": "It trains and evaluates a graph-enhanced RoBERTa model with graph attention, supervised contrastive learning, and SHAP explanations on Reddit datasets with user-level splits and external validation.",
+        "finding": "The model achieved F1 scores of 0.914 internally and 0.882 externally, outperforming the comparison models."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170034880",
       "title": "Navigating the labyrinth of involution: LLM-assisted smart agent-based simulation of social resource competition",
       "authors": "Renxian Zuo, Mengxi Yang, Yang Ding, Shouyang Wang, 余进 YU Jin, Jiang Wu",
@@ -965,6 +1007,20 @@
         "goal": "The study assesses whether large language models provide preventive care guidance consistent with USPSTF recommendations.",
         "methodology": "Researchers tested 35 LLMs on 142 USPSTF topics using simulated user prompts and evaluated response concordance across prompting strategies.",
         "finding": "Concordance varied substantially across models but increased with newer models and chain-of-thought, role-based, and iterative prompting."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172490047",
+      "title": "Mapping the Field",
+      "authors": "Lea Katharina Reis, Paul Schütz",
+      "journal": "MedienPädagogik Zeitschrift für Theorie und Praxis der Medienbildung",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.21240/mpaed/71/2026.08.05.x",
+      "summary": {
+        "goal": "The review aims to map and compare research on AI literacy in higher, continuing, and further education, including definitions, theoretical foundations, and teaching approaches.",
+        "methodology": "The authors screened 4,013 records, reviewed 278 full texts, and analyzed 142 eligible English- or German-language peer-reviewed articles and conference papers published between 2022 and May 2025.",
+        "finding": "The review identifies a need for clearer terminology, more research in continuing and further education, and greater exploration of synergies among educational contexts, teaching approaches, and learning designs."
       }
     },
     {
@@ -1122,6 +1178,34 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172408459",
+      "title": "Identifying generative AI use among genuine responders in online survey research",
+      "authors": "Suzannah Gerber, Sean B. Cash",
+      "journal": "Communications Psychology",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s44271-026-00506-8",
+      "summary": {
+        "goal": "The paper discusses how to identify and address generative AI use by genuine human respondents in online surveys.",
+        "methodology": "It is a commentary that reviews the problem and provides guidance on safeguards for preserving authentic public-opinion data.",
+        "finding": "The abstract does not report empirical findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172487197",
+      "title": "IWAC AI Pipelines",
+      "authors": "Frédérick Madore",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.5281/zenodo.21804211",
+      "summary": {
+        "goal": "The paper presents LLM-based pipelines for curating and enriching digital humanities and social science archives.",
+        "methodology": "It applies LLMs to OCR correction, summarization, named-entity recognition and reconciliation, audio/video transcription, handwritten text recognition, and sentiment analysis, integrating outputs into Omeka S.",
+        "finding": "The abstract reports that the pipelines were built for the Islam West Africa Collection and designed to be adaptable to other collections."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170750971",
       "title": "Human-aligned AI for supply chain risk detection: validation and calibration of LLM-based early-warning assessments",
       "authors": "Janis Purk",
@@ -1147,6 +1231,20 @@
         "goal": "The study develops and evaluates a human-supervised LLM workflow for large-scale mapping of educational research.",
         "methodology": "Two LLMs independently coded 4,940 mathematics education abstracts using a hierarchical framework, with a third model resolving disagreements and humans auditing and adjudicating cases.",
         "finding": "The workflow achieved strong agreement overall, but model disagreement identified boundary cases requiring human review, and the resulting labels revealed trends in research focus and sociocultural attention."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172390884",
+      "title": "Human-AI Co-Ideation in VR Experience Design: Using the Dimensionality Framework (8Df) to Structure LLM-Guided Design",
+      "authors": "Eugene Ch’ng",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1057/s41599-026-07985-4",
+      "summary": {
+        "goal": "The study examines whether the VR Dimensionality Framework can structure human–LLM co-ideation in VR experience design.",
+        "methodology": "It conducts an exploratory comparative case study of ChatGPT, Gemini, and DeepSeek in a shared framework-guided VR narrative design task.",
+        "finding": "The models show distinct tendencies, with ChatGPT implementation-oriented, Gemini facilitative and alignment-focused, and DeepSeek explicit and principled, while differing in cultural specificity and practical outputs."
       }
     },
     {
@@ -1528,6 +1626,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172495672",
+      "title": "Embodied brand companions: fostering passenger loyalty and emotional connection in high-speed rail membership programs via social VR avatars",
+      "authors": "Xia Hua, Zhou Qin, Congcong Kong, Junping Ding, Zhouyang Gu",
+      "journal": "Frontiers in Virtual Reality",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.3389/frvir.2026.1902744",
+      "summary": {
+        "goal": "The study examines whether an embodied brand avatar in a virtual reality loyalty lounge strengthens passenger loyalty and emotional connection.",
+        "methodology": "A between-subjects experiment randomly assigned frequent Beijing–Shanghai high-speed rail travelers to embodied-avatar, voice-only, or text-only conditions and measured psychological, behavioral, and physiological outcomes.",
+        "finding": "The embodied avatar increased social presence, perceived warmth, brand attachment, loyalty intention, and RMSSD relative to the other conditions, with social presence mediating its effect on loyalty intention."
+      }
+    },
+    {
       "id": "https://openalex.org/W7164447894",
       "title": "Echoes of Humanity: The Collective Mind of LLM Agents",
       "authors": "Daniel dos Santos Salles, Alexandre Reis Graeml",
@@ -1906,6 +2018,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172521572",
+      "title": "AI-Supported Scaffold Design for Lower-Proficiency EFL Learners: Experiences of Pre-Service Teachers in Inclusive Reading Instruction",
+      "authors": "Dieu Bich Nguyen, An Hoai Thi Le",
+      "journal": "Vietnam Journal of Education (online)/Vietnam Journal of Education/Giáo dục",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.52296/vje.2026.912",
+      "summary": {
+        "goal": "The study examines how pre-service teachers use generative AI to design scaffolding materials for lower-proficiency learners in inclusive EFL reading instruction.",
+        "methodology": "It uses a qualitative design involving seven pre-service teachers and 22 learners over an eight-week practicum, analyzing lesson plans, scaffold artifacts, reflective journals, and interviews thematically.",
+        "finding": "AI-generated lexical, procedural, conceptual, and affective scaffolds were associated with greater learner participation, confidence, reading-strategy use, and engagement, although teachers needed to adapt the materials to classroom contexts."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172397606",
       "title": "AI-GENERATED CONTEXTUAL LISTENING MATERIALS EXPLORING TEACHER AND STUDENTS PERCEPTIONS IN EFL CLASSROOMS",
       "authors": "Mikael Albinus Silitonga, Dedi Irwan, Rahayu Meliasari",
@@ -1987,6 +2113,20 @@
         "goal": "The paper reviews evidence on how generative AI chatbots detect and respond to youth suicide risk and proposes a clinical research agenda.",
         "methodology": "It synthesizes existing studies of general-purpose chatbots and AI companions, focusing on their responses to suicide-risk disclosures, and outlines qualitative, evaluative, and prospective research priorities.",
         "finding": "Existing studies predominantly use single-turn researcher-generated prompts, chatbot performance declines with indirect or gradually disclosed risk, and real-world effects on youth suicide risk remain unknown."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172428987",
+      "title": "AI Tools and Writing Identity in EFL Contexts: A Mixed-Methods Study of Voice, Ownership, and Cultural Authenticity",
+      "authors": "Manel Mizab",
+      "journal": "International Journal of Current Educational Studies",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.46328/ijces.283",
+      "summary": {
+        "goal": "The study investigates whether Algerian university students perceive reduced authenticity, voice, identity, and ownership in AI-assisted second-language writing.",
+        "methodology": "It uses a mixed-methods design with questionnaires and thematic analysis of responses from 20 first-year English students.",
+        "finding": "Students report reduced anxiety and improved grammatical accuracy but express ambivalence about authorship and often re-edit AI outputs to restore their personal style."
       }
     },
     {
