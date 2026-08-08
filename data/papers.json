@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T04:30:52.122581+00:00",
+  "updatedAt": "2026-08-08T03:41:08.682808+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -520,6 +520,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172505561",
+      "title": "Techno-stress and teaching innovation among university teachers in the intelligent era: a path analysis of job burnout and AI self-efficacy",
+      "authors": "Qiong Wu, Xuelin Yang, Minghuan Tang",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1861301",
+      "summary": {
+        "goal": "The study examines how techno-stress, job burnout, and AI self-efficacy relate to teaching innovation among university teachers.",
+        "methodology": "It surveyed 819 university teachers using stratified random sampling and analyzed the data with covariance-based structural equation modeling and path-effect analysis.",
+        "finding": "Techno-stress negatively predicted teaching innovation, with mediation through job burnout, AI self-efficacy, and their chain accounting for 33.60%, 20.00%, and 14.13% of the total effect, respectively."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172209787",
       "title": "Tahap Pengetahuan dan Penerimaan Pelajar TVET terhadap Penggunaan Kecerdasan Buatan dalam Pembelajaran Digital: Kajian di Kolej Komuniti Temerloh",
       "authors": "Siti Shuhaili Mohamad Moha, Mohd Fazli Khaisunizam Ismail",
@@ -786,6 +800,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7163559818",
+      "title": "Parametric Social Identity Injection and Diversification in Public Opinion Simulation",
+      "authors": "Hexi Wang, Yujia Zhou, Bangde Du, Qingyao Ai, Yiqun Liu",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1145/3770855.3817926",
+      "summary": {
+        "goal": "The paper aims to improve the diversity and realism of LLM-based public opinion simulations across demographic groups.",
+        "methodology": "It introduces Parametric Social Identity Injection, which inserts demographic and value-orientation representations into LLM hidden states and evaluates multiple open-source models on World Values Survey data.",
+        "finding": "PSII reduces KL divergence from real-world survey distributions and increases simulated diversity."
+      }
+    },
+    {
       "id": "https://openalex.org/W7164453460",
       "title": "Paradoxes in Human-AI Interaction: A Diary Study",
       "authors": "Simran Dhillon, Audrey Li, Gurpreet Dhillon",
@@ -797,6 +825,20 @@
         "goal": "The study examined how students’ trust, reliance, and ethical awareness develop through lived interactions with generative AI over time.",
         "methodology": "It used a diary-based qualitative design with higher-education students.",
         "finding": "AI adoption was nonlinear, shaped by emotional comfort, task demands, and ethical reflection, with tensions involving transparency and bias, efficiency and overreliance, and automation and empathy."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172535944",
+      "title": "Optimizing educational analytics by analyzing student perceptions of ChatGPT in programming education using enhanced feature selection",
+      "authors": "Shaymaa E. Sorour, Hosnia. M. M. Ahmed, Mohammed Aljaafari, Hanan E. Abdelkader",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1038/s41598-026-63998-8",
+      "summary": {
+        "goal": "The study aims to analyze student perceptions of ChatGPT’s role in programming education and identify factors relevant to effective integration.",
+        "methodology": "It applies the IBEDO-DE feature-selection algorithm with SVM and k-nearest-neighbor classifiers to questionnaire data on student perceptions.",
+        "finding": "IBEDO-DE produced compact feature subsets while maintaining classification accuracy of up to 89.61%, highlighting interaction quality, programming support, response efficiency, and platform accessibility."
       }
     },
     {
@@ -1360,6 +1402,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7166253483",
+      "title": "Functionalist Perspective on Emotions in AI: A Review of Roles, Mechanisms and Impacts",
+      "authors": "Eunice Park, Mala Kaul, Chad Anderson",
+      "journal": "Journal of the Association for Information Systems",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://openalex.org/W7166253483",
+      "summary": {
+        "goal": "The study examines how emotion-related processes function within AI systems, including large language models, and shape their behavior and decisions.",
+        "methodology": "It conducts a conceptual literature review using keyword searches in AIS Basket journals and Web of Science and classifies studies according to eight functional roles of emotion.",
+        "finding": "The review develops a functional classification scheme and identifies control mechanisms and feedback processes as underexplored areas."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170110549",
       "title": "Functional Design of LLM-based Human-AI Interaction",
       "authors": "Florian Lehmann",
@@ -1469,6 +1525,20 @@
         "goal": "The article examines how increasingly capable AI challenges freedom of thought and conscience.",
         "methodology": "It develops a legal and conceptual analysis drawing on theories of freedom of thought, conscience, manipulation, and the extended mind.",
         "finding": "The article argues that AI’s ability to extract information about thoughts and feelings requires stronger protection for users and renewed attention to freedom of thought and conscience."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172442902",
+      "title": "Forecasting Artificial Intelligence News Sentiment Index: Traditional vs. Image-Based Deep-Learning Models",
+      "authors": "Gianina-Maria Petrașcu, Ioana Bîrlan, Cristina Boboc, Adriana AnaMaria Davidescu",
+      "journal": "Mathematics",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.3390/math14152789",
+      "summary": {
+        "goal": "The study aims to construct and forecast a global daily AI news sentiment index to monitor public and media perceptions of AI.",
+        "methodology": "It uses GDELT data from 2016–2025 to compare statistical, sequential deep-learning, and image-based forecasting models.",
+        "finding": "The abstract reports that greater model complexity does not improve forecasting and that sequential models generally outperform image-based models."
       }
     },
     {
@@ -1609,6 +1679,20 @@
         "goal": "The study compares generative AI models and human experts in evaluating visual metaphors of school coexistence.",
         "methodology": "Six human experts and five LLMs rated three metaphors and student explanations using rubric-based measures of agreement, reliability, and generalizability.",
         "finding": "Human experts had higher Coexistence Index scores, ChatGPT-5 Pro was closest to human consensus, and one to two human experts plus about ten AI runs achieved generalizability of at least 0.95."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172482611",
+      "title": "Enhancing EFL learners’ speaking performance through ChatGPT-assisted practice: evidence from complexity, accuracy, and fluency measures",
+      "authors": "Niloofar Karami, Bahareh Feizarbabi, Ismail Xodabande",
+      "journal": "Asian-Pacific Journal of Second and Foreign Language Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1186/s40862-026-00452-2",
+      "summary": {
+        "goal": "The study examined whether ChatGPT-assisted speaking practice improves English as a Foreign Language learners’ speaking development.",
+        "methodology": "Sixty-five intermediate Iranian learners completed a ten-week quasi-experimental intervention comparing structured ChatGPT-supported practice with teacher-led instruction, using IELTS-aligned speaking tasks and complexity, accuracy, and fluency measures.",
+        "finding": "ChatGPT-assisted practice improved syntactic complexity and fluency, while accuracy improved in both groups without a distinct between-group advantage."
       }
     },
     {
@@ -1766,6 +1850,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7163985161",
+      "title": "DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creativity Assessment in Debate Scenarios",
+      "authors": "Tongzhou Yu, Mingjia Li, Hong Qian, Wenkai Wang, Zongbao Zhang, Yaoyu Jiang, Xiangfeng Wang, Aimin Zhou",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1145/3770855.3817874",
+      "summary": {
+        "goal": "The paper aims to develop a data-efficient framework for fine-grained creativity assessment in debate scenarios.",
+        "methodology": "It uses a pretrained autoregressive language model with a hierarchical scoring head, authentic debate data and expert annotations, constrained data augmentation, mixed-granularity training, and a study with debate-naive participants.",
+        "finding": "The scoring model achieves accurate and stable scoring and outperforms prompt-based large language model evaluators and existing debate-scoring methods."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172097533",
       "title": "CropChain: An AI-Powered Agricultural Social Platform Integrating Rice Disease Detection, Expert Collaboration, and Digital Marketplace Services for Smallholder Farmers",
       "authors": "Author unavailable",
@@ -1777,6 +1875,20 @@
         "goal": "The study aims to develop an integrated agricultural platform combining rice-disease detection, an Urdu LLM advisory chatbot, expert collaboration, and a marketplace for Pakistani smallholder farmers.",
         "methodology": "The authors trained and compared three image-classification models and assessed user acceptance through a 54-item questionnaire completed by 52 respondents from Pakistan’s rice-growing region.",
         "finding": "Respondents rated the platform positively, with 94.2% agreeing that combining AI, expert, and community input supports better decisions than AI alone."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172554094",
+      "title": "Credibility attacks do not enhance the impact of deepfake warnings",
+      "authors": "Emily R. Spearing, Kaitlin Norgard, Simon Clark, Stephan Lewandowsky, Ullrich K. H. Ecker",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1038/s41598-026-64243-y",
+      "summary": {
+        "goal": "The study examines whether undermining a witness’s credibility enhances the effectiveness of warnings about deepfake videos.",
+        "methodology": "Across two experiments with 2,500 participants, researchers measured guilt judgments after exposure to a deepfake criminal accusation with warnings and witness credibility manipulations involving accents and character descriptions.",
+        "finding": "Deepfake exposure increased guilt judgments, warnings only partially reduced this effect, and adding witness discreditation did not improve warning effectiveness."
       }
     },
     {
@@ -1808,6 +1920,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7172498624",
+      "title": "Cognitive Entanglement: Toward a Developmental Framework of the Human-AI Coevolutionary Leap",
+      "authors": "Xiao-Kun Wu, Min Chen, Giancarlo Fortino",
+      "journal": "Big Data and Cognitive Computing",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.3390/bdcc10080261",
+      "summary": {
+        "goal": "The article proposes a developmental framework for understanding how sustained human–AI interaction changes users’ cognitive capacities.",
+        "methodology": "It develops the concept of cognitive entanglement by drawing on philosophy of mind, cognitive science, and learning science to compare forms of human–AI coupling.",
+        "finding": "The article argues that repeated AI delegation may weaken independent judgment or reorganize cognition, while AI designed to provide productive challenge could support cognitive development."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170080721",
       "title": "Climate-control ChatGPT for EFL writing and AI literacy",
       "authors": "Hesham Aldamen, Salwa Mohammad Alawneh, Mohamad Almashour, Mutasim Al-Deaibes, Rami Alsharefeen",
@@ -1833,6 +1959,20 @@
         "goal": "The study aims to assess ChatGPT-5’s reliability, quality, usefulness, and readability when providing non-clinical leisure health advice.",
         "methodology": "Researchers generated ChatGPT-5 responses to 34 leisure-and-health questions and evaluated them using mDISCERN, GQS, a usefulness Likert scale, and the Flesch Reading Ease formula.",
         "finding": "ChatGPT-5 showed moderate reliability, good quality, and relatively high usefulness, but difficult readability, inconsistent source transparency, and limitations with personalized scenarios constrained its utility."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172510935",
+      "title": "Can’t help falling in love… with a bot? A mixed-methods analysis of public discourses of AI intimacy and companionship on YouTube",
+      "authors": "Anurag Shekhar, Calvin Mabaso",
+      "journal": "Frontiers in Sociology",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.3389/fsoc.2026.1846117",
+      "summary": {
+        "goal": "The study examines how AI intimacy and companionship are publicly debated in YouTube comments.",
+        "methodology": "It analyzes 8,757 comments using sentiment, emotion, and topic modeling, alongside reflexive thematic analysis of 527 high-engagement comments.",
+        "finding": "The comments portray AI companionship as both emotionally supportive and potentially limiting, while raising concerns about authenticity, loneliness, social conditions, and commercial exploitation of intimate disclosures."
       }
     },
     {
