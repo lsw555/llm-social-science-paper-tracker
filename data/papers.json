@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T03:41:08.682808+00:00",
+  "updatedAt": "2026-08-09T03:48:36.221695+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -394,6 +394,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7196954619",
+      "title": "The Second Workshop on SciSoc Agents &amp; LLMs: Agentic AI for Scientific and Societal Advances",
+      "authors": "Jiayuan Ding, Wei Jin, Carl Yang, Yixin Wang, Chanyoung Park, Xiangliang Zhang, Jimeng Sun, Danai Koutra",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1145/3770855.3818253",
+      "summary": {
+        "goal": "The workshop aims to examine how LLM-powered agentic systems can advance scientific research and address societal challenges, including in the social sciences.",
+        "methodology": "It brings together research on autonomous agents, tool use, memory, multi-step reasoning, multi-agent collaboration, and real-world deployments.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7164131933",
       "title": "The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies",
       "authors": "Yundong Wu",
@@ -727,6 +741,20 @@
         "goal": "The study evaluates the reliability of large language models for annotating sentiment in Chinese social media comments and the effects of their labels on downstream classification.",
         "methodology": "Three LLMs generated zero-shot sentiment labels for 1,543 Bilibili comments, 500 comments received manual annotations for Cohen’s Kappa comparison, and classifiers were trained on the resulting labels.",
         "finding": "Doubao had the highest agreement with human labels, and classifiers trained on its annotations achieved the best reported Macro-F1 scores."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7197045876",
+      "title": "Randomized controlled trial of GenAI coach feedback efficacy, acceptability and mechanisms in anxiety worry logs",
+      "authors": "Chuncheng Huang, Junpeng Lin, Yanling Yue, Yong‐Jin Liu, Howard Berenbaum, Nisha Yao, Wenting Mu",
+      "journal": "npj Digital Medicine",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41746-026-03087-2",
+      "summary": {
+        "goal": "The study evaluates the efficacy, acceptability, and mechanisms of GenAI-generated personalized feedback in an anxiety-focused worry-log intervention.",
+        "methodology": "It uses a three-arm randomized controlled trial comparing GenAI feedback, human feedback, and a worry-log-only control over 10 days.",
+        "finding": "GenAI feedback significantly improved state anxiety and worry compared with the control, with acceptability and improvements comparable to human feedback."
       }
     },
     {
@@ -1094,6 +1122,48 @@
       }
     },
     {
+      "id": "https://openalex.org/W7196949030",
+      "title": "Linguistic perspective-taking in verbal communication with LLMs: evidence of an egocentric bias",
+      "authors": "Lea Marie Petrasch, Regina Jucks",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1894763",
+      "summary": {
+        "goal": "The study examines whether people expect ChatGPT’s voice function to detect and respond appropriately to non-literal meanings such as sarcasm.",
+        "methodology": "In a within-subject experiment, 327 participants evaluated higher-education interaction scenarios that presented verbal information as either sarcastic or sincere.",
+        "finding": "Participants falsely expected ChatGPT to detect non-literal meanings and to reply accordingly, indicating an egocentric bias in linguistic perspective-taking."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7196963890",
+      "title": "Lifelong learning in an AI-driven world: assistance, personalization and automation under scrutiny",
+      "authors": "Gerardo Alfredo Rodríguez, Andrés Chiappe, Fabiola Sáez-Delgado",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1916528",
+      "summary": {
+        "goal": "The review examines whether AI assistance, personalization, and automation align with the educational, social, and equity-oriented aims of lifelong learning.",
+        "methodology": "It conducted a PRISMA-informed scoping review of 189 articles using categorical coding, chi-square tests, and Cramér's V.",
+        "finding": "AI applications showed weak alignment with lifelong-learning paradigms, geographic contexts, and vulnerability profiles despite personalization being a prominent promise."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7196923136",
+      "title": "Leveraging Artificial Intelligence and Natural Language Processing in Legal Epidemiology Studies: Opportunities and Challenges",
+      "authors": "Regen Weber-Fares, Fallon Julia Cochlin, Snigdha Peddireddy, Mara Howard-Williams, Gregory Sunshine, Emily Ho, Cason Daniel Schmit",
+      "journal": "The Journal of Law Medicine & Ethics",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1017/jme.2025.10224",
+      "summary": {
+        "goal": "The paper reviews how artificial intelligence and natural language processing can support scientific legal epidemiology studies examining how laws influence health outcomes.",
+        "methodology": "It draws on lessons from case deployments and recent literature to assess AI/NLP applications for legal data collection, coding, analysis, and quality control.",
+        "finding": "The review identifies opportunities, validity challenges, methodological research needs, and reporting elements needed to advance AI/NLP-based legal epidemiology."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172251686",
       "title": "Large language models in adolescent suicide prevention: from language signals to accountable action",
       "authors": "Man Li, Wendi Huang, Jingjing Wu, Nanyu Kuang, Yong Luo, Juan Huang, Nanqu Huang",
@@ -1133,6 +1203,20 @@
         "goal": "The study evaluates whether LLMs can detect supply-chain risks and generate managerial risk summaries from business news.",
         "methodology": "Researchers manually annotated 121 articles about five steel companies using the Cambridge Risk Taxonomy and evaluated two LLMs with few-shot prompting for multi-label classification and summary generation.",
         "finding": "LLMs approximated human annotations and produced semantically aligned summaries, but struggled with domain-specific geopolitical risks and label overgeneration."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7196965855",
+      "title": "LLMs’ reshaping of people, processes, products, and society in software development: a qualitative exploration with early adopters",
+      "authors": "Benyamin T. Tabarsi, Heidi Reichert, Stephen D. Gilson, Ally Limke, Sandeep Kaur Kuttal, Tiffany Barnes",
+      "journal": "Empirical Software Engineering",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s10664-026-10917-0",
+      "summary": {
+        "goal": "The study examines how LLM-based tools affect people, processes, products, and society across the software development lifecycle.",
+        "methodology": "Researchers conducted semi-structured interviews with sixteen early-adopter software professionals and analyzed them thematically.",
+        "finding": "Participants reported productivity gains but also increased evaluation work, phase-dependent adoption, new competencies, and anticipated changes in hiring, teamwork, and computing education."
       }
     },
     {
@@ -2046,6 +2130,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7196983736",
+      "title": "Artificial Intelligence in Journalism and Media Practice: A Systematic Review of Applications, Limitations, and Research Approaches",
+      "authors": "Jun Gui, Nasrullah Dharejo, Mumtaz Aini Alivi",
+      "journal": "Journalism and Media",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.3390/journalmedia7030164",
+      "summary": {
+        "goal": "The study investigates applications, limitations, and research approaches concerning AI and machine learning in journalism and media practice.",
+        "methodology": "It systematically reviewed 121 peer-reviewed articles using PRISMA, qualitative thematic analysis, structural topic modelling, and bibliometric network analysis.",
+        "finding": "The review finds that effective AI adoption depends on workflow redesign and human–machine collaboration, while audience responses to AI-generated content vary across cultures and copyright frameworks remain contested."
+      }
+    },
+    {
       "id": "https://openalex.org/W4416285046",
       "title": "ArchiveGPT: A human-centered evaluation of using a vision language model for image cataloguing",
       "authors": "Line Abele, Gerrit Anders, Tolgahan Aydın, Jürgen Buder, Helen Fischer, Dominik Kimmel, Markus Huff",
@@ -2071,6 +2169,20 @@
         "goal": "The study aims to develop an integrated model for translation learning through structured human–AI engagement and teacher guidance.",
         "methodology": "It combines communication, educational, digital literacy, and critical-thinking frameworks and evaluates the model through a preliminary assessment by five domain specialists.",
         "finding": "Experts provided initial support for the model’s coherence, utility, understandability, and acceptability, while classroom effectiveness remains untested."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201846247",
+      "title": "An External Governance Framework for AI Roles in Large Language Model Interaction",
+      "authors": "Qian Ma, Kaixuan Liu, Yongdong Zhou",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.5281/zenodo.21834873",
+      "summary": {
+        "goal": "The paper proposes an external governance framework to make LLM-based AI roles more deterministic, verifiable, and auditable in human–AI interaction.",
+        "methodology": "Using a design science approach, it develops the Role Base framework with semantic layers, governance mechanisms, external constraints, and output-based drift measures.",
+        "finding": "The framework provides a theoretical and technical design for governed AI roles, but its effectiveness awaits prototype implementation and empirical validation."
       }
     },
     {
@@ -2127,6 +2239,20 @@
         "goal": "The paper aims to reconceptualize human agency in conversational, generative, and agentic AI systems.",
         "methodology": "It revisits control as a diagnostic lens, distinguishes process control from outcome control, and maps systems across these dimensions conceptually.",
         "finding": "The paper argues that agency is redistributed from interface affordances to interaction through goal articulation, output evaluation, and outcome negotiation."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7196926573",
+      "title": "Affordances and Challenges of GenAI Feedback in Primary Students’ Scientific Drawing",
+      "authors": "Kason Ka Ching Cheung, Chen Jiahao Enzo, Young Hoan Cho, Zhi Hong Wan, Cheung Ho Wai, Pang Wai Fung",
+      "journal": "Research in Science Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s11165-026-10366-1",
+      "summary": {
+        "goal": "The study aims to design effective GenAI feedback to improve primary students’ scientific drawings and practices.",
+        "methodology": "Researchers developed the Sci-GiFD application and conducted a mixed-method case study with 65 Year 3 students over six days, analyzing pre- and post-drawings, 404 drawing records, feedback, and GenAI scoring accuracy.",
+        "finding": "Students’ topic-specific scientific model drawings improved, and qualitative evidence showed that some students acted on GenAI feedback to revise their observational and model drawings."
       }
     },
     {
@@ -2379,6 +2505,20 @@
         "goal": "The study evaluated how traditional lectures and three AI-supported multilingual CTCA 2.0 instructional modalities affect students’ OSI model achievement and attitudes.",
         "methodology": "A quasi-experimental study assigned 75 students in four intact groups and analyzed pre-test and post-test data using MANCOVA.",
         "finding": "CTCA modalities produced significantly more positive attitudes, while their higher achievement means were not statistically significant compared with the control group."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201834474",
+      "title": "\"Critical Language Ecosystem\": About Truth, Power, and Digital Media from a Marxist Critical Philosophy Approach",
+      "authors": "Pham Tran Quynh, Nguyen Khanh Hung, Trần Nhật Minh",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.5281/zenodo.21837637",
+      "summary": {
+        "goal": "The paper develops a Marxist framework for analyzing how digital media and generative AI shape the relationship between linguistic truth and falsehood.",
+        "methodology": "It draws on modern language theories and Marxist theories of language, social consciousness, and alienation to analyze the formation and amplification of truth and falsehood.",
+        "finding": "The paper argues that a critical language ecosystem could help restore language’s truth-conveying function and foster a more humane and honest digital language culture."
       }
     }
   ]
