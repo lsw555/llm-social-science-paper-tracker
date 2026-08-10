@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T03:48:36.221695+00:00",
+  "updatedAt": "2026-08-10T04:03:31.467708+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -139,6 +139,20 @@
         "goal": "The study examined Vietnamese university EFL students’ perceptions and preferences regarding ChatGPT, peer, and teacher feedback during writing revision.",
         "methodology": "It used an explanatory sequential mixed-methods design with questionnaires from 110 English majors and semi-structured interviews with 10 selected participants.",
         "finding": "Students rated teacher feedback highest, valued ChatGPT for immediacy, and generally supported combining all three feedback sources with explicit training."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201998446",
+      "title": "Validating Large Language Model–Assisted Qualitative Research: Ensuring Methodological Integrity in Engineering Education Research",
+      "authors": "Tamara Kecman, Maxwell Fingold, Susan McCahan",
+      "journal": "Proceedings of the Canadian Engineering Education Association (CEEA)",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.24908/pceea.2026.21516",
+      "summary": {
+        "goal": "The paper aims to advance understanding of validation methods for qualitative research that uses large language models.",
+        "methodology": "It reviews literature on validation techniques for LLM outputs and documents an approach used to study engineering-task exposure to artificial intelligence.",
+        "finding": "The paper identifies similarities among validation techniques and provides a practical validation example distinct from LLM-based qualitative coding."
       }
     },
     {
@@ -646,6 +660,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7201968440",
+      "title": "Screenshots as Immutable Primary Sources: Archival Capture of Transient LLM–User Banter and Grok's Public Discourse on X, 5–8 August 2026",
+      "authors": "Trent Slade",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.5281/zenodo.21846751",
+      "summary": {
+        "goal": "The dataset aims to preserve a contextual record of transient public interactions between users and Grok on X.",
+        "methodology": "It archives a chronological sequence of screenshots showing interface outputs, conversation context, timestamps, visible engagement information, and later public responses.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7164460264",
       "title": "Scale or Validity? Measuring Competitive Moves with Validated LLM Coding",
       "authors": "Lucas Carassato Fernandes Brites, Gabriele Piccoli, Joaquin Rodriguez, Sun Tae Kim",
@@ -811,6 +839,20 @@
         "goal": "The study aims to develop a personalized programming assistant that adapts generative-AI code explanations to learners’ emotional states.",
         "methodology": "It uses a hybrid ResNet-50 and LSTM facial-emotion model to guide prompt generation for a generative language model, which was tested with students in real-time classroom use.",
         "finding": "The emotion-aware AI improved students’ learning performance and motivation compared with a normal AI tutor."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201992236",
+      "title": "Personality traits and emerging digital technology adoption among art students in Chinese universities: A narrative review",
+      "authors": "Liang Cheng1 and Alex Hou Hong Ng2*",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.5281/zenodo.21847599",
+      "summary": {
+        "goal": "The review examines how Big Five personality traits predict Chinese university art students’ adoption intentions toward emerging digital technologies, including generative AI.",
+        "methodology": "It thematically synthesizes 47 peer-reviewed studies published from 2010 to 2024 using TAM, UTAUT2, and the Big Five framework.",
+        "finding": "Openness and conscientiousness positively predict adoption, neuroticism inhibits it through AI anxiety, and extraversion and agreeableness have context-dependent or socially mediated effects."
       }
     },
     {
@@ -1077,6 +1119,20 @@
         "goal": "The study assesses whether large language models provide preventive care guidance consistent with USPSTF recommendations.",
         "methodology": "Researchers tested 35 LLMs on 142 USPSTF topics using simulated user prompts and evaluated response concordance across prompting strategies.",
         "finding": "Concordance varied substantially across models but increased with newer models and chain-of-thought, role-based, and iterative prompting."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201869170",
+      "title": "Mapping the Pandemic’s Echo: Dynamic Narrative Detection and Spatio-Temporal Sentiment Modeling of COVID-19 Discourse on Twitter",
+      "authors": "Moustafa Maaskri, MAATOUG Abdelfatah, Mohamed Goismi, Mohamed Debbab, Moustafa Maaskri",
+      "journal": "medRxiv",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.64898/2026.08.05.26359769",
+      "summary": {
+        "goal": "The paper aims to detect evolving COVID-19 narratives and model spatio-temporal sentiment in Twitter discourse.",
+        "methodology": "It analyzes 2.4 million geolocated tweets from January 2020 to June 2022 using COVID-Twitter-BERT for sentiment classification and BERTopic for dynamic topic modeling.",
+        "finding": "The framework identified distinct pandemic phases, regional differences in discourse, 50 coherent narratives, and achieved a 76% F1-score for sentiment classification."
       }
     },
     {
@@ -1388,6 +1444,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7201853438",
+      "title": "How AI induces professional identity threats: A survey study with public relations professionals",
+      "authors": "Yan Qu, Jordan Morehouse, Shuning Lu, Taufiq Ahmad",
+      "journal": "Public Relations Review",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1016/j.pubrev.2026.102745",
+      "summary": {
+        "goal": "The study examines how AI induces professional identity threats among public relations practitioners.",
+        "methodology": "It uses a quantitative survey of 285 PR professionals to assess threats across five identity dimensions and their associations with AI-related and organizational factors.",
+        "finding": "Perceived identity threats are associated with AI use patterns, attitudes toward AI, AI assessments, and influences from leaders and peers."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172003924",
       "title": "Generative Artificial Intelligence in Education: Bridging the Gap between Opportunity and Teacher Readiness via the Extended UTAUT Framework",
       "authors": "Laurence Nehmtallah Ajaka",
@@ -1399,6 +1469,20 @@
         "goal": "The study examines teachers’ perceptions of generative AI, including pedagogical effectiveness, AI literacy, implementation challenges, and readiness to use it.",
         "methodology": "It uses a descriptive survey of 146 teachers analyzed with descriptive and inferential statistics within an extended UTAUT framework.",
         "finding": "Perceived pedagogical utility and technical expertise increase teacher confidence, while inadequate training, unclear governance, and ethical concerns hinder implementation."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201850661",
+      "title": "Generative Artificial Intelligence Productivity in Indonesian Micro, Small, and Medium Enterprises",
+      "authors": "Murniati, Sugeng Rianto, Ayman Ghazi Taher Nazzal, Mufida Sekardhani",
+      "journal": "Signifikan Jurnal Ilmu Ekonomi",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.15408/sjie.v15i2.51244",
+      "summary": {
+        "goal": "The study examines factors influencing generative AI adoption and its relationship with productivity in Indonesian MSMEs.",
+        "methodology": "It uses a cross-sectional survey of 200 Indonesian MSMEs analyzed with PLS-SEM.",
+        "finding": "Perceived usefulness and technological readiness increased GenAI adoption intensity, while perceived usefulness and organizational support positively influenced productivity; adoption intensity and technological readiness had no direct productivity effect."
       }
     },
     {
@@ -2071,6 +2155,62 @@
         "goal": "The study examined whether an LLM-based counseling agent improves perceived counseling alliance, disclosure willingness, and recognition of mental health risks among Chinese university students.",
         "methodology": "Using a randomized between-subjects experiment, the researchers compared 388 students assigned to an LLM-based counseling condition or a control condition.",
         "finding": "The LLM agent improved counseling alliance, disclosure willingness, and general risk recognition, but showed limited performance for crisis-level disclosures and was best suited as complementary front-end support."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201973597",
+      "title": "Bridging Coursework and Professional Practice through a Retrieval-Grounded, Privacy-Preserving AI Learning Companion",
+      "authors": "Chen Ying",
+      "journal": "Proceedings of the Canadian Engineering Education Association (CEEA)",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.24908/pceea.2026.21512",
+      "summary": {
+        "goal": "The paper aims to design a privacy-preserving AI learning companion that supports guided exploration of professional codebases in large graduate engineering courses.",
+        "methodology": "It presents a retrieval-grounded system using hybrid lexical-semantic retrieval, chunk-level indexing, and a locally hosted 8B-parameter language model, along with a planned classroom evaluation.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201979089",
+      "title": "Beyond Accuracy: A Mixed-Methods Audit of Chain-of-Thought Failures in LLM-Based COVID-19 Vaccine Stance Detection",
+      "authors": "Andreas Praschk, Valentin Fischill-Neudeck, Thomas Caspari, Hans‐Peter Wiesinger",
+      "journal": "Journal of Medical Systems",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1007/s10916-026-02449-3",
+      "summary": {
+        "goal": "The study assessed whether reasoning-enabled LLMs can classify COVID-19 vaccination stances and produce coherent, auditable reasoning for public health research.",
+        "methodology": "The authors evaluated zero-shot stance classification by o4-mini and Gemini 2.5 Flash on 3,060 human-annotated vaccination tweets and qualitatively analyzed shared misclassifications and chain-of-thought summaries.",
+        "finding": "Both models achieved macro-F1 scores around 0.8, but shared errors included target confusion, literal interpretations of sarcasm, and mismatches between labels and rationales."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201957203",
+      "title": "Attitudes on AI Adoptions: Input to Policy Formulation",
+      "authors": "Ramil Santos",
+      "journal": "International Journal of Engineering Trends and Technology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.14445/22315381/ijett-v74i7p121",
+      "summary": {
+        "goal": "The study evaluates how AI is used for oral and written higher-education tasks and informs policy formulation in the Philippines.",
+        "methodology": "It uses qualitative grounded theory and the Delphi method with students, teachers, and administrators from four higher-education institutions in Bulacan.",
+        "finding": "AI was used for brainstorming, editing, lesson development, material preparation, and documentation, but participants reported plagiarism, excessive reliance, and reduced original thought, supporting the need for national policies and greater awareness."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7197032412",
+      "title": "Assessing faculty knowledge, attitudes, practices, and training needs regarding artificial intelligence in medical education",
+      "authors": "Nouran Nader Elnemr, Soha Rashed Aref, Aly Mohamed Abdelmohsen, Nadia Abdelmoneim Elzeiny, Ayat Eltayar",
+      "journal": "Discover Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s44217-026-02000-z",
+      "summary": {
+        "goal": "The study aimed to assess medical educators’ knowledge, attitudes, practices, and training needs regarding AI to inform faculty development planning.",
+        "methodology": "Researchers conducted a web-based cross-sectional survey of 336 faculty members and teaching assistants, analyzing quantitative responses descriptively and qualitative responses through content analysis.",
+        "finding": "Although many respondents were interested in AI, most lacked awareness and experience, citing limited access, insufficient knowledge, and inadequate training opportunities as key barriers, with workshops preferred for training."
       }
     },
     {
