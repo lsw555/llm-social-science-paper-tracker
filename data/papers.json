@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T04:03:31.467708+00:00",
+  "updatedAt": "2026-08-11T03:49:47.345783+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -100,6 +100,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7201979926",
+      "title": "When AI is Not AI",
+      "authors": "R. J. Simonds, Z.W. Taylor, Sara Ray",
+      "journal": "Journal of Ethics and Emerging Technologies",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.55613/jeet.v36i2.227",
+      "summary": {
+        "goal": "The study examines whether higher-education chatbots provide adaptive, generative financial counseling to college students.",
+        "methodology": "Researchers conducted structured interactions with higher-education chatbots and classified them by their response-generation capabilities.",
+        "finding": "Many systems labeled as AI chatbots were offline, form-based, decision-tree systems, undisclosed human chat services, or otherwise offered limited intelligence."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170094742",
       "title": "What do we know about generative AI and learning?",
       "authors": "Nancy Butler Songer, C.M. Logan, Niral Shah, David Stroupe",
@@ -167,6 +181,20 @@
         "goal": "Analizar la influencia del uso de ChatGPT en el desarrollo del pensamiento crítico de estudiantes de bachillerato.",
         "methodology": "Se aplicó un enfoque cuantitativo descriptivo no experimental mediante una encuesta estructurada a 182 estudiantes.",
         "finding": "El 60% usa ChatGPT frecuentemente, principalmente para generar ideas y comprender contenidos, sin evidenciarse una disminución significativa del pensamiento crítico, cuyo desarrollo depende del tipo de uso."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202023968",
+      "title": "Using Generative Artificial Intelligence to Identify Themes of Basic Psychological Needs in Popular Song Lyrics",
+      "authors": "Hermione H. Liu, Suzy E. Miller, Mark A. Lee, Nicholas Matherne, Damien J. Miller, Emma D’Aprano",
+      "journal": "Psychology of Music",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1177/03057356261465628",
+      "summary": {
+        "goal": "The study examines how frequently popular song lyrics represent themes of autonomy, competence, and relatedness under self-determination theory.",
+        "methodology": "Researchers used a custom application employing large language models to conduct deductive content analysis of 360 popular songs from Australia’s top singles charts between 1988 and 2023.",
+        "finding": "All three psychological needs appeared in the lyrics, with relatedness most frequent, followed by autonomy and competence, and need satisfaction more common than frustration."
       }
     },
     {
@@ -296,6 +324,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7201982250",
+      "title": "The effects of perceived technical explanation and analogical explanation on learning behavioral intention among K-12 students with different subject preferences in AI-assisted learning",
+      "authors": "Jin Zhou, Zhongtian Lv, Yingxin Li, Yonggu Wang",
+      "journal": "Acta Psychologica",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1016/j.actpsy.2026.107542",
+      "summary": {
+        "goal": "The study examines how technical and analogical AI explanations affect K-12 students’ learning behavioral intentions and whether subject preference moderates these effects.",
+        "methodology": "It surveyed 258 Chinese Grade 8 students exposed to both explanation styles and analyzed the responses using PLS-SEM.",
+        "finding": "Technical explanations predicted learning intention directly and through self-efficacy, analogical explanations predicted it through learning interest, and subject preference moderated the technical-explanation effect."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169860822",
       "title": "The effects of AI second opinions on collaborative confidence and decision-making: evidence from a controlled study of postgraduate vocal accompanists",
       "authors": "Tong Zhu, Li Xia",
@@ -363,6 +405,20 @@
         "goal": "The article develops a renewed theory of agenda-setting by examining how artificial intelligence transforms social control and the structuring of public opinion.",
         "methodology": "It presents a systematic review of recent literature organized around four analytical axes: algorithmic gatekeeping, internalized framing in LLMs, agenda building with generative AI, and the media-AI intermediary loop.",
         "finding": "It argues that AI creates a distributed, obscured, and automated layer of control with theoretical, methodological, and normative implications for how perceived reality is structured."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201967070",
+      "title": "The Validity and Reliability of MUETBot in Supporting the Learning of MUET Reading Skills among ESL Students",
+      "authors": "Tang Tsiao Yin, Hafiz Hanif",
+      "journal": "International Journal of Academic Research in Progressive Education and Development",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.6007/ijarped/v15-i3/28721",
+      "summary": {
+        "goal": "The study evaluates MUETBot, an AI-supported conversational tool designed to support independent learning of MUET reading skills among ESL students.",
+        "methodology": "Five subject matter experts assessed content validity, and 30 undergraduate ESL students completed a user acceptance test twice over a two-week interval.",
+        "finding": "MUETBot showed strong content validity, reliable and temporally stable evaluation scores, and high student acceptance."
       }
     },
     {
@@ -604,6 +660,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7201980804",
+      "title": "Students' Voices on the Implementation of Gen-AI Feedback in EFL Writing Classroom",
+      "authors": "Abdul Ayiz, Ahmad Tauchid, Riyadh Ahsanul Arifin, Nani Hidayati, Muhammad Reza Ainun Najib, Ismi Islamia R Iswari",
+      "journal": "ETERNAL (English Teaching Journal)",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.26877/eternal.v17i2.3644",
+      "summary": {
+        "goal": "The study investigates EFL students’ perceptions, engagement patterns, feedback literacy, and experiences of autonomy and dependency when using generative-AI feedback.",
+        "methodology": "It uses thematic analysis of four focus group discussions with 30 undergraduate EFL writing students at a private university in Surakarta.",
+        "finding": "Students viewed Gen-AI feedback as useful for writing improvement and idea generation, engaged with it selectively, developed feedback literacy unevenly, and reported both increased confidence and concerns about dependency, accuracy, and academic integrity."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172451374",
       "title": "Sovereignty, Collaboration, and Capability: Three Dilemmas and a Transformation Framework for Sci-Tech Journal Editors in the Digital-Intelligence Era",
       "authors": "Sisi Fan",
@@ -769,6 +839,20 @@
         "goal": "The study evaluates the reliability of large language models for annotating sentiment in Chinese social media comments and the effects of their labels on downstream classification.",
         "methodology": "Three LLMs generated zero-shot sentiment labels for 1,543 Bilibili comments, 500 comments received manual annotations for Cohen’s Kappa comparison, and classifiers were trained on the resulting labels.",
         "finding": "Doubao had the highest agreement with human labels, and classifiers trained on its annotations achieved the best reported Macro-F1 scores."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201980308",
+      "title": "Reimagining history teaching in the digital age: Engaging “disengaged” learners through critical pedagogy and generative artificial intelligence",
+      "authors": "Putso Nyathi",
+      "journal": "Turkish History Education Journal",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.17497/tuhed.1890436",
+      "summary": {
+        "goal": "The paper examines how generative AI can support more engaging, inclusive, and socially responsive History teaching for disengaged secondary-school learners in South Africa.",
+        "methodology": "It presents a reflective and analytical discussion grounded in theory, existing scholarship, curriculum and policy documents, emerging AI debates, and the author’s professional experience.",
+        "finding": "The paper argues that generative AI should serve as a mediating tool within creative, critical, ethically informed, and learner-centred pedagogy rather than being treated as a threat."
       }
     },
     {
@@ -1668,6 +1752,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202045710",
+      "title": "From Primal Survival to Modern Intelligence: An Evolution-Inspired Curriculum Hypothesis for Human-Like Intelligence in Large Language Models",
+      "authors": "TrinityLabo",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.5281/zenodo.21860758",
+      "summary": {
+        "goal": "The paper proposes testing whether training large language models on a reconstructed pre-linguistic survival substrate changes their human-like cognitive and social characteristics.",
+        "methodology": "It proposes comparing models trained with Modern-only, Primitive-to-Modern, and Modern-to-Primitive curricula using evaluations of creativity, empathy, prosocial behavior, grounded reasoning, risk understanding, cooperation, aggression, and in-group bias.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171054755",
       "title": "From AI Dependence to AI Literacy",
       "authors": "Brahim Machaal",
@@ -2130,6 +2228,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7201993829",
+      "title": "ChatGPT and Large Language Models in Contemporary Nursing",
+      "authors": "Izabella Uchmanowicz, Heba Aldossary, Christopher S. Lee, Mariachiara Figura, Maria Jędrzejczyk, Maddalena De Maria, Gianluca Pucciarelli, Ewa Molka",
+      "journal": "Journal of Clinical Nursing",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1111/jocn.70490",
+      "summary": {
+        "goal": "The review synthesizes evidence on ChatGPT and LLM applications, benefits, limitations, and governance in nursing education, clinical practice, and workflow management.",
+        "methodology": "The authors conducted a narrative review of literature identified through structured searches of Medline, Scopus, and arXiv from January 2019 to March 2026.",
+        "finding": "LLMs may support nursing education, preliminary clinical assessment, patient education, and documentation, but hallucinations, bias, privacy risks, accountability concerns, and limited performance in complex cases require human verification and governed deployment."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172510935",
       "title": "Can’t help falling in love… with a bot? A mixed-methods analysis of public discourses of AI intimacy and companionship on YouTube",
       "authors": "Anurag Shekhar, Calvin Mabaso",
@@ -2536,6 +2648,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202029146",
+      "title": "AI Sycophancy Reverse-Utilization Theory (AI-SRUT) A Methodological Framework for Theoretical Self-Falsification via Inverted Satisfaction Engineering AI谄媚机制反向利用理论(AI-SRUT) 基于倒置满意度工程的理论自证伪方法论框架",
+      "authors": "He",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.5281/zenodo.21860313",
+      "summary": {
+        "goal": "The paper proposes using LLM sycophancy as a tool for critically testing and falsifying humanities and social-science theories.",
+        "methodology": "It develops a framework that redirects model satisfaction toward rigorous critique and uses cross-model adversarial interactions for theoretical stress-testing.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171863420",
       "title": "A self-training framework using pre-trained language models to detect and classify technology adoption in protest event analysis",
       "authors": "Jun Liu, Xin Li",
@@ -2589,6 +2715,20 @@
         "goal": "The study examines challenges faced by foreign language teachers and strategies for professional development in the context of AI-driven educational change.",
         "methodology": "It uses the TPACK framework and Teacher Identity Theory to analyze AI’s impact on teachers’ professional development and identify pathways for sustainable growth.",
         "finding": "The study argues that teachers should improve their knowledge, digital integration, teaching innovation, role adaptation, and lifelong learning, supported by institutional mechanisms."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201993493",
+      "title": "A Scoping Review of Generative AI Usage and Human Cognition in Education and Professional Practice: Dual-Edged Cognitive Impacts and a Governance Framework",
+      "authors": "Kaneeka Vidanage, Manith Marapperuma, Shakya Dissanayake, Faiz Mohideen Mohamed Thassim Marikar",
+      "journal": "Davao Research Journal",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.59120/drj.v17i3.615",
+      "summary": {
+        "goal": "The review examines how generative AI affects human cognition across education and professional practice and develops governance frameworks for responsible adoption.",
+        "methodology": "The authors conducted a PRISMA-ScR and JBI-guided scoping review of 107 peer-reviewed English-language publications from 2020–2025 identified across five databases.",
+        "finding": "The synthesis proposes a Cognitive Impact Taxonomy and an Integrated Cognitive Symbiosis Framework to maximize cognitive benefits while mitigating risks to critical thinking, creativity, and independent reasoning."
       }
     },
     {
