@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T03:49:47.345783+00:00",
+  "updatedAt": "2026-08-12T04:12:58.978294+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -265,6 +265,20 @@
         "goal": "The article develops a methodologically congruent framework for using GenAI in nonpositivist qualitative research.",
         "methodology": "It distinguishes technological and qualitative methodological incongruence and proposes using GenAI as an interlocutor through relational, ethical, researcher-led, and abductive practices.",
         "finding": "GenAI can support surfacing, retrieving, comparing, and suggesting qualitative material, but human researchers remain responsible for interpretation and meaning-making."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202128485",
+      "title": "Towards a Psychologically Grounded Framework for Ethical, Inclusive, and AI-Enhanced Education",
+      "authors": "Arpana Koul -",
+      "journal": "Review of Artificial Intelligence in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.37497/rev.artif.intell.educ.v7ii.1125",
+      "summary": {
+        "goal": "The paper proposes a psychologically grounded framework for ethical, inclusive, and AI-supported education.",
+        "methodology": "It synthesizes approximately 65 sources from academic databases, policy documents, empirical studies, and citation tracking conducted between 2011 and 2025.",
+        "finding": "The framework links learner diversity, AI-enabled pedagogy, and reflective teaching while identifying regional challenges and gaps in cross-cultural validation, especially for generative AI and adaptive learning tools."
       }
     },
     {
@@ -786,6 +800,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202086416",
+      "title": "Risk perception and generative AI discontinuance intention: mediating effect of cognitive fatigue and moderating effect of AI dependence",
+      "authors": "Wenwen Zhao, Jiawen Liu",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1879080",
+      "summary": {
+        "goal": "The study examines how perceived misinformation and privacy risks influence users’ intention to discontinue using generative AI.",
+        "methodology": "It analyzes data from 426 valid questionnaires using a cognitive-affective-behavioral framework to test mediation by cognitive fatigue and moderation by AI dependence.",
+        "finding": "Misinformation and privacy risk perceptions increase AI anxiety and fatigue, AI anxiety increases discontinuance intention, and AI dependence weakens this relationship."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171713825",
       "title": "Rethinking assessment in the age of generative AI: A systematic literature review of African higher education",
       "authors": "Ahmed Antwi-Boampong, Mark Ofori Nketia, Frank Senyo Loglo, Naomi Frimpong, Linda Osei-Fosuaa",
@@ -982,6 +1010,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202081623",
+      "title": "PENGARUH PENGGUNAAN AI GENERATIF DALAM PENYUSUNAN TUGAS MAHASISWA: ANTARA BANTUAN PEMBELAJARAN ATAU PELANGGARAN AKADEMIK",
+      "authors": "M. Badruz Zaman Ar Romdhoni, Christian Arief Jaya",
+      "journal": "EDUTECH Jurnal Inovasi Pendidikan Berbantuan Teknologi",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.51878/edutech.v6i3.14409",
+      "summary": {
+        "goal": "The study examines whether generative AI use supports university students' learning and relates to academic misconduct.",
+        "methodology": "It surveys 85 purposively sampled education technology students using a validated five-point Likert questionnaire and analyzes the data with descriptive statistics and simple linear regression.",
+        "finding": "Generative AI use significantly improved reported learning assistance but was not significantly associated with academic misconduct."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172535944",
       "title": "Optimizing educational analytics by analyzing student perceptions of ChatGPT in programming education using enhanced feature selection",
       "authors": "Shaymaa E. Sorour, Hosnia. M. M. Ahmed, Mohammed Aljaafari, Hanan E. Abdelkader",
@@ -1035,6 +1077,20 @@
         "goal": "The study examines whether generative AI news summaries create a sense of informational sufficiency that reduces incentives to access full news articles.",
         "methodology": "The authors conducted a content analysis of 72 queries submitted by eight users in European Portuguese to ChatGPT, Gemini, and Google Search using three news-related prompts.",
         "finding": "ChatGPT and Gemini produced coherent summaries that could satisfy curiosity but differed in sourcing and contextual awareness, while basic keyword prompts often yielded outdated or irrelevant information."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202042266",
+      "title": "New knowledge source pipelines for sociocultural representations in a cognitive architecture",
+      "authors": "Swapnika Dulam, Julian R. Gay, Christopher L. Dancy",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1874556",
+      "summary": {
+        "goal": "The study aims to examine how LLM and semantic-network knowledge systems represent sociocultural structures and influence behavior.",
+        "methodology": "The authors combine ACT-R cognitive architecture with holographic memory representations using Llama 3.2 or ConceptNet and compare both systems on an implicit association task.",
+        "finding": "The ConceptNet-based system more closely resembled human IAT data, while both systems enabled cognitively grounded evaluation of sociocultural representations."
       }
     },
     {
@@ -2004,6 +2060,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202081774",
+      "title": "EXPLAINING TOURISM AND HOSPITALITY STUDENTS' ADOPTION OF LARGE LANGUAGE MODELS IN HIGHER EDUCATION: AN INTEGRATED TAM–UTAUT FRAMEWORK USING PLS-SEM AND NECESSARY CONDITION ANALYSIS",
+      "authors": "Priya SINGH, Mandeep BHARTI, Sushma Rewal CHUGH, Rohit CHAUHAN, Saud Gulzar AHMAD",
+      "journal": "GeoJournal of Tourism and Geosites",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.30892/gtg.67319-1831",
+      "summary": {
+        "goal": "The study examines factors influencing tourism and hospitality students’ intention to adopt LLM-based learning tools in higher education.",
+        "methodology": "It surveyed 365 university students in India and analyzed the data using PLS-SEM and Necessary Condition Analysis.",
+        "finding": "Perceived usefulness, learner motivation, and social influence were identified as important and necessary conditions for high adoption intention."
+      }
+    },
+    {
       "id": "https://openalex.org/W7166271116",
       "title": "ECHO: An AI-Driven Social Learning Framework for Social Presence in Asynchronous Online Discussions",
       "authors": "Xiaojiao Duan",
@@ -2043,6 +2113,20 @@
         "goal": "The study evaluates whether language families and resource levels affect LLM performance in multilingual social media sentiment analysis.",
         "methodology": "It tests five LLMs on three-class sentiment classification across 36 datasets and languages using zero-shot and few-shot prompting, with hierarchical analysis by language family.",
         "finding": "Few-shot prompting generally improves performance, but low-resource languages remain substantially worse served, while GPT-4o and Claude perform best in high- and medium-resource settings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202079798",
+      "title": "Dissociating communicative success from representational alignment in common ground formation",
+      "authors": "Taiki Yamamoto, Junya Morita, Ryuichiro Higashinaka, Yugo Takeuchi",
+      "journal": "Frontiers in Computer Science",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.3389/fcomp.2026.1873726",
+      "summary": {
+        "goal": "The study examines whether successful communication guarantees shared internal representations in human–LLM interaction.",
+        "methodology": "It compares controlled agent–agent conditions that update perceptual or language-generation modules, with or without discriminative learning, using referent-identification accuracy and feature-space similarity as metrics.",
+        "finding": "Updating language generation with discrimination improved symbolic alignment but reduced representational alignment, whereas updating perception tended to preserve representational alignment."
       }
     },
     {
@@ -2116,6 +2200,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202030612",
+      "title": "Design Principles for a Risk-Aware Conversational Agent in Digital Mental Health Information Access: The Case of Cognitive Theatre",
+      "authors": "Yiming Zhou, Mahsa Honary, Amjad Fayoumi",
+      "journal": "Information Systems Frontiers",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1007/s10796-026-10802-7",
+      "summary": {
+        "goal": "The study aims to develop a risk-aware conversational agent for digital mental health information access and interaction.",
+        "methodology": "Using Design Science Research Methodology, the authors developed and evaluated Cognitive Theatre, a controller-mediated, role-decomposed agent informed by cognitive behavioural therapy.",
+        "finding": "Under controlled model-generated conditions, the system escalated all 50 extreme-risk inputs and received higher ratings than two baselines in AI-based and limited human evaluations."
+      }
+    },
+    {
       "id": "https://openalex.org/W7163985161",
       "title": "DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creativity Assessment in Debate Scenarios",
       "authors": "Tongzhou Yu, Mingjia Li, Hong Qian, Wenkai Wang, Zongbao Zhang, Yaoyu Jiang, Xiangfeng Wang, Aimin Zhou",
@@ -2186,6 +2284,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202025720",
+      "title": "Comparative Analysis of Machine Learning Models for Emotion Prediction in Reviews of Large Language Model-Powered Applications",
+      "authors": "Semmy Wellem Taju, George Morris William Tangka, Ibrena Reghuella Chrisanti",
+      "journal": "Advances in Human Resource Management Research",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.60079/ahrmr.v4i3.1008",
+      "summary": {
+        "goal": "The study aims to compare conventional machine-learning algorithms for classifying emotions in user reviews of LLM-powered applications.",
+        "methodology": "Researchers scraped Google Play Store reviews of eight LLM applications, labeled them into five emotion categories, and evaluated ten algorithms using TF-IDF features and multiple performance metrics.",
+        "finding": "XGBoost performed best, achieving 87.30% accuracy and demonstrating strong discrimination across emotion classes."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172498624",
       "title": "Cognitive Entanglement: Toward a Developmental Framework of the Human-AI Coevolutionary Leap",
       "authors": "Xiao-Kun Wu, Min Chen, Giancarlo Fortino",
@@ -2239,6 +2351,20 @@
         "goal": "The review synthesizes evidence on ChatGPT and LLM applications, benefits, limitations, and governance in nursing education, clinical practice, and workflow management.",
         "methodology": "The authors conducted a narrative review of literature identified through structured searches of Medline, Scopus, and arXiv from January 2019 to March 2026.",
         "finding": "LLMs may support nursing education, preliminary clinical assessment, patient education, and documentation, but hallucinations, bias, privacy risks, accountability concerns, and limited performance in complex cases require human verification and governed deployment."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7163569280",
+      "title": "Characterization and Effects of CS2 Learning with GenAI, Visualization, and Human Support",
+      "authors": "Quinton Yong, Miguel A. Nacenta, Anthony Estey",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1145/3765964.3811663",
+      "summary": {
+        "goal": "The study examines how generative AI compares with algorithm visualization and human tutoring as learning supports in an advanced computer science course.",
+        "methodology": "Twelve students completed three 90-minute sessions on algorithms using each support, while researchers recorded gaze and interaction data and assessed conceptual understanding afterward.",
+        "finding": "Generative AI increased self-efficacy more than live tutoring but produced lower learning outcomes, while live tutoring yielded the strongest learning results."
       }
     },
     {
@@ -2463,6 +2589,20 @@
         "goal": "The study compares how China and South Korea regulate algorithmic fairness and platform accountability in AI journalism.",
         "methodology": "It conducts comparative textual analysis of policy documents and examines evidence from Toutiao and Naver.",
         "finding": "Both regulatory models mitigate infodemics and algorithmic bias but involve trade-offs between regulatory efficiency and editorial independence."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202079832",
+      "title": "Agentic AI as a Driver of Innovation and Change Management in Organizations: A Conceptual Review and Framework for Technology-Enabled Transformation",
+      "authors": "Fatma Albalooshi",
+      "journal": "International Journal of Technology and Systems",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.47604/ijts.3916",
+      "summary": {
+        "goal": "The paper examines how Agentic AI may drive organizational innovation and change management during technology-enabled transformation.",
+        "methodology": "It uses a desk-based conceptual review and framework development based on a structured literature search and thematic synthesis.",
+        "finding": "Agentic AI may support ideation, experimentation, process redesign, and workflow coordination, but successful transformation requires organizational readiness, employee trust, human oversight, and responsible governance."
       }
     },
     {
