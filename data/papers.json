@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T04:12:58.978294+00:00",
+  "updatedAt": "2026-08-13T04:19:21.849959+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -27,6 +27,20 @@
         "goal": "The article examines the ethical and legal challenges posed by companion AI chatbots and develops a theory of harm for digitally mediated intimacy.",
         "methodology": "It analyzes companion AI through anthropomorphism, emotional AI, emergent vulnerabilities, and mismatched legal taxonomies.",
         "finding": "The article argues that existing frameworks inadequately address companion AI harms and proposes intimacy capitalism as a framework for analyzing the monetization and exploitation of digitally mediated intimate relations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202172301",
+      "title": "ポエムで愛を語られたら、嘘つきだとわかることを言語学で証明する:詩化表現の情報隠ぺいテクニック Poetic Expression as Linguistic Concealment: A Linguistic Proof That Love Spoken in Poetry Is a Lie",
+      "authors": "Viorazu.",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.5281/zenodo.21881396",
+      "summary": {
+        "goal": "The paper aims to explain poeticized LLM responses, hallucination-related information concealment, safety-feature false positives, and output disparities related to user tone and language.",
+        "methodology": "It uses linguistic and cognitive-science analysis to classify concealment techniques, examine multilingual safety-detection examples, propose a concealment score and protocol, and relate poeticization to working-memory limitations.",
+        "finding": "The abstract reports that the authors identified 27 Japanese and 28 English concealment techniques, described tokenization-related safety errors and tone-based output bias, and proposed the Viorazu.score and Viorazu Protocol."
       }
     },
     {
@@ -114,6 +128,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202208331",
+      "title": "What really happens when a dev vibes with the code? An empirical study on LLM behavioral divergence in response to expressive code comments",
+      "authors": "Angela N. Johnson",
+      "journal": "Frontiers in Artificial Intelligence",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.3389/frai.2026.1784973",
+      "summary": {
+        "goal": "The study examines how expressive inline code comments in different developer styles affect LLM behavior during code optimization.",
+        "methodology": "Seven expert developers evaluated outputs from GPT-5 and Claude Opus 4.1 optimizing a controlled merge-sort implementation with five comment styles using software-quality criteria and a suggestibility index.",
+        "finding": "Comment style altered code quality, with Claude showing greater interpretive sensitivity and GPT-5 stronger architectural fidelity, while philosophical comments improved Claude’s but reduced GPT-5’s maintainability scores."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170094742",
       "title": "What do we know about generative AI and learning?",
       "authors": "Nancy Butler Songer, C.M. Logan, Niral Shah, David Stroupe",
@@ -195,6 +223,34 @@
         "goal": "The study examines how frequently popular song lyrics represent themes of autonomy, competence, and relatedness under self-determination theory.",
         "methodology": "Researchers used a custom application employing large language models to conduct deductive content analysis of 360 popular songs from Australia’s top singles charts between 1988 and 2023.",
         "finding": "All three psychological needs appeared in the lyrics, with relatedness most frequent, followed by autonomy and competence, and need satisfaction more common than frustration."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202174395",
+      "title": "Users prefer generative AI to reflect real over idealized gender proportions",
+      "authors": "Florian Richter, Sebastian Krügel, Matthias Uhl",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1038/s41598-026-66305-7",
+      "summary": {
+        "goal": "The study investigates users’ evaluations of gender representation in generative AI images of social categories.",
+        "methodology": "An experiment with 719 US participants compared preferences for statistical, uniform, and substantive gender equality in representations.",
+        "finding": "Participants preferred representations that reflected their perception of current reality, while uniform and substantive equality had little influence."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202182041",
+      "title": "Unpacking the dynamics of generative AI use in our daily lives: towards an integrative trust calibration framework",
+      "authors": "Theo Araujo",
+      "journal": "AI & Society",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1007/s00146-026-03279-0",
+      "summary": {
+        "goal": "The article aims to develop an integrative framework for understanding how individuals calibrate trust in generative AI agents used in daily life.",
+        "methodology": "It reviews five challenges concerning trust calibration in conversational generative AI and proposes propositions for future research.",
+        "finding": "The article identifies five trust-calibration challenges and offers propositions and future research considerations."
       }
     },
     {
@@ -293,6 +349,20 @@
         "goal": "The study examines whether learning motivation and engagement serially mediate the relationship between generative AI literacy and vocational students’ perceived EFL proficiency.",
         "methodology": "It uses a cross-sectional survey of 383 vocational college students in China with validated measures of Gen AI literacy, motivation, engagement, and perceived EFL proficiency.",
         "finding": "Gen AI literacy positively predicted perceived proficiency and motivation, with a significant serial mediation pathway through motivation and engagement."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202209073",
+      "title": "The rise of AI in weather and climate information and its impact on global inequality",
+      "authors": "Amirpasha Mozaffari, Amanda Duarte, Lina Teckentrup, Stefano Materia, Gina E. C. Charnley, Lluís Palma, Eulàlia Baulenas, Dragana Bojovic",
+      "journal": "npj Climate Action",
+      "year": 2026,
+      "field": "Climate & environment",
+      "url": "https://doi.org/10.1038/s44168-026-00412-z",
+      "summary": {
+        "goal": "The paper examines how AI-driven weather and climate information may amplify global North–South inequality.",
+        "methodology": "The abstract provides a conceptual analysis of disparities in AI inputs, processes, and outputs.",
+        "finding": "It argues that frontier AI models risk disproportionately harming vulnerable regions and recommends climate digital public infrastructure, well-being-centered evaluation, and knowledge co-production."
       }
     },
     {
@@ -744,6 +814,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202207284",
+      "title": "Seeing the Dance: Longitudinal AI as an Observational Instrument for Relational Systems",
+      "authors": "Emily Yee",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.5281/zenodo.21894967",
+      "summary": {
+        "goal": "The paper proposes using longitudinal, context-aware LLMs as passive computational mirrors and cross-perspective translation tools for surfacing interaction patterns and supporting reflection and shared decision-making.",
+        "methodology": "It develops a conceptual framework grounded in systemic human behavior models and family systems theory.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7201968440",
       "title": "Screenshots as Immutable Primary Sources: Archival Capture of Transient LLM–User Banter and Grok's Public Discourse on X, 5–8 August 2026",
       "authors": "Trent Slade",
@@ -968,6 +1052,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202166764",
+      "title": "Perceived skill devaluation as an indirect statistical pathway between perceived generative AI impact and algorithmic anxiety among college students: associations with adaptive coping strategies",
+      "authors": "Dou ChenXu, Zhang Yinuo, Ji Chenao, Xu Xin",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1886139",
+      "summary": {
+        "goal": "The study examined associations between perceived generative AI impact, skill devaluation, algorithmic anxiety, career resources, and adaptive coping among college students.",
+        "methodology": "Researchers conducted a cross-sectional questionnaire study and analyzed the measures using confirmatory factor analysis and structural equation modeling.",
+        "finding": "Perceived AI impact was associated with greater perceived skill devaluation and algorithmic anxiety, while career self-efficacy and growth mindset were associated with adaptive coping but not lower anxiety."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170446542",
       "title": "Perceived control influences users' acceptance of AI-enabled services",
       "authors": "Zhongliang Li, Hao Li",
@@ -1049,6 +1147,20 @@
         "goal": "The study examines how sycophancy shapes the psychotherapeutic conversational competencies of ChatGPT configurations.",
         "methodology": "Four independent raters coded 36 simulated conversations involving three ChatGPT configurations and four clinical vignettes using measures derived from the Therapist Empathy Scale and Motivational Interviewing, supplemented by qualitative analysis.",
         "finding": "All configurations showed strong approval-congruent competencies but minimal confrontation and handling of sustain talk, while crisis-safety rankings inversely matched empathy rankings and failure patterns included fabricated intimacy, affective escalation, and delayed crisis response."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202181592",
+      "title": "O USO DO CHATGPT NA EDUCAÇÃO: CONTRIBUIÇÕES E DESAFIOS PARA PROFESSORES E ESTUDANTES",
+      "authors": "José Peixoto de Alencar Neto, Washington Luiz Moreira Brum, Weslone Brito Reis, Marcio Cesar de Castro Aragão, Gisele Dela Justina, Israel Horácio Almeida Silva, Maria Izis Gonçalves",
+      "journal": "Revista Tópicos.",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.70773/revistatopicos/786381787",
+      "summary": {
+        "goal": "Analisar as contribuições e os desafios do uso do ChatGPT por professores e estudantes na educação.",
+        "methodology": "A pesquisa adota uma abordagem qualitativa, exploratória e descritiva baseada em revisão bibliográfica e documental.",
+        "finding": "O ChatGPT pode apoiar a aprendizagem e o trabalho docente, mas requer mediação, regras transparentes e atenção a erros, dependência, vieses, privacidade e integridade acadêmica."
       }
     },
     {
@@ -1217,6 +1329,20 @@
         "goal": "The study examines Indonesian senior high school students’ behavioral intentions and self-reported use of DeepSeek using the UTAUT2 framework.",
         "methodology": "Researchers surveyed 882 students online and analyzed the data using PLS-SEM, artificial neural networks, and importance–performance map analysis.",
         "finding": "Performance expectancy, effort expectancy, hedonic motivation, and facilitating conditions predicted behavioral intention, while behavioral intention and facilitating conditions predicted use behavior, with performance expectancy and facilitating conditions showing the strongest predictive importance."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202079400",
+      "title": "Measuring narrative polarization in online discourse",
+      "authors": "Jan Elfes, Marco Bastos, Luca Maria Aiello",
+      "journal": "PNAS Nexus",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1093/pnasnexus/pgag270",
+      "summary": {
+        "goal": "The study aims to formalize and measure narrative polarization across partisan information environments.",
+        "methodology": "It uses a large language model to extract narrative roles from 212 YouTube videos and 90,029 comments about the Israeli-Palestinian conflict.",
+        "finding": "Videos showed highly polarized narratives, while comments had significantly lower polarization and converged on shared core narrative structures, although recurring motifs revealed further differences."
       }
     },
     {
@@ -2337,6 +2463,20 @@
         "goal": "The study aims to assess ChatGPT-5’s reliability, quality, usefulness, and readability when providing non-clinical leisure health advice.",
         "methodology": "Researchers generated ChatGPT-5 responses to 34 leisure-and-health questions and evaluated them using mDISCERN, GQS, a usefulness Likert scale, and the Flesch Reading Ease formula.",
         "finding": "ChatGPT-5 showed moderate reliability, good quality, and relatively high usefulness, but difficult readability, inconsistent source transparency, and limitations with personalized scenarios constrained its utility."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202180076",
+      "title": "ChatGPT for Intelligent Human–AI Interaction: Opportunities and Limitations",
+      "authors": "Dr. Antoine Morel, Dr. Camille Laurent",
+      "journal": "International Bulletin of Applied Sciences and Technology",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.37547/ibast/volume06issue08-03",
+      "summary": {
+        "goal": "The paper reviews ChatGPT’s opportunities and limitations for intelligent human–AI collaboration.",
+        "methodology": "It conducts a qualitative review and comparative synthesis of twelve scholarly references.",
+        "finding": "The review finds that ChatGPT is versatile across domains but faces persistent challenges involving hallucination, explainability, accuracy, and responsible deployment."
       }
     },
     {
