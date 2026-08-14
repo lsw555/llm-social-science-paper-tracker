@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T04:19:21.849959+00:00",
+  "updatedAt": "2026-08-14T04:14:12.271803+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -618,6 +618,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202298037",
+      "title": "The Impact of ChatGPT on the Academic Performance of TESOL Students at Kabul Education University",
+      "authors": "Khan Rasol Afghan, Noor Mohammad Ahmadzai, Abdullah Zafarmal",
+      "journal": "International journal of social sciences",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.64394/ijss.v2i2.179",
+      "summary": {
+        "goal": "The study examines how ChatGPT affects TESOL students’ English skills, academic performance, engagement, and motivation.",
+        "methodology": "It uses a quantitative Likert-scale questionnaire administered to 20 randomly selected male master’s TESOL students at Kabul Education University.",
+        "finding": "Students reported generally positive effects on efficiency, comprehension, and confidence, while also expressing concerns about over-reliance, academic dishonesty, and plagiarism."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169852343",
       "title": "The Impact of AI on the Landscape Design Process",
       "authors": "Jacob Owen Huff",
@@ -1080,6 +1094,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202264371",
+      "title": "Perceived AI teaching integration and AI-related teaching innovative behavior among young and silver-aged faculty in Chinese universities: resource compensation, professional identity threat, and configurational evidence",
+      "authors": "Nan Wang, Nuo Han, Yihang Zhu, Yan Li",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1917998",
+      "summary": {
+        "goal": "The study examines how perceived AI integration in university teaching relates to faculty members’ AI-related teaching innovation through resource compensation and professional identity threat.",
+        "methodology": "It uses an anonymous survey of young and silver-aged Chinese university faculty, structural equation modeling, multigroup analysis, and fuzzy-set qualitative comparative analysis.",
+        "finding": "Perceived AI teaching integration was positively associated with teaching innovation, with resource compensation but not professional identity threat supported as an indirect pathway."
+      }
+    },
+    {
       "id": "https://openalex.org/W7163559818",
       "title": "Parametric Social Identity Injection and Diversification in Public Opinion Simulation",
       "authors": "Hexi Wang, Yujia Zhou, Bangde Du, Qingyao Ai, Yiqun Liu",
@@ -1287,6 +1315,20 @@
         "goal": "The study proposes a protocolized LLM-driven agent-based modeling method for simulating social and behavioral research scenarios as a repeatable pre-experimental tool.",
         "methodology": "It embeds LLMs in an agent-based framework with role settings, controlled information and rules, structured outputs, logging, validation checks, and replication manifests, evaluating the approach across three real-world contexts.",
         "finding": "The method produced analyzable outputs, with evidence for rule-shock identification, reduced undecided opinion under targeting, and consistent links between governance responses, public sentiment, and behavioral intentions."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202274203",
+      "title": "MrMaper/persian-twitter-data-governance: v1.0.0 - Initial release",
+      "authors": "Mohammad Roustaei",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.5281/zenodo.21904125",
+      "summary": {
+        "goal": "The project aims to evaluate and mitigate data quality and lexical bias in Persian Twitter corpora used for large language models.",
+        "methodology": "It implements a data-governance pipeline using quality scoring, a lexical bias index, and weighted-resampling bias mitigation.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -1500,6 +1542,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202255205",
+      "title": "Large language models and neoliberal hegemony: an analysis of AI outputs on diversity",
+      "authors": "Valerian Thielicke, Ana-Nzinga Weiß, Hannah Miltzow",
+      "journal": "AI & Society",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1007/s00146-026-03218-z",
+      "summary": {
+        "goal": "The paper examines how six large language models define and represent diversity.",
+        "methodology": "It uses a cross-model and cross-linguistic critical qualitative discourse analysis of LLM outputs, informed by discourse theory.",
+        "finding": "The outputs predominantly reproduce neoliberal discourse by emphasizing diversity's economic utility and individualizing differences, thereby reinforcing existing power structures."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172260541",
       "title": "Large Language Models in public policy research: methodological opportunities, normative standards, and potential challenges",
       "authors": "Song Lan, Xiaoying Zhang, Xiaolin Wang",
@@ -1651,6 +1707,20 @@
         "goal": "The paper presents LLM-based pipelines for curating and enriching digital humanities and social science archives.",
         "methodology": "It applies LLMs to OCR correction, summarization, named-entity recognition and reconciliation, audio/video transcription, handwritten text recognition, and sentiment analysis, integrating outputs into Omeka S.",
         "finding": "The abstract reports that the pipelines were built for the Islam West Africa Collection and designed to be adaptable to other collections."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202283477",
+      "title": "INTELIGÊNCIA ARTIFICIAL NA EDUCAÇÃO: DESAFIOS E OPORTUNIDADES NO PROCESSO DE ENSINO-APRENDIZAGEM",
+      "authors": "Marilene de Macedo e Silva, Paulo Rodrigues de Oliveira, Sabrina Ana dos Santos, Bruna Ribeiro Almeida, Jader do Nascimento Araújo, Maria Celene Machado e Silva Rebouças, Luiza Helena Alves de Almeida",
+      "journal": "Revista Tópicos.",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.70773/revistatopicos/786385368",
+      "summary": {
+        "goal": "The article examines how generative AI can support teaching and learning without undermining authorship, intellectual autonomy, equity, and data protection.",
+        "methodology": "It uses a qualitative, exploratory, and descriptive approach based on an integrative literature review and document analysis of research, Brazilian legislation, and international guidance.",
+        "finding": "The abstract finds that AI can support learning when guided by explicit objectives, demanding tasks, professional mediation, transparency, teacher training, and institutional oversight, while rapid unmediated use may increase dependency, superficiality, bias, surveillance, and inequality."
       }
     },
     {
@@ -1945,6 +2015,20 @@
         "goal": "The paper proposes testing whether training large language models on a reconstructed pre-linguistic survival substrate changes their human-like cognitive and social characteristics.",
         "methodology": "It proposes comparing models trained with Modern-only, Primitive-to-Modern, and Modern-to-Primitive curricula using evaluations of creativity, empathy, prosocial behavior, grounded reasoning, risk understanding, cooperation, aggression, and in-group bias.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202274630",
+      "title": "From Blueprint to Black Box: How Generative Artificial Intelligence Transforms the Artistic Workflow",
+      "authors": "Deepa Kylasam Iyer, Francis Kuriakose",
+      "journal": "British Journal of Industrial Relations",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1111/bjir.70076",
+      "summary": {
+        "goal": "The study examines how generative AI reshapes the labor process and occupational identity in concept art.",
+        "methodology": "The authors propose a contingent model of AI-mediated labor based on workers’ involvement in technology deployment.",
+        "finding": "Worker participation fosters human–AI complementarity and stronger task–technology fit, whereas exclusion leads to skill substitution, work intensification, fragmented workflows, anxiety, and weakened occupational identity."
       }
     },
     {
@@ -2410,6 +2494,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4221144368",
+      "title": "Contextualized sensorimotor norms: Multi-dimensional measures of sensorimotor strength for ambiguous English words, in context",
+      "authors": "Sean Trott, Benjamin K. Bergen",
+      "journal": "Behavior Research Methods",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3758/s13428-026-03134-6",
+      "summary": {
+        "goal": "The study introduces contextualized sensorimotor norms for ambiguous English words and evaluates whether GPT-4 can recover sensorimotor information.",
+        "methodology": "Researchers collected human ratings for 112 words in four contexts and compared them with existing norms, semantic-relatedness judgments, and GPT-4 ratings.",
+        "finding": "Contextualized ratings captured distinct information, reflected word meanings and semantic relatedness, and GPT-4 ratings aligned reasonably well with human judgments."
+      }
+    },
+    {
       "id": "https://openalex.org/W7202025720",
       "title": "Comparative Analysis of Machine Learning Models for Emotion Prediction in Reviews of Large Language Model-Powered Applications",
       "authors": "Semmy Wellem Taju, George Morris William Tangka, Ibrena Reghuella Chrisanti",
@@ -2421,6 +2519,20 @@
         "goal": "The study aims to compare conventional machine-learning algorithms for classifying emotions in user reviews of LLM-powered applications.",
         "methodology": "Researchers scraped Google Play Store reviews of eight LLM applications, labeled them into five emotion categories, and evaluated ten algorithms using TF-IDF features and multiple performance metrics.",
         "finding": "XGBoost performed best, achieving 87.30% accuracy and demonstrating strong discrimination across emotion classes."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4412131342",
+      "title": "Combining implementation and data sciences to accelerate evidence integration into healthcare – ImpleMATE",
+      "authors": "J. Chan, Janna Hastings, Gabriella Tiernan, Jeannie Paterson, Nigel H. Lovell, Luc Betbeder-Matibet, Patrick Kin Man Tung, Sarah Pink",
+      "journal": "F1000Research",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.12688/f1000research.169999.2",
+      "summary": {
+        "goal": "The study aims to develop an AI-assisted platform to accelerate the integration of research evidence into routine healthcare practice.",
+        "methodology": "The platform will be co-designed using human-centred methods and will combine an implementation-focused ontology, AI knowledge extraction, an interactive decision-support application, and an evaluation framework.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -2547,6 +2659,20 @@
         "goal": "The paper aims to design a privacy-preserving AI learning companion that supports guided exploration of professional codebases in large graduate engineering courses.",
         "methodology": "It presents a retrieval-grounded system using hybrid lexical-semantic retrieval, chunk-level indexing, and a locally hosted 8B-parameter language model, along with a planned classroom evaluation.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202283386",
+      "title": "Beyond Empathy: Emotional Intelligence and Artificial Intelligence in Clinical Social Work Practice, Therapeutic Alliance and Human Services",
+      "authors": "Gary Bailey",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.33425/3071-2904.1010",
+      "summary": {
+        "goal": "The review examines the relationship between emotional intelligence and artificial intelligence and implications for clinical social work, therapeutic alliance, ethical decision-making, and service delivery.",
+        "methodology": "It conducts an integrative review of peer-reviewed literature from 2020 to 2026 across social work, psychology, psychiatry, counseling, affective computing, human-computer interaction, and artificial intelligence.",
+        "finding": "The review finds that AI can recognize and simulate emotions and support emotional-intelligence development, but simulated empathy differs from authentic therapeutic relationships and raises ethical concerns."
       }
     },
     {
@@ -2813,6 +2939,20 @@
         "goal": "The paper examines how language models could address longstanding challenges in cognitive science research integration, formalization, conceptual clarity, and analysis of naturalistic data.",
         "methodology": "It presents a conceptual discussion of potential applications and risks of using language models in cognitive science.",
         "finding": "The paper concludes that language models could support a more integrative and cumulative cognitive science when used judiciously alongside human researchers."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202289863",
+      "title": "Addicted to AI? Prevalence and psychological drivers of generative AI dependency among pre-service teachers",
+      "authors": "Bin Jiang, Zhuo Wang",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1922716",
+      "summary": {
+        "goal": "The study examines the prevalence and psychological drivers of generative AI dependency among pre-service teachers and whether perceived AI literacy is protective.",
+        "methodology": "It uses a mixed-methods design combining an online survey of 565 education-major students in Chinese teacher-preparation programs with interviews of five participants and structural and necessary-condition analyses.",
+        "finding": "Dependency was widespread and was driven primarily by impulsivity and anthropomorphic attachment, while perceived AI literacy had a modest protective effect and social norms were a necessary condition."
       }
     },
     {
