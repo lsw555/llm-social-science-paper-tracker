@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T04:14:12.271803+00:00",
+  "updatedAt": "2026-08-15T02:55:39.783892+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -55,6 +55,20 @@
         "goal": "The study investigates which linguistic forms university students notice through ChatGPT feedback in L2 academic writing and whether they subsequently apply them.",
         "methodology": "It qualitatively analyzes student interviews, ChatGPT history logs, and draft revisions.",
         "finding": "Students noticed diverse vocabulary and syntactic structures, but cognitive load, fear of mistakes, and task-completion pressure limited their independent use."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202397459",
+      "title": "Who speaks when machines read scripture: boundary-making and interpretive authority in AI-mediated religious knowledge",
+      "authors": "Hishomudin Ahmad, Norfarhana Ahmad Ghafar",
+      "journal": "AI and Ethics",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1007/s43681-026-01254-5",
+      "summary": {
+        "goal": "The article examines how large language models mediate access to religious and culturally normative knowledge and shape interpretive authority.",
+        "methodology": "It develops a boundary-making account of AI governance grounded in science and technology studies and analyzes transformations across datasets, model alignment, and platform circulation.",
+        "finding": "The analysis finds that these sociotechnical practices shape which meanings become legible and who is authorized to speak, and proposes MRS-DST disclosure standards that position AI as an assistive rather than interpretive authority."
       }
     },
     {
@@ -349,6 +363,20 @@
         "goal": "The study examines whether learning motivation and engagement serially mediate the relationship between generative AI literacy and vocational students’ perceived EFL proficiency.",
         "methodology": "It uses a cross-sectional survey of 383 vocational college students in China with validated measures of Gen AI literacy, motivation, engagement, and perceived EFL proficiency.",
         "finding": "Gen AI literacy positively predicted perceived proficiency and motivation, with a significant serial mediation pathway through motivation and engagement."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202243107",
+      "title": "The role of generative AI in enhancing corporate ESG performance: evidence from China",
+      "authors": "Tian Wang, Lu Dong, Yide Liu",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Climate & environment",
+      "url": "https://doi.org/10.1057/s41599-026-08680-0",
+      "summary": {
+        "goal": "The study examines how generative AI adoption affects the environmental, social, and governance performance of Chinese listed firms.",
+        "methodology": "It constructs a firm-level generative AI index using machine-learning textual analysis and analyzes its association with corporate ESG performance.",
+        "finding": "Generative AI adoption is positively associated with ESG performance through creativity stimulation, customer engagement, and operational risk management, with stronger effects under several organizational conditions."
       }
     },
     {
@@ -688,6 +716,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202386115",
+      "title": "The Bitter End of Universal Grammar: Skinner–Chomsky Debate Today",
+      "authors": "Peter Ayolov",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.5281/zenodo.21923408",
+      "summary": {
+        "goal": "The article reassesses the Skinner–Chomsky debate in light of LLMs’ ability to generate fluent and contextually sophisticated language through statistical learning.",
+        "methodology": "It uses a conceptual analysis drawing on Kuhn, Skinner, Chomsky, contemporary statistical-learning research, and scholarship on language and LLMs.",
+        "finding": "The article argues that LLMs undermine the intuition that statistical learning cannot produce generative linguistic performance and challenge assumptions about language, creativity, and understanding as uniquely human."
+      }
+    },
+    {
       "id": "https://openalex.org/W7163821660",
       "title": "The Autonomy Paradox: Artificial Intelligence and the Foundations of Political Behavior",
       "authors": "Chris Anderson, Elena Pro",
@@ -699,6 +741,20 @@
         "goal": "The paper develops a framework for examining how AI systems affect citizens’ political judgment and capacity for political action.",
         "methodology": "It develops a conceptual framework and research agenda focused on how citizens engage with AI systems across political tasks.",
         "finding": "The paper argues that AI creates an autonomy paradox by potentially reducing participation barriers while weakening independent judgment or constraining political agency."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202342186",
+      "title": "The AI-Enhanced Transition IEP: A Framework for Ethical, Individualized, and Effective Decision-Making",
+      "authors": "Angela M. T. Prince",
+      "journal": "Journal of Special Education Technology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1177/01626434261476313",
+      "summary": {
+        "goal": "The article aims to present an ethical framework for using large language models to support individualized and legally defensible transition IEP development.",
+        "methodology": "It proposes a three-phase, seven-step framework involving planning, prompting, and presenting AI-generated content with professional judgment and collaboration.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -982,6 +1038,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202372046",
+      "title": "Reimagining Theatre in Education for Transformative Learning in the Age of Artificial Intelligence: A Human-Centred Pedagogical Framework Aligned with NEP 2020 for Future-Ready Education",
+      "authors": "Senapati Nayak, Dr. Chandrashekhar Vazalwar, Sambit Kumar Padhi",
+      "journal": "International Journal for Research in Applied Science and Engineering Technology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.22214/ijraset.2026.84578",
+      "summary": {
+        "goal": "The paper aims to develop a human-centred pedagogical framework integrating Theatre in Education with generative AI for transformative, future-ready learning.",
+        "methodology": "It uses a narrative synthesis of empirical and policy literature on drama pedagogy and generative AI, informed by transformative learning, critical pedagogy, and constructivism.",
+        "finding": "The paper concludes that embodied, relational, and reflective learning should complement AI-augmented scaffolding in education."
+      }
+    },
+    {
       "id": "https://openalex.org/W7197045876",
       "title": "Randomized controlled trial of GenAI coach feedback efficacy, acceptability and mechanisms in anxiety worry logs",
       "authors": "Chuncheng Huang, Junpeng Lin, Yanling Yue, Yong‐Jin Liu, Howard Berenbaum, Nisha Yao, Wenting Mu",
@@ -1105,6 +1175,20 @@
         "goal": "The study examines how perceived AI integration in university teaching relates to faculty members’ AI-related teaching innovation through resource compensation and professional identity threat.",
         "methodology": "It uses an anonymous survey of young and silver-aged Chinese university faculty, structural equation modeling, multigroup analysis, and fuzzy-set qualitative comparative analysis.",
         "finding": "Perceived AI teaching integration was positively associated with teaching innovation, with resource compensation but not professional identity threat supported as an indirect pathway."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202378366",
+      "title": "Pedagogical prompting rather than technical mastery: Generative AI use by English and English-medium instruction teachers",
+      "authors": "Ali Khodi, Samantha Curle, Víctor Parra-Guinaldo",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1901680",
+      "summary": {
+        "goal": "The article aims to distinguish pedagogical prompting from AI literacy and technical prompt engineering for English and English-medium instruction teachers.",
+        "methodology": "It draws on professional experience and classroom observation to develop a tentative conceptual model called the Pedagogical Prompting Feedback Cycle.",
+        "finding": "The abstract does not report empirical findings."
       }
     },
     {
@@ -1287,6 +1371,20 @@
         "goal": "The paper aims to improve data structures and algorithms learning for students using code-mixed Romanized Nepali and English through a retrieval-augmented chatbot.",
         "methodology": "It presents AlgoSathi and evaluates it in a 12-week quasi-experiment with 52 undergraduates assigned to chatbot and control groups.",
         "finding": "The chatbot group achieved significantly larger learning gains and higher satisfaction than the control group, with retrieval precision at five of 0.79."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202277815",
+      "title": "Narratives generated by artificial intelligence: an ethical reflection on screenwriting in contemporary cinema",
+      "authors": "Montserrat Jurado-Martín, Carmen M. Lopez-Rico, María Samper Cerdán",
+      "journal": "Frontiers in Communication",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.3389/fcomm.2026.1884330",
+      "summary": {
+        "goal": "The article examines the ethical implications of using generative AI in contemporary film screenwriting.",
+        "methodology": "It uses qualitative analysis of academic literature, international regulations, and three cases involving generative tools in audiovisual narrative development.",
+        "finding": "AI may optimize creative processes but risks weakening authorial responsibility, reproducing stereotypes, and increasing technological dependence, requiring human oversight and accountability."
       }
     },
     {
@@ -1556,6 +1654,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202373933",
+      "title": "Large language models (LLMs) as psychotherapists: an analysis based on psychodynamic psychotherapy theory",
+      "authors": "Mateusz Łabuz, Paweł Szczęsny, Katarzyna Mika-Łabuz",
+      "journal": "Ethics and Information Technology",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1007/s10676-026-09917-x",
+      "summary": {
+        "goal": "The article evaluates the capabilities, limitations, and risks of using LLMs such as ChatGPT as psychotherapists.",
+        "methodology": "The authors review relevant literature and conduct a technical analysis through the lens of psychodynamic psychotherapy theory.",
+        "finding": "The article concludes that current LLMs lack awareness, emotionality, and mentalization required for psychodynamic therapy, while potentially creating illusory therapeutic relationships and excessive trust, although they may support education, preliminary diagnosis, stress reduction, and therapists."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172260541",
       "title": "Large Language Models in public policy research: methodological opportunities, normative standards, and potential challenges",
       "authors": "Song Lan, Xiaoying Zhang, Xiaolin Wang",
@@ -1581,6 +1693,20 @@
         "goal": "The study evaluates whether LLMs can detect supply-chain risks and generate managerial risk summaries from business news.",
         "methodology": "Researchers manually annotated 121 articles about five steel companies using the Cambridge Risk Taxonomy and evaluated two LLMs with few-shot prompting for multi-label classification and summary generation.",
         "finding": "LLMs approximated human annotations and produced semantically aligned summaries, but struggled with domain-specific geopolitical risks and label overgeneration."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202359724",
+      "title": "Large Language Models for Mental Health Prediction: Scoping Review of Bias and Clinical Utility Documentation in 2019-2024",
+      "authors": "Clémentine Bleuze, Karën Fort, Vincent Martin, Aurélie Névéol",
+      "journal": "JMIR AI",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.2196/88082",
+      "summary": {
+        "goal": "The review examines bias and clinical utility limitations in LLM-based mental health prediction systems and assesses how authors discuss these issues.",
+        "methodology": "The authors conducted a PRISMA-ScR scoping review of 201 studies published from 2019 to 2024, using methodological extraction and thematic coding across the LLM development pipeline.",
+        "finding": "Most studies focused on depression detection from social media text, while only 41 studies addressed bias and clinical utility across at least three pipeline stages, indicating limited consideration of these concerns."
       }
     },
     {
@@ -2701,6 +2827,20 @@
         "goal": "The study evaluates how AI is used for oral and written higher-education tasks and informs policy formulation in the Philippines.",
         "methodology": "It uses qualitative grounded theory and the Delphi method with students, teachers, and administrators from four higher-education institutions in Bulacan.",
         "finding": "AI was used for brainstorming, editing, lesson development, material preparation, and documentation, but participants reported plagiarism, excessive reliance, and reduced original thought, supporting the need for national policies and greater awareness."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202394965",
+      "title": "Associations between generative AI–based pronunciation feedback and willingness to communicate in English: the mediating role of English pronunciation self-efficacy",
+      "authors": "Yang Lu, Yanchao Yang, Tianxue Cui, Zeyang Yang, Yuanyuan Cai, Bosheng Jing",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1918980",
+      "summary": {
+        "goal": "The study examines how perceptions of generative AI-based pronunciation feedback relate to English willingness to communicate and whether pronunciation self-efficacy mediates this relationship.",
+        "methodology": "A cross-sectional survey of 1,701 Chinese university English learners was analyzed using covariance-based structural equation modeling and bias-corrected bootstrapping.",
+        "finding": "Positive perceptions of generative AI feedback were associated with greater willingness to communicate, with pronunciation self-efficacy partially mediating the relationship and accounting for 69.9% of the total effect."
       }
     },
     {
