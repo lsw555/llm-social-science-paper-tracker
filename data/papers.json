@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T02:55:39.783892+00:00",
+  "updatedAt": "2026-08-16T03:06:54.436691+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -223,6 +223,20 @@
         "goal": "Analizar la influencia del uso de ChatGPT en el desarrollo del pensamiento crítico de estudiantes de bachillerato.",
         "methodology": "Se aplicó un enfoque cuantitativo descriptivo no experimental mediante una encuesta estructurada a 182 estudiantes.",
         "finding": "El 60% usa ChatGPT frecuentemente, principalmente para generar ideas y comprender contenidos, sin evidenciarse una disminución significativa del pensamiento crítico, cuyo desarrollo depende del tipo de uso."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203467734",
+      "title": "Using large language models to identify reporting challenges for Target 6 implementation: a short validation against human assessment",
+      "authors": "Quentin Groom, Katelyn Faulkner, Sabrina Kumschick, A. Mill, Hanno Seebens, Tanara Truong, Sonia Vanderhoeven",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.32942/x2n96w",
+      "summary": {
+        "goal": "The study evaluates whether large language models can synthesize and identify comparable reporting challenges for Target 6 of the Kunming–Montreal Global Biodiversity Framework across countries.",
+        "methodology": "It compares human assessor scores for 50 countries with structured outputs from Claude, ChatGPT, and Gemini, then uses Claude to summarize challenge patterns across 126 reports.",
+        "finding": "Claude aligned most closely with human assessments and identified broad thematic patterns, but the abstract cautions against using LLMs for precise country-level rankings."
       }
     },
     {
@@ -489,6 +503,20 @@
         "goal": "The review aims to summarize how AI-assisted interventions, including large language models, are used by public health professionals.",
         "methodology": "The authors conducted a scoping review of reports published from January 2020 to July 2025 across four databases, screening 5,400 records and including eight reports.",
         "finding": "The evidence was sparse and mixed, with one report describing both benefits and drawbacks of a large language model used to communicate with socially isolated individuals."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202391715",
+      "title": "The critical-thinking paradox in generative AI-integrated learning: distinguishing efficiency from cognitive depth—a differentiated framework and testable propositions",
+      "authors": "Jiayin Lin, Naif Mohammed Al‐Hada",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1906070",
+      "summary": {
+        "goal": "The article develops a framework for understanding whether GenAI-integrated learning improves academic performance at the expense of cognitive depth and durable learning.",
+        "methodology": "It synthesizes four theoretical traditions to propose a three-level framework and falsifiable hypotheses concerning AI use, cognitive processing, cognitive offloading, and cognitive debt.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -940,6 +968,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203457428",
+      "title": "SOFIA: a knowledge-infused prompt-based reasoning framework for anxiety screening in social media",
+      "authors": "Ashala Senanayake, Prasan Yapa, Sidath R. Liyanage",
+      "journal": "Frontiers in Digital Health",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fdgth.2026.1899582",
+      "summary": {
+        "goal": "The paper aims to improve anxiety screening in social media using prompt-based reasoning with pretrained language models.",
+        "methodology": "It evaluates the SOFIA framework, which combines prompt templates, dual-end truncation, and knowledge-enhanced verbalizers across three self-reported anxiety datasets and multiple pretrained language models.",
+        "finding": "SOFIA consistently improves anxiety-detection performance over traditional baselines, with reported F1 gains of 5.37%, 5.40%, and 7.92% for MentalBERT across the datasets."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171670677",
       "title": "SEM-based parallel and serial mediation linking instructor technology integration competence to academic performance in AI-supported online learning",
       "authors": "Münevver Başman, Gökçen Seyra Çakır",
@@ -1136,6 +1178,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203493435",
+      "title": "Performance, interaction, and ethical evaluation in the use of generative artificial intelligence in engineering education",
+      "authors": "Ascensión López-Vargas, Javier Rodríguez‐Vidal, Ángel García Beltrán, Pablo Vigara, Laura de León-Torres, Ascensión López-Vargas",
+      "journal": "Education and Information Technologies",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s10639-026-14112-y",
+      "summary": {
+        "goal": "The study examines engineering students’ interactions with generative AI during programming tasks and their ethical evaluations of its educational use.",
+        "methodology": "It uses a multi-phase design involving 340 students completing a timed debugging task with generative AI and 16 students participating in an ethics-committee role-play, voting, and surveys.",
+        "finding": "Successful task outcomes were associated with prompt efficiency and verification, while acceptance was higher for supportive or formative uses and lower for summative assessment, surveillance, and autonomous decision-making."
+      }
+    },
+    {
       "id": "https://openalex.org/W7202166764",
       "title": "Perceived skill devaluation as an indirect statistical pathway between perceived generative AI impact and algorithmic anxiety among college students: associations with adaptive coping strategies",
       "authors": "Dou ChenXu, Zhang Yinuo, Ji Chenao, Xu Xin",
@@ -1329,6 +1385,20 @@
         "goal": "The study aims to develop an explainable framework for identifying depression risk trajectories in social media posts.",
         "methodology": "It trains and evaluates a graph-enhanced RoBERTa model with graph attention, supervised contrastive learning, and SHAP explanations on Reddit datasets with user-level splits and external validation.",
         "finding": "The model achieved F1 scores of 0.914 internally and 0.882 externally, outperforming the comparison models."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202404261",
+      "title": "Negotiating the algorithm: an ethnographic study of AIGC and women’s reproductive health in the global south",
+      "authors": "Yan Wang, Hongcai Chen, Shuai Yuan, Jinxiao Huang, Xinjie Lin, Zhongshan Chen, 毛德润, Vongphantuset Jirawat",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1057/s41599-026-08696-6",
+      "summary": {
+        "goal": "The study examines how women in the Global South negotiate AI-generated sexual and reproductive health information and how it shapes their knowledge, beliefs, and attitudes.",
+        "methodology": "It uses a multisite mixed-methods qualitative design involving interviews, focus groups, participant observation, digital ethnography, and literature analysis across Nigeria, South Africa, Latin America, and the Philippines.",
+        "finding": "The abstract reports that AIGC can improve access, personalized interaction, and discussion while also spreading misinformation, algorithmic bias, and culturally insensitive content, with effects mediated by digital access, literacy, culture, ethics, and social trust."
       }
     },
     {
@@ -2032,6 +2102,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202356219",
+      "title": "GENERATIVE ARTIFICIAL INTELLIGENCE IN HUMAN–AI COMMUNICATION: A SYSTEMATIC LITERATURE REVIEW AND FUTURE RESEARCH AGENDA",
+      "authors": "J.S. Dwi Raharjo Raharjo, Vanessa Alpha Z.D.R",
+      "journal": "HUMAN Journal of Social Humanities and Science",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.58738/human.v4i1.1840",
+      "summary": {
+        "goal": "The study aims to map conceptualizations, theoretical dynamics, and socio-ethical implications of generative AI in human–AI communication.",
+        "methodology": "It conducts a PRISMA 2020 systematic literature review of 75 articles selected from an initial dataset of 460 publications.",
+        "finding": "The review identifies eight thematic clusters and proposes a four-dimensional integrative conceptual framework involving ontological agency, psycho-social dynamics, epistemic-democratic issues, and governance ethics."
+      }
+    },
+    {
       "id": "https://openalex.org/W7166253483",
       "title": "Functionalist Perspective on Emotions in AI: A Review of Roles, Mechanisms and Impacts",
       "authors": "Eunice Park, Mala Kaul, Chad Anderson",
@@ -2200,6 +2284,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7140190447",
+      "title": "Feasibility study on a noninvasive assessment of ALS patient emotional state",
+      "authors": "Marc Garbey, Quentin Lesport, Gülşen Öztosun, Megan Heidebrecht, Kamyab Pirouz, Elham Bayat",
+      "journal": "Frontiers in Digital Health",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fdgth.2026.1886561",
+      "summary": {
+        "goal": "The study evaluates whether noninvasive speech analysis and current large language models can assess emotional concern and coping strategies in patients with Amyotrophic Lateral Sclerosis.",
+        "methodology": "The researchers analyzed 28 ALS patient visits using speech acoustics, clinical measures, and assessments from ChatGPT, Gemini, and Claude.",
+        "finding": "The abstract reports that the LLMs produced unreliable and irreproducible concern assessments without expert supervision, while acoustic biomarkers distinguished muted and excessive emotional responses."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172412031",
       "title": "Fake News Detection Using Machine Learning and LLM Embeddings: A Comparative Study of TF-IDF and BERT Representations on the Welfake Dataset",
       "authors": "Umme Noor Us Saqa, Sreenivasa B. R.",
@@ -2267,6 +2365,20 @@
         "goal": "The study examines whether exposure to “photos with idols” generative-AI content is related to students’ normalization of digital privacy abuse.",
         "methodology": "It uses a quantitative descriptive design with online four-point Likert questionnaires from 103 purposively sampled students and Pearson correlation analysis.",
         "finding": "Exposure to the AI content had a significant moderate positive relationship with normalization of digital privacy abuse (r=0.535, p=0.000)."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202357590",
+      "title": "Exploring the Perception and Impact of Interaction With AI on the Understanding of Hindu Concepts for Religious Education Students",
+      "authors": "I Wayan Gunada, I Made Ardika Yasa, Putu Gede Asnawa Dikta, Gusti Ngurah Ketut Putera, I Gusti Komang Kembarawan",
+      "journal": "European Journal of Educational Research",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.12973/eu-jer.15.4.1255",
+      "summary": {
+        "goal": "The study explores religious education students’ experiences and perceptions of using AI to understand Hindu concepts and scriptures.",
+        "methodology": "It uses a qualitative phenomenological approach with surveys and in-depth interviews analyzed for student perceptions and experiences.",
+        "finding": "Students use AI heavily but continue to prioritize Hindu scriptures, lecturers, and religious leaders as validators, treating AI as a tool rather than a knowledge center."
       }
     },
     {
@@ -2421,6 +2533,20 @@
         "goal": "The paper presents ECHO, a generative-AI framework designed to strengthen social presence and peer engagement in asynchronous online discussions without replacing human interaction.",
         "methodology": "It proposes a three-layer Observe–Curate–Humanize workflow and a future three-arm field experiment with approximately 48–60 graduate students, validated surveys, and interviews.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203470038",
+      "title": "Dual pathways of generative AI use: role ambiguity and self-efficacy in employee-AI collaboration",
+      "authors": "Qiannan Zhang, Jingyi Zhang, Dong Shan",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1793095",
+      "summary": {
+        "goal": "The study investigates how generative AI use affects employee–AI collaboration through role ambiguity and role breadth self-efficacy, with AI literacy as a moderator.",
+        "methodology": "The authors surveyed 541 employees in Chinese high-technology firms and tested a structural equation model.",
+        "finding": "Generative AI use increased both role ambiguity and role breadth self-efficacy, which negatively and positively predicted employee–AI collaboration respectively, while AI literacy moderated both pathways and collaboration was positively associated with job performance."
       }
     },
     {
@@ -2813,6 +2939,20 @@
         "goal": "The study assessed whether reasoning-enabled LLMs can classify COVID-19 vaccination stances and produce coherent, auditable reasoning for public health research.",
         "methodology": "The authors evaluated zero-shot stance classification by o4-mini and Gemini 2.5 Flash on 3,060 human-annotated vaccination tweets and qualitatively analyzed shared misclassifications and chain-of-thought summaries.",
         "finding": "Both models achieved macro-F1 scores around 0.8, but shared errors included target confusion, literal interpretations of sarcasm, and mismatches between labels and rationales."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203476806",
+      "title": "Awareness of academic paper retractions and artificial intelligence–related risks among health researchers in Jordan: a cross-sectional study",
+      "authors": "Rana Abu Farha, Lobna Gharaibeh, Karem H. Alzoubi, Muna Barakat, Khawla Abu Hammour, Fahmi Y. Al-Ashwal",
+      "journal": "Science Editing",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.6087/kcse.408",
+      "summary": {
+        "goal": "The study examined health researchers’ awareness of academic retractions and risks associated with using AI tools.",
+        "methodology": "It used a validated online cross-sectional questionnaire completed by 255 health researchers in Jordan.",
+        "finding": "Although 73.3% reported using AI tools, major concerns included fabricated references and data, while many researchers rarely checked whether cited articles had been retracted."
       }
     },
     {
