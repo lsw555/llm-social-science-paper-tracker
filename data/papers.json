@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T03:06:54.436691+00:00",
+  "updatedAt": "2026-08-17T03:05:27.378510+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -167,6 +167,20 @@
         "goal": "The paper discusses what is known about generative AI and its impact on learning.",
         "methodology": "The abstract presents a conceptual discussion of generative AI, its development, and its capabilities.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203556738",
+      "title": "WTR-Vol.1-No.1 (Weaver Theoretical Review, Volume 1, Number 1) The Yerkes-Dodson Sweet Spot in Human-AI Interaction How Affective Relational Framing Sustains Optimal Model Reasoning and Meaning-Making",
+      "authors": "Janet Riley",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.5281/zenodo.21943738",
+      "summary": {
+        "goal": "The paper aims to develop a framework explaining how affective relational framing may optimize reasoning and meaning-making in human–AI collaboration.",
+        "methodology": "It applies the Yerkes-Dodson Law to human–AI interaction, reviews literature on affective prompting, and proposes practical principles for collaborative engagement.",
+        "finding": "The paper argues that calibrated mutual engagement, rather than extreme detachment or adversarial stress, supports peak reasoning and contextual fidelity."
       }
     },
     {
@@ -338,6 +352,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203470836",
+      "title": "Towards user-centered AI counseling: a quantitative approach exploring user trust and preference dynamics",
+      "authors": "Donglin Li, Shulan Yu, Ruiqi Chen, Pengcheng Xu, Tao Shi, Lu Zhang",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1057/s41599-026-08628-4",
+      "summary": {
+        "goal": "The study examines how presentation formats, counseling contexts, and user characteristics shape trust in and preference for AI versus human counseling.",
+        "methodology": "A scenario-based mixed-design experiment with 375 Chinese university students compared five counseling methods across scenarios and analyzed trust and preference using hierarchical linear models.",
+        "finding": "Richer AI presentations increased trust, while privacy concerns reduced AI choice and positive AI attitudes increased it, with contextual effects on preference."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170054538",
       "title": "Towards a methodologically congruent framework for GenAI use in nonpositivist qualitative research",
       "authors": "Kien Nguyen‐Trung, Susanne Friese",
@@ -363,6 +391,20 @@
         "goal": "The paper proposes a psychologically grounded framework for ethical, inclusive, and AI-supported education.",
         "methodology": "It synthesizes approximately 65 sources from academic databases, policy documents, empirical studies, and citation tracking conducted between 2011 and 2025.",
         "finding": "The framework links learner diversity, AI-enabled pedagogy, and reflective teaching while identifying regional challenges and gaps in cross-cultural validation, especially for generative AI and adaptive learning tools."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203561046",
+      "title": "Thực trạng phụ thuộc ứng dụng trí tuệ nhân tạo tạo sinh và một số yếu tố liên quan ở sinh viên Viện Đào tạo Y học dự phòng và Y tế công cộng, Trường Đại học Y Hà Nội năm 2026",
+      "authors": "Phương Mai Phạm, Pham Phuong Mai, Nguyễn Thị Thu Hà",
+      "journal": "Tạp chí Y học Dự phòng",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.51403/0868-2836/2026/3303",
+      "summary": {
+        "goal": "The study aims to describe generative AI dependence and related factors among students at Hanoi Medical University in 2026.",
+        "methodology": "Researchers surveyed 380 students selected through proportional convenience sampling and assessed dependence using the 12-item GenAIDS five-point Likert scale.",
+        "finding": "Mean generative AI dependence was 3.21 ± 0.66, with major, academic year, and daily usage frequency significantly associated with dependence."
       }
     },
     {
@@ -1024,6 +1066,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203559901",
+      "title": "Research on Data-Driven English Personalized Teaching Design in Smart Classrooms",
+      "authors": "Linlin Li",
+      "journal": "International Journal of Science and Engineering Applications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.7753/ijsea1508.1014",
+      "summary": {
+        "goal": "The paper aims to design a data-driven personalized English teaching model integrating large language models and smart classroom technologies.",
+        "methodology": "It proposes a four-dimensional framework involving data diagnosis, precise teaching, dynamic evaluation, and personalized content delivery across pre-class, in-class, and post-class stages.",
+        "finding": "The paper argues that integrated classroom data can shift teaching from experience-based judgment to evidence-driven, large-scale individualized instruction."
+      }
+    },
+    {
       "id": "https://openalex.org/W7166533473",
       "title": "Research on Attention Guidance and User Autonomy in AI-Powered Immersive Environments",
       "authors": "Mulin Qiao",
@@ -1119,6 +1175,20 @@
         "goal": "The study aimed to identify persuasive features for LLM-generated psychoeducation and test whether they improve confidence in mental health professionals.",
         "methodology": "In two phases, participants rated texts with varying persuasive features, then 40 randomized participants read psychoeducation generated with either a feature-engineered or baseline LLM prompt.",
         "finding": "Source credibility, argument quality, and processing fluency improved perceived credibility and persuasiveness, and feature-engineered texts produced greater improvements in attitudes toward mental health professionals."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203547210",
+      "title": "Pretesting with AI-generated static and video ads",
+      "authors": "Steven Bellman, Sid Ali Ourradi, D. Varan",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1038/s41598-026-67219-0",
+      "summary": {
+        "goal": "The study examines whether AI-generated static and video advertisements can serve as substitutes for real ads in pretesting and whether AI disclosure affects ad effectiveness.",
+        "methodology": "It compares carefully curated AI-generated ads with the real ads they were based on and tests the effects of prior AI disclosure in a low-involvement laboratory setting.",
+        "finding": "Under the tested conditions, AI-generated and real ads did not significantly differ in recall, recognition, brand choice, brand attitude, or ad liking, and AI disclosure had no effect."
       }
     },
     {
@@ -2060,6 +2130,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7116119849",
+      "title": "Generative AI in African Higher Education: A Systematic Review of Opportunities, Ethical Challenges, and Institutional Readiness",
+      "authors": "Olukayode E. Apata, Peter Oyewole, Segun Ajose, Ibrahim O. Adisa, Mohammad Taheri, Peter O. Oladejo, John O. Ajamobe, Emmanuel T. Oladipo",
+      "journal": "Journal of University Teaching and Learning Practice",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.53761/c682ye61",
+      "summary": {
+        "goal": "The review examines GenAI adoption, opportunities, ethical challenges, and institutional readiness in African higher education institutions.",
+        "methodology": "The authors systematically reviewed 39 eligible peer-reviewed articles and conference papers identified from six academic databases covering 2022–2025.",
+        "finding": "GenAI adoption is expanding unevenly, supporting personalization, multilingual learning, and research productivity while raising academic-integrity concerns."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172102053",
       "title": "Generative AI as an epistemic mirror: six cognitive operations in future-oriented reasoning — replication package",
       "authors": "Hayoun Won",
@@ -2382,6 +2466,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203534646",
+      "title": "Exploring student use of generative AI in higher education: A dual-institutional study",
+      "authors": "Åse Nygren, Anna Eriksson, Jeanette Sjöberg, Emil Alégroth",
+      "journal": "Education and Information Technologies",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s10639-026-14100-2",
+      "summary": {
+        "goal": "The study examines university students’ perceptions, competence, and uses of generative AI across two contrasting Swedish universities.",
+        "methodology": "It uses an exploratory questionnaire survey of 1,097 students, analyzed with reliability analysis, exploratory factor analysis, non-parametric comparisons, and thematic analysis.",
+        "finding": "Students generally viewed GenAI positively and used it mainly for information retrieval, text refinement, and analysis, while seeing it as a complement to teaching and expressing moderate trust in its outputs."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172271238",
       "title": "Exploring New Teaching Way: Integrating the Silent Way with Artificial Intelligence",
       "authors": "XinYao Wang",
@@ -2603,6 +2701,20 @@
         "goal": "The study aims to develop an SOP-compliant police public-service chatbot and analyze user inquiries to identify public needs and trends.",
         "methodology": "The system integrates Google Gemini, information retrieval using TF-IDF and cosine similarity, an official SOP database, conversation-log analysis, and evaluations involving black-box tests, IR metrics, experts, and 100 citizens.",
         "finding": "The chatbot achieved 95.42% accuracy and high satisfaction ratings from experts (4.83/5) and citizens (4.73/5), outperforming the comparison systems."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7134176015",
+      "title": "Developing and validating the Spanish version of the large language models dependency scale (LLM-D12-SP)",
+      "authors": "Tran Gia Bao, Mo El-Haj, Sameha Al-Shakhsi, Antonio Garcia-Cabot, Raian Ali, Ala Yankouskaya",
+      "journal": "Discover Psychology",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1007/s44202-026-00829-x",
+      "summary": {
+        "goal": "The study aims to validate a Spanish instrument measuring psychological dependency on large language models.",
+        "methodology": "A total of 386 Spanish-speaking participants completed the LLM-D12-SP, which was evaluated using confirmatory factor analysis, reliability, discriminant validity, and external validation analyses.",
+        "finding": "The abstract reports that the scale supported a two-factor structure with good internal consistency, and that both dependency dimensions were positively associated with internet addiction and perceived LLM trustworthiness."
       }
     },
     {
@@ -3236,6 +3348,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203537366",
+      "title": "AI-generated food stimuli match real counterparts in perceived healthiness and calorie content but not in realism or willingness to eat",
+      "authors": "Alexander Diel, Leonardo Pimpini, Giuseppe Marrazzo, Finley Sam Mellis, Niels Weber, Tania Josan Lalgi, Laura Bäuerle, Martin Teufel",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41598-026-66977-1",
+      "summary": {
+        "goal": "The study examines whether AI-generated food images are perceived similarly to real food images in terms of realism, willingness to eat, calorie content, and healthiness.",
+        "methodology": "In a within-subject online experiment, 87 participants rated 60 matched pairs of AI-generated and pre-validated real food images on four visual analogue scales.",
+        "finding": "AI-generated images were rated as less realistic and less appealing to eat, while perceived healthiness and calorie content did not differ from real images."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172521572",
       "title": "AI-Supported Scaffold Design for Lower-Proficiency EFL Learners: Experiences of Pre-Service Teachers in Inclusive Reading Instruction",
       "authors": "Dieu Bich Nguyen, An Hoai Thi Le",
@@ -3429,6 +3555,20 @@
         "goal": "The review examines how generative AI affects human cognition across education and professional practice and develops governance frameworks for responsible adoption.",
         "methodology": "The authors conducted a PRISMA-ScR and JBI-guided scoping review of 107 peer-reviewed English-language publications from 2020–2025 identified across five databases.",
         "finding": "The synthesis proposes a Cognitive Impact Taxonomy and an Integrated Cognitive Symbiosis Framework to maximize cognitive benefits while mitigating risks to critical thinking, creativity, and independent reasoning."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203470344",
+      "title": "A Hybrid Edge-AI Solution Combining Large Language Models and Computer Vision for Enhancing AgTech Access Among Indian Smallholder Farmers",
+      "authors": "Padma Mishra, Kinjal Doshi, Dr Shveti Chandan, Akanksha Kulkarni, Jala Prasadarao, Pavithra Shetty, Aseel Smerat",
+      "journal": "Journal of Artificial Intelligence and Technology",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.37965/jait.2026.1400",
+      "summary": {
+        "goal": "The paper aims to improve localized agricultural advisory access for Indian smallholder farmers using an edge-deployed multimodal LLM system.",
+        "methodology": "It develops and field-evaluates AgriLLM-X, combining multilingual voice dialogue, computer vision, sensor fusion, genomic analysis, and edge optimization.",
+        "finding": "The system achieved high technical performance, increased reported agricultural yields by 15–22%, increased access for female farmers by 36%, and produced 91% user satisfaction."
       }
     },
     {
