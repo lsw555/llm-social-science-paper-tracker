@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T03:05:27.378510+00:00",
+  "updatedAt": "2026-08-18T03:03:12.054212+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -730,6 +730,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203466495",
+      "title": "The Impact of Artificial Intelligence on English Language Learning, Communication, and Linguistic Development: Opportunities and Challenges",
+      "authors": "Festime Mehdiu",
+      "journal": "Journal of Intelligent Decision Making and Information Science",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.59543/jidmis.v3.1938",
+      "summary": {
+        "goal": "The review examines how AI affects English language learning, communication, and linguistic development, including its opportunities and challenges.",
+        "methodology": "It synthesizes and critically examines existing literature on AI applications in English language education.",
+        "finding": "The review finds that AI can improve language skills, communication, and learner autonomy, but hallucinations, overreliance, ethical concerns, bias, academic integrity issues, and digital inequality remain challenges."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169852343",
       "title": "The Impact of AI on the Landscape Design Process",
       "authors": "Jacob Owen Huff",
@@ -895,6 +909,20 @@
         "goal": "The study investigates EFL students’ perceptions, engagement patterns, feedback literacy, and experiences of autonomy and dependency when using generative-AI feedback.",
         "methodology": "It uses thematic analysis of four focus group discussions with 30 undergraduate EFL writing students at a private university in Surakarta.",
         "finding": "Students viewed Gen-AI feedback as useful for writing improvement and idea generation, engaged with it selectively, developed feedback literacy unevenly, and reported both increased confidence and concerns about dependency, accuracy, and academic integrity."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203448766",
+      "title": "Student Engagement and Ethical Awareness in Generative Artificial Intelligence Use Among University Students",
+      "authors": "Daisy A. Mamaril",
+      "journal": "Journal of Intelligent Decision Making and Information Science",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.59543/jidmis.v3.1847",
+      "summary": {
+        "goal": "The study examined university students’ use of generative AI in relation to engagement, confidence, ethical awareness, and perceived academic value.",
+        "methodology": "Researchers conducted a cross-sectional descriptive-quantitative survey of 380 students from 11 colleges at a Philippine state university and analyzed the questionnaire data using descriptive statistics.",
+        "finding": "Students commonly used ChatGPT and other AI tools for research, summarization, writing, and editing, but reported neutral engagement, moderate or low confidence, and uneven ethical awareness."
       }
     },
     {
@@ -1189,6 +1217,20 @@
         "goal": "The study examines whether AI-generated static and video advertisements can serve as substitutes for real ads in pretesting and whether AI disclosure affects ad effectiveness.",
         "methodology": "It compares carefully curated AI-generated ads with the real ads they were based on and tests the effects of prior AI disclosure in a low-involvement laboratory setting.",
         "finding": "Under the tested conditions, AI-generated and real ads did not significantly differ in recall, recognition, brand choice, brand attitude, or ad liking, and AI disclosure had no effect."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4415193070",
+      "title": "Pragmatics beyond Humans: Meaning, Communication, and LLMs",
+      "authors": "Vít Gvoždiak",
+      "journal": "Teorie vědy / Theory of Science",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.46938/tv.2026.686",
+      "summary": {
+        "goal": "The paper aims to reconsider pragmatics for meaning-making in human–LLM interactions.",
+        "methodology": "It develops a conceptual analysis using the Human–Machine Communication framework, probabilistic pragmatics, substitutionalism, and the concept of context frustration.",
+        "finding": "The paper argues that anthropocentric theories, conflation of models with AI, and divergences between computational and shared communicative context inadequately explain LLM-mediated communication."
       }
     },
     {
@@ -1850,6 +1892,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203502638",
+      "title": "Large Language Models as Judges for Human Subject Indexing",
+      "authors": "Bartłomiej Włodarczyk, Magdalena Zdunek",
+      "journal": "Cataloging & Classification Quarterly",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1080/01639374.2026.2714375",
+      "summary": {
+        "goal": "The study evaluates large language models as judges for human subject indexing.",
+        "methodology": "It compares ChatGPT and Gemini with a manually curated gold standard across descriptions of forty Polish library and information science papers using accuracy, Cohen’s kappa, precision, recall, and F1 score.",
+        "finding": "The models achieved moderate to high metric values, but their deficiencies in evaluating incorrectly assigned descriptors hinder adoption in real-world library settings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7196965855",
       "title": "LLMs’ reshaping of people, processes, products, and society in software development: a qualitative exploration with early adopters",
       "authors": "Benyamin T. Tabarsi, Heidi Reichert, Stephen D. Gilson, Ally Limke, Sandeep Kaur Kuttal, Tiffany Barnes",
@@ -2057,6 +2113,20 @@
         "goal": "The study examines how AI induces professional identity threats among public relations practitioners.",
         "methodology": "It uses a quantitative survey of 285 PR professionals to assess threats across five identity dimensions and their associations with AI-related and organizational factors.",
         "finding": "Perceived identity threats are associated with AI use patterns, attitudes toward AI, AI assessments, and influences from leaders and peers."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203461564",
+      "title": "Generative Artificial Intelligence-Enabled Decision Support Systems and Organizational Performance: A Moderated Mediation Model of Human–AI Collaboration Quality",
+      "authors": "Jayshri Patil",
+      "journal": "Journal of Intelligent Decision Making and Information Science",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.59543/jidmis.v3.1660",
+      "summary": {
+        "goal": "The study examines how generative AI-enabled decision support systems influence organizational performance through decision support effectiveness and how human–AI collaboration quality moderates these relationships.",
+        "methodology": "It proposes a cross-sectional survey of managers and decision-makers analyzed using Partial Least Squares Structural Equation Modeling, demonstrated with an illustrative simulated dataset.",
+        "finding": "The simulated analysis supports the hypothesized relationships and meets accepted measurement, structural-model, and moderated-mediation criteria."
       }
     },
     {
@@ -2536,6 +2606,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203483193",
+      "title": "Evaluating AI-generated curriculum designs in vocational education: Evidence from a No-AI diagnostic assessment",
+      "authors": "Zheng Liu",
+      "journal": "PLoS ONE",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1371/journal.pone.0352555",
+      "summary": {
+        "goal": "The study examines how vocational students evaluate AI-generated curriculum designs after using generative AI for course-planning tasks.",
+        "methodology": "It uses an interpretive single-case study of 39 students whose no-AI handwritten diagnostic assessments were analyzed through thematic, directed content analysis, and holistic judgement levels.",
+        "finding": "Students recognized broad evaluation criteria and visible implementation problems but less often identified deeper curriculum, assessment, verification, and responsibility issues, revealing a stated-applied judgement gap."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169762234",
       "title": "Evaluación de metáforas visuales sobre convivencia escolar con inteligencia artificial generativa y juicio experto",
       "authors": "Karla Karina Ruiz Mendoza, Luis Horacio Pedroza Zúñiga, Héctor Manuel Rodríguez Figueroa",
@@ -2928,6 +3012,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203536788",
+      "title": "ChatbotLab: An Open Framework for Human-Like Chatbot Interaction and Survey Data Collection",
+      "authors": "Salvatore Giorgi, João Sedoc, Abhay P Singh, Oscar Kjell, Soojin Lee, Lyle Ungar",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.31234/osf.io/f6xua_v1",
+      "summary": {
+        "goal": "The paper presents ChatbotLab, an open-source framework for deploying LLM-powered chatbot conversations in behavioral research and survey studies.",
+        "methodology": "It describes an end-to-end software package integrated with crowdsourcing and survey platforms, supporting configurable conversations, secure data linkage, reproducible records, moderation, data export, and load testing.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171785182",
       "title": "ChatGPT-5 as a leisure health advisor: multidimensional assessment of reliability, quality, usefulness and readability",
       "authors": "Alican Bayram",
@@ -3022,6 +3120,20 @@
       "summary": {
         "goal": "The paper aims to design a privacy-preserving AI learning companion that supports guided exploration of professional codebases in large graduate engineering courses.",
         "methodology": "It presents a retrieval-grounded system using hybrid lexical-semantic retrieval, chunk-level indexing, and a locally hosted 8B-parameter language model, along with a planned classroom evaluation.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203542160",
+      "title": "Bias or Memory? Contamination-Controlled Measurement of Behavioral Biases in Large Language Models",
+      "authors": "Stavros Vlachos",
+      "journal": "Open Science Framework",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.17605/osf.io/b742w",
+      "summary": {
+        "goal": "The project aims to measure behavioral biases in large language models while distinguishing learned biases from memorization or contamination effects.",
+        "methodology": "It compares responses to verbatim canonical vignettes and novel-surface isomorphs across human-lives, non-human, and monetary stakes, using a preregistered analysis of 5,800 pilot trials.",
         "finding": "The abstract does not report findings."
       }
     },
@@ -3177,6 +3289,20 @@
         "goal": "The study investigates applications, limitations, and research approaches concerning AI and machine learning in journalism and media practice.",
         "methodology": "It systematically reviewed 121 peer-reviewed articles using PRISMA, qualitative thematic analysis, structural topic modelling, and bibliometric network analysis.",
         "finding": "The review finds that effective AI adoption depends on workflow redesign and human–machine collaboration, while audience responses to AI-generated content vary across cultures and copyright frameworks remain contested."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203548625",
+      "title": "Artificial Intelligence for Sustainable Human Development: Integrating Humanities, Education, and Intelligent Information Systems",
+      "authors": "Norman Ralph B. Isla",
+      "journal": "Journal of Intelligent Decision Making and Information Science",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.59543/jidmis.v3.1950",
+      "summary": {
+        "goal": "The article examines how humanities, education, and intelligent information systems can support human-centered AI for sustainable human development.",
+        "methodology": "It reviews and synthesizes recent research on cultural values, fairness, trust, AI literacy, generative AI, assessment, sustainability, interpretability, climate action, and healthcare.",
+        "finding": "It argues that AI should complement human capacities through inclusive, accountable, transparent, human-monitored, and culturally responsive socio-technical systems."
       }
     },
     {
@@ -3499,6 +3625,20 @@
         "goal": "The paper aims to detect and classify technology adoption and contextual dynamics in protest events from large-scale news data.",
         "methodology": "It develops a self-training pipeline combining pre-trained language models, syntactic graph convolutional networks, and pattern matching to reconstruct protest datasets while reducing manual annotation.",
         "finding": "The framework supports context-sensitive protest event classification and demonstrates the analytical value of integrating LLMs with GCNs."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203483677",
+      "title": "A hybrid intelligence approach to qualitative data analysis combining manual and AI coding with mixed methods analyses of reliability and validity",
+      "authors": "Julia Boettinger, Christal Bürgel, Anne Bartsch",
+      "journal": "Quality & Quantity",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1007/s11135-026-03036-x",
+      "summary": {
+        "goal": "The study evaluates whether AI coding can complement or replace manual qualitative data analysis.",
+        "methodology": "Researchers compared manual coding of 164 interviews with AI coding under two prompting conditions and assessed reliability and validity using mixed quantitative and qualitative analyses.",
+        "finding": "AI identified many relevant segments and some missed by manual coding but substantially overcoded, so the authors recommend hybrid coding rather than replacing manual analysis."
       }
     },
     {
