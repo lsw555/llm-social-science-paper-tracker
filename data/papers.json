@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T03:03:12.054212+00:00",
+  "updatedAt": "2026-08-19T03:02:36.312763+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -55,6 +55,20 @@
         "goal": "The study investigates which linguistic forms university students notice through ChatGPT feedback in L2 academic writing and whether they subsequently apply them.",
         "methodology": "It qualitatively analyzes student interviews, ChatGPT history logs, and draft revisions.",
         "finding": "Students noticed diverse vocabulary and syntactic structures, but cognitive load, fear of mistakes, and task-completion pressure limited their independent use."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203621875",
+      "title": "Zwischen Textproduktion und Urteilskraft",
+      "authors": "Lucas Schmitz, Josephine Belting",
+      "journal": "merz | medien + erziehung",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.21240/merz/2026.4.17",
+      "summary": {
+        "goal": "The paper examines how generative AI can function as a writing tool, object of reflection, and stimulus for critical media literacy in German language education.",
+        "methodology": "It presents a three-phase, materials-based teaching sequence addressing learning with, about, through, despite, and without AI.",
+        "finding": "The paper shows that materials-based writing can connect these different modes of learning about generative AI."
       }
     },
     {
@@ -195,6 +209,20 @@
         "goal": "The project aims to reduce scholarly information overload by using a local LLM to transform academic metadata into structured concept cards and audio summaries.",
         "methodology": "It describes a mobile PWA that retrieves scholarly works through OpenAlex, summarizes them with Gemma3:27b, generates audio with a text-to-speech model, and evaluates the artifact with university faculty using self-reported engagement data and qualitative feedback.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203639106",
+      "title": "Vocal Cord Dysfunction: Evaluating the Utility of AI Large Language Models for Patient Education",
+      "authors": "Kyle Cook, Phil Tseng, David Ahmadian, Natalie L. Demirjian, Vicki Liu, Troy Weinstein, Helena T. Yip",
+      "journal": "World Journal of Otorhinolaryngology - Head and Neck Surgery",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1002/wjo2.70158",
+      "summary": {
+        "goal": "The study evaluates whether AI-generated responses can serve as patient education materials for common questions about vocal cord dysfunction.",
+        "methodology": "A cross-sectional survey of 45 healthcare providers compared responses from OpenEvidence, ChatGPT 5 Extended Thinking, and a fellowship-trained laryngologist based on medical accuracy, clarity, and ability to address patient concerns.",
+        "finding": "AI-generated responses were frequently preferred over the laryngologist’s responses, with ChatGPT performing best overall, although clinician oversight remains necessary."
       }
     },
     {
@@ -1948,6 +1976,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203607282",
+      "title": "Journalism and Mass Communication Students Attitudes toward Using of AI: Challenges and Opportunities (Case of Georgia)",
+      "authors": "Dali Osepashvili",
+      "journal": "Studies in Media and Communication",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.11114/smc.v14i4.9194",
+      "summary": {
+        "goal": "The study examines Georgian journalism students’ perceptions, evaluations, and adoption of AI tools in academic and professional workflows.",
+        "methodology": "It surveyed 318 students using a stratified sample and applied Technology Acceptance Model-based inferential statistics, including t-tests and path analysis.",
+        "finding": "The abstract reports high technology acceptance associated mainly with prior AI training and graduate-level study, no significant gender differences in perceived ease of use, and a gap between student enthusiasm and institutional preparation."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171363145",
       "title": "Investigating Pre-Service Language Teachers’ Experiences with Generative AI in Language Education",
       "authors": "Ramazan Yetkin, Zekiye Özer‐Altınkaya",
@@ -2085,6 +2127,20 @@
         "goal": "The study examines whether the VR Dimensionality Framework can structure human–LLM co-ideation in VR experience design.",
         "methodology": "It conducts an exploratory comparative case study of ChatGPT, Gemini, and DeepSeek in a shared framework-guided VR narrative design task.",
         "finding": "The models show distinct tendencies, with ChatGPT implementation-oriented, Gemini facilitative and alignment-focused, and DeepSeek explicit and principled, while differing in cultural specificity and practical outputs."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203620229",
+      "title": "Human and Artificial Agents in Social Decision-Making: Experimental, Computational, and Neurobiological Evidence",
+      "authors": "Thomas L. Henning",
+      "journal": "Caltech Library",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.7907/vahk-8h11",
+      "summary": {
+        "goal": "The dissertation examines how large language model agents compare with humans in socially embedded decision-making, particularly financial markets.",
+        "methodology": "It compares out-of-the-box LLM agents in agent-only asset markets with human traders in equivalent experimental markets and analyzes their strategy text.",
+        "finding": "LLM agents generally price assets near fundamental value and show weaker bubble formation, lower variance, and reduced bias than human traders."
       }
     },
     {
@@ -2592,6 +2648,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203638706",
+      "title": "Evaluation of Inductive Coding with LLMs",
+      "authors": "Leoni Dörfel, Rieke Ammoneit",
+      "journal": "Education Sciences",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3390/educsci16081314",
+      "summary": {
+        "goal": "The study investigates how ChatGPT develops coding systems from interview data through iterative code engineering.",
+        "methodology": "It compares ChatGPT-generated codes with an inductive content-analysis framework using SBERT similarity, Jaccard overlap, network analysis, and qualitative assessment.",
+        "finding": "ChatGPT codes often had high cosine similarity but limited overall overlap with human-derived codes, while iterative prompting produced stable systems that remained insufficiently domain-specific."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171549322",
       "title": "Evaluating Healthcare Provider and Artificial Intelligence Chatbot Responses to Patient Messages from a Health System Using the CREATE TRUST Framework",
       "authors": "Matthew R. Allen, Vijay M. Tiyyala, Armaan Johal, Akhila Chekuri, Elizabeth Conner, Nimit Desai, Kaitlyn Dykes, Tanim Jain",
@@ -2631,6 +2701,20 @@
         "goal": "The study compares generative AI models and human experts in evaluating visual metaphors of school coexistence.",
         "methodology": "Six human experts and five LLMs rated three metaphors and student explanations using rubric-based measures of agreement, reliability, and generalizability.",
         "finding": "Human experts had higher Coexistence Index scores, ChatGPT-5 Pro was closest to human consensus, and one to two human experts plus about ten AI runs achieved generalizability of at least 0.95."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203615372",
+      "title": "Enlighty Politus: a political public opinion dataset from social media in Turkey processed with privacy-preserving AI",
+      "authors": "Erdem Yörük, Ali Hürriyetoğlu, MEHMET FUAT KINA, Fırat Duruşan, Melih Can Yardı, Şükrü Atsızelti, Tolga Etgü, Emirhan Delen",
+      "journal": "EPJ Data Science",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1140/epjds/s13688-026-00682-x",
+      "summary": {
+        "goal": "The paper aims to create a privacy-preserving Turkish political public opinion dataset using social media data and artificial intelligence.",
+        "methodology": "It integrates deep learning, natural language processing, large language models, computational social science methods, multilevel regression with poststratification, and differential privacy to estimate political indicators across time and location.",
+        "finding": "The dataset provides granular estimates of ideologies, demographic attributes, and political leader approval while addressing measurement, representation, and privacy concerns."
       }
     },
     {
@@ -2956,6 +3040,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203610330",
+      "title": "Constructing a Blended Foreign Language Teaching Model Empowered by Generative Artificial Intelligence and Integrating Local Chinese Culture",
+      "authors": "Hua Li",
+      "journal": "English Language Teaching and Linguistics Studies",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.22158/eltls.v8n4p131",
+      "summary": {
+        "goal": "The study aims to construct a blended foreign-language teaching model that uses generative AI to integrate local Chinese culture and improve students’ linguistic, cultural, and intercultural competencies.",
+        "methodology": "It uses an English Pronunciation course and Shaoxing culture as a case example, guided by the Production-Oriented Approach.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7202025720",
       "title": "Comparative Analysis of Machine Learning Models for Emotion Prediction in Reviews of Large Language Model-Powered Applications",
       "authors": "Semmy Wellem Taju, George Morris William Tangka, Ibrena Reghuella Chrisanti",
@@ -3009,6 +3107,20 @@
         "goal": "The study examines whether a prompting design requiring learners to justify, qualify, counterexample, and re-author claims improves AI literacy, harm-sensitive reasoning, and independent argumentative writing among EFL students.",
         "methodology": "A mixed-methods quasi-experiment assigned 120 Jordanian undergraduates to no-ChatGPT, standard ChatGPT, or climate-control ChatGPT conditions and analyzed essays, dialogue logs, drafts, reflections, interviews, and annotated language units.",
         "finding": "The climate-control condition produced the largest gains in harm-sensitive AI literacy and argumentative writing, maintained delayed no-AI transfer, reduced direct uptake, increased self-repair and authorial control, and improved distinctions between AI competence and consciousness."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7160496334",
+      "title": "Chatbots reduce health-related conspiracy beliefs not because of but despite being perceived as AI",
+      "authors": "Paul Ballot, Yana van de Sande, Hanna Schraffenberger, Philipp Schmid",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41598-026-66242-5",
+      "summary": {
+        "goal": "The study examines whether LLM-driven debates reduce COVID-19 health conspiracy beliefs and whether source attribution explains their effectiveness.",
+        "methodology": "In an online experiment, 554 participants debated a COVID-19 conspiracy theory with an AI-labelled LLM, a human-labelled LLM, or no chatbot control.",
+        "finding": "Both chatbot conditions reduced conspiracy confidence, with larger reductions when participants believed they were interacting with a human, apparently mediated by perceived source neutrality."
       }
     },
     {
@@ -3569,6 +3681,34 @@
         "goal": "The study examines how different AI usage patterns relate to Chinese university students’ perceived critical thinking and how academic motivation moderates these relationships.",
         "methodology": "A cross-sectional survey of 342 undergraduate students measured information retrieval, content generation, and text revision uses of AI, academic motivation, and perceived critical thinking dispositions.",
         "finding": "Information retrieval use was positively associated with perceived critical thinking, content generation use was negatively associated, text revision use was not significant, and motivation moderated these associations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203654296",
+      "title": "AI for Understanding Subtext in Film and Drama",
+      "authors": "Yair Neuman",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1201/9781042004485",
+      "summary": {
+        "goal": "The book aims to develop a method for using large language models to uncover subtext in film and drama.",
+        "methodology": "It presents a structured third-mind hermeneutic approach involving the human reader, the text, and artificial intelligence, illustrated through film and drama case studies.",
+        "finding": "The abstract states that this approach enriches aesthetic experience and sharpens interpretive skill."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203652536",
+      "title": "AI ethics after generative AI: from consequences to effects",
+      "authors": "Robert Gianni",
+      "journal": "AI & Society",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1007/s00146-026-03308-y",
+      "summary": {
+        "goal": "The paper examines how repeated human–LLM interactions produce both identifiable consequences and cumulative effects on inquiry, self-understanding, and cultural meaning-making.",
+        "methodology": "It uses John Dewey’s pragmatist account of inquiry, habit formation, and moral reconstruction to develop a conceptual distinction between consequences and effects.",
+        "finding": "The paper argues that attending to cumulative effects complements existing AI ethics by addressing transformations emerging through everyday LLM use."
       }
     },
     {
