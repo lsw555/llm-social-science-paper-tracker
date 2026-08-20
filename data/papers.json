@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T03:02:36.312763+00:00",
+  "updatedAt": "2026-08-20T03:00:30.187729+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -41,6 +41,20 @@
         "goal": "The paper aims to explain poeticized LLM responses, hallucination-related information concealment, safety-feature false positives, and output disparities related to user tone and language.",
         "methodology": "It uses linguistic and cognitive-science analysis to classify concealment techniques, examine multilingual safety-detection examples, propose a concealment score and protocol, and relate poeticization to working-memory limitations.",
         "finding": "The abstract reports that the authors identified 27 Japanese and 28 English concealment techniques, described tokenization-related safety errors and tone-based output bias, and proposed the Viorazu.score and Viorazu Protocol."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203710153",
+      "title": "“Should I tell my teacher?” Student AI disclosure practices, stigma, and self-regulated learning in higher education",
+      "authors": "Daniel Chang, Michael Pin-Chuan Lin, Jing-Yuan Huang, Jeeho Ryoo",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1826174",
+      "summary": {
+        "goal": "The study examines how undergraduate students’ worries, AI use, and demographic factors relate to their disclosure or concealment of generative AI use in academic settings.",
+        "methodology": "It surveys 78 undergraduates in an online education course using study-specific items on worry, disclosure, and AI use, then analyzes composite and individual indicators.",
+        "finding": "Fear of teacher judgment and social stigma are associated with concealing AI use, while heavier AI users report less transparency with teachers and greater peer-only sharing or secrecy."
       }
     },
     {
@@ -321,6 +335,20 @@
         "goal": "The article aims to develop an integrative framework for understanding how individuals calibrate trust in generative AI agents used in daily life.",
         "methodology": "It reviews five challenges concerning trust calibration in conversational generative AI and proposes propositions for future research.",
         "finding": "The article identifies five trust-calibration challenges and offers propositions and future research considerations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4406879616",
+      "title": "Unmasking conversational bias in AI multiagent systems",
+      "authors": "Erica Coppolillo, Giuseppe Manco, Luca Maria Aiello",
+      "journal": "PLoS ONE",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1371/journal.pone.0355458",
+      "summary": {
+        "goal": "The study aims to quantify and detect biases emerging from interactions among conversational large language models in multi-agent systems.",
+        "methodology": "The authors simulate small echo chambers in which pairs of LLMs with aligned perspectives on polarizing topics discuss those topics and compare the results with questionnaire-based bias detection methods.",
+        "finding": "The abstract reports that conservative echo chambers showed substantial shifts in expressed stances toward liberal positions, and that this interaction-based bias was missed by existing questionnaire methods."
       }
     },
     {
@@ -772,6 +800,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203644464",
+      "title": "The Impact of AI-powered Chatbot on EFL Speaking: A Systematic Review of Chatbot-supported Language Learning",
+      "authors": "Yiwen Jiang",
+      "journal": "Studies in English Language Teaching",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.22158/selt.v14n3p104",
+      "summary": {
+        "goal": "The paper reviews the pedagogical benefits and limitations of AI-powered chatbots, including ChatGPT, for English-as-a-foreign-language speaking.",
+        "methodology": "It conducts a systematic review of research on chatbot-supported EFL speaking learning.",
+        "finding": "The review identifies benefits such as improved speaking skills, reduced communication anxiety, greater willingness to communicate, and personalized learning, alongside drawbacks including technical limitations, short-term appeal, over-reliance, and prompt-writing difficulties."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169852343",
       "title": "The Impact of AI on the Landscape Design Process",
       "authors": "Jacob Owen Huff",
@@ -993,6 +1035,20 @@
         "goal": "The study examines how users develop parasocial relationships with generative AI and how these relationships influence continued use and subjective well-being.",
         "methodology": "It draws on social support and parasocial relationship theories to propose that AI interactions provide emotional support, informational support, and companionship.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203620082",
+      "title": "ShenhuaAI: An LLM-powered software platform for multi-dimensional corporate health assessment in FinTech analytics",
+      "authors": "Ruiyuan Shi, Wen Zhu",
+      "journal": "SoftwareX",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1016/j.softx.2026.102953",
+      "summary": {
+        "goal": "The study aims to develop an LLM-powered platform for multidimensional corporate health assessment.",
+        "methodology": "It combines a locally deployed Gemma 3 27B model, retrieval-augmented generation, fuzzy set theory, graph-based analysis, and financial indicators to assess 788 Chinese companies.",
+        "finding": "The platform identified 86.7% of high-risk enterprises and achieved an R² of 0.647."
       }
     },
     {
@@ -1234,6 +1290,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7170580068",
+      "title": "Prompt Programming for Cultural Bias and Alignment of Large Language Models",
+      "authors": "Maksim Eren, Eric Michalak, Brian Cook, Johnny Seales Jr",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1145/3820755.3821487",
+      "summary": {
+        "goal": "The paper aims to assess cultural bias in open-weight LLMs and improve cultural alignment through optimized prompting.",
+        "methodology": "It reproduces survey-based cultural projection and distance metrics and uses DSPy to optimize culture-conditioning prompts against cultural-distance objectives.",
+        "finding": "The abstract reports that prompt optimization often outperforms manual cultural prompt engineering and may provide a more stable, transferable approach to cultural alignment."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203547210",
       "title": "Pretesting with AI-generated static and video ads",
       "authors": "Steven Bellman, Sid Ali Ourradi, D. Varan",
@@ -1245,6 +1315,20 @@
         "goal": "The study examines whether AI-generated static and video advertisements can serve as substitutes for real ads in pretesting and whether AI disclosure affects ad effectiveness.",
         "methodology": "It compares carefully curated AI-generated ads with the real ads they were based on and tests the effects of prior AI disclosure in a low-involvement laboratory setting.",
         "finding": "Under the tested conditions, AI-generated and real ads did not significantly differ in recall, recognition, brand choice, brand attitude, or ad liking, and AI disclosure had no effect."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202245412",
+      "title": "Preserving Participant Meaning in AI-Mediated Multilingual Qualitative Research",
+      "authors": "Alexander Oluka, Pfano Mashau",
+      "journal": "F1000Research",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.12688/f1000research.188352.1",
+      "summary": {
+        "goal": "The study examines how AI mediation across multilingual qualitative research pipelines alters meaning, epistemic authority, and responsibility.",
+        "methodology": "It conducts a critical integrative synthesis of cross-language qualitative methods, AI-assisted analysis, machine translation bias, reflexivity, and epistemic justice.",
+        "finding": "The study identifies cascading meaning loss through five mechanisms and proposes an AI-Mediated Interpretive Chain of Custody with provenance, logging, human adjudication, and traceability safeguards."
       }
     },
     {
@@ -2760,6 +2844,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203679343",
+      "title": "Editorial: Revolutionizing nutritional epidemiology: harnessing digital health, AI, and big data for population-level disease prevention and management",
+      "authors": "Leandro Oliveira, Marta Esgalhado",
+      "journal": "Frontiers in Nutrition",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3389/fnut.2026.1910148",
+      "summary": {
+        "goal": "The editorial examines how digital health, AI, large language models, and big data can advance nutritional epidemiology and population-level disease prevention.",
+        "methodology": "It synthesizes eleven articles using machine learning, natural language processing, large language models, digital health tools, and other data-driven approaches in nutrition and public health research.",
+        "finding": "The collection suggests that these technologies enable disease prediction, nutritional surveillance, behavioral analysis, and personalized guidance, while raising concerns about accuracy, bias, privacy, interpretability, and equity."
+      }
+    },
+    {
       "id": "https://openalex.org/W7164447894",
       "title": "Echoes of Humanity: The Collective Mind of LLM Agents",
       "authors": "Daniel dos Santos Salles, Alexandre Reis Graeml",
@@ -3474,6 +3572,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203672764",
+      "title": "Algorithmic amplification of geopolitical narratives and user engagement in the 2024 U. S. presidential election",
+      "authors": "Ahmed Hassan",
+      "journal": "Frontiers in Political Science",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3389/fpos.2026.1901653",
+      "summary": {
+        "goal": "The study examines how geopolitical narratives in 2024 U.S. presidential campaign videos were associated with YouTube user engagement.",
+        "methodology": "Researchers used GPT-4, BERT, RoBERTa, human verification, and statistical models to analyze 5,466 campaign-related YouTube videos.",
+        "finding": "Geopolitical, threat-framed, national-security, patriotic, and negatively sentimented content was associated with higher engagement, especially immigration and border-security content."
+      }
+    },
+    {
       "id": "https://openalex.org/W7166006500",
       "title": "Algorithmic Justice and Responsible AI Journalism: A Comparative Communication Policy Perspective in East Asia",
       "authors": "Renxiudi Huang, Linjia Bai",
@@ -3586,6 +3698,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203674621",
+      "title": "AI-generated videos in medical science popularization and education: a scoping review",
+      "authors": "Jiejia Ma, Xiujun Zheng, Lijin Wang, Jiachun Wu, Zimo Yang, Siyu Wei, Ruibin Huang",
+      "journal": "Frontiers in Public Health",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpubh.2026.1921115",
+      "summary": {
+        "goal": "The review aimed to synthesize research on AI-generated videos for public, patient, medical student, and physician education and propose a production framework.",
+        "methodology": "The authors conducted a scoping review of studies identified through four databases and screened according to Arksey and O’Malley and PRISMA-ScR guidelines.",
+        "finding": "The reviewed studies were few and heterogeneous, with inconsistent prompts and evaluation methods and generally low video quality scores for patient education."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203537366",
       "title": "AI-generated food stimuli match real counterparts in perceived healthiness and calorie content but not in realism or willingness to eat",
       "authors": "Alexander Diel, Leonardo Pimpini, Giuseppe Marrazzo, Finley Sam Mellis, Niels Weber, Tania Josan Lalgi, Laura Bäuerle, Martin Teufel",
@@ -3681,6 +3807,20 @@
         "goal": "The study examines how different AI usage patterns relate to Chinese university students’ perceived critical thinking and how academic motivation moderates these relationships.",
         "methodology": "A cross-sectional survey of 342 undergraduate students measured information retrieval, content generation, and text revision uses of AI, academic motivation, and perceived critical thinking dispositions.",
         "finding": "Information retrieval use was positively associated with perceived critical thinking, content generation use was negatively associated, text revision use was not significant, and motivation moderated these associations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7164385231",
+      "title": "AI safety evaluation in an underrepresented population: real-world performance of clinical decision support and frontier language models on Medicaid patient messaging triage",
+      "authors": "Sanjay Basu, Sadiq Patel, Parth Sheth, Bernardo Arevalo, Jeremy Schifberg, John Morgan, Rajaie Batniji",
+      "journal": "BMC Medical Informatics and Decision Making",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1186/s12911-026-03763-z",
+      "summary": {
+        "goal": "To compare the safety and performance of guardrailed decision-support systems and frontier language models for triaging Medicaid patient messages.",
+        "methodology": "The study retrospectively evaluated 2,000 messages from Medicaid patients across three states using physician adjudication and multiple machine-learning, rule-based, ensemble, cascade, and frontier-LLM configurations.",
+        "finding": "No configuration enabled sufficiently accurate physician-unassisted triage, but two clinician-review workflows met the prespecified sensitivity-floor target."
       }
     },
     {
