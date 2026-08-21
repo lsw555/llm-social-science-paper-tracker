@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T03:00:30.187729+00:00",
+  "updatedAt": "2026-08-21T03:10:19.198071+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -69,6 +69,20 @@
         "goal": "The study investigates which linguistic forms university students notice through ChatGPT feedback in L2 academic writing and whether they subsequently apply them.",
         "methodology": "It qualitatively analyzes student interviews, ChatGPT history logs, and draft revisions.",
         "finding": "Students noticed diverse vocabulary and syntactic structures, but cognitive load, fear of mistakes, and task-completion pressure limited their independent use."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203714602",
+      "title": "Інструменти штучного інтелекту для дослідження та прогнозування поведінки споживачів у продовольчому ритейлі",
+      "authors": "Оксана Лисенко, Наталія Вікторівна Шевченко",
+      "journal": "Вісник Академії праці, соціальних відносин і туризму. Серія: економіка, психологія та управління.",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.54929/3041-2390-2026-09-05-03",
+      "summary": {
+        "goal": "The article aims to systematize AI tools for studying and forecasting consumer behavior in food retail and identify their marketing functions.",
+        "methodology": "It analyzes academic publications, company materials, and food-retail cases using generalization, classification, comparative analysis, content analysis, and case analysis.",
+        "finding": "The study proposes four classes of AI tools and characterizes their applications using examples from Albert Heijn, Walmart, and Ocado."
       }
     },
     {
@@ -1080,6 +1094,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7202249057",
+      "title": "Secondary School Teachers' Experiences of Using Chatgpt to Support Learners with Special Educational Needs: A Qualitative Inquiry",
+      "authors": "Rezel A. Salarda",
+      "journal": "International Journal of Social Science Humanity & Management Research",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.58806/ijsshmr.2026.v5i8n12",
+      "summary": {
+        "goal": "The study examines how secondary school teachers use ChatGPT to support learners with special educational needs in inclusive classrooms, including perceived benefits, challenges, and responsible-use views.",
+        "methodology": "Researchers conducted semi-structured interviews with secondary school teachers experienced in inclusive education and analyzed the data thematically.",
+        "finding": "Teachers used ChatGPT for differentiated activities, instructional planning, and learner support, but reported concerns about generic responses, prompting, dependency, privacy, and responsible use."
+      }
+    },
+    {
       "id": "https://openalex.org/W7201968440",
       "title": "Screenshots as Immutable Primary Sources: Archival Capture of Transient LLM–User Banter and Grok's Public Discourse on X, 5–8 August 2026",
       "authors": "Trent Slade",
@@ -2032,6 +2060,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203702987",
+      "title": "LLMs build inconsistent knowledge graphs from one immune-checkpoint corpus: a five-axis benchmark and consensus precision–coverage protocol",
+      "authors": "Qiang Xie, Yang Fang, Yanan Hu",
+      "journal": "Frontiers in Immunology",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3389/fimmu.2026.1937268",
+      "summary": {
+        "goal": "The study evaluates whether independent LLMs consistently extract biomedical knowledge graphs from the same immune-checkpoint literature corpus.",
+        "methodology": "The authors processed 9,978 PubMed abstracts with four LLMs using an identical prompt and schema, then compared their graphs across extraction, correctness, topology, link prediction, and external validation.",
+        "finding": "The models produced substantially different graphs, while unanimous cross-model agreement improved precision modestly but sharply reduced coverage, making consensus a conservative reliability filter rather than a general solution."
+      }
+    },
+    {
       "id": "https://openalex.org/W7169815768",
       "title": "LLM-enhanced computational grounded theory and the triadic dynamics of human-AI-society interaction",
       "authors": "Kun He, Qianru Meng, Xiangyuan Feng, Xiao Zhang, Malvina Nissim",
@@ -2214,6 +2256,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203617625",
+      "title": "Human realignment",
+      "authors": "Christoph Engel, Yoan Hermstrüwer, Alison Kim",
+      "journal": "Artificial Intelligence and Law",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1007/s10506-026-09517-6",
+      "summary": {
+        "goal": "The study examines whether AI legal reasoning aligns with human judgments in classic moral dilemmas and whether normative guidance can reduce misalignment.",
+        "methodology": "It compares GPT and four LLMs from different providers with human responses in trolley problems and related dilemmas, testing the effects of explicit normative instructions.",
+        "finding": "LLM decisions substantially mismatch human judgments, with models showing varying utilitarian biases, limited responsiveness to normative guidance, and frequent refusal to decide."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203620229",
       "title": "Human and Artificial Agents in Social Decision-Making: Experimental, Computational, and Neurobiological Evidence",
       "authors": "Thomas L. Henning",
@@ -2393,6 +2449,20 @@
         "goal": "The study aims to develop a conceptual model explaining how organizations can adopt generative AI securely, ethically, responsibly, and with user trust.",
         "methodology": "It uses an integrative literature review and thematic synthesis of academic, conference, and technical sources to identify constructs, relationships, and research propositions.",
         "finding": "The abstract reports that governance readiness strengthens security controls and ethical awareness, which build digital trust and support effective generative AI adoption."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203646286",
+      "title": "Gamification Meets Large Language Models: A Systematic Review of Applications and Challenges",
+      "authors": "Nurfauza Jali, Lleyton Geboh Leslie, Cheah Wai Shiang, Sadok Ben Yahia, Syahrul Nizam Junaini",
+      "journal": "Acta Informatica Pragensia",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.18267/j.aip.311",
+      "summary": {
+        "goal": "The review examines how large language models are integrated into gamified systems and synthesizes their applications, benefits, challenges, and methodological trends.",
+        "methodology": "It systematically reviewed 718 studies published from 2020 to 2025 and analyzed 27 peer-reviewed studies selected using PRISMA-based criteria and quality assessment.",
+        "finding": "The review found that LLMs enhance personalization, narrative immersion, and learner motivation but create hallucination, ethical, and user-expectation alignment challenges."
       }
     },
     {
@@ -2704,6 +2774,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203647329",
+      "title": "Exploring Enhancement of Student Learning Outcomes by Redefining Problem Generation in Mechanical Engineering Using Generative AI",
+      "authors": "Runu Proma Das, Tathyana Moratti, Shari Gasper, Aarti Singh, Mathew Baby, Beshoy Morkos",
+      "journal": "Journal for STEM Education Research",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s41979-026-00189-0",
+      "summary": {
+        "goal": "The study examines whether generative AI can improve mechanical engineering problem generation and student learning experiences.",
+        "methodology": "Using a mixed-method design, the researchers compare students’ performance, preferences, mental workload, and emotional responses to traditional textbook-based and generative-AI-generated manufacturing problems.",
+        "finding": "The abstract reports that generative-AI-generated problems significantly affected students’ output and may enrich learning experiences."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171639172",
       "title": "Explainable artificial intelligence as AI literacy scaffolding",
       "authors": "Brady Lund, Zoë Abbie Teel, Brett Porter, Anuradha Chandrasekaran, Sanket Ramchandra Patole",
@@ -2928,6 +3012,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203724575",
+      "title": "Does generative AI mean the “end of history” for pharmacovigilance automation? towards a framework for the future of human-AI systems",
+      "authors": "Leihong Wu, Joshua Xu, Oanh Dang, Robert Ball",
+      "journal": "Frontiers in Drug Safety and Regulation",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fdsfr.2026.1846339",
+      "summary": {
+        "goal": "The paper develops a framework for understanding how generative AI and LLMs may transform automation in pharmacovigilance while preserving human oversight.",
+        "methodology": "It presents a conceptual perspective that evaluates pharmacovigilance tasks according to their computational tractability and suitability for automation.",
+        "finding": "Routine tasks may be automated, but complex causality assessments still require expert judgment, making hybrid human-AI systems preferable to full automation."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170656412",
       "title": "Do language families matter? Evaluating LLMs for sentiment analysis through a hierarchical cross-lingual lens",
       "authors": "Muhamet Kastrati, Abdul Manaf, Ali Shariq Imran, Zenun Kastrati, Sher Muhammad Daudpota, Marenglen Biba",
@@ -3096,6 +3194,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203695827",
+      "title": "Crafting Effective Prompts: Thinking with Machines Not Just Talking to Them",
+      "authors": "Ekta Sinha, Shalini Chandra, Charles Waghmare",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1108/978-1-83742-179-420261002",
+      "summary": {
+        "goal": "The chapter aims to provide a conceptual and practical approach to crafting effective prompts for using generative AI and LLMs in academia.",
+        "methodology": "It categorizes informational, instructional, creative, and conversational prompts and discusses iterative prompting using insights from emerging prompt-engineering and human–AI interaction research.",
+        "finding": "The chapter argues that specificity, context, structure, and iterative refinement can improve outputs and support scholarly thinking, while noting risks of superficial coherence and epistemic unreliability."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170113442",
       "title": "Coordinating Meaning with AI System Cards: A Thematic Analysis",
       "authors": "Jennifer Rene French Cyrek",
@@ -3208,6 +3320,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7167389705",
+      "title": "Clause Encounters of the Third Kind: Can LLMs Replace Language Teachers?",
+      "authors": "Kristina Šekrst, Ana Kovačić",
+      "journal": "PhilPapers (PhilPapers Foundation)",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.48550/arxiv.2608.16286",
+      "summary": {
+        "goal": "The paper evaluates whether large language models can provide the corrective feedback and methodological explanations needed for language learning.",
+        "methodology": "It tests multiple models on identifying, correcting, and explaining English learner mistakes while varying model parameters and using retrieval-augmented generation, evaluated with automated metrics and expert judgments.",
+        "finding": "Models show strong surface-level correction abilities, but their explanations often lack the terminology and domain knowledge required for effective teaching."
+      }
+    },
+    {
       "id": "https://openalex.org/W7160496334",
       "title": "Chatbots reduce health-related conspiracy beliefs not because of but despite being perceived as AI",
       "authors": "Paul Ballot, Yana van de Sande, Hanna Schraffenberger, Philipp Schmid",
@@ -3275,6 +3401,20 @@
         "goal": "The review synthesizes evidence on ChatGPT and LLM applications, benefits, limitations, and governance in nursing education, clinical practice, and workflow management.",
         "methodology": "The authors conducted a narrative review of literature identified through structured searches of Medline, Scopus, and arXiv from January 2019 to March 2026.",
         "finding": "LLMs may support nursing education, preliminary clinical assessment, patient education, and documentation, but hallucinations, bias, privacy risks, accountability concerns, and limited performance in complex cases require human verification and governed deployment."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203670102",
+      "title": "Characterizing Agentic Flooding of Government Services",
+      "authors": "Chris Schmitz, Lewis Hammond, Alan Chan",
+      "journal": "arXiv (Cornell University)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.48550/arxiv.2608.16603",
+      "summary": {
+        "goal": "The paper examines how AI agents and large language models may create surges in demand for government services and strain service capacity.",
+        "methodology": "The authors analyze 84 potential flooding cases across 11 jurisdictions and develop a risk matrix and response framework.",
+        "finding": "The abstract reports that flooding likely occurs widely, poses greatest near-term risk to financially attractive and complex services, and may prompt access-reducing responses such as fees."
       }
     },
     {
