@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T03:10:19.198071+00:00",
+  "updatedAt": "2026-08-22T02:58:18.897113+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -69,6 +69,20 @@
         "goal": "The study investigates which linguistic forms university students notice through ChatGPT feedback in L2 academic writing and whether they subsequently apply them.",
         "methodology": "It qualitatively analyzes student interviews, ChatGPT history logs, and draft revisions.",
         "finding": "Students noticed diverse vocabulary and syntactic structures, but cognitive load, fear of mistakes, and task-completion pressure limited their independent use."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203762424",
+      "title": "“Let Me Take That Back”: Designing and Testing Deletion Interfaces for Human-AI Interaction",
+      "authors": "Justin Szczepaniak, Verena Zimmermann, Karola Marky",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1145/3820253.3820277",
+      "summary": {
+        "goal": "The study examines how interface designs for requesting and verifying deletion of personal information from LLM systems affect users’ trust, perceived deletion, and usability.",
+        "methodology": "A within-subjects online experiment with 64 participants compared a progress indicator, a technical console display, and an interactive verification chat.",
+        "finding": "Interactive verification produced the highest perceived deletion and trust, while participants valued transparent technical feedback without reduced usability."
       }
     },
     {
@@ -422,6 +436,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4411476921",
+      "title": "Tracking funding disparities in global health aid with machine learning",
+      "authors": "Finn Stürenburg, Kerstin Forster, Nicolas Banholzer, Malte Toetzke, Kenneth Harttgen, Stefan Feuerriegel",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s41467-026-76542-z",
+      "summary": {
+        "goal": "The study aims to track health-related aid flows and identify misalignment between development assistance and disease burden.",
+        "methodology": "The authors used a large-language-model-based machine-learning pipeline to classify 3.7 million aid projects from 2000 to 2022 into disease categories and compared per-capita aid rankings with DALY rankings.",
+        "finding": "Funding and disease burden were correlated for many diseases, but substantial disparities remained, including low funding for NCDs relative to their share of global DALYs."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203470836",
       "title": "Towards user-centered AI counseling: a quantitative approach exploring user trust and preference dynamics",
       "authors": "Donglin Li, Shulan Yu, Ruiqi Chen, Pengcheng Xu, Tao Shi, Lu Zhang",
@@ -545,6 +573,20 @@
         "goal": "The study examines how GPT-4-based writing feedback affects English writing self-efficacy among Chinese university students and how achievement goal orientation mediates or moderates this relationship.",
         "methodology": "A 12-week quasi-experimental pretest-posttest study compared 148 English majors receiving GPT-4-based automated feedback with students receiving conventional teacher feedback, measuring self-efficacy and achievement goal orientation.",
         "finding": "AI feedback significantly increased writing self-efficacy, with mastery-approach goals partially mediating and strengthening the effect while performance-approach goals weakened it."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7122300225",
+      "title": "The impact of authorship and AI attitude on the perception of message credibility and author competence",
+      "authors": "Joachim Kimmerle, Annalena Ulsperger, Ulrike Cress",
+      "journal": "Social Sciences & Humanities Open",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1016/j.ssaho.2026.103339",
+      "summary": {
+        "goal": "The study examines how human versus AI authorship, author gender, and readers’ attitudes toward AI affect perceived author competence and message credibility.",
+        "methodology": "In a randomized 2×2 between-groups experiment with 219 participants, participants evaluated the competence of female or male human or AI authors and the credibility of a technical text about LLMs.",
+        "finding": "Human authors were perceived as more competent than AI authors, although this difference narrowed among participants with more positive AI attitudes, which also moderated gender effects on message credibility."
       }
     },
     {
@@ -1038,6 +1080,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203778845",
+      "title": "Social capital and the preference for AI consultation: evidence from the 2023 Korean general social survey",
+      "authors": "Hoyoun Koh, Kyungmin Baek",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1057/s41599-026-08785-6",
+      "summary": {
+        "goal": "The study examines who consults AI for advice and how social embeddedness shapes that preference.",
+        "methodology": "It analyzes data from the 2023 Korean General Social Survey, focusing on trusted confidants, network diversity, and investment in meaningful goals.",
+        "finding": "People with more trusted confidants are less likely to consult AI, while those with diverse social networks and personally meaningful goals are more likely to do so."
+      }
+    },
+    {
       "id": "https://openalex.org/W7164629562",
       "title": "Social Without Society: Parasocial Relationships in Human–Generative AI Agent Interaction",
       "authors": "Ye Han, Shuang Wu",
@@ -1329,6 +1385,20 @@
         "goal": "The paper aims to assess cultural bias in open-weight LLMs and improve cultural alignment through optimized prompting.",
         "methodology": "It reproduces survey-based cultural projection and distance metrics and uses DSPy to optimize culture-conditioning prompts against cultural-distance objectives.",
         "finding": "The abstract reports that prompt optimization often outperforms manual cultural prompt engineering and may provide a more stable, transferable approach to cultural alignment."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203787247",
+      "title": "Probing Large Language Models for Autonomous Driving Behavior",
+      "authors": "Zhipeng Bao, Wenjie Zhao, Qianwen Li",
+      "journal": "Journal of Intelligent and Connected Vehicles",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.26599/jicv.2026.9210095",
+      "summary": {
+        "goal": "The study examines behavioral tendencies and social biases in LLMs used for autonomous-driving decisions.",
+        "methodology": "It evaluates three LLMs using 1,500 multilingual contextual variants, ordered-logit modeling, and thematic analysis of prompt-conditioned action choices.",
+        "finding": "The models differed in assertiveness, responded to urgency, traffic complexity, road-user types, and prompt language, and became more protective around vulnerable road users."
       }
     },
     {
@@ -1822,6 +1892,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203784443",
+      "title": "Measuring Sense of Place Continuity in traditional townscape through machine learning: an AI-enhanced method for water-town heritage",
+      "authors": "Jiayu Lei, Ziyi Chen, Yunwen Ge, Qimeng Wu, Yu Ye",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1057/s41599-026-08772-x",
+      "summary": {
+        "goal": "The study aims to develop an AI-enhanced framework for measuring continuity in the sense of place of traditional settlements undergoing urbanization.",
+        "methodology": "It combines multi-source urban data, deep convolutional models, natural language processing, and large language models to extract spatial, visual, and semantic features in Jiangnan water-towns and compare them with preserved-environment reference profiles.",
+        "finding": "The framework provides a method for quantifying place identity continuity and supporting data-informed urban design and heritage assessment."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170150909",
       "title": "Measuring Large Language Models Dependency: Validating the Arabic Version of the LLM-D12 Scale",
       "authors": "Sameha Alshakhsi, Ala Yankouskaya, Magnus Liebherr, Raian Ali",
@@ -2169,6 +2253,20 @@
         "goal": "The study examines how individual skill levels and different forms of human–AI interaction relate to creative outcomes measured by novelty and usefulness.",
         "methodology": "Using quasi-experimental data, the study compares cognitive, informative, and logical AI interactions among low-, medium-, and high-skill individuals.",
         "finding": "Logical interactions are positively associated with novelty and usefulness, cognitive interactions with novelty, and informative interactions with usefulness, while medium-skill individuals perform best overall and low-skill individuals show the greatest improvement potential."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203781877",
+      "title": "Improving Pelvic Floor Disorder Education: A Second Pilot of a Retrieval-Augmented AI Chatbot Model",
+      "authors": "Madeline K. Moureau, Berkley Davis, Christopher X. Hong",
+      "journal": "International Urogynecology Journal",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1007/s00192-026-06834-x",
+      "summary": {
+        "goal": "The study aimed to evaluate whether a retrieval-augmented ChatGPT model improves the quality and usability of responses to patient-representative urogynecology questions.",
+        "methodology": "Urogynecology specialists submitted 22 questions, and responses generated using AUGS patient education materials were assessed with the QAMAI and SUS instruments alongside thematic analysis of qualitative feedback.",
+        "finding": "The model received high quality and usability ratings, with strengths in patient-friendly language and ease of use but weaknesses in citation consistency, clinical depth, and comprehensiveness."
       }
     },
     {
@@ -3040,6 +3138,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203840681",
+      "title": "Do Large Language Models Reproduce Question-Wording Effects? A Type-Level Map from Published Split-Ballot Experiments",
+      "authors": "Howard Kim",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.31235/osf.io/ecg68_v2",
+      "summary": {
+        "goal": "The study evaluates whether LLMs can reproduce human responses to different survey question wordings.",
+        "methodology": "It compares LLM responses from demographic-conditioned panels with response distributions from 56 published split-ballot experiment pairs in the TESS archive.",
+        "finding": "LLMs directionally reproduced many semantic wording effects but failed to reproduce cognitive-burden effects and should not be used as general-purpose effect estimators."
+      }
+    },
+    {
       "id": "https://openalex.org/W7202079798",
       "title": "Dissociating communicative success from representational alignment in common ground formation",
       "authors": "Taiki Yamamoto, Junya Morita, Ryuichiro Higashinaka, Yugo Takeuchi",
@@ -3065,6 +3177,20 @@
         "goal": "The study aims to develop an SOP-compliant police public-service chatbot and analyze user inquiries to identify public needs and trends.",
         "methodology": "The system integrates Google Gemini, information retrieval using TF-IDF and cosine similarity, an official SOP database, conversation-log analysis, and evaluations involving black-box tests, IR metrics, experts, and 100 citizens.",
         "finding": "The chatbot achieved 95.42% accuracy and high satisfaction ratings from experts (4.83/5) and citizens (4.73/5), outperforming the comparison systems."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203766861",
+      "title": "Development and Preliminary Validation of a Self-Report Scale on Generative AI Literacy in Learning Among High School Students",
+      "authors": "Diệp Minh Triết Đoàn, Quản Minh Hòa, Chuong Nguyen",
+      "journal": "Technical Education Science/Giáo dục Kỹ thuật",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.54644/jte.2026.2502",
+      "summary": {
+        "goal": "The study aims to develop and preliminarily validate a self-report scale measuring high school students’ generative AI literacy in learning.",
+        "methodology": "Survey data from 1,003 students at eight high schools in Ho Chi Minh City were analyzed using Cronbach’s alpha and exploratory factor analysis.",
+        "finding": "The 23-item scale showed a five-dimensional structure and acceptable internal consistency, with Cronbach’s alpha coefficients ranging from 0.691 to 0.851."
       }
     },
     {
@@ -3135,6 +3261,20 @@
         "goal": "The study examines how pre-service early childhood educators use GenAI to design mathematics storybooks while maintaining pedagogical control.",
         "methodology": "It uses exploratory qualitative cross-case workflow analysis of 27 Hong Kong pre-service educators’ presentations, ChatGPT and Krea interaction records, and completed storybooks.",
         "finding": "Participants used pedagogical constraints, explored alternatives, and critically selected and revised outputs, following two recurring workflows while balancing efficiency, creativity, coherence, and local contextual fit."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203822624",
+      "title": "Designing AI Sandboxes for Human-Machine Pedagogies",
+      "authors": "Jacob Holster",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1093/9780197824818.003.0033",
+      "summary": {
+        "goal": "The chapter examines how generative AI can be integrated into music teacher education to support creative, pedagogical, ethical, and professional development.",
+        "methodology": "It uses design-based research and two case studies involving a creative-production AI sandbox and a GPT-powered classroom-rehearsal simulation with preservice and undergraduate music students.",
+        "finding": "The studies suggest that AI sandboxes can support multimodal fluency, reflective inquiry, creative engagement, relational ethics, and pedagogical decision-making."
       }
     },
     {
