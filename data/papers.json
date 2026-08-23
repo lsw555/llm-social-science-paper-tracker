@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T02:58:18.897113+00:00",
+  "updatedAt": "2026-08-23T03:09:26.175231+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -111,6 +111,20 @@
         "goal": "The paper examines how generative AI can function as a writing tool, object of reflection, and stimulus for critical media literacy in German language education.",
         "methodology": "It presents a three-phase, materials-based teaching sequence addressing learning with, about, through, despite, and without AI.",
         "finding": "The paper shows that materials-based writing can connect these different modes of learning about generative AI."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203917542",
+      "title": "Writing as formation: supervising AI use in early-career medical authorship",
+      "authors": "Tiago Jacinto",
+      "journal": "Frontiers in Artificial Intelligence",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/frai.2026.1874377",
+      "summary": {
+        "goal": "The paper aims to propose a supervisor-led framework for generative AI use in medical doctoral and early-career scientific writing.",
+        "methodology": "It develops a prescriptive framework based on professional formation, career stage, sequencing of AI use after an unassisted draft, revision traces, and a four-tier task typology.",
+        "finding": "The paper argues that unrestricted drafting by AI can displace trainees’ formative reasoning, whereas supervised and sequenced use can make tool use inspectable while preserving authorship development."
       }
     },
     {
@@ -489,6 +503,20 @@
         "goal": "The paper proposes a psychologically grounded framework for ethical, inclusive, and AI-supported education.",
         "methodology": "It synthesizes approximately 65 sources from academic databases, policy documents, empirical studies, and citation tracking conducted between 2011 and 2025.",
         "finding": "The framework links learner diversity, AI-enabled pedagogy, and reflective teaching while identifying regional challenges and gaps in cross-cultural validation, especially for generative AI and adaptive learning tools."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203926356",
+      "title": "Token Anxiety as a Sociotechnical Constraint on Human–Transformer Interaction: Formal Definition, Mechanistic Pathway, Algorithmic Contrast, and a Complete Program for Cumulative Validation",
+      "authors": "Igor SalganikORCID  0009000145201813",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.5281/zenodo.22051044",
+      "summary": {
+        "goal": "The paper defines Token Anxiety and theorizes how perceived limits on LLM inference capacity affect human prompting behavior and interaction.",
+        "methodology": "It develops a conceptual and formal framework, contrasts human prompt compression with algorithmic compression, and proposes a staged empirical validation program.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -1024,6 +1052,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203927693",
+      "title": "Students' experiences of using ChatGPT for English language learning: a qualitative study in a Malaysian higher education institution",
+      "authors": "Nagaletchimee Annamalai, Mohamed Nasor, Arathai Din Eak, Amer Ayada Ayoub Alkubaisy",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1875727",
+      "summary": {
+        "goal": "The study examines Malaysian higher education students' motivations and experiences using ChatGPT for English language learning.",
+        "methodology": "It uses qualitative thematic analysis of interviews or accounts from 25 students, guided by Self-Determination Theory.",
+        "finding": "Students reported that ChatGPT supported English competence, social connections, autonomy, relatedness, and competence, but also produced erroneous or nonsensical information and required complementary human interaction."
+      }
+    },
+    {
       "id": "https://openalex.org/W7201980804",
       "title": "Students' Voices on the Implementation of Gen-AI Feedback in EFL Writing Classroom",
       "authors": "Abdul Ayiz, Ahmad Tauchid, Riyadh Ahsanul Arifin, Nani Hidayati, Muhammad Reza Ainun Najib, Ismi Islamia R Iswari",
@@ -1063,6 +1105,20 @@
         "goal": "The paper examines how generative AI affects sci-tech journal editors’ roles, competencies, ethical responsibilities, and organizational support.",
         "methodology": "It draws on existing research, editorial practice, case studies, and survey data to develop a transformation framework.",
         "finding": "The paper proposes a “sovereignty–collaboration–capability” framework in which editors clarify their roles, strengthen human–machine collaboration, update their skills, and become knowledge service providers."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203940435",
+      "title": "Source accountability in AI-mediated heritage interpretation under controlled data-source contamination",
+      "authors": "Lingyu Kong, Dongkwon Seong",
+      "journal": "npj Heritage Science",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1038/s40494-026-02926-5",
+      "summary": {
+        "goal": "The study examines whether AI systems preserve the evidentiary status of heritage claims when generating museum, archival, and tourism-facing interpretations.",
+        "methodology": "It evaluates 90 heritage cases from Korea, China, and Japan across evidence conditions, prompt variants, and deployment conditions using the SOURCE-CT benchmark.",
+        "finding": "False-claim acceptance was lowest in the ChatGPT web-interface condition, while interpretive-causal claims were most frequently accepted, revealing source-boundary problems in AI-mediated heritage communication."
       }
     },
     {
@@ -1357,6 +1413,20 @@
         "goal": "The study evaluates the efficacy, acceptability, and mechanisms of GenAI-generated personalized feedback in an anxiety-focused worry-log intervention.",
         "methodology": "It uses a three-arm randomized controlled trial comparing GenAI feedback, human feedback, and a worry-log-only control over 10 days.",
         "finding": "GenAI feedback significantly improved state anxiety and worry compared with the control, with acceptability and improvements comparable to human feedback."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203904983",
+      "title": "Public awareness, trust, perceived usefulness, and willingness to use ChatGPT for healthcare communication among adults in the Asir Region, Saudi Arabia: a cross-sectional study",
+      "authors": "Geetha Kandasamy, Khalid Orayj, Rayah Asiri, Asma M. Alshahrani, Ghaleb Alharbi, Sarah A. Abutaily, Atheer Yahya Al Suhaym, Atheer Ali Alyahya",
+      "journal": "Frontiers in Public Health",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fpubh.2026.1862006",
+      "summary": {
+        "goal": "The study evaluates adults’ awareness, trust, perceived usefulness, perceived risks, and willingness to use ChatGPT for healthcare communication.",
+        "methodology": "It uses a cross-sectional survey of 429 adults in Saudi Arabia’s Asir Region and applies descriptive statistics and multiple linear regression.",
+        "finding": "Most participants had used ChatGPT and viewed it as useful, while higher awareness and trust predicted willingness to use it and perceived risks reduced willingness."
       }
     },
     {
@@ -1976,6 +2046,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203736421",
+      "title": "Machine translation and post-editing in translator training: a systematic review of integration models, challenges, and pedagogical implications",
+      "authors": "Shiyue Chen, Tianli Zhou",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-08740-5",
+      "summary": {
+        "goal": "The review examines how machine translation and post-editing, amid advances in neural MT and large language models, are integrated into translator education and what challenges remain.",
+        "methodology": "The authors conduct a PRISMA-based systematic review of peer-reviewed studies across curricular, learner, methodological, and pedagogical dimensions.",
+        "finding": "MTPE pedagogy is expanding through varied course models but remains English-centric, technically focused, and uneven in cognitive, affective, and cross-language support."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172340274",
       "title": "Longitudinal Intelligence: A New Paradigm for Artificial Intelligence",
       "authors": "Teodor Minchev",
@@ -2029,6 +2113,20 @@
         "goal": "The paper reviews how artificial intelligence and natural language processing can support scientific legal epidemiology studies examining how laws influence health outcomes.",
         "methodology": "It draws on lessons from case deployments and recent literature to assess AI/NLP applications for legal data collection, coding, analysis, and quality control.",
         "finding": "The review identifies opportunities, validity challenges, methodological research needs, and reporting elements needed to advance AI/NLP-based legal epidemiology."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203954641",
+      "title": "Latent Profiles of AI Literacy, Self-Directed Learning, and Creative Self-Efficacy among Art Students and Their Associations with Lifelong Learning Competence",
+      "authors": "Hu Gao, Wei Wang, Ningning Wang",
+      "journal": "Higher Education Studies",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.5539/hes.v16n4p61",
+      "summary": {
+        "goal": "The study examines how AI literacy, self-directed learning, and creative self-efficacy co-occur among art students and relate to lifelong learning competence.",
+        "methodology": "It uses cross-sectional survey data from 502 Chinese art students and latent profile analysis with sensitivity specifications.",
+        "finding": "Four descriptive profiles were identified, with lifelong learning competence increasing across profiles, although the profile solution was sample- and specification-bound."
       }
     },
     {
@@ -2648,6 +2746,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203927477",
+      "title": "From benchmarking to human–AI collaboration: a systematic review of ChatGPT in translation studies (2022–2025)",
+      "authors": "Sukayna Ali, Marwan Jarrah",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.3389/feduc.2026.1847081",
+      "summary": {
+        "goal": "The study reviews how ChatGPT has been investigated and applied in translation research.",
+        "methodology": "It systematically analyzed 140 studies selected from 1,316 Scopus publications published between 2022 and 2025.",
+        "finding": "The literature shifted from benchmarking ChatGPT against human translators toward studying human–AI collaboration, translator training, and responsible integration into translation practice."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172440500",
       "title": "From anxiety to adaptation: A study on the relationship between college students' AI interaction experience and mental health in higher education",
       "authors": "Xiang Yu, jiahao luo",
@@ -2897,6 +3009,20 @@
         "goal": "The paper conceptualizes explainable AI as scaffolding that develops users’ AI literacy during interaction with LLMs and other AI systems.",
         "methodology": "It develops a conceptual framework integrating literature on explainable AI, AI literacy, educational scaffolding, and human–AI teaming.",
         "finding": "The authors argue that adaptive explanations can teach users about model behavior, limitations, and bias while fostering calibrated trust."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203891770",
+      "title": "Examining AI-assisted writing revision through assignment design and implementation in an undergraduate course",
+      "authors": "Alexis R. Heather, Juliet Han, Li Tian",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1879758",
+      "summary": {
+        "goal": "The study examines how undergraduate students perceive the effects of AI-assisted revision on their writing process and outcomes.",
+        "methodology": "Students completed initial drafts without AI, revised them using AI tools, and reflected on their experiences in two writing assignments in a large-enrollment general education course.",
+        "finding": "The abstract reports that student reflections provided insights into AI tool selection, engagement, and perceived effects on writing development."
       }
     },
     {
@@ -3401,6 +3527,20 @@
         "goal": "The study aims to construct a blended foreign-language teaching model that uses generative AI to integrate local Chinese culture and improve students’ linguistic, cultural, and intercultural competencies.",
         "methodology": "It uses an English Pronunciation course and Shaoxing culture as a case example, guided by the Production-Oriented Approach.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203948581",
+      "title": "Comparison of artificial intelligence assisted training and traditional learning paths in clinical simulation skills training: meta-analysis of randomized controlled trials",
+      "authors": "Sihan Che, Huan Zhao, Tianlin Lu, Zhen You",
+      "journal": "Frontiers in Medicine",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fmed.2026.1915528",
+      "summary": {
+        "goal": "The study evaluates whether AI-assisted clinical simulation training improves skills, procedure time, and learner satisfaction compared with traditional instruction.",
+        "methodology": "The authors conducted a meta-analysis of 12 randomized controlled trials comparing AI-assisted and traditional clinical skills training.",
+        "finding": "AI-assisted training improved overall clinical skills and learner satisfaction, but large language models showed no statistically significant advantage over traditional training."
       }
     },
     {
