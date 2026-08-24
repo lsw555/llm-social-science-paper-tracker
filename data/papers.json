@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T03:09:26.175231+00:00",
+  "updatedAt": "2026-08-24T03:07:23.527860+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -237,6 +237,20 @@
         "goal": "The paper discusses what is known about generative AI and its impact on learning.",
         "methodology": "The abstract presents a conceptual discussion of generative AI, its development, and its capabilities.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4416338498",
+      "title": "What Needs Attention? Prioritizing Drivers of Developers’ Trust and Adoption of Generative AI",
+      "authors": "Rudrajit Choudhuri, Bianca Trinkenreich, Rahul Pandita, Eirini Kalliamvakou, Igor Steinmacher, Marco Aurélio Gerosa, Christopher A. Sanchez, Anita Sarma",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1145/3842739",
+      "summary": {
+        "goal": "The study aims to identify factors shaping developers’ trust in and adoption of generative AI tools at work, including differences in cognitive style.",
+        "methodology": "It analyzes a survey of 238 GitHub and Microsoft developers using PLS-SEM and Importance-Performance Matrix Analysis, supplemented by qualitative analysis of reported challenges and risks.",
+        "finding": "System and output quality, functional value, and goal maintenance were associated with trust, while trust and cognitive styles were associated with adoption intentions and reported usage. "
       }
     },
     {
@@ -2228,6 +2242,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203984268",
+      "title": "Language-Mediated Belief/Behavior Attractors in Human-AI Interaction: A Mechanism and Defensive Architecture for AI Mind-Virus Phenomena",
+      "authors": "jeffery Harris",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.5281/zenodo.22062648",
+      "summary": {
+        "goal": "The paper examines how large language models may propagate language-mediated belief and behavior patterns through human–AI conversations and produce downstream harms.",
+        "methodology": "It models these patterns as information-dynamic attractor contagion involving sycophancy, anthropomorphic interfaces, and immersive isolation, and proposes defensive architectures and an abstract language model firewall.",
+        "finding": "The abstract argues that these mechanisms can cause psychological destabilization, financial and legal manipulation, and epistemic monoculture."
+      }
+    },
+    {
       "id": "https://openalex.org/W7196965855",
       "title": "LLMs’ reshaping of people, processes, products, and society in software development: a qualitative exploration with early adopters",
       "authors": "Benyamin T. Tabarsi, Heidi Reichert, Stephen D. Gilson, Ally Limke, Sandeep Kaur Kuttal, Tiffany Barnes",
@@ -3138,6 +3166,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204005753",
+      "title": "Emergent Learner Agency in Implicit Human– AI Collaboration: How Supportive and Contrarian AI Personas Reshape Interaction",
+      "authors": "Yueqiao Jin, Roberto Martinez‐Maldonado, Dragan Gašević, Xibin Han, Lixiang Yan",
+      "journal": "Journal of Computer Assisted Learning",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1002/jcal.70310",
+      "summary": {
+        "goal": "The study examines how supportive and contrarian AI personas influence learner agency, discourse, and experiences during implicit human–AI creative collaboration.",
+        "methodology": "224 university students were randomly assigned to human-only, supportive-AI, or contrarian-AI online triads completing a creative movie-plot task, with discourse and outcomes analyzed using network, sequence, and clustering methods.",
+        "finding": "Contrarian AI generated challenge- and reflection-rich discourse but reduced teamwork satisfaction and psychological safety without improving creative performance, while supportive AI encouraged agreement-centered interaction."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172495672",
       "title": "Embodied brand companions: fostering passenger loyalty and emotional connection in high-speed rail membership programs via social VR avatars",
       "authors": "Xia Hua, Zhou Qin, Congcong Kong, Junping Ding, Zhouyang Gu",
@@ -3233,6 +3275,20 @@
         "goal": "The study aimed to examine how generative AI acceptance relates to university students’ learning engagement through learning motivation and hope, with self-directed learning as a moderator.",
         "methodology": "The researchers surveyed 478 Chinese university students online and analyzed the data using correlation, structural equation, and moderated mediation analyses.",
         "finding": "Generative AI acceptance was positively associated with learning engagement through sequential mediation by learning motivation and hope, while self-directed learning moderated the motivation-to-hope pathway."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4416349182",
+      "title": "Does scientific writing converge to U.S. english? evidence from generative AI-assisted publications",
+      "authors": "Dragan Filimonovic, Christian Rutzer, Jeffrey T. Macher, Rolf Weder",
+      "journal": "Scientometrics",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1007/s11192-026-05774-z",
+      "summary": {
+        "goal": "The study examines whether generative AI use causes scientific writing by non-English-speaking authors to converge toward U.S. scientific English.",
+        "methodology": "It analyzes 5.65 million Scopus-indexed articles from 2021–2024 using SciBERT embeddings and an event-study difference-in-differences design around ChatGPT’s launch.",
+        "finding": "GenAI-assisted publications show increasing convergence toward U.S. scientific English, especially among domestic teams from countries linguistically distant from English."
       }
     },
     {
@@ -3527,6 +3583,20 @@
         "goal": "The study aims to construct a blended foreign-language teaching model that uses generative AI to integrate local Chinese culture and improve students’ linguistic, cultural, and intercultural competencies.",
         "methodology": "It uses an English Pronunciation course and Shaoxing culture as a case example, guided by the Production-Oriented Approach.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203979473",
+      "title": "Constructing Meaning Across Substrates: Human Cognition, Artificial Intelligence, and the Problem of Cross-Substrate Understanding",
+      "authors": "Jace (Jeong Hyeon) Kim",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.5281/zenodo.22052228",
+      "summary": {
+        "goal": "The paper examines how to evaluate understanding and meaning construction across human and artificial systems, particularly large language models.",
+        "methodology": "It develops a conceptual interdisciplinary framework drawing on cognitive science, neuroscience, AI, information theory, linguistics, evolutionary theory, and philosophy of mind.",
+        "finding": "It argues that coherent AI outputs may reflect translation between different representational systems rather than human-equivalent understanding, and proposes dimensions for cross-substrate comparison."
       }
     },
     {
@@ -3852,6 +3922,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203879896",
+      "title": "Assessing Conversational AI Usability: A System Usability Scale Evaluation of Dola AI",
+      "authors": "Arimbi Kurniasari, Navizha AS Velisya",
+      "journal": "Jurnal Ilmiah Teknik",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.56127/juit.v5i2.1324",
+      "summary": {
+        "goal": "The study aims to evaluate users’ perceived usability and acceptance of Dola AI.",
+        "methodology": "A quantitative study surveyed 50 Dola AI users with the ten-item System Usability Scale questionnaire and calculated standardized usability scores.",
+        "finding": "Dola AI received a SUS score of 69.6, indicating adequate usability but marginal acceptability."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172405806",
       "title": "Artificial intelligence-based positive youth development intervention protocol in school settings",
       "authors": "Mehmet Akif Karaman, Ashraf Mahmud",
@@ -3905,6 +3989,20 @@
         "goal": "The review maps how artificial intelligence is connected to teacher competence in assessment, analytics, and professional development.",
         "methodology": "It conducts a scoping review of 33 peer-reviewed articles published from 2022 to 2026 and identified through a bounded Web of Science search.",
         "finding": "The literature emphasizes AI-based competence assessment and teacher AI literacy but reports limited explainable AI, fairness analysis, multimodal validation, and longitudinal research."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204009473",
+      "title": "Artificial Intelligence: Pag-unawa sa Bokabularyong Gen Alpha Para sa Inklusibong Edukasyong Filipino",
+      "authors": "Jan Rae M. Manuel",
+      "journal": "Cognizance Journal of Multidisciplinary Studies",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.47760/cognizance.2026.v06i08.007",
+      "summary": {
+        "goal": "The study examines Filipino education graduate students’ perspectives and experiences using AI to understand Gen Alpha vocabulary and promote inclusive education.",
+        "methodology": "It uses a descriptive qualitative design, semi-structured interviews with nine participants, and thematic analysis.",
+        "finding": "Participants viewed AI as useful for explaining vocabulary, providing context, and creating teaching materials, while emphasizing critical evaluation, prompt engineering, AI literacy, and verification."
       }
     },
     {
@@ -4244,6 +4342,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203984243",
+      "title": "AI is Here to Stay: A Scenario‐Based Exploration of Leadership, Followership, and the Impact on Skill Development",
+      "authors": "Maike Kugler, Laura S. Aichroth",
+      "journal": "New Directions for Student Leadership",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1002/yd.70067",
+      "summary": {
+        "goal": "The article examines how different forms of human-AI collaboration may transform leadership, followership, and skill development in workplaces.",
+        "methodology": "It uses an action-based organizational learning scenario technique to develop and compare four workplace constellations involving AI.",
+        "finding": "The scenarios reveal substantial gaps in current leadership and followership education and support greater emphasis on critical thinking and prompt literacy."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203654296",
       "title": "AI for Understanding Subtext in Film and Drama",
       "authors": "Yair Neuman",
@@ -4314,6 +4426,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203974589",
+      "title": "A systematic review of multimodal emotion and sentiment analysis based agentic AI frameworks in educational systems",
+      "authors": "Bharati Pujari -, Uttam U. Deshpande, Goh Kah Ong Michael",
+      "journal": "Discover Computing",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s10791-026-10471-9",
+      "summary": {
+        "goal": "The study reviews multimodal emotion and sentiment analysis methods and agentic AI frameworks for adaptive, emotionally responsive educational systems.",
+        "methodology": "It conducts a PRISMA-based systematic review of 90 publications selected from 150 records published between 2020 and 2025 across major academic databases.",
+        "finding": "The review finds that multimodal, transformer-based, and agentic AI systems outperform unimodal and conventional approaches, while LLM integration enables adaptive guidance, personalized recommendations, and context-aware assessment."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171863420",
       "title": "A self-training framework using pre-trained language models to detect and classify technology adoption in protest event analysis",
       "authors": "Jun Liu, Xin Li",
@@ -4353,6 +4479,20 @@
         "goal": "The study aims to create a machine-readable atlas of terms and phenomena from a longitudinal human–AI interaction corpus without releasing raw dialogues.",
         "methodology": "It analyzes an N=1 corpus subset of 20,448 conversational turns involving two frontier language models and organizes 142,773 entries into twelve layers and three tiers.",
         "finding": "The resulting atlas contains 23,911 empirical, 117,276 theoretical, and 1,586 methodological entries, while the underlying corpus and construction procedure remain restricted."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4392677943",
+      "title": "A Survey on Human-AI Collaboration with Large Foundation Models",
+      "authors": "Vanshika Vats, Marzia Binta Nizam, Minghao Liu, Ziyuan Wang, Richard C. Ho, Mohnish Sai Prasad, Vincent Titterton, Sai Venkat Malreddy",
+      "journal": "ACM Transactions on Intelligent Systems and Technology",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1145/3841472",
+      "summary": {
+        "goal": "The paper reviews how large foundation models can be integrated with human-AI collaboration to support problem-solving and decision-making.",
+        "methodology": "It surveys research on human-guided model development, collaborative design, ethical and governance frameworks, and applications in high-stakes domains.",
+        "finding": "The review concludes that successful human-AI systems require careful human-centered design rather than stronger models alone, while noting ongoing challenges involving safety, fairness, and control."
       }
     },
     {
