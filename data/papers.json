@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T03:07:23.527860+00:00",
+  "updatedAt": "2026-08-25T03:02:55.914491+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -853,6 +853,20 @@
         "goal": "The study maps the effectiveness, linguistic barriers, and ethical implications of AI-driven interactive storytelling for adolescent mental health management.",
         "methodology": "It conducts a PRISMA 2020 scoping review of 18 studies identified from searches of Scopus, ScienceDirect, and CINAHL using the PCC framework.",
         "finding": "The review finds that AI chatbots support anonymous emotional expression, digital triage, and Psychological First Aid, but struggle with adolescent slang and crisis metaphors and require strict safeguards and referral to clinical professionals."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204001571",
+      "title": "The Impact of Generative Artificial Intelligence on Mental Health: Opportunities, Challenges, and Ethical Concerns",
+      "authors": "Sivanjali.V Sivanjali.V, Aryananda Ms, Abhirami Anilkumar, Nimisha Prakash",
+      "journal": "International Journal of Technology & Emerging Research",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.64823/ijter.2621030",
+      "summary": {
+        "goal": "The paper analyzes opportunities, challenges, and ethical concerns surrounding generative AI in mental health care.",
+        "methodology": "It reviews and compares recent studies on generative AI applications in mental health care.",
+        "finding": "The reviewed studies suggest that generative AI can improve access and support but poses risks involving emotional reliance, misinformation, privacy, bias, and insufficient clinical validation."
       }
     },
     {
@@ -2074,6 +2088,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204045741",
+      "title": "MODELOS CONTEMPORÂNEOS DE FORMAÇÃO CONTINUADA EM TECNOLOGIA EDUCACIONAL: PERSPECTIVAS PARA A INTEGRAÇÃO DA INTELIGÊNCIA ARTIFICIAL E DAS METODOLOGIAS ATIVAS NO ENSINO",
+      "authors": "Cristina Hill Fávero, Paula de Souza Santos Graciolli Silva, Aldair Lucas Viana Caldas, Homero Lourenço Gomes, Emerson Mello da Costa, Roberto Lopes da Silva Filho, Marta Rosangela Costa dos Santos, Letícia Cilene Ribeiro",
+      "journal": "Revista Tópicos.",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.70773/revistatopicos/787431842",
+      "summary": {
+        "goal": "The article analyzes contemporary models of continuing teacher education for integrating generative AI, virtual learning environments, and active methodologies into teaching.",
+        "methodology": "It uses qualitative bibliographic and documentary research grounded in scholarship on teacher development, digital competence, educational AI, active learning, and communities of practice.",
+        "finding": "The analysis argues that effective training requires sustained experimentation, collaboration, feedback, ethical and critical AI competencies, and institutional support rather than simple exposure to new tools."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172340274",
       "title": "Longitudinal Intelligence: A New Paradigm for Artificial Intelligence",
       "authors": "Teodor Minchev",
@@ -2536,6 +2564,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204008373",
+      "title": "Guardians of Truth in Algerian Academia: Developing Ethical AI Frameworks for Multilingual Hypothesis-Driven Research",
+      "authors": "Hala Loucif",
+      "journal": "Journal of Afro-Asian Studies",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.63939/jaas.2026-vol9.n30.62-77",
+      "summary": {
+        "goal": "The study develops an ethical framework for responsible AI-assisted, multilingual hypothesis-driven research in Algerian higher education.",
+        "methodology": "It uses a convergent mixed-methods approach to examine 45 master’s students in an English research methodology course at Batna 2 University.",
+        "finding": "Structured AI ethics education improved ethical decision-making, bias awareness, and critical evaluation of AI outputs, while mainstream AI systems favored Anglophone norms that could marginalize local epistemologies."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203461564",
       "title": "Generative Artificial Intelligence-Enabled Decision Support Systems and Organizational Performance: A Moderated Mediation Model of Human–AI Collaboration Quality",
       "authors": "Jayshri Patil",
@@ -2631,6 +2673,20 @@
         "goal": "The review examines GenAI adoption, opportunities, ethical challenges, and institutional readiness in African higher education institutions.",
         "methodology": "The authors systematically reviewed 39 eligible peer-reviewed articles and conference papers identified from six academic databases covering 2022–2025.",
         "finding": "GenAI adoption is expanding unevenly, supporting personalization, multilingual learning, and research productivity while raising academic-integrity concerns."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203996609",
+      "title": "Generative AI for Sustainable Education: A Systematic Review of Opportunities, Challenges and Future Directions",
+      "authors": "Sneha.V.K Sneha.V.K",
+      "journal": "International Journal of Technology & Emerging Research",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.64823/ijter.2621019",
+      "summary": {
+        "goal": "The paper examines opportunities and challenges for sustainably integrating generative AI into higher education.",
+        "methodology": "It conducts a PRISMA 2020 systematic literature review of 32 scholarly works published between 2022 and 2026 using the Population–Exposure–Outcome framework.",
+        "finding": "The review identifies five strategic processes for sustainable implementation and concludes that GenAI adoption requires balancing innovation with environmental transparency and ethical stewardship."
       }
     },
     {
@@ -2967,6 +3023,20 @@
         "goal": "The study examines whether exposure to “photos with idols” generative-AI content is related to students’ normalization of digital privacy abuse.",
         "methodology": "It uses a quantitative descriptive design with online four-point Likert questionnaires from 103 purposively sampled students and Pearson correlation analysis.",
         "finding": "Exposure to the AI content had a significant moderate positive relationship with normalization of digital privacy abuse (r=0.535, p=0.000)."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203979801",
+      "title": "Exploring user trust in generative AI feedback in academic writing: a psychometric network analysis",
+      "authors": "Ismail Xodabande, Abdulkhay Kosimov Akhadali Ugli, Ne’matov Abdullajon",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-08817-1",
+      "summary": {
+        "goal": "The study examines how English as a foreign language learners form beliefs and trust in generative AI feedback for academic writing.",
+        "methodology": "It used questionnaire and open-ended responses from 92 Uzbekistani undergraduates, analyzing 86 complete cases with psychometric network analysis and qualitative comments.",
+        "finding": "Trust appeared calibrated through perceived writing improvement, active interpretation, and continued human judgment, while inaccurate or generic feedback sustained caution."
       }
     },
     {
@@ -3373,6 +3443,20 @@
         "goal": "The study aims to develop and preliminarily validate a self-report scale measuring high school students’ generative AI literacy in learning.",
         "methodology": "Survey data from 1,003 students at eight high schools in Ho Chi Minh City were analyzed using Cronbach’s alpha and exploratory factor analysis.",
         "finding": "The 23-item scale showed a five-dimensional structure and acceptable internal consistency, with Cronbach’s alpha coefficients ranging from 0.691 to 0.851."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204013722",
+      "title": "Developing trustworthy AI for climate services at scale",
+      "authors": "Hywel T. P. Williams, Anrijs Abele, Arjun Biswas, Fai Fung, Jason A. Lowe, Neha Mittal, Hailun X. Xie",
+      "journal": "npj Climate Action",
+      "year": 2026,
+      "field": "Climate & environment",
+      "url": "https://doi.org/10.1038/s44168-026-00420-z",
+      "summary": {
+        "goal": "The paper aims to develop trustworthy generative AI systems that scale access to climate services and support climate-related decision-making.",
+        "methodology": "It presents two prototype AI systems and links development practices to principles of salience, credibility, and legitimacy.",
+        "finding": "The abstract identifies responsibility, quality, and trustworthiness of AI outputs as key concerns."
       }
     },
     {
@@ -3950,6 +4034,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204003113",
+      "title": "Artificial intelligence in education focused on standardized learning",
+      "authors": "Catherine. N. B.",
+      "journal": "International Journal of Technology & Emerging Research",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.64823/ijter.2621032",
+      "summary": {
+        "goal": "The review examines how AI and learning analytics can support standardized learning while improving learner engagement, performance, accessibility, and instructional effectiveness.",
+        "methodology": "It synthesizes recent research on AI applications in education, including personalized learning, learning analytics, self-regulated learning, agentic AI, recommendation systems, AI literacy, and K–12 settings.",
+        "finding": "The review finds that AI-powered learning analytics can support standardized learning through monitoring, prediction, personalized feedback, and evidence-based decisions, while ethical, privacy, bias, transparency, and equity challenges remain."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171893954",
       "title": "Artificial intelligence dependency in college students: a critical narrative review",
       "authors": "Xuehua He, Shan Li, Ren Cha, Li Wang, Yunxia Shen, Ruijuan Wu, Lili Wu, Xiaoyan Gong",
@@ -4020,6 +4118,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204002921",
+      "title": "Artificial Intelligence in Higher Education: A review of Applications Benefits, Challenges and future Directions",
+      "authors": "Jestin James M",
+      "journal": "International Journal of Technology & Emerging Research",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.64823/ijter.2621027",
+      "summary": {
+        "goal": "The review examines applications, benefits, challenges, and future directions of AI and generative AI in higher education, with emphasis on India.",
+        "methodology": "It synthesizes recent literature on AI applications including individualized learning, intelligent tutoring, learning analytics, automated assessment, and generative AI.",
+        "finding": "The review reports that AI can improve engagement, feedback, content creation, and digital transformation, but requires responsible implementation addressing privacy, bias, integrity, and governance."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203548625",
       "title": "Artificial Intelligence for Sustainable Human Development: Integrating Humanities, Education, and Intelligent Information Systems",
       "authors": "Norman Ralph B. Isla",
@@ -4031,6 +4143,20 @@
         "goal": "The article examines how humanities, education, and intelligent information systems can support human-centered AI for sustainable human development.",
         "methodology": "It reviews and synthesizes recent research on cultural values, fairness, trust, AI literacy, generative AI, assessment, sustainability, interpretability, climate action, and healthcare.",
         "finding": "It argues that AI should complement human capacities through inclusive, accountable, transparent, human-monitored, and culturally responsive socio-technical systems."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204023085",
+      "title": "Artificial Intelligence Tools and English Writing Development in Higher Education: A Scopus-Based Bibliometric Analysis Using Biblioshiny and VOSviewer",
+      "authors": "Tasneem Akhter, Safia Begum, Iqra Mehmood, Aqsa Ramzan",
+      "journal": "International Journal of Emerging Multidisciplinaries Social Science",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.54938/ijemdss.2026.05.3.750",
+      "summary": {
+        "goal": "The study examines the evolution and intellectual structure of research on AI tools and English writing in higher education.",
+        "methodology": "It analyzes 1,034 Scopus-indexed English-language journal articles from 2020–2026 using Biblioshiny/bibliometrix and VOSviewer for performance analysis and science mapping.",
+        "finding": "Research expanded rapidly, with themes shifting toward generative AI, large language models, and EFL writing, but remaining uneven methodologically and geographically."
       }
     },
     {
@@ -4549,6 +4675,20 @@
         "goal": "The paper aims to improve localized agricultural advisory access for Indian smallholder farmers using an edge-deployed multimodal LLM system.",
         "methodology": "It develops and field-evaluates AgriLLM-X, combining multilingual voice dialogue, computer vision, sensor fusion, genomic analysis, and edge optimization.",
         "finding": "The system achieved high technical performance, increased reported agricultural yields by 15–22%, increased access for female farmers by 36%, and produced 91% user satisfaction."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204051320",
+      "title": "A GOVERNANCE-ORIENTED PROMPT ENGINEERING FRAMEWORK FOR AI-ASSISTED INTERNAL AUDITING",
+      "authors": "Özden Şentürk",
+      "journal": "Denetişim",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.58348/denetisim.1854440",
+      "summary": {
+        "goal": "The study develops a governance-oriented framework for structuring, documenting, and governing auditors’ interactions with large language models.",
+        "methodology": "It uses a conceptual synthesis of internal audit standards, LLM risk and security frameworks, and prompt engineering and human–AI interaction research to create a taxonomy of 13 audit-specific prompt types across the audit lifecycle.",
+        "finding": "The abstract reports that structured prompting can improve repeatability, transparency, professional skepticism, and evidentiary controls, while LLM outputs should remain intermediate analytical support rather than audit evidence or authoritative judgment."
       }
     },
     {
