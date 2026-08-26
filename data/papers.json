@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T03:02:55.914491+00:00",
+  "updatedAt": "2026-08-26T03:10:58.709179+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -1262,6 +1262,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203957611",
+      "title": "Scarce data and complex texts: the role of LLMs in automatic text classification",
+      "authors": "Elena <1995> Palmieri",
+      "journal": "AMS Dottorato Institutional Doctoral Theses Repository (University of Bologna)",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.48676/unibo/amsdottorato/12674",
+      "summary": {
+        "goal": "The thesis examines whether LLMs can classify complex texts and generate useful labeled data when annotated data is scarce.",
+        "methodology": "It evaluates GPT-4o and Gemini across classification tasks with varying domain-knowledge and reasoning requirements and uses LLM-generated silver datasets to train lightweight classifiers.",
+        "finding": "LLMs perform well when terminology and knowledge are accessible but less well on tasks requiring deeper reasoning, while silver-dataset-trained classifiers outperform zero-shot Llama and Gemini in the Emilia-Romagna case study."
+      }
+    },
+    {
       "id": "https://openalex.org/W7164460264",
       "title": "Scale or Validity? Measuring Competitive Moves with Validated LLM Coding",
       "authors": "Lucas Carassato Fernandes Brites, Gabriele Piccoli, Joaquin Rodriguez, Sun Tae Kim",
@@ -1343,6 +1357,20 @@
         "goal": "The study examines how African higher education is adapting assessment practices to generative AI.",
         "methodology": "It conducts a PRISMA 2020-guided systematic review of ten empirical studies published between 2023 and 2025, using research involving surveys, interviews, and case studies.",
         "finding": "The review finds a gap between students’ frequent AI use and educators’ preparedness, while AI-inclusive, process-based assessment may support originality, higher-order thinking, and academic resilience."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204060288",
+      "title": "Research on Ethical Risks of Generative AI Applications in Higher Education",
+      "authors": "Wenbing Chang, Yunxiao Zhao, Siting Cao, Fuping Zeng, Shenghan Zhou",
+      "journal": "Advances in humanities and modern education research;",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.70114/ahmer.2026.5.1.p18",
+      "summary": {
+        "goal": "The study aims to detect and assess academic ethical risks associated with generative AI use in higher education.",
+        "methodology": "It combines AI-generation indicators, Sentence-BERT semantic similarity, and graph-based collusion analysis on student assignments and academic papers.",
+        "finding": "About 15% of documents showed significant AI-generation characteristics, and the system identified semantic plagiarism, improper citations, and several collusion patterns."
       }
     },
     {
@@ -1455,6 +1483,20 @@
         "goal": "The study evaluates adults’ awareness, trust, perceived usefulness, perceived risks, and willingness to use ChatGPT for healthcare communication.",
         "methodology": "It uses a cross-sectional survey of 429 adults in Saudi Arabia’s Asir Region and applies descriptive statistics and multiple linear regression.",
         "finding": "Most participants had used ChatGPT and viewed it as useful, while higher awareness and trust predicted willingness to use it and perceived risks reduced willingness."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204087197",
+      "title": "Psychological pathways linking generative AI dependency to psychological capital depletion among Chinese international students",
+      "authors": "Le Yao, Huiqin Luo, QuanGan Yao",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41598-026-68047-y",
+      "summary": {
+        "goal": "The study examines whether generative AI dependency is associated with psychological capital among Chinese international students and tests psychological distress and self-efficacy as mediators.",
+        "methodology": "A three-wave longitudinal questionnaire study of 502 Chinese international students used structural equation modeling and bootstrapped mediation analyses.",
+        "finding": "Generative AI dependency was positively associated with psychological capital, with significant independent and sequential mediation through psychological distress and self-efficacy."
       }
     },
     {
@@ -2060,6 +2102,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204086552",
+      "title": "Mapping Artificial Intelligence Integration in Higher Education: A Systematic Review using the FACETS and SAMR Frameworks",
+      "authors": "Shakil Ahmad",
+      "journal": "Open Science Framework",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.17605/osf.io/f4d7s",
+      "summary": {
+        "goal": "The study maps how artificial intelligence, including ChatGPT and other generative AI systems, is integrated into higher education and evaluates its educational value and level of innovation.",
+        "methodology": "The authors conducted a PRISMA-guided systematic review of 22 studies identified from eight databases and classified applications using the FACETS and SAMR frameworks.",
+        "finding": "AI use is concentrated in assessment, feedback, tutoring, adaptive learning, and student support, with reported efficiency and engagement benefits, but most applications remain at substitution or augmentation levels rather than transforming education."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170101981",
       "title": "Making Lectures Accessible: AI-Based Abstractive Summarisation for Video Content",
       "authors": "Helard Becerra Martinez, Walsh Mt, Conor Fagan, Andrew Hines",
@@ -2141,6 +2197,20 @@
         "goal": "The review examines whether AI assistance, personalization, and automation align with the educational, social, and equity-oriented aims of lifelong learning.",
         "methodology": "It conducted a PRISMA-informed scoping review of 189 articles using categorical coding, chi-square tests, and Cramér's V.",
         "finding": "AI applications showed weak alignment with lifelong-learning paradigms, geographic contexts, and vulnerability profiles despite personalization being a prominent promise."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204091651",
+      "title": "Leveraging Large Language Models for IELTS Learning: A Literature Review",
+      "authors": "Zhiyang Yang",
+      "journal": "Applied and Computational Engineering",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.54254/2755-2721/2026.36348",
+      "summary": {
+        "goal": "The paper reviews the role and utility of large language models in IELTS teaching across listening, speaking, reading, and writing.",
+        "methodology": "It systematically reviews relevant studies and relates their conclusions to current IELTS teaching requirements.",
+        "finding": "The review finds that large language models are efficient and customizable learning tools that may improve scores, but pose risks including academic integrity concerns and limited multimodal capabilities."
       }
     },
     {
@@ -2701,6 +2771,20 @@
         "goal": "The study examines generative AI as an epistemic mirror through six cognitive operations in future-oriented reasoning.",
         "methodology": "The replication package provides analysis code, a coded corpus, lexical dictionaries, derived tables and figures, and supporting materials.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204078674",
+      "title": "Generative AI and linguistic creativity in digitally multilingual higher education",
+      "authors": "Olena Semenikhina, Olena Semenog, Nataliia Hrona, Viacheslav Riznyk, Artem Yurchenko",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1931269",
+      "summary": {
+        "goal": "The study examines whether structured ChatGPT-mediated tasks enhance linguistic creativity among multilingual higher-education students.",
+        "methodology": "A quasi-experiment compared 88 Ukrainian university students completing either traditional tasks or structured ChatGPT-mediated tasks, using descriptive statistics, t-tests, Cohen’s d, and qualitative observations.",
+        "finding": "The ChatGPT group improved significantly more, especially in text production and genre-stylistic transformation, while figurative-expressive gains were more moderate."
       }
     },
     {
@@ -3572,6 +3656,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4403365304",
+      "title": "Crossing margins: Intersectional users’ ethical concerns about software",
+      "authors": "Lauren Olson, Tom P. Humbert, Ricarda Anna-Lena Fischer, Bob Westerveld, Florian Kunneman, Emitzá Guzmán",
+      "journal": "Empirical Software Engineering",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1007/s10664-026-10944-x",
+      "summary": {
+        "goal": "The study aims to analyze intersectional users’ ethical concerns about software and develop a feedback-driven framework for incorporating their perspectives into software design.",
+        "methodology": "The researchers used large language models to identify ethical concerns in 36,777 Reddit posts, then applied regression, counterfactual, time-series, and survey-validation analyses.",
+        "finding": "The analyses show how intersectional identities and real-world events shape the expression and prioritization of software-related ethical concerns."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172097533",
       "title": "CropChain: An AI-Powered Agricultural Social Platform Integrating Rice Disease Detection, Expert Collaboration, and Digital Marketplace Services for Smallholder Farmers",
       "authors": "Author unavailable",
@@ -3653,6 +3751,20 @@
         "goal": "The study introduces contextualized sensorimotor norms for ambiguous English words and evaluates whether GPT-4 can recover sensorimotor information.",
         "methodology": "Researchers collected human ratings for 112 words in four contexts and compared them with existing norms, semantic-relatedness judgments, and GPT-4 ratings.",
         "finding": "Contextualized ratings captured distinct information, reflected word meanings and semantic relatedness, and GPT-4 ratings aligned reasonably well with human judgments."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204041047",
+      "title": "Construction of a Process-based Evaluation System for Graduate Courses Driven by Industrial Engineering and Artificial Intelligence",
+      "authors": "Yuheng Yang, Keyu Shi, Shuhai Fan",
+      "journal": "Advances in humanities and modern education research;",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.70114/ahmer.2026.5.1.p84",
+      "summary": {
+        "goal": "The study aims to develop an AI-driven process-based evaluation and management framework for graduate courses.",
+        "methodology": "It uses Lark Minutes to quantify classroom interactions, an OLS model to predict performance, and a tiered early-warning system with personalized interventions.",
+        "finding": "The abstract reports that the model significantly improves participation and provides precision academic support."
       }
     },
     {
@@ -4034,6 +4146,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204101868",
+      "title": "Artificial intelligence tool utilization in deprescribing practices among community pharmacists in Jordan: a cross-sectional study",
+      "authors": "Ahmad Z. Al Meslamani, Dania Abu‐Naser, Anan S. Jarab, Khadeijah Ahmed Al Marshoodi, Nada A. Alsaleh",
+      "journal": "Frontiers in Digital Health",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fdgth.2026.1876269",
+      "summary": {
+        "goal": "The study aimed to assess AI chatbot use in deprescribing practices among community pharmacists in Jordan and identify associated factors and perceived outcomes.",
+        "methodology": "Researchers conducted a cross-sectional survey of 1,036 licensed community pharmacists using descriptive statistics, chi-square tests, and multivariable logistic regression.",
+        "finding": "One-third of pharmacists reported using AI chatbots, with use associated with male gender, PharmD qualification, urban practice, and reliable internet access, while improved health, adherence, and fewer side effects were commonly reported after deprescribing."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204003113",
       "title": "Artificial intelligence in education focused on standardized learning",
       "authors": "Catherine. N. B.",
@@ -4157,6 +4283,20 @@
         "goal": "The study examines the evolution and intellectual structure of research on AI tools and English writing in higher education.",
         "methodology": "It analyzes 1,034 Scopus-indexed English-language journal articles from 2020–2026 using Biblioshiny/bibliometrix and VOSviewer for performance analysis and science mapping.",
         "finding": "Research expanded rapidly, with themes shifting toward generative AI, large language models, and EFL writing, but remaining uneven methodologically and geographically."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204110299",
+      "title": "Artificial Intelligence Applications as a Brainstorming Tool in Interior Design Education",
+      "authors": "Alaa Shatwan, Sondos Rawas",
+      "journal": "Journal of Architecture and Planning",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.33948/jap-ksu-38-3-6",
+      "summary": {
+        "goal": "The study examines the benefits and challenges of using generative AI tools such as ChatGPT and MidJourney for brainstorming in interior design education.",
+        "methodology": "The researchers used qualitative and quantitative methods with 18 students completing three stages of AI-assisted brainstorming tasks followed by interviews.",
+        "finding": "AI saved students time and effort and supported creativity and idea development, although it sometimes repeated ideas or produced similar designs."
       }
     },
     {
