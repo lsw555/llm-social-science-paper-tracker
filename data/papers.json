@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T03:10:58.709179+00:00",
+  "updatedAt": "2026-08-27T12:39:14.337670+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -254,6 +254,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204140737",
+      "title": "What AI cannot sense: a situated reading of olive oil-based cosmetic care",
+      "authors": "Inssaf Amrani Medrai, Chaimae Torres, Driss Hmouni",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1057/s41599-026-08720-9",
+      "summary": {
+        "goal": "The study examines whether large language models can engage with the embodied, relational, sensory, and culturally situated knowledge underlying Moroccan olive oil-based cosmetic practices.",
+        "methodology": "The authors conducted a prompting experiment with four large language models, providing progressively richer contextual information about Moroccan olive oil-based care practices.",
+        "finding": "The models produced culturally informed responses but remained unable to access the practices’ embodied, relational, and sensory dimensions, revealing a structural gap between algorithmic and situated knowledge."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203556738",
       "title": "WTR-Vol.1-No.1 (Weaver Theoretical Review, Volume 1, Number 1) The Yerkes-Dodson Sweet Spot in Human-AI Interaction How Affective Relational Framing Sustains Optimal Model Reasoning and Meaning-Making",
       "authors": "Janet Riley",
@@ -307,6 +321,20 @@
         "goal": "The study examined Vietnamese university EFL students’ perceptions and preferences regarding ChatGPT, peer, and teacher feedback during writing revision.",
         "methodology": "It used an explanatory sequential mixed-methods design with questionnaires from 110 English majors and semi-structured interviews with 10 selected participants.",
         "finding": "Students rated teacher feedback highest, valued ChatGPT for immediacy, and generally supported combining all three feedback sources with explicit training."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204175598",
+      "title": "Validation of an AI-powered mobile application for personalizing medical note explanations: a mixed-methods evaluation",
+      "authors": "Nicholas Lamb",
+      "journal": "Frontiers in Digital Health",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fdgth.2026.1771051",
+      "summary": {
+        "goal": "The study evaluates whether a large-language-model mobile application can personalize and improve explanations of clinician-authored medical notes.",
+        "methodology": "It uses a three-phase mixed-methods evaluation involving readability analysis of 210 explanations, expert review by 15 healthcare professionals, and a survey of 54 patients.",
+        "finding": "The AI explanations improved readability, received high expert ratings for accuracy and safety, and were preferred by 70% of patient responses, with high comprehension and reported likelihood of use."
       }
     },
     {
@@ -615,6 +643,20 @@
         "goal": "The study examines how GPT-4-based writing feedback affects English writing self-efficacy among Chinese university students and how achievement goal orientation mediates or moderates this relationship.",
         "methodology": "A 12-week quasi-experimental pretest-posttest study compared 148 English majors receiving GPT-4-based automated feedback with students receiving conventional teacher feedback, measuring self-efficacy and achievement goal orientation.",
         "finding": "AI feedback significantly increased writing self-efficacy, with mastery-approach goals partially mediating and strengthening the effect while performance-approach goals weakened it."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204213473",
+      "title": "The impact of generative artificial intelligence on language teaching and learning",
+      "authors": "Abderahman Rejeb, Karim Rejeb, Heba F. Zaher, Abdo Hassoun, Maissa Lahbib, Edit Süle",
+      "journal": "Quality & Quantity",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s11135-026-03068-3",
+      "summary": {
+        "goal": "The paper examines research on how generative AI is reshaping language teaching, learning, engagement, and pedagogical design.",
+        "methodology": "It applies co-word analysis and BERTopic modeling to 908 publications from 2023 through the end of 2025.",
+        "finding": "The analysis identifies themes involving AI-assisted writing, translation, assessment, personalized feedback, learner psychology, ethical use, and teacher professional development, while showing a shift toward more focused and learner-centered research."
       }
     },
     {
@@ -1231,6 +1273,20 @@
         "goal": "The paper proposes using longitudinal, context-aware LLMs as passive computational mirrors and cross-perspective translation tools for surfacing interaction patterns and supporting reflection and shared decision-making.",
         "methodology": "It develops a conceptual framework grounded in systemic human behavior models and family systems theory.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203964591",
+      "title": "See what you see, hear what you hear: Theorizing AI Device Embodiment (ADE) and its effects on well-being, perceived social support, and adoption",
+      "authors": "Jih‐Hsuan Tammy Lin, Huai-yu Chen, Ji-Wei Yang",
+      "journal": "Computers in Human Behavior",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1016/j.chb.2026.109161",
+      "summary": {
+        "goal": "The study aims to theorize AI Device Embodiment and examine its effects on well-being, perceived social support, and AI adoption intentions.",
+        "methodology": "A between-subject experiment with 153 participants compared AI glasses, mobile phones, and laptops using a newly developed AI Device Embodiment scale.",
+        "finding": "AI glasses produced greater perceived embodiment than mobile phones and laptops, indirectly increasing subjective well-being, perceived social support availability, and adoption intentions."
       }
     },
     {
@@ -1973,6 +2029,20 @@
         "goal": "The study examines factors associated with rural teachers’ adoption of generative AI and whether digital divide conditions moderate these relationships.",
         "methodology": "Researchers surveyed 971 rural teachers in Guangxi, China, and analyzed the data using structural equation modeling and moderation analysis.",
         "finding": "Technical support, perceived usefulness, and perceived ease of use were positively associated with adoption attitudes, while digital divide conditions moderated the relationship between ease of use and attitudes."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204198161",
+      "title": "Mental Models and Artificial Systems",
+      "authors": "Brian Jabarian",
+      "journal": "Oxford Research Encyclopedia of Economics and Finance",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1093/9780197851418.003.0993",
+      "summary": {
+        "goal": "The paper examines how artificial intelligence systems influence human mental models during interaction.",
+        "methodology": "It develops a conceptual framework describing four pathways of influence and discusses using large language models to simulate distinct agencies or informational states.",
+        "finding": "The paper identifies information provisioning, cognitive reconfiguration, personalized interaction, and collaborative integration as four broad pathways through which AI affects mental models."
       }
     },
     {
@@ -2872,6 +2942,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204166198",
+      "title": "From tools to pedagogical ecologies: a systematic review of artificial intelligence in EFL/ESL education",
+      "authors": "Arash Javadinejad, Maedeh Davari",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1859248",
+      "summary": {
+        "goal": "The review examines how artificial intelligence is integrated into EFL/ESL education across language skills, instructional domains, and educational contexts.",
+        "methodology": "It conducts a PRISMA-guided systematic review of 221 peer-reviewed publications using a framework covering pedagogical roles, mediating processes, outcomes, and contextual constraints.",
+        "finding": "AI functioned as a multifunctional pedagogical actor, offering benefits such as expanded practice and faster feedback while raising concerns about reliability, privacy, over-reliance, inequality, bias, and academic integrity."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170039278",
       "title": "From rule-based to generative AI: a systematic review of algorithmic evolution and multimodal fusion in VR interview training systems",
       "authors": "Runlai Li, Riji Yu",
@@ -3275,6 +3359,20 @@
         "goal": "The study compares generative AI models and human experts in evaluating visual metaphors of school coexistence.",
         "methodology": "Six human experts and five LLMs rated three metaphors and student explanations using rubric-based measures of agreement, reliability, and generalizability.",
         "finding": "Human experts had higher Coexistence Index scores, ChatGPT-5 Pro was closest to human consensus, and one to two human experts plus about ten AI runs achieved generalizability of at least 0.95."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204036000",
+      "title": "Ethical Dilemmas of Generative AI in Education and Their Implications for SDG 4: A Systematic Review from a Global and Inclusive Perspective",
+      "authors": "Eva García-Beltrán",
+      "journal": "Journal of Educational Technology Development and Exchange",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.18785/jetde.1903.01",
+      "summary": {
+        "goal": "The review examines ethical dilemmas surrounding generative AI in education and their implications for inclusive and equitable quality education under SDG 4.",
+        "methodology": "It systematically reviews 24 peer-reviewed studies published between December 2022 and December 2024 using PRISMA 2020 guidelines.",
+        "finding": "The review identifies academic integrity, algorithmic equity, data privacy, and inclusive education as key themes, with discussions focused mainly on risks and limited proactive, context-sensitive strategies."
       }
     },
     {
@@ -3852,6 +3950,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204167195",
+      "title": "Clinician-rated multidimensional quality and readability of patient-facing glioma information generated by six generative AI chatbot platforms",
+      "authors": "Tingting Zhao, Yuan Zhou, Zejuan Gu",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41598-026-68531-5",
+      "summary": {
+        "goal": "The study evaluates the safety, accuracy, empathy, quality, transparency, reliability, and readability of patient-facing glioma information generated by six AI chatbots.",
+        "methodology": "Two neurosurgery clinicians rated three responses to each of 50 predefined glioma questions per platform using multidimensional quality measures and readability formulas.",
+        "finding": "Unsafe or potentially misleading responses occurred on every platform, and platforms varied in quality and readability, with none consistently meeting the sixth-grade readability target."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170080721",
       "title": "Climate-control ChatGPT for EFL writing and AI literacy",
       "authors": "Hesham Aldamen, Salwa Mohammad Alawneh, Mohamad Almashour, Mutasim Al-Deaibes, Rami Alsharefeen",
@@ -4101,6 +4213,20 @@
         "goal": "The study examines how perceptions of generative AI-based pronunciation feedback relate to English willingness to communicate and whether pronunciation self-efficacy mediates this relationship.",
         "methodology": "A cross-sectional survey of 1,701 Chinese university English learners was analyzed using covariance-based structural equation modeling and bias-corrected bootstrapping.",
         "finding": "Positive perceptions of generative AI feedback were associated with greater willingness to communicate, with pronunciation self-efficacy partially mediating the relationship and accounting for 69.9% of the total effect."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204158187",
+      "title": "Assessing temporal event recurrence as a feature for fake news detection using deep learning",
+      "authors": "Ali Raza, Ateeq Ur Rehman Butt, Abd al Kader Ahmed Yassin, Shehzad Ashraf Chaudhry, Shafiq Ur Rehman Khan, Asif Raza",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1038/s41598-026-66664-1",
+      "summary": {
+        "goal": "The study investigates whether temporal event recurrence patterns can improve fake news detection.",
+        "methodology": "The authors manually annotated news articles for recurring and non-recurring events and compared BERT and Bi-LSTM models.",
+        "finding": "BERT outperformed Bi-LSTM, and recurring event structures provided useful cues for distinguishing credible from non-credible news."
       }
     },
     {
@@ -4507,6 +4633,20 @@
         "goal": "The study examines whether AI-generated food images are perceived similarly to real food images in terms of realism, willingness to eat, calorie content, and healthiness.",
         "methodology": "In a within-subject online experiment, 87 participants rated 60 matched pairs of AI-generated and pre-validated real food images on four visual analogue scales.",
         "finding": "AI-generated images were rated as less realistic and less appealing to eat, while perceived healthiness and calorie content did not differ from real images."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204153792",
+      "title": "AI-enabled health communication to address misinformation on social media: a mini review",
+      "authors": "Yuqi Hu",
+      "journal": "Frontiers in Communication",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fcomm.2026.1907956",
+      "summary": {
+        "goal": "The review examines how AI can support health communication responses to misinformation on social media.",
+        "methodology": "It synthesizes recent literature on AI-enabled social listening, intervention design and delivery, and evaluation.",
+        "finding": "AI may help identify misinformation and tailor corrective communication, but evidence for real-world interventions remains mixed and insufficient."
       }
     },
     {
