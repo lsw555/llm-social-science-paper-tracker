@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T12:39:14.337670+00:00",
+  "updatedAt": "2026-08-28T14:10:26.907184+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -83,6 +83,20 @@
         "goal": "The study examines how interface designs for requesting and verifying deletion of personal information from LLM systems affect users’ trust, perceived deletion, and usability.",
         "methodology": "A within-subjects online experiment with 64 participants compared a progress indicator, a technical console display, and an interactive verification chat.",
         "finding": "Interactive verification produced the highest perceived deletion and trust, while participants valued transparent technical feedback without reduced usability."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204463753",
+      "title": "‘It's here and we can't fight it’: engineering faculty perceptions of generative AI, student use, and the future of engineering education",
+      "authors": "Pratima Saravanan, Connor Meissner, Jennifer Glenn",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1880863",
+      "summary": {
+        "goal": "The study examines engineering faculty perceptions of generative AI and its effects on teaching and learning.",
+        "methodology": "Researchers conducted three semi-structured focus groups with 16 faculty members at a U.S. research-intensive university and analyzed them thematically.",
+        "finding": "Faculty described reluctant engagement with GenAI, concerns about cognitive offloading and disrupted assessment, and the need for curricular redesign, governance, and professional development."
       }
     },
     {
@@ -363,6 +377,20 @@
         "goal": "Analizar la influencia del uso de ChatGPT en el desarrollo del pensamiento crítico de estudiantes de bachillerato.",
         "methodology": "Se aplicó un enfoque cuantitativo descriptivo no experimental mediante una encuesta estructurada a 182 estudiantes.",
         "finding": "El 60% usa ChatGPT frecuentemente, principalmente para generar ideas y comprender contenidos, sin evidenciarse una disminución significativa del pensamiento crítico, cuyo desarrollo depende del tipo de uso."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7123814128",
+      "title": "Using street view images and visual LLMs to predict heritage values for governance support: risks, ethics, and policy implications",
+      "authors": "Tim Johansson, Mikael Mangold, Kristina Dabrock, Anna Donarelli, Ingrid Campo-Ruiz",
+      "journal": "npj Heritage Science",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s40494-026-02924-7",
+      "summary": {
+        "goal": "The study aimed to help Swedish authorities identify buildings with potential heritage values for national renovation planning.",
+        "methodology": "It used zero-shot multimodal LLMs to analyze street-view images of 154,710 Swedish buildings for visible indicators of heritage value.",
+        "finding": "The predictions identified potential heritage values across 5.0 million square meters of heated floor area, while the study highlighted risks involving transparency, error detection, and sycophancy."
       }
     },
     {
@@ -923,6 +951,20 @@
         "goal": "The study examines how public AI experience, media trust, and verified organizational transparency practices influence comfort with AI-produced news while assessing LLM-assisted institutional coding.",
         "methodology": "It analyzes Reuters Institute survey data from 27 countries and transparency indicators for 45 news organizations using statistical models and a coding process involving LLM assistance, human recoding, reliability assessment, and adjudication.",
         "finding": "Public AI usage is the strongest predictor of comfort with AI-produced news, while verified transparency practices show no reliable relationship after coding errors are corrected."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204223451",
+      "title": "The Impact of Claude Agents and Autonomous AI Agents on Higher Education: Opportunities, Challenges, and Implications for Educational Leadership",
+      "authors": "Bogdan Costache",
+      "journal": "International Journal of Education Leadership Artificial Intelligence Computing Business Life Sciences and Society",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.65222/viral.2026.8.45.65",
+      "summary": {
+        "goal": "The study examines the opportunities, challenges, and leadership implications of adopting Claude Agents and autonomous AI agents in higher education.",
+        "methodology": "It uses a conceptual review and thematic literature analysis of interdisciplinary research on agentic AI, human–AI collaboration, educational leadership, AI governance, and higher education.",
+        "finding": "The abstract reports that successful integration requires institutional readiness, effective governance, ethical frameworks, and human oversight, with agents augmenting rather than replacing educators and leaders."
       }
     },
     {
@@ -3334,6 +3376,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204222955",
+      "title": "Evaluating AI-generated patient education materials for endometrial cancer surgery: a comparative analysis of response quality, reliability, and readability between ChatGPT and DeepSeek models",
+      "authors": "Ling Tian, Long-yu Tang, Ming-tao Yang, Yan Wang, Hong-ni He, Tianwen He, Ying Tang, Chuan Lin",
+      "journal": "Frontiers in Public Health",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fpubh.2026.1831988",
+      "summary": {
+        "goal": "The study aimed to compare the quality, reliability, and readability of patient education materials about endometrial cancer surgery generated by ChatGPT and DeepSeek.",
+        "methodology": "Researchers analyzed responses to 41 questions across four clinical domains using DISCERN, EQIP, GQS, FRES, GFI, and FKGL measures, with paired statistical tests.",
+        "finding": "DeepSeek produced significantly more reliable content, while ChatGPT had slightly better readability in surgical planning, and both models generated materials exceeding general public health-literacy levels."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203483193",
       "title": "Evaluating AI-generated curriculum designs in vocational education: Evidence from a No-AI diagnostic assessment",
       "authors": "Zheng Liu",
@@ -4118,6 +4174,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204450798",
+      "title": "CAD-like Prompting / CADUI: A Judgment-Structured Framework for Human–AI Collaboration",
+      "authors": "Takuma Yoshida",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.5281/zenodo.22122350",
+      "summary": {
+        "goal": "The paper aims to preserve human judgment authority and traceability during extended, iterative human–AI collaboration.",
+        "methodology": "It proposes the conceptual CAD-like Prompting and CADUI frameworks, which separate human judgment from machine execution and represent objectives, constraints, approval states, delegation boundaries, and recovery points.",
+        "finding": "The abstract does not report empirical findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7201973597",
       "title": "Bridging Coursework and Professional Practice through a Retrieval-Grounded, Privacy-Preserving AI Learning Companion",
       "authors": "Chen Ying",
@@ -4185,6 +4255,20 @@
         "goal": "The study examined health researchers’ awareness of academic retractions and risks associated with using AI tools.",
         "methodology": "It used a validated online cross-sectional questionnaire completed by 255 health researchers in Jordan.",
         "finding": "Although 73.3% reported using AI tools, major concerns included fabricated references and data, while many researchers rarely checked whether cited articles had been retracted."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204467408",
+      "title": "Automated scoring of adult ego development from sentence completions: interpretable maturity indicators derived by evolutionary prompt optimization",
+      "authors": "Tamas Madl, Susanne R. Cook‐Greuter",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1853871",
+      "summary": {
+        "goal": "To develop an automated, interpretable language-model-based method for scoring adult ego development from sentence-completion responses.",
+        "methodology": "An evolutionary algorithm derived maturity indicators scored by a domain-fine-tuned language model, and a classifier was evaluated against expert ratings, blinded comparisons, external criteria, and other text corpora.",
+        "finding": "The classifier matched expert ratings in 86.1% of cases and replicated at 85.1% in blinded validation, while zero-shot prompting achieved only 40.1–44.9% agreement."
       }
     },
     {
@@ -4258,6 +4342,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204223491",
+      "title": "Artificial intelligence-supported flipped learning in information technology education: quasi-experimental evidence on programming performance, learning autonomy, reflective learning, and digital competence",
+      "authors": "Ngoc Duong Bach, Huy Tung Le",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1907387",
+      "summary": {
+        "goal": "The study examines whether lecturer-guided AI-supported flipped learning improves programming performance, learning autonomy, reflective learning, and digital competence among undergraduate Information Technology students.",
+        "methodology": "It uses a classroom-based non-equivalent groups quasi-experimental design with 120 students, comparing an AI-supported flipped class with a traditional flipped class through tests, self-reports, and interviews.",
+        "finding": "The AI-supported group showed higher programming performance and reported greater autonomy, reflective learning, and digital competence, while students and lecturers viewed AI as useful for preparation, debugging feedback, solution comparison, reflection, and verification."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172405806",
       "title": "Artificial intelligence-based positive youth development intervention protocol in school settings",
       "authors": "Mehmet Akif Karaman, Ashraf Mahmud",
@@ -4269,6 +4367,20 @@
         "goal": "The paper aims to outline an eight-week AI-supported positive youth development intervention for high school students and a feasibility-oriented mixed-method evaluation design.",
         "methodology": "The intervention combines daily AI micro-nudges, voluntary micro-coaching dialogues, weekly counselor sessions, pre–post trait measures, daily ecological momentary assessments, quantitative effect-size and Tau-U analyses, and qualitative thematic analysis.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204462934",
+      "title": "Artificial intelligence-assisted speaking in Spanish as a foreign language: effects on foreign language emotions and willingness to communicate",
+      "authors": "Yifan Miao, Pingping Hu",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1877956",
+      "summary": {
+        "goal": "The study examined how AI-assisted Spanish speaking practice affects foreign language emotions and willingness to communicate among beginner learners.",
+        "methodology": "It used a longitudinal quasi-experimental design with 69 Chinese university students, validated questionnaires at three time points, and thematic analysis of interviews with nine experimental-group students.",
+        "finding": "AI-assisted practice significantly reduced boredom and increased willingness to communicate over time, while anxiety did not significantly change and enjoyment showed a positive but non-significant trend."
       }
     },
     {
@@ -4608,6 +4720,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204273285",
+      "title": "APPLYING THE PLS-SEM MODEL TO ANALYZE THE RELATIONSHIP BETWEEN FACTORS AFFECTING THE INTENTION AND ACTUAL USE OF AI TOOLS (CHATGPT) IN THE WORKPLACE IN HO CHI MINH CITY",
+      "authors": "Nguyen Huu Ngoc, Nguyen Hien Duc, Luong Quy Ngoc, Nguyen Hien Nhan, Luu Thi Thanh Huyen",
+      "journal": "Tạp chí Khoa học Đại học Công Thương.",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.62985/j.huit_ojs.vol26.no3e.470",
+      "summary": {
+        "goal": "The study examines factors influencing intention to use and actual use of ChatGPT among students and office workers in Ho Chi Minh City.",
+        "methodology": "It surveys 251 respondents and analyzes the data using partial least squares structural equation modeling with TAM, UTAUT2, TPB, and local digital-infrastructure factors.",
+        "finding": "Intention strongly predicts actual use, contextual factors strongly influence attitude, personal innovativeness predicts intention more strongly than attitude, and perceived ease of use is not statistically significant."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203674621",
       "title": "AI-generated videos in medical science popularization and education: a scoping review",
       "authors": "Jiejia Ma, Xiujun Zheng, Lijin Wang, Jiachun Wu, Zimo Yang, Siyu Wei, Ruibin Huang",
@@ -4829,6 +4955,20 @@
         "goal": "The paper proposes using LLM sycophancy as a tool for critically testing and falsifying humanities and social-science theories.",
         "methodology": "It develops a framework that redirects model satisfaction toward rigorous critique and uses cross-model adversarial interactions for theoretical stress-testing.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204243733",
+      "title": "AI Shepherds and Electric Sheep: Leading and Teaching in the Age of Artificial Intelligence",
+      "authors": "Seán O'Callaghan, P. Hoffman",
+      "journal": "Perspectives on Science and Christian Faith",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.56315/pscf9-26ocallaghan",
+      "summary": {
+        "goal": "The book examines how educators and ministry leaders should understand, use, and regulate artificial intelligence, including ChatGPT, in their responsibilities.",
+        "methodology": "It develops a theological and conceptual analysis of AI’s social implications and proposes principled guidelines for education, spiritual formation, and ministry applications.",
+        "finding": "The authors argue that AI should support human flourishing and cocreation while not replacing essential human relationships, counseling, teaching, or worship roles."
       }
     },
     {
