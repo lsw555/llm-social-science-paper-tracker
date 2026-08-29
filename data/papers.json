@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T14:10:26.907184+00:00",
+  "updatedAt": "2026-08-29T08:47:56.783993+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -1038,6 +1038,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204463223",
+      "title": "The Health Communications Assessment Checklist: a teaching tool for uncovering bias in the age of AI",
+      "authors": "Rebecca H. Ofrane, Taliah Canada, Amanda S. Birnbaum",
+      "journal": "Frontiers in Public Health",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpubh.2026.1872506",
+      "summary": {
+        "goal": "The study develops a teaching tool to help public health students critically evaluate bias in AI-generated health communications.",
+        "methodology": "Fifty-five graduate students used ChatGPT-4o to generate health communication content and applied a 14-question equity-centered checklist to critique it during a classroom exercise.",
+        "finding": "Students reported positive engagement and skill-building, using their identities and lived experiences to identify subtle AI-generated biases, while feedback informed improvements to the checklist."
+      }
+    },
+    {
       "id": "https://openalex.org/W7166272010",
       "title": "The Efficiency Paradox of Workplace AI: Understanding AI-Enabled Cyberloafing",
       "authors": "Mariia Kyrychenko, Sara Memarian Esfahani",
@@ -1049,6 +1063,20 @@
         "goal": "The paper examines how workplace generative AI may create perceived slack that contributes to AI-enabled cyberloafing.",
         "methodology": "It uses a scenario-based 2 × 2 vignette experiment with employed adults, drawing on the Stimulus-Organism-Response framework.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7165021286",
+      "title": "The Delta: Large Language Models as a Prediction-Only Control that De-confounds the Mind Sciences",
+      "authors": "Tomas Pødenphant Lund",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.5281/zenodo.20679633",
+      "summary": {
+        "goal": "The paper proposes using large language models as prediction-only controls to de-confound claims about the biological mechanisms underlying cognitive phenomena.",
+        "methodology": "It compares phenomena reproduced or absent in a language model lacking biological machinery, using inheritance controls and a proposed systems-ladder to distinguish functional similarity from mechanistic identity.",
+        "finding": "The abstract reports that the model reproduces several cognitive signatures and can reconstruct a narrative but not a minimal bodily self, suggesting that some phenomena do not require the biological mechanisms traditionally attributed to them."
       }
     },
     {
@@ -1556,6 +1584,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204487133",
+      "title": "Reframing sentiment analysis in the LLM Era: a comprehensive review of methods, evaluation, and sustainability",
+      "authors": "Younghoe Kim, Ilaria Bartolini",
+      "journal": "Artificial Intelligence Review",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1007/s10462-026-11684-6",
+      "summary": {
+        "goal": "The review synthesizes methods, evaluation practices, reproducibility challenges, fairness concerns, and sustainability issues in sentiment analysis during the transformer and LLM era.",
+        "methodology": "It analyzes a corpus of 165 studies and conducts a descriptive mapping of survey literature plus a reporting-prevalence audit of 89 empirical technical papers.",
+        "finding": "The evidence suggests that progress in sentiment analysis requires jointly evaluating task performance, reproducibility, calibration, fairness, accountability, and lifecycle sustainability rather than model scale alone."
+      }
+    },
+    {
       "id": "https://openalex.org/W7197045876",
       "title": "Randomized controlled trial of GenAI coach feedback efficacy, acceptability and mechanisms in anxiety worry logs",
       "authors": "Chuncheng Huang, Junpeng Lin, Yanling Yue, Yong‐Jin Liu, Howard Berenbaum, Nisha Yao, Wenting Mu",
@@ -1609,6 +1651,20 @@
         "goal": "The study aimed to identify persuasive features for LLM-generated psychoeducation and test whether they improve confidence in mental health professionals.",
         "methodology": "In two phases, participants rated texts with varying persuasive features, then 40 randomized participants read psychoeducation generated with either a feature-engineered or baseline LLM prompt.",
         "finding": "Source credibility, argument quality, and processing fluency improved perceived credibility and persuasiveness, and feature-engineered texts produced greater improvements in attitudes toward mental health professionals."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7162510494",
+      "title": "Prompt Sensitivity in LLM-Based Market Agents",
+      "authors": "Massimiliano Marinucci",
+      "journal": "Open MIND",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.5281/zenodo.18065410",
+      "summary": {
+        "goal": "The study tests whether LLM-driven market agents produce stable aggregate market behavior and how sensitive that behavior is to prompt specifications.",
+        "methodology": "It preregisters agent-based experiments varying prompt descriptions, category context, stochasticity, social information, and verbal brand-advantage cues, evaluating market concentration, loyalty, stability, entropy, and NBD-Dirichlet parameters.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -2746,6 +2802,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204470054",
+      "title": "Harnessing large language models in virtual CBT for university students’ academic anxiety: a preliminary randomized trial",
+      "authors": "Hao Fang, Zixi Huang, Lingxin Zhu, Qinling Dai, Minjian Hong, Hongyun Guo, Encong Wang",
+      "journal": "Frontiers in Public Health",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fpubh.2026.1874822",
+      "summary": {
+        "goal": "The study aimed to examine whether an LLM- and VR-based CBT system could reduce academic anxiety among university students.",
+        "methodology": "In a three-arm randomized trial, 60 students received four weeks of LLM-VR-CBT, traditional CBT, or minimal support, with academic anxiety and physiological measures assessed over time.",
+        "finding": "Both active interventions reduced academic anxiety and heart rate more than minimal support, while the LLM-VR-CBT and traditional CBT groups did not differ significantly."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204008373",
       "title": "Guardians of Truth in Algerian Academia: Developing Ethical AI Frameworks for Multilingual Hypothesis-Driven Research",
       "authors": "Hala Loucif",
@@ -2813,6 +2883,20 @@
         "goal": "The study examines generative AI use among undergraduate and graduate students and its relationship with cognitive regulation, motivation, self-regulation, and ethical awareness.",
         "methodology": "Researchers surveyed 381 students at a technical university in Uzbekistan and used scale comparisons and multiple regression analyses.",
         "finding": "Graduate and undergraduate students differed significantly on six of seven scales, while Neuro-AI Pedagogical Competence was most strongly associated with ethics and academic autonomy, self-regulation, and motivation rather than AI-use frequency."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204442499",
+      "title": "Generative AI use before medical visits: disclosure-item responses, trust, and care-seeking behaviors in a cross-sectional social-media survey in Poland",
+      "authors": "Simona Wójcik, Anna Rulkiewicz, Justyna Domienik‐Karłowicz",
+      "journal": "Frontiers in Digital Health",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fdgth.2026.1933451",
+      "summary": {
+        "goal": "The study examined pre-consultation generative AI use, disclosure to physicians, trust, and self-reported health-behavior changes among Polish adults.",
+        "methodology": "Researchers conducted a cross-sectional online survey of 1,044 Polish adults recruited through social media and analyzed responses using exploratory statistical tests and logistic regression.",
+        "finding": "Among respondents reporting pre-consultation AI use, 82.5% selected that they had not informed a physician, with fear of negative reactions and reluctance to undermine physician authority being common reasons."
       }
     },
     {
@@ -4160,6 +4244,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204483329",
+      "title": "Can Robots Feel \"Pain\" ? Discourse Construction and Public Meaning Production in Short‑Video Platform Comment Interactions",
+      "authors": "Ranran Zeng",
+      "journal": "Social Sciences and Humanities",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.63313/ssh.9129",
+      "summary": {
+        "goal": "The study examines how Douyin commenters collectively construct public meanings about a humanoid robot through comment interactions.",
+        "methodology": "It uses large language model-assisted inductive qualitative coding to analyze highly liked comments and secondary replies about a Unitree G1 stability-test video.",
+        "finding": "Commenters largely bypassed the robot's technical performance by projecting personal experiences and existing discourses onto it, collectively constructing a public victim identity."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172212085",
       "title": "Can Large Language Models Support University Counseling? Evidence from Perceived Counseling Alliance, Disclosure Willingness, and Risk Recognition",
       "authors": "Jianshan Cheng",
@@ -4241,6 +4339,20 @@
         "goal": "The study assessed whether reasoning-enabled LLMs can classify COVID-19 vaccination stances and produce coherent, auditable reasoning for public health research.",
         "methodology": "The authors evaluated zero-shot stance classification by o4-mini and Gemini 2.5 Flash on 3,060 human-annotated vaccination tweets and qualitatively analyzed shared misclassifications and chain-of-thought summaries.",
         "finding": "Both models achieved macro-F1 scores around 0.8, but shared errors included target confusion, literal interpretations of sarcasm, and mismatches between labels and rationales."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7155641615",
+      "title": "BRI DataLab: an AI-assisted research platform for Chinese infrastructure finance",
+      "authors": "Sanoop Sajan Koshy",
+      "journal": "Frontiers in Big Data",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3389/fdata.2026.1863692",
+      "summary": {
+        "goal": "The paper documents an AI-assisted platform for querying and synthesizing data and documents on Chinese overseas development finance.",
+        "methodology": "It combines a harmonized project-level financing dataset, a curated corpus of 42 sources, and a retrieval-augmented generation interface with documented data-conversion and system-prompt procedures.",
+        "finding": "The paper argues that AI-assisted research interfaces are methodologically defensible when transparent about their evidentiary limits."
       }
     },
     {
@@ -4790,6 +4902,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204266037",
+      "title": "AI-Generated TikTok Microlearning Videos for Eight Grade EFL Learners’ Pronunciation of English Silent Letters",
+      "authors": "Silvia Syahara, Dholiful Hadi, Agus Wardhono",
+      "journal": "International Journal of Education Language and Social Science",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.62612/ijelass.v4i2.104",
+      "summary": {
+        "goal": "The study investigates whether AI-generated TikTok microlearning videos can improve eighth-grade EFL learners’ pronunciation of English silent letters.",
+        "methodology": "It used a one-group pre-test and post-test design with 31 students, analyzing pronunciation scores through descriptive statistics, the Shapiro-Wilk test, and the Wilcoxon Signed-Rank Test.",
+        "finding": "Pronunciation scores increased significantly with a strong effect size, although the lack of a control group prevents definitive causal conclusions."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172397606",
       "title": "AI-GENERATED CONTEXTUAL LISTENING MATERIALS EXPLORING TEACHER AND STUDENTS PERCEPTIONS IN EFL CLASSROOMS",
       "authors": "Mikael Albinus Silitonga, Dedi Irwan, Rahayu Meliasari",
@@ -4871,6 +4997,20 @@
         "goal": "To compare the safety and performance of guardrailed decision-support systems and frontier language models for triaging Medicaid patient messages.",
         "methodology": "The study retrospectively evaluated 2,000 messages from Medicaid patients across three states using physician adjudication and multiple machine-learning, rule-based, ensemble, cascade, and frontier-LLM configurations.",
         "finding": "No configuration enabled sufficiently accurate physician-unassisted triage, but two clinician-review workflows met the prespecified sensitivity-floor target."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204459950",
+      "title": "AI literacy for self-regulated learning among pre-service teachers: development and validation of a scale of ethical use, monitoring, motivation, regulation, and evaluation",
+      "authors": "İsmet Kaya, Ruşen Meylani",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1948694",
+      "summary": {
+        "goal": "The study aimed to develop and validate a multidimensional scale measuring pre-service teachers’ AI literacy in self-regulated academic learning.",
+        "methodology": "Researchers developed a 30-item, five-factor scale and evaluated it with exploratory and confirmatory factor analyses, reliability, validity, gender invariance, and associations with an AI-assisted learning judgment quiz among 1,104 pre-service teachers.",
+        "finding": "The scale showed strong factor structure, reliability, validity, gender invariance, and explained 41.3% of the variance in judgment-quiz scores, with Ethical Use emerging as a distinct dimension."
       }
     },
     {
