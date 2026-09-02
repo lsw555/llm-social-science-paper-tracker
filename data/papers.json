@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T08:47:56.783993+00:00",
+  "updatedAt": "2026-09-02T06:57:11.696064+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -520,6 +520,34 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204695968",
+      "title": "Transformer-Based Support for Content-Validity Pre-Screening in Educational Materials",
+      "authors": "Safuan Safuan, Dhendra Marutho, Ahmad Ilham, Muhammad Munsarif, Wendy Sarasjati, Edy Winarno, Arnold Adimabua Ojugo, De Rosal Ignatius Moses Setiadi",
+      "journal": "Journal of Computing Theories and Applications",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.62411/jcta.16829",
+      "summary": {
+        "goal": "The study aims to develop a transformer-based framework for pre-screening the content validity and essentiality of educational items.",
+        "methodology": "It evaluates TF-IDF baselines and multilingual transformer models on 652 Indonesian-language items assessed by four experts, using group-aware training, validation, and test splits.",
+        "finding": "Transformer models captured expert-related textual patterns and supported prioritization of uncertain items, but remained limited by broader curricular context and could not replace expert judgment."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204695841",
+      "title": "Transformation of Madrasah Teachers’ Scientific Writing Competence: Integration of Artificial Intelligence, Self-Efficacy, and Demystification of Online Journal Systems Through Sustainable Publication Clinics",
+      "authors": "Isrun Abdurahman, Cahyudi Prima, Rohman Pranoto, Agus Salim",
+      "journal": "Al Musa’adah Journal of Community Service STAI Minhajul Haq",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.66891/3avp9a40",
+      "summary": {
+        "goal": "The study aimed to evaluate whether a sustained publication clinic using mentoring and ethical generative AI integration improves madrasah teachers’ scientific publication competence.",
+        "methodology": "A mixed-methods explanatory sequential study assessed 30 teachers through pretest–posttest questionnaires, observations, and interviews after a three-month intervention involving writing workshops, coaching, ethical AI use, Mendeley training, and journal-system mentoring.",
+        "finding": "Competence scores increased significantly, 73.33% submitted manuscripts, 26.67% achieved acceptance, and qualitative findings indicated improved self-efficacy and reduced writing barriers."
+      }
+    },
+    {
       "id": "https://openalex.org/W4411476921",
       "title": "Tracking funding disparities in global health aid with machine learning",
       "authors": "Finn Stürenburg, Kerstin Forster, Nicolas Banholzer, Malte Toetzke, Kenneth Harttgen, Stefan Feuerriegel",
@@ -573,6 +601,20 @@
         "goal": "The paper proposes a psychologically grounded framework for ethical, inclusive, and AI-supported education.",
         "methodology": "It synthesizes approximately 65 sources from academic databases, policy documents, empirical studies, and citation tracking conducted between 2011 and 2025.",
         "finding": "The framework links learner diversity, AI-enabled pedagogy, and reflective teaching while identifying regional challenges and gaps in cross-cultural validation, especially for generative AI and adaptive learning tools."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204746422",
+      "title": "Towards Responsible Generative AI in Education: Developing an Ethical and Human-Centric Framework",
+      "authors": "Sruti Bharali",
+      "journal": "International Journal of Science and Engineering Applications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.7753/ijcatr1509.1003",
+      "summary": {
+        "goal": "The paper aims to develop an ethical and human-centric framework for responsible generative AI use in education.",
+        "methodology": "It explores worldwide policies and discusses ethical considerations surrounding generative AI use by educational stakeholders.",
+        "finding": "The paper advocates for dedicated regulation and proposes a human-centric framework for responsible use."
       }
     },
     {
@@ -1300,6 +1342,20 @@
       "summary": {
         "goal": "The study examines how users develop parasocial relationships with generative AI and how these relationships influence continued use and subjective well-being.",
         "methodology": "It draws on social support and parasocial relationship theories to propose that AI interactions provide emotional support, informational support, and companionship.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204721187",
+      "title": "Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_15)",
+      "authors": "Jonne Kamphorst, Huanxing Chen, Michael S. Bernstein, Robb Willer",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.5281/zenodo.22169615",
+      "summary": {
+        "goal": "The study forecasts treatment effects of 16 message interventions on 13 outcomes related to trust in climate scientists before human data were available.",
+        "methodology": "A single large language model directly predicted all 208 average treatment effects using outcome-specific prompts, 10 instruction variants, and aggregated predictions without synthetic respondents or access to human outcome data.",
         "finding": "The abstract does not report findings."
       }
     },
@@ -2704,6 +2760,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204796480",
+      "title": "Humanlike representation of social networks in large language models",
+      "authors": "Jae-Young Son, Daniel Carstensen, Serra E. Favila",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.31234/osf.io/73fpj_v1",
+      "summary": {
+        "goal": "The study tests whether large language models represent social networks using computational principles similar to those used by humans.",
+        "methodology": "The authors presented LLMs with text-based versions of human social navigation tasks and assessed their responses using Katz communicability and a task where multistep representations were disadvantageous.",
+        "finding": "LLM behavior closely mirrored human participants and showed persistent multistep abstraction consistent with human social-network representations."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170750971",
       "title": "Human-aligned AI for supply chain risk detection: validation and calibration of LLM-based early-warning assessments",
       "authors": "Janis Purk",
@@ -2771,6 +2841,20 @@
         "goal": "The dissertation examines how large language model agents compare with humans in socially embedded decision-making, particularly financial markets.",
         "methodology": "It compares out-of-the-box LLM agents in agent-only asset markets with human traders in equivalent experimental markets and analyzes their strategy text.",
         "finding": "LLM agents generally price assets near fundamental value and show weaker bubble formation, lower variance, and reduced bias than human traders."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204760188",
+      "title": "How professional logics shape AI implementation in mental healthcare: a qualitative study of an LLM-enhanced chatbot",
+      "authors": "Silvia Rizzi, Stefano Fait, Mattia Franzin, Leonardo Sanna",
+      "journal": "Frontiers in Digital Health",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fdgth.2026.1945281",
+      "summary": {
+        "goal": "The study examined how psychotherapists and general practitioners perceived implementing an LLM-enhanced psychoeducational chatbot in routine mental healthcare.",
+        "methodology": "Researchers conducted four profession-specific focus groups with 48 Italian clinicians who interacted with a chatbot prototype, analyzing written reflections, group outputs, and field notes using inductive thematic analysis.",
+        "finding": "Psychotherapists and general practitioners proposed different implementation models shaped by profession-specific priorities, despite identifying similar safety concerns."
       }
     },
     {
@@ -2897,6 +2981,20 @@
         "goal": "The study examined pre-consultation generative AI use, disclosure to physicians, trust, and self-reported health-behavior changes among Polish adults.",
         "methodology": "Researchers conducted a cross-sectional online survey of 1,044 Polish adults recruited through social media and analyzed responses using exploratory statistical tests and logistic regression.",
         "finding": "Among respondents reporting pre-consultation AI use, 82.5% selected that they had not informed a physician, with fear of negative reactions and reluctance to undermine physician authority being common reasons."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204770392",
+      "title": "Generative AI interaction styles and mental health among college students: a latent profile analysis",
+      "authors": "Zongming Liu, Shuai Yang, Ping Fan, Enze Zhang, Pei Mu, Hua Fan",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41598-026-68063-y",
+      "summary": {
+        "goal": "The study aims to identify generative AI interaction styles among college students and examine their associations with depressive and anxiety symptoms.",
+        "methodology": "The researchers used latent profile analysis of 7,029 Chinese college students based on five interaction indicators, followed by comparisons of mental health outcomes and random forest and SHAP analyses of profile predictors.",
+        "finding": "The Ambivalent-Attached profile had the highest depressive and anxiety symptoms, with differences aligning more closely with relational quality than use intensity."
       }
     },
     {
@@ -3250,6 +3348,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204608622",
+      "title": "Fall 2026 Environmental Sciences Seminar Series, Jingyan Huang",
+      "authors": "Jingyan Huang",
+      "journal": "University of New Hampshire Scholars Repository (University of New Hampshire at Manchester)",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://openalex.org/W7204608622",
+      "summary": {
+        "goal": "The seminar aims to explore communication, coordination, and decision-making in emergency response to water contamination under uncertainty.",
+        "methodology": "It uses a game-based social simulation in which LLM agents represent stakeholders with diverse roles, information, incentives, and constraints.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172412031",
       "title": "Fake News Detection Using Machine Learning and LLM Embeddings: A Comparative Study of TF-IDF and BERT Representations on the Welfake Dataset",
       "authors": "Umme Noor Us Saqa, Sreenivasa B. R.",
@@ -3331,6 +3443,20 @@
         "goal": "The study examines how English as a foreign language learners form beliefs and trust in generative AI feedback for academic writing.",
         "methodology": "It used questionnaire and open-ended responses from 92 Uzbekistani undergraduates, analyzing 86 complete cases with psychometric network analysis and qualitative comments.",
         "finding": "Trust appeared calibrated through perceived writing improvement, active interpretation, and continued human judgment, while inaccurate or generic feedback sustained caution."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204784480",
+      "title": "Exploring the Relationship Between Generative Artificial Intelligence Usage and the Development of University Students’ Critical Thinking in Higher Education",
+      "authors": "Agustina, Dwi Otik Kurniawati, B Lumoindong, Irwan Suanto",
+      "journal": "Formosa Journal of Science and Technology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.55927/fjst.v5i8.145",
+      "summary": {
+        "goal": "The study examines the relationship between generative AI use and university students’ critical-thinking development.",
+        "methodology": "It uses a longitudinal correlational design with 186 students, measuring GenAI use and critical-thinking skills at the beginning and end of a semester and applying statistical tests and regression.",
+        "finding": "Critical-thinking scores increased, and reflective GenAI use showed a moderate positive association with critical-thinking development."
       }
     },
     {
@@ -3793,6 +3919,20 @@
         "goal": "The study aims to validate a Spanish instrument measuring psychological dependency on large language models.",
         "methodology": "A total of 386 Spanish-speaking participants completed the LLM-D12-SP, which was evaluated using confirmatory factor analysis, reliability, discriminant validity, and external validation analyses.",
         "finding": "The abstract reports that the scale supported a two-factor structure with good internal consistency, and that both dependency dimensions were positively associated with internet addiction and perceived LLM trustworthiness."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4417296866",
+      "title": "Developing an LLM-Based Feedback System Grounded in Evidence-Centered Design to Support Physics Problem Solving",
+      "authors": "Holger Maus, Fabian Kieser, Stefan Petersen, Peter Wulff, Paul Tschisgale",
+      "journal": "The Physics Educator",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1142/s2661339526500125",
+      "summary": {
+        "goal": "The study develops an LLM-based feedback system to support physics problem solving through individualized and adaptive feedback.",
+        "methodology": "The system was designed using evidence-centered design and evaluated in the German Physics Olympiad, where participants rated the usefulness and correctness of feedback on implemented problems.",
+        "finding": "Feedback was generally perceived as useful and highly correct, but contained errors in 20% of cases that students often failed to notice."
       }
     },
     {
