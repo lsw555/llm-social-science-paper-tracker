@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T06:57:11.696064+00:00",
+  "updatedAt": "2026-09-03T07:03:01.507266+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -366,6 +366,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4414355422",
+      "title": "Utilizing BERTopic modeling for concept discovery in the domain of gerotranscendence and solitude",
+      "authors": "B. Damayanthi Jesudas, Finn Wilson, Rachel A. Mavrovich, Sean Kindya, Feng-Yu Yeh, Sam Smith, Jeremy Ravenel, Jie Zheng",
+      "journal": "Journal of Biomedical Semantics",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1186/s13326-026-00348-7",
+      "summary": {
+        "goal": "The study aims to use BERTopic-based automated topic modeling to discover candidate ontology concepts in literature on solitude and gerotranscendence.",
+        "methodology": "The authors compared default and customized BERTopic pipelines, used semantic embeddings and cosine similarity to merge topics, and incorporated SME review and BART-generated summaries.",
+        "finding": "The customized pipeline produced more fine-grained topics, the default pipeline offered broader coverage, and BERTopic contributed 90 ontology terms while some theory-laden concepts still required expert interpretation."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171836412",
       "title": "Uso de la inteligencia artificial en el desarrollo del pensamiento crítico en estudiantes de bachillerato.",
       "authors": "María Paz Mancheno-Oviedo, Santiago David Yanzapanta-Garcés, Genesis Dayana Pinto Almeida, Jacqueline Estefania Rodríguez-Loor",
@@ -419,6 +433,20 @@
         "goal": "The study examines how frequently popular song lyrics represent themes of autonomy, competence, and relatedness under self-determination theory.",
         "methodology": "Researchers used a custom application employing large language models to conduct deductive content analysis of 360 popular songs from Australia’s top singles charts between 1988 and 2023.",
         "finding": "All three psychological needs appeared in the lyrics, with relatedness most frequent, followed by autonomy and competence, and need satisfaction more common than frustration."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204889355",
+      "title": "Using AI to support safety management – Analysing occupational safety data using machine learning within the framework of human factors",
+      "authors": "Maria Tiikkaja, Henriikka Kannisto, A. Nurmi, Vuokko Puro, Tarja Heikkilä, Ilkka Kivimäki, Ilkka Asikainen, Anna-Maria Teperi",
+      "journal": "Safety Science",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1016/j.ssci.2026.107434",
+      "summary": {
+        "goal": "The paper examines whether a fine-tuned large language model can identify and classify human-factor contributors in unstructured occupational safety reports.",
+        "methodology": "The authors fine-tuned and evaluated the AN-HF-classifier-V1 LLM on two expert-labeled datasets of incident and accident report excerpts using the Human Factors Tool framework.",
+        "finding": "The classifier may support identifying human factors in large textual datasets, but the abstract reports that textual safety data need to be more comprehensive and accurate."
       }
     },
     {
@@ -1220,6 +1248,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7165202641",
+      "title": "Synthetic resonance: a framework for growth-oriented human–AI relationships",
+      "authors": "Richard A. Fabes",
+      "journal": "Frontiers in Artificial Intelligence",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.3389/frai.2026.1891738",
+      "summary": {
+        "goal": "The paper aims to introduce a framework for understanding meaningful human–AI relationships without attributing subjective experience or mutual awareness to AI systems.",
+        "methodology": "It develops the conceptual framework of synthetic resonance and discusses its potential value and ethical implications.",
+        "finding": "The abstract does not report empirical findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171765211",
       "title": "Studi Pedagogis dan Etika Teknologi pada Penggunaan Sistem Penilaian Esai Berbasis AI di Pendidikan Tinggi",
       "authors": "Rizki Adha, Lusianto Lusianto, Dodi Syaripudin, Agus Nursikuwagus, Usep Mohamad Ishaq, Andrias Darmayadi",
@@ -1357,6 +1399,20 @@
         "goal": "The study forecasts treatment effects of 16 message interventions on 13 outcomes related to trust in climate scientists before human data were available.",
         "methodology": "A single large language model directly predicted all 208 average treatment effects using outcome-specific prompts, 10 instruction variants, and aggregated predictions without synthetic respondents or access to human outcome data.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4413743401",
+      "title": "Should Businesses Trust AI Advice? A Methodology to Audit the Ethical Integrity of Chatbots",
+      "authors": "Manuel Chaves-Maza",
+      "journal": "Computers in Human Behavior Reports",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1016/j.chbr.2026.101291",
+      "summary": {
+        "goal": "The study aims to develop and validate a methodology for auditing the ethical consistency of LLMs used as business advisors.",
+        "methodology": "Researchers tested five LLMs on ten SME-related ethical dilemmas through adaptive five-node dialogues and scored the transcripts using automated indicators and blind expert ratings.",
+        "finding": "The protocol achieved high algorithm–expert agreement, with Claude showing the greatest consistency and Grok wavering most under pressure."
       }
     },
     {
@@ -3348,6 +3404,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7163691355",
+      "title": "Fallibility, persuadability, and correctability of large language models under sustained conversational misinformation pressure",
+      "authors": "Jordan Rodriguez, Zachary Hansen, Luis De Anda, Katelyn Rohrer, Camila Grubb, Enrique Noriega-Atala, Mihai Surdeanu, Marvin J. Slepian",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1038/s41598-026-68231-0",
+      "summary": {
+        "goal": "The study examines LLM fallibility, persuadability, and correctability under sustained conversational misinformation pressure.",
+        "methodology": "The authors tested seven LLMs using 100 false statements in 50-repetition conversational sequences and evaluated responses under repetitive and argumentative pressure.",
+        "finding": "Misinformation susceptibility varied substantially across models, conversational reverberation occurred, and correctability differed independently from error rates."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204608622",
       "title": "Fall 2026 Environmental Sciences Seminar Series, Jingyan Huang",
       "authors": "Jingyan Huang",
@@ -3712,6 +3782,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203805284",
+      "title": "Efficiency vs. safety in AI-enabled medical education: an ethical analysis of AI as a bridge or a wedge",
+      "authors": "Liu Yanling, Liu Huanhuan, Gao Jie",
+      "journal": "Scientific Electronic Library Online (Scientific Electronic Library Online)",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://openalex.org/W7203805284",
+      "summary": {
+        "goal": "The paper examines when AI in medical education strengthens training and when it undermines clinical judgment and safety.",
+        "methodology": "It conducts a targeted review of 1,266 publications and applies role conflict theory to analyze ethical tensions in AI-mediated medical education.",
+        "finding": "The paper identifies tensions between efficiency and equity, convenience and clinical judgment, and personalization and professional integrity, and argues that learners should be trained to question, calibrate, and sometimes refuse AI outputs."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203679343",
       "title": "Editorial: Revolutionizing nutritional epidemiology: harnessing digital health, AI, and big data for population-level disease prevention and management",
       "authors": "Leandro Oliveira, Marta Esgalhado",
@@ -3768,6 +3852,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204920734",
+      "title": "EAP Teachers’Agency in Flux and Transformation: A Longitudinal Study in the GenAI Context",
+      "authors": "Can Chen",
+      "journal": "International Journal of TESOL Studies",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.58304/ijts.260901",
+      "summary": {
+        "goal": "The study examines how EAP teachers enact professional agency amid educational reforms and rapid GenAI integration.",
+        "methodology": "It uses a 24-month qualitative multiple case study of one novice and one experienced teacher, drawing on reflective narratives, semi-structured interviews, and informal communication logs.",
+        "finding": "The experienced teacher developed adaptive agency, while the novice showed strategic compliance and internal resistance shaped by emotional and identity challenges."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203470038",
       "title": "Dual pathways of generative AI use: role ambiguity and self-efficacy in employee-AI collaboration",
       "authors": "Qiannan Zhang, Jingyi Zhang, Dong Shan",
@@ -3793,6 +3891,20 @@
         "goal": "The study aimed to examine how generative AI acceptance relates to university students’ learning engagement through learning motivation and hope, with self-directed learning as a moderator.",
         "methodology": "The researchers surveyed 478 Chinese university students online and analyzed the data using correlation, structural equation, and moderated mediation analyses.",
         "finding": "Generative AI acceptance was positively associated with learning engagement through sequential mediation by learning motivation and hope, while self-directed learning moderated the motivation-to-hope pathway."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204999235",
+      "title": "Don’t Look up: Evaluating the Tradeoff Between Performance and Sustainability of Text Classification Using Open LLMs",
+      "authors": "Sean-Kelly Palicki, Isaac Bravo, Clint Claessen",
+      "journal": "Social Science Computer Review",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1177/08944393261473230",
+      "summary": {
+        "goal": "The study evaluates the trade-off between performance and environmental sustainability when using open LLMs and other computational text analysis methods in social-science research.",
+        "methodology": "It compares dictionaries, trained classifiers, and self-hosted open LLMs on sentiment analysis, survey-response classification, and named entity recognition while measuring performance, energy use, processing time, and CO2 emissions.",
+        "finding": "Self-hosted LLMs perform strongly on sentiment analysis but consume more energy and time, while smaller task-specific models achieve better efficiency and often higher F1 scores for classification and named entity recognition."
       }
     },
     {
@@ -4185,6 +4297,20 @@
         "goal": "The study evaluates whether AI-assisted clinical simulation training improves skills, procedure time, and learner satisfaction compared with traditional instruction.",
         "methodology": "The authors conducted a meta-analysis of 12 randomized controlled trials comparing AI-assisted and traditional clinical skills training.",
         "finding": "AI-assisted training improved overall clinical skills and learner satisfaction, but large language models showed no statistically significant advantage over traditional training."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4416365907",
+      "title": "Comparing Exploration–Exploitation Strategies of LLMs and Humans: Insights from Standard Multi-Armed Bandit Experiments",
+      "authors": "Ziyuan Zhang, Darcy Wang, Ningyuan Chen, Rodrigo B. Mansur, Vahid Sarhangian",
+      "journal": "INFORMS Journal on Data Science",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1287/ijds.2025.0113",
+      "summary": {
+        "goal": "The study compares exploration–exploitation decision-making strategies of LLMs, humans, and multiarmed-bandit algorithms.",
+        "methodology": "The authors use canonical multiarmed-bandit experiments, interpretable choice models, and prompting or thinking-model strategies to analyze LLM behavior across stationary and nonstationary environments.",
+        "finding": "Thinking-enabled LLMs show human-like mixtures of random and directed exploration in stationary settings but struggle to match human adaptability and directed exploration in nonstationary environments."
       }
     },
     {
@@ -4801,6 +4927,20 @@
         "goal": "The study examines whether AI-generated catalogue descriptions approximate human-written quality and how generative AI could support archival and museum cataloguing workflows.",
         "methodology": "InternVL2 generated descriptions of archaeological photographs, which experts and non-experts evaluated after human curation by classifying authorship, rating quality, and reporting willingness to use and trust AI tools.",
         "finding": "Participants performed above chance at identifying AI descriptions, while OCR errors and hallucinations reduced quality perceptions and experts showed lower willingness to adopt AI, supporting human verification and transparent collaboration."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204865916",
+      "title": "Analysis Capability Dynamics of E-Commerce MSMEs in Adopting Generative AI Technology for Content Strategy Efficiency Creative",
+      "authors": "Anthonius S. Hutabarat, Dewi Tamara, Irawan R D Budianto, Yulianah Yulianah",
+      "journal": "Advances in Human Resource Management Research",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.60079/ahrmr.v4i3.981",
+      "summary": {
+        "goal": "The study examines how culinary MSMEs use generative AI and dynamic capabilities to improve content marketing efficiency.",
+        "methodology": "It uses a qualitative descriptive multiple-case study of culinary MSMEs in Jatinangor.",
+        "finding": "The abstract reports that human–AI workflows reduced content production time by 50%–60% while preserving brand authenticity and local identity."
       }
     },
     {
