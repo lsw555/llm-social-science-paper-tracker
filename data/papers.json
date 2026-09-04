@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T07:03:01.507266+00:00",
+  "updatedAt": "2026-09-04T07:07:41.371183+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -1206,6 +1206,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204465993",
+      "title": "The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff",
+      "authors": "Yuriy S. Braun, Salavat M. Khafizov",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.35542/osf.io/up835_v1",
+      "summary": {
+        "goal": "The study aims to analyze AI use patterns and attitudes toward AI among university students, faculty, and administrative staff.",
+        "methodology": "It uses cross-sectional questionnaire data from 2,121 participants analyzed with descriptive statistics, group comparisons, OLS models, reliability checks, and student clustering.",
+        "finding": "Students reported greater AI use and usefulness, while faculty and administrative staff reported stronger integrity concerns and responsible-use norms, with usefulness most strongly associated with trust."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172505561",
       "title": "Techno-stress and teaching innovation among university teachers in the intelligent era: a path analysis of job burnout and AI self-efficacy",
       "authors": "Qiong Wu, Xuelin Yang, Minghuan Tang",
@@ -1595,6 +1609,20 @@
         "goal": "The study examines how African higher education is adapting assessment practices to generative AI.",
         "methodology": "It conducts a PRISMA 2020-guided systematic review of ten empirical studies published between 2023 and 2025, using research involving surveys, interviews, and case studies.",
         "finding": "The review finds a gap between students’ frequent AI use and educators’ preparedness, while AI-inclusive, process-based assessment may support originality, higher-order thinking, and academic resilience."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204757212",
+      "title": "Research on Five-Category Classification of Comment Emotions Based on the Multi-agent RAG Framework",
+      "authors": "Baohui Zhu",
+      "journal": "Applied and Computational Engineering",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.54254/2755-2721/2026.36446",
+      "summary": {
+        "goal": "The paper aims to improve fine-grained five-category emotion classification of online comments.",
+        "methodology": "It proposes a dual-agent retrieval-augmented generation framework combining a question agent, an RAG agent, and coherence-based reasoning.",
+        "finding": "Experiments on a balanced sentiment dataset reportedly show that the framework outperforms baseline models on all evaluation metrics."
       }
     },
     {
@@ -2522,6 +2550,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7167299651",
+      "title": "Large language models outperform humans at estimating society’s everyday norms",
+      "authors": "Kimmo Eriksson, Simon Karlsson, Irina Vartanova, Pontus Strimling",
+      "journal": "Communications AI & Computing",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1038/s44488-026-00018-8",
+      "summary": {
+        "goal": "The study examines how accurately large language models estimate American social norms compared with humans.",
+        "methodology": "It evaluates six LLMs and 320 humans across 555 everyday scenarios and compares individual and aggregated estimates.",
+        "finding": "LLMs outperform average humans but make systematic, homogeneous errors, while combining human and LLM estimates performs best."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172251686",
       "title": "Large language models in adolescent suicide prevention: from language signals to accountable action",
       "authors": "Man Li, Wendi Huang, Jingjing Wu, Nanyu Kuang, Yong Luo, Juan Huang, Nanqu Huang",
@@ -2939,6 +2981,20 @@
         "goal": "The study examines how AI induces professional identity threats among public relations practitioners.",
         "methodology": "It uses a quantitative survey of 285 PR professionals to assess threats across five identity dimensions and their associations with AI-related and organizational factors.",
         "finding": "Perceived identity threats are associated with AI use patterns, attitudes toward AI, AI assessments, and influences from leaders and peers."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204881424",
+      "title": "High accuracy with low costs: the pretrain-finetune paradigm for classification with transformer-based language models",
+      "authors": "Cecilia Y. Sui",
+      "journal": "Political Science Research and Methods",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1017/psrm.2026.10120",
+      "summary": {
+        "goal": "The article explains how transformer-based language models can improve political text classification with limited labeled data and computational resources.",
+        "methodology": "It demonstrates the pretrain-finetune approach by identifying toxic language in conversation threads following U.S. Senators’ tweets.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -3572,6 +3628,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204886192",
+      "title": "Exploring Factors Influencing Concerns for the Use of Generative Pretraining Transformer (GPT) Variants for the Online Guided Inquiry (OGI) among Higher Education Students",
+      "authors": "Segun Michael Ojetunde, Umesh Ramnarain",
+      "journal": "Journal of Technology in Behavioral Science",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s41347-026-00706-3",
+      "summary": {
+        "goal": "The study examines higher education students’ perceptions and concerns about using GPT variants for online guided inquiry.",
+        "methodology": "A mixed-methods cross-sectional study surveyed 150 undergraduate and graduate students in science, mathematics, and engineering using a validated nine-construct model.",
+        "finding": "Students generally viewed GPT use positively, with familiarity, help-seeking, enjoyment, and multitasking predicting adoption, while subjective norms had no significant effect."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203647329",
       "title": "Exploring Enhancement of Student Learning Outcomes by Redefining Problem Generation in Mechanical Engineering Using Generative AI",
       "authors": "Runu Proma Das, Tathyana Moratti, Shari Gasper, Aarti Singh, Mathew Baby, Beshoy Morkos",
@@ -3695,6 +3765,20 @@
         "goal": "The study compares generative AI models and human experts in evaluating visual metaphors of school coexistence.",
         "methodology": "Six human experts and five LLMs rated three metaphors and student explanations using rubric-based measures of agreement, reliability, and generalizability.",
         "finding": "Human experts had higher Coexistence Index scores, ChatGPT-5 Pro was closest to human consensus, and one to two human experts plus about ten AI runs achieved generalizability of at least 0.95."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204745988",
+      "title": "Ethically integrated generative AI for reading and vocabulary development in higher education: an experimental study of efficacy and learner perceptions",
+      "authors": "Shaista Rashid, Sadia Malik, Fatima Ghauri",
+      "journal": "Asian-Pacific Journal of Second and Foreign Language Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1186/s40862-026-00451-3",
+      "summary": {
+        "goal": "The study examines the pedagogical effectiveness and ethical implementation of generative AI for reading and vocabulary development among university students.",
+        "methodology": "A pretest-posttest control group study assigned 148 first-semester undergraduates to a 15-week ChatGPT, Claude AI, Meta AI, and Gemini intervention with structured ethical practices or traditional instruction, supplemented by interviews and TAM-based surveys.",
+        "finding": "The AI group achieved significantly higher vocabulary and reading-comprehension scores, while participants reported greater autonomy, reduced cognitive load, motivation to continue, and a 30% improvement in learning-autonomy scores."
       }
     },
     {
@@ -3978,6 +4062,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7206210237",
+      "title": "Digital twins are funhouse mirrors: Five systematic distortions",
+      "authors": "Tianyi Peng, Melanie Brucks, George Gui, Daniel J. Merlau, Grace Jiarui Fan, Malek Ben Sliman, Eric J. Johnson, Abdullah Althenayyan",
+      "journal": "Science Advances",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1126/sciadv.aeh8260",
+      "summary": {
+        "goal": "The study evaluates whether LLM-based digital twins can accurately represent individuals in social science and policy research.",
+        "methodology": "The authors conducted 19 preregistered studies comparing digital twins trained on participants’ answers to more than 500 questions with human responses across 164 outcomes.",
+        "finding": "Digital twins were only modestly more accurate than a homogeneous base LLM and correlated weakly with human responses, while exhibiting five distortions including stereotyping, ideological bias, and hyper-rationality."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171122019",
       "title": "Development and Query Analysis of an LLM-Powered Police Chatbot with Expert Accuracy Evaluation",
       "authors": "Nabila Putri Shalehah, Mohammad Givi Efgivia",
@@ -4129,6 +4227,20 @@
         "goal": "The study aims to develop a risk-aware conversational agent for digital mental health information access and interaction.",
         "methodology": "Using Design Science Research Methodology, the authors developed and evaluated Cognitive Theatre, a controller-mediated, role-decomposed agent informed by cognitive behavioural therapy.",
         "finding": "Under controlled model-generated conditions, the system escalated all 50 extreme-risk inputs and received higher ratings than two baselines in AI-based and limited human evaluations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204858091",
+      "title": "Decision delegation to GenAI agents in travel planning: Responsible AI signals, delegation levels, and the transparency paradox",
+      "authors": "Sanjit K. Roy, Gaganpreet Singh, S. Mostafa Rasoolimanesh, Ronnie Das, Ali N. Tehrani",
+      "journal": "Tourism Management Perspectives",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1016/j.tmp.2026.101512",
+      "summary": {
+        "goal": "The study examines how responsible AI characteristics influence travellers’ willingness to delegate travel-planning decisions to GenAI agents.",
+        "methodology": "It uses agency theory, trust theory, and a decision-delegation framework to analyze multi-method data from 421 travellers across three delegation levels.",
+        "finding": "Reliability and accountability consistently increase delegation, trustworthiness matters at the attribute level, and excessive transparency can reduce delegation willingness through cognitive overload."
       }
     },
     {
@@ -4580,6 +4692,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4414898195",
+      "title": "Beyond static responses: multi-agent LLM systems as a new paradigm for social science research",
+      "authors": "Jennifer Haase, Sebastian Pokutta",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1057/s41599-026-08832-2",
+      "summary": {
+        "goal": "The paper develops a framework for understanding how multi-agent LLM systems can transform social science research.",
+        "methodology": "It maps agentic LLM applications across six levels, from text processing and annotation to systems simulating social dynamics, and discusses methodological and ethical challenges.",
+        "finding": "The paper argues that agentic LLMs offer substantial potential for social science but require validation, ethical oversight, interdisciplinary collaboration, and standardized evaluation."
+      }
+    },
+    {
       "id": "https://openalex.org/W7202283386",
       "title": "Beyond Empathy: Emotional Intelligence and Artificial Intelligence in Clinical Social Work Practice, Therapeutic Alliance and Human Services",
       "authors": "Gary Bailey",
@@ -4773,6 +4899,20 @@
         "goal": "The study aimed to assess AI chatbot use in deprescribing practices among community pharmacists in Jordan and identify associated factors and perceived outcomes.",
         "methodology": "Researchers conducted a cross-sectional survey of 1,036 licensed community pharmacists using descriptive statistics, chi-square tests, and multivariable logistic regression.",
         "finding": "One-third of pharmacists reported using AI chatbots, with use associated with male gender, PharmD qualification, urban practice, and reliable internet access, while improved health, adherence, and fewer side effects were commonly reported after deprescribing."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4412583565",
+      "title": "Artificial intelligence in medicine: a cross-sectional study of knowledge and attitudes",
+      "authors": "Ishan Gupta, Ankush Garg, Ashwin Varadarajan, Siddharth Jain, Naveet Wig",
+      "journal": "BMC Medical Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1186/s12909-026-10052-w",
+      "summary": {
+        "goal": "The study evaluates medical students’ and resident doctors’ knowledge, awareness, attitudes, and use of AI in medicine and healthcare.",
+        "methodology": "Researchers conducted a 16-question questionnaire survey of 194 medical students and resident doctors and analyzed the responses statistically.",
+        "finding": "Most respondents reported limited AI knowledge and ethical awareness, while many used ChatGPT for language correction, literature reviews, manuscript writing, and presentation outlines and expressed interest in further AI education."
       }
     },
     {
