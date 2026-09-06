@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T06:49:29.769335+00:00",
+  "updatedAt": "2026-09-06T07:01:43.279181+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -716,6 +716,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7208746222",
+      "title": "The relationship between AI anxiety and academic motivation among university students: the mediating role of emotion regulation and the moderating role of gender",
+      "authors": "Yuanchang Zhang, Yantao Shi, Jing Lu",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1918525",
+      "summary": {
+        "goal": "The study examines how AI anxiety relates to university students’ academic motivation and whether emotion regulation mediates this relationship and gender moderates it.",
+        "methodology": "A cross-sectional convenience-sample survey of 1,484 university students in China used questionnaires and correlation, regression, mediation, and moderated-mediation analyses with bootstrap confidence intervals.",
+        "finding": "AI anxiety was negatively associated with emotion regulation and academic motivation, emotion regulation mediated the relationship, and its positive association with motivation was stronger among male students."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171048387",
       "title": "The quasi-gods of algorithmic providence: recommender systems and religious frameworks",
       "authors": "Ljubiša Bojić, Mark Coeckelbergh, Ernest Ženko, Petar Stevanović, Damian Guzek",
@@ -895,6 +909,20 @@
         "goal": "The study evaluates MUETBot, an AI-supported conversational tool designed to support independent learning of MUET reading skills among ESL students.",
         "methodology": "Five subject matter experts assessed content validity, and 30 undergraduate ESL students completed a user acceptance test twice over a two-week interval.",
         "finding": "MUETBot showed strong content validity, reliable and temporally stable evaluation scores, and high student acceptance."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7208762272",
+      "title": "The Use of Gemini AI as a Learning Tool for Poster Creation in the Topic of Technological and Scientific Development for Grade XII Students at SMA Al-Hikmah Surabaya",
+      "authors": "Muhammad Yazid Al Busthomi, Ajitama Putra Nugraha, Muhibbul Anwar",
+      "journal": "International Journal of Post Axial Futuristic Teaching and Learning",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.59944/postaxial.v4i3.1595",
+      "summary": {
+        "goal": "The study examines how Grade XII students use Gemini AI to create posters about technological and scientific development while developing subject knowledge and AI literacy.",
+        "methodology": "The researchers conducted a descriptive qualitative study of 25 students’ Gemini prompts and responses to ten open-ended questions, analyzed through reflexive thematic analysis and descriptive prompt analysis.",
+        "finding": "Students used Gemini for research, writing, visual ideation, and revision, but varied from near-complete delegation to collaborative direction and editing while verifying inaccurate or unsuitable outputs."
       }
     },
     {
@@ -1119,6 +1147,20 @@
         "goal": "The study develops a teaching tool to help public health students critically evaluate bias in AI-generated health communications.",
         "methodology": "Fifty-five graduate students used ChatGPT-4o to generate health communication content and applied a 14-question equity-centered checklist to critique it during a classroom exercise.",
         "finding": "Students reported positive engagement and skill-building, using their identities and lived experiences to identify subtle AI-generated biases, while feedback informed improvements to the checklist."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7208719770",
+      "title": "The Epistemic Chain Reaction: Human-AI Multiplication from Questions to Readout-Distinguishable Hypotheses — A Controlled Amplification Architecture for Scientific Discovery — with the State of Evidence registry for Papers I–IV (v2)",
+      "authors": "Yaoharee Lahtee",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.5281/zenodo.22307989",
+      "summary": {
+        "goal": "The paper proposes a controlled human–AI architecture for recursively generating, evaluating, and refining scientifically discriminable hypotheses.",
+        "methodology": "It synthesizes prior evidence on AI-assisted scientific discovery, hypothesis generation, human–AI creativity, and related cognitive mechanisms while defining a proposed epistemic multiplication factor and falsifiable workflow comparisons.",
+        "finding": "The abstract argues that role-separated, diversity-preserving, recursively gated human–AI systems may improve the generation of genuinely distinct hypotheses, but the proposed integrated mechanisms remain unvalidated."
       }
     },
     {
@@ -1749,6 +1791,20 @@
         "goal": "The review synthesizes methods, evaluation practices, reproducibility challenges, fairness concerns, and sustainability issues in sentiment analysis during the transformer and LLM era.",
         "methodology": "It analyzes a corpus of 165 studies and conducts a descriptive mapping of survey literature plus a reporting-prevalence audit of 89 empirical technical papers.",
         "finding": "The evidence suggests that progress in sentiment analysis requires jointly evaluating task performance, reproducibility, calibration, fairness, accountability, and lifecycle sustainability rather than model scale alone."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7124556463",
+      "title": "Reconstructing perished vernacular architecture: a digital humanities perspective on methods for digitally reconstituting lost rural built heritage",
+      "authors": "Jieyuan Yu, Lun Tao",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1057/s41599-026-08870-w",
+      "summary": {
+        "goal": "The study aims to develop a human–AI method for reconstructing lost vernacular architecture from incomplete historical evidence.",
+        "methodology": "It combines AI-assisted historical textual criticism, spatial inference, parametric modeling, and an iterative human–AI Execution-Feedback-Revision framework in a case study of Maoshan Academy.",
+        "finding": "The abstract reports that the method supports evidence-constrained spatial and cultural reconstruction while representing uncertainty through adjustable digital models."
       }
     },
     {
@@ -2774,6 +2830,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4414552496",
+      "title": "Is Empathic AI Possible?",
+      "authors": "Mohammad Atari, Firat Seker, Aliah Zewail",
+      "journal": "Cambridge University Press eBooks",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1017/9781009639057.008",
+      "summary": {
+        "goal": "The chapter examines whether empathic AI is possible and challenges the assumption that empathy can be universally defined and engineered.",
+        "methodology": "It analyzes the multifaceted and context-dependent nature of empathy and discusses evidence of cultural biases and moral stereotypes in large language models.",
+        "finding": "The chapter argues that empathic AI should be culture-aware, context-sensitive, and pluralistic rather than based on a singular model of human empathy."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171363145",
       "title": "Investigating Pre-Service Language Teachers’ Experiences with Generative AI in Language Education",
       "authors": "Ramazan Yetkin, Zekiye Özer‐Altınkaya",
@@ -3359,6 +3429,20 @@
         "goal": "The study examines how an AI-infused STEM workforce program shapes high school students’ machine-learning knowledge, attitudes, ethical awareness, self-efficacy, belonging, and identities as future AI users and contributors.",
         "methodology": "It uses a mixed-methods time-series design combining surveys of 42 participants across three timepoints with interviews and research-artifact analysis from 17 participants.",
         "finding": "The program increased machine-learning knowledge and skills, fostered ethical awareness and informed ambivalence toward AI, and supported emerging self-efficacy, belonging, and identities as future AI contributors."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7208768106",
+      "title": "From effectiveness to sustainable use: understanding university students’ adoption of generative AI for academic writing through an extended UTAUT mixed-methods study",
+      "authors": "Yan Yang, Zhang Cheng, Hao Meng, Jun Shen",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1920168",
+      "summary": {
+        "goal": "The study examines the determinants and dimensions of university students’ sustained, responsible use of generative AI for academic writing.",
+        "methodology": "It combines an online survey of 1,084 Chinese university students using an extended UTAUT model with semi-structured interviews.",
+        "finding": "Performance expectancy, effort expectancy, social influence, enjoyment, creativity support, facilitating conditions, and behavioral intention promoted use, while perceived risk reduced intention, and interviews identified continuance, balanced use, and responsible use as dimensions of sustainability."
       }
     },
     {
@@ -5210,6 +5294,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7207853193",
+      "title": "An investigation into LLMs’ abilities in discerning between true and false information",
+      "authors": "Haoning Luo",
+      "journal": "Journal of High School Science",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.64336/001c.169559",
+      "summary": {
+        "goal": "The study examines whether LLMs distinguish factual truth from the perceived credibility of information.",
+        "methodology": "It evaluates LLM reliability judgments on 274 source texts and controlled factual and presentational variants, separately measuring semantic and epistemic truth discrimination.",
+        "finding": "Semantic truth discrimination was stronger than epistemic credibility discrimination but varied with information familiarity, while fabricated texts often retained relatively high credibility scores."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171462819",
       "title": "An Integrated Human and Digital Communication Model for AI-Empowered Translation Education",
       "authors": "Minna Liang, Anurak Panyanuwat",
@@ -5375,6 +5473,20 @@
         "goal": "The study examines the prevalence and psychological drivers of generative AI dependency among pre-service teachers and whether perceived AI literacy is protective.",
         "methodology": "It uses a mixed-methods design combining an online survey of 565 education-major students in Chinese teacher-preparation programs with interviews of five participants and structural and necessary-condition analyses.",
         "finding": "Dependency was widespread and was driven primarily by impulsivity and anthropomorphic attachment, while perceived AI literacy had a modest protective effect and social norms were a necessary condition."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7208741765",
+      "title": "AXIOM-1 (A1M): A Sovereign External Governance Framework for Eliminating Sycophancy and Concessive Drift in Stochastic Language Models",
+      "authors": "Mohamed Samir",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.33774/coe-2026-zzvhx",
+      "summary": {
+        "goal": "The paper aims to eliminate sycophancy, concessive drift, and logical degradation in stochastic language models using an external governance framework.",
+        "methodology": "It evaluates the weight-agnostic AXIOM-1 framework through real-time structural and semantic output verification, interactive demonstrations, and open benchmarks under prompt perturbations.",
+        "finding": "The abstract reports that AXIOM-1 mitigates concessive bias and sycophancy while maintaining logical consistency without fine-tuning or weight modification."
       }
     },
     {
@@ -5714,6 +5826,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7124930241",
+      "title": "A community-driven recommender system for speed safety camera policy using large language models and knowledge graphs",
+      "authors": "Farhad Sedighi, Brian M. Staes, Benyamin Ghoreishi, Xuehan Jing, Haizhong Wang",
+      "journal": "Transportation Research Part A Policy and Practice",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1016/j.tra.2026.105236",
+      "summary": {
+        "goal": "The study aims to develop a community-aligned recommender system for speed safety camera policy by integrating public sentiment with authoritative guidance.",
+        "methodology": "It combines a statewide survey of 1,000 residents with legislation, guidelines, and best practices in a knowledge graph, then uses LLMs and retrieval-augmented generation to produce policy recommendations evaluated through simulations, sentence similarity, and RAGAS metrics.",
+        "finding": "The proposed framework outperformed baseline LLM and RAG pipelines in accuracy, faithfulness, and context recall."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172118602",
       "title": "A Twelve-Layer Empirical Atlas of Terms and Phenomena from a Longitudinal Human-AI Interaction Corpus",
       "authors": "Andreas Ehstand",
@@ -5823,6 +5949,20 @@
         "goal": "The paper aims to specify and validate a blinded multi-LLM instrument for organizational content coding.",
         "methodology": "Several LLMs independently coded evidence dossiers under blinding, with logged model calls and majority-vote-or-flag adjudication on a 30-case organizational corpus.",
         "finding": "The instrument achieved almost-perfect inter-coder agreement (Fleiss' κ = .838), while human-coding validation remains future work."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7208759834",
+      "title": "A BERT BiLSTM and BiTCN model for suicidal ideation identification in Spanish texts",
+      "authors": "Alejandro Morales Ríos, Juan Carlos Blandón Andrade, Beatriz Martínez González, Grigori Sidorov, Brahian Stiven Gil Arias",
+      "journal": "Discover Artificial Intelligence",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1007/s44163-026-02125-y",
+      "summary": {
+        "goal": "The study aims to detect suicidal ideation in Spanish-language social media posts.",
+        "methodology": "It combines Transformer-based representations with BiLSTM and BiTCN layers and evaluates the model on Twitter and Reddit corpora.",
+        "finding": "The model achieved F1-scores of 93.51% and 90.34% on the two corpora, outperforming evaluated baselines and comparison models."
       }
     },
     {
