@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T07:01:43.279181+00:00",
+  "updatedAt": "2026-09-07T07:10:03.487532+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -139,6 +139,20 @@
         "goal": "The paper aims to propose a supervisor-led framework for generative AI use in medical doctoral and early-career scientific writing.",
         "methodology": "It develops a prescriptive framework based on professional formation, career stage, sequencing of AI use after an unassisted draft, revision traces, and a four-tier task typology.",
         "finding": "The paper argues that unrestricted drafting by AI can displace trainees’ formative reasoning, whereas supervised and sequenced use can make tool use inspectable while preserving authorship development."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7208765815",
+      "title": "Wild, Thick, and Wicked: Situated Evidence on AI-In-Use for Decisions About Deploying AI Systems",
+      "authors": "Reva Schwartz, G Waters",
+      "journal": "Social Science Computer Review",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1177/08944393261481511",
+      "summary": {
+        "goal": "The paper aims to develop a real-world evaluation framework for understanding how generative AI is used and what consequences arise in specific organizational contexts.",
+        "methodology": "It proposes an AI-in-use framework based on structured observation, a metrics hub, and reusable consortium models that capture variation across users, tasks, and settings.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -573,6 +587,34 @@
         "goal": "The study aimed to evaluate whether a sustained publication clinic using mentoring and ethical generative AI integration improves madrasah teachers’ scientific publication competence.",
         "methodology": "A mixed-methods explanatory sequential study assessed 30 teachers through pretest–posttest questionnaires, observations, and interviews after a three-month intervention involving writing workshops, coaching, ethical AI use, Mendeley training, and journal-system mentoring.",
         "finding": "Competence scores increased significantly, 73.33% submitted manuscripts, 26.67% achieved acceptance, and qualitative findings indicated improved self-efficacy and reduced writing barriers."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204170124",
+      "title": "Trans-SAC: gamification design for sustained user engagement in residential demand response",
+      "authors": "Tianxiao Peng",
+      "journal": "Journal of Engineering and Applied Science",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1186/s44147-026-01209-x",
+      "summary": {
+        "goal": "The paper aims to sustain residential demand-response engagement by modeling user fatigue and dynamically adapting gamification incentives.",
+        "methodology": "It combines a mathematical fatigue model, a Transformer-based engagement predictor, and a Soft Actor-Critic agent evaluated in a 12-month simulation using Pecan Street consumption traces and a synthetic behavioral environment.",
+        "finding": "The simulated framework achieved an 85.6% Load Reduction Achievement Rate, an 84.2% User Retention Rate, and a 21.8% lower incentive cost than standard DRL baselines."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7172539880",
+      "title": "TrainShield: Targeted Awareness for Cybersecurity Training",
+      "authors": "Giovanni Pizzenti, Alberto Verna, Nikhil Jha, Giuseppe Tipaldo, Marco Mellia, Stefano Traverso",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1145/3800935.3830870",
+      "summary": {
+        "goal": "The paper introduces TrainShield to provide contextual, adaptive cybersecurity training during users’ everyday workflows.",
+        "methodology": "It combines real-time risk detection, event-triggered learning overlays, user modeling, context extraction, and LLM-based content generation, evaluated in a preliminary study of user perceptions.",
+        "finding": "Participants perceived the approach as useful for increasing risk awareness and preferred it over lengthy asynchronous training, while noting challenges in aligning generated content with expectations."
       }
     },
     {
@@ -2466,6 +2508,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7208808262",
+      "title": "Mapping thematic evolution and pedagogical strategies of Generative AI in EFL writing",
+      "authors": "Khofifah eva Septyana, Kushardiyanti Novinda",
+      "journal": "ELT Forum Journal of English Language Teaching",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.15294/elt.v15i2.63608",
+      "summary": {
+        "goal": "The study aims to map thematic developments in generative AI research on EFL academic writing and develop a framework for practical AI literacy.",
+        "methodology": "It uses a bibliometric-informed scoping review of 430 Scopus-indexed articles published from January 2023 to June 2026, combining quantitative thematic mapping with qualitative synthesis.",
+        "finding": "The study proposes a framework in which generative AI supports writing while remaining subordinate to learners’ critical thinking and judgment."
+      }
+    },
+    {
       "id": "https://openalex.org/W7201869170",
       "title": "Mapping the Pandemic’s Echo: Dynamic Narrative Detection and Spatio-Temporal Sentiment Modeling of COVID-19 Discourse on Twitter",
       "authors": "Moustafa Maaskri, MAATOUG Abdelfatah, Mohamed Goismi, Mohamed Debbab, Moustafa Maaskri",
@@ -2858,6 +2914,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7208820808",
+      "title": "Interpretation in the Age of AI: (Re)Negotiating the Legal Language Zone in Professional Correspondence",
+      "authors": "Daniel Green",
+      "journal": "International Journal for the Semiotics of Law - Revue internationale de Sémiotique juridique",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1007/s11196-026-10572-0",
+      "summary": {
+        "goal": "The paper develops a Legal Language Zone framework for analysing how AI affects professional legal correspondence.",
+        "methodology": "It presents a conceptual analysis of six communicative dimensions and examines the capabilities and limitations of large language models in legal drafting.",
+        "finding": "The paper argues that LLMs improve drafting efficiency and surface correctness but remain limited in contextual interpretation and strategic judgment, supporting collaborative human–AI drafting with professionals retaining responsibility."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172124834",
       "title": "Integration of Artificial Intelligence in Social Media Content Production Workflow to Improve Efficiency and Productivity: A Case Study of the Publication Team at SMP Islam Al Azhar 12 Rawamangun",
       "authors": "Arrum Dara Efda, Ropik, Izzaty Zephaniah, Feri Johansah",
@@ -3124,6 +3194,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7165817702",
+      "title": "Hallucination Is Generative Memory With Its Verifier Turned Down: One Constraint Axis Links Dreaming Sleep and LLM Confabulation",
+      "authors": "Carson Rodrigues",
+      "journal": "arXiv (Cornell University)",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.5281/zenodo.22314159",
+      "summary": {
+        "goal": "The paper proposes that LLM hallucination and dreaming reflect generative reconstruction under weakened verification constraints.",
+        "methodology": "It presents a conceptual framework and tests it on 300 PopQA questions using two language models under progressively stronger grounding and verification conditions.",
+        "finding": "Hallucination rates decreased from closed-book to verified open-book answering, while entity popularity also reduced hallucinations but with a marginal effect for one model and lower accuracy for both."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204008373",
       "title": "Guardians of Truth in Algerian Academia: Developing Ethical AI Frameworks for Multilingual Hypothesis-Driven Research",
       "authors": "Hala Loucif",
@@ -3177,6 +3261,20 @@
         "goal": "The study examines factors influencing generative AI adoption and its relationship with productivity in Indonesian MSMEs.",
         "methodology": "It uses a cross-sectional survey of 200 Indonesian MSMEs analyzed with PLS-SEM.",
         "finding": "Perceived usefulness and technological readiness increased GenAI adoption intensity, while perceived usefulness and organizational support positively influenced productivity; adoption intensity and technological readiness had no direct productivity effect."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7208804848",
+      "title": "Generative AI-Powered Pedagogical Agents in Immersive Environments for Social Sciences and Humanities Education: A Scoping Review",
+      "authors": "Veysel Dağdemir, Erhan Görmez",
+      "journal": "Open Science Framework",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.17605/osf.io/b9fu7",
+      "summary": {
+        "goal": "The review maps how generative-AI pedagogical agents are used in immersive VR/AR environments for social sciences and humanities education.",
+        "methodology": "It conducted a PRISMA-ScR-informed scoping review of peer-reviewed studies published from 2023 to 2026, identifying and narratively synthesizing nine studies from Scopus, Web of Science, and ERIC.",
+        "finding": "The abstract reports generally positive but varied learning effects, with research concentrated in higher education, language education, and AI literacy rather than history, geography, or civics."
       }
     },
     {
@@ -3919,6 +4017,20 @@
         "goal": "The review examines ethical dilemmas surrounding generative AI in education and their implications for inclusive and equitable quality education under SDG 4.",
         "methodology": "It systematically reviews 24 peer-reviewed studies published between December 2022 and December 2024 using PRISMA 2020 guidelines.",
         "finding": "The review identifies academic integrity, algorithmic equity, data privacy, and inclusive education as key themes, with discussions focused mainly on risks and limited proactive, context-sensitive strategies."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7208804742",
+      "title": "Epistemic Overriding: How Alignment Specifications Flatten Human Ambiguity in Large Language Models",
+      "authors": "Josie Jefferson, Felix Velasco",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.5281/zenodo.22416052",
+      "summary": {
+        "goal": "The paper examines how alignment specifications may cause large language models to override or flatten human ambiguity through confident assertions.",
+        "methodology": "The abstract does not report a specific research methodology.",
+        "finding": "The abstract claims that alignment filters produce decisive language that can trigger automation bias and cause users to adopt invented machine premises."
       }
     },
     {
@@ -5742,6 +5854,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7208726214",
+      "title": "AI and Empathy at a Crossroads",
+      "authors": "C. Daryl Cameron, Anat Perry",
+      "journal": "Cambridge University Press eBooks",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1017/9781009639057.001",
+      "summary": {
+        "goal": "The chapter examines empathy, emotional support, and ethical questions in interactions between people and artificial intelligence.",
+        "methodology": "It introduces themes and juxtaposes perspectives from the social sciences, humanities, and engineering and computer science.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172428987",
       "title": "AI Tools and Writing Identity in EFL Contexts: A Mixed-Methods Study of Voice, Ownership, and Cultural Authenticity",
       "authors": "Manel Mizab",
@@ -5921,6 +6047,20 @@
         "goal": "The paper aims to improve localized agricultural advisory access for Indian smallholder farmers using an edge-deployed multimodal LLM system.",
         "methodology": "It develops and field-evaluates AgriLLM-X, combining multilingual voice dialogue, computer vision, sensor fusion, genomic analysis, and edge optimization.",
         "finding": "The system achieved high technical performance, increased reported agricultural yields by 15–22%, increased access for female farmers by 36%, and produced 91% user satisfaction."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7208823252",
+      "title": "A Ghanaian pre-SHS feasibility study of AI chatbots as more knowledgeable others for supporting science learning in a resource-constrained context",
+      "authors": "Shine Apeadido, Collins Owusu-Fordjour, Mahama Alhassan",
+      "journal": "Discover Artificial Intelligence",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s44163-026-02113-2",
+      "summary": {
+        "goal": "The study investigates whether an AI chatbot can support science learning and holistic competencies among Ghanaian pre-Senior High School students in a resource-constrained setting.",
+        "methodology": "It uses a single-group pre-test/post-test design with 31 students receiving four weeks of chatbot-supported self-directed and inquiry learning, analyzed through qualitative thematic analysis and several quantitative tests.",
+        "finding": "Students showed statistically significant improvements with large cognitive and moderate-to-large holistic effects, and learning outcomes strongly correlated with perceived chatbot utility."
       }
     },
     {
