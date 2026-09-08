@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T07:10:03.487532+00:00",
+  "updatedAt": "2026-09-08T07:04:29.655970+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -1318,6 +1318,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7208807152",
+      "title": "Teaching for artificial or human intelligence?: A critical perspective on assessment during the AI era",
+      "authors": "John Carr, Tania Leimbach, Tema Milstein",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-08884-4",
+      "summary": {
+        "goal": "The paper examines how education can preserve and develop critical human abilities as generative AI disrupts assessment and knowledge practices.",
+        "methodology": "The authors draw on their experiences teaching in the transdisciplinary environment-and-society field to develop a critical perspective and propose AI-proof assessments centered on discern, engage, evaluate, and produce capacities.",
+        "finding": "The authors argue that relying on AI outputs can undermine students’ development of these capacities because generative AI is structurally unreliable and lacks ethical sensitivity."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172209787",
       "title": "Tahap Pengetahuan dan Penerimaan Pelajar TVET terhadap Penggunaan Kecerdasan Buatan dalam Pembelajaran Digital: Kajian di Kolej Komuniti Temerloh",
       "authors": "Siti Shuhaili Mohamad Moha, Mohd Fazli Khaisunizam Ismail",
@@ -1864,6 +1878,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7168382122",
+      "title": "ROUGE: A database of disaster impacts in the Global South using Red Cross reports and Large Language Models",
+      "authors": "Laura Hasbini, Luca G. Severino, Mariana Madruga de Brito, Gabriela C. Gesualdo, Ana Maria Rotaru, David N. Bresch, Evelyn Mühlhofer, Jingxian Wang",
+      "journal": "Scientific Data",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s41597-026-08159-2",
+      "summary": {
+        "goal": "The paper aims to create a geographically detailed and more inclusive database of socio-economic disaster impacts, especially in underrepresented regions.",
+        "methodology": "The authors systematically collect Red Cross operational reports and use large language models to extract qualitative and quantitative information about natural-hazard impacts.",
+        "finding": "The resulting ROUGE database documents non-monetary impacts on populations, infrastructure, and economies at national and subregional scales."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203904983",
       "title": "Public awareness, trust, perceived usefulness, and willingness to use ChatGPT for healthcare communication among adults in the Asir Region, Saudi Arabia: a cross-sectional study",
       "authors": "Geetha Kandasamy, Khalid Orayj, Rayah Asiri, Asma M. Alshahrani, Ghaleb Alharbi, Sarah A. Abutaily, Atheer Yahya Al Suhaym, Atheer Ali Alyahya",
@@ -2351,6 +2379,20 @@
         "goal": "The essay aims to conceptualize prompt engineering as a pedagogical competence within PCK and TPACK for mathematics education.",
         "methodology": "It draws on literature about mathematical questioning, open-ended tasks, and the Theory of Didactical Situations, and analyzes a conversational tutor prompt for covariational reasoning.",
         "finding": "It proposes organizing educational prompt design around cognitive intentionality, didactical constraints, and reflective iteration, and argues that prompt literacy should be integrated into teacher education."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7208822028",
+      "title": "Multilevel Detection of Symbolic Violence Against Women in Reddit's Tech Communities Using BERT",
+      "authors": "Maricarmen Camacho-Pérez, Mireya Clavel-Maqueda, Eduardo Cornejo-Velázquez",
+      "journal": "International Journal of Combinatorial Optimization Problems and Informatics.",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.61467/2007.1558.2026.v17i5.1404",
+      "summary": {
+        "goal": "The paper aims to automatically detect and analyze symbolic violence against women in Reddit technology communities.",
+        "methodology": "It analyzes 184,572 Reddit texts using a rule-based classifier, fine-tuned BERT model, post-processing, and contextual classification.",
+        "finding": "The abstract reports that 22.3% of texts contained symbolic violence, mostly testimonial, with subtle violence predominant in technical communities and a significant downward trend over time."
       }
     },
     {
@@ -3222,6 +3264,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7208835837",
+      "title": "Generative Artificial Intelligence: Ethical challenges and pedagogical implications in emerging educational contexts",
+      "authors": "Ana Paulina Alfaro Rodríguez, Mónica del Carmen Olivarría González, Héctor Luis López López, Rosa Leticia Ibarra Martínez",
+      "journal": "International Journal of Combinatorial Optimization Problems and Informatics.",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.61467/2007.1558.2026.v17i5.1300",
+      "summary": {
+        "goal": "The article examines ChatGPT’s pedagogical potential and ethical implications for student learning in higher education.",
+        "methodology": "It develops an expanded theoretical framework and analyzes students’ perceptions and emotions regarding generative AI as a learning-support tool.",
+        "finding": "The abstract reports that ChatGPT improves efficiency, accessibility, and learner autonomy but risks overreliance, academic-integrity problems, and reduced critical thinking."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203461564",
       "title": "Generative Artificial Intelligence-Enabled Decision Support Systems and Organizational Performance: A Moderated Mediation Model of Human–AI Collaboration Quality",
       "authors": "Jayshri Patil",
@@ -3936,6 +3992,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7210294045",
+      "title": "Evaluating large language models for postoperative pain education: safety, quality, and readability",
+      "authors": "Weifeng Zhang, Helong Wang, Junhao Tian, Kuikui Zhang, Bingdian Wang, Yongya Zhai",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41598-026-70024-4",
+      "summary": {
+        "goal": "The study evaluates the safety, accuracy, empathy, information quality, and readability of public-facing LLM chatbots for postoperative pain education.",
+        "methodology": "Researchers tested seven chatbot interfaces with 51 postoperative pain questions, producing 357 responses assessed through blinded clinical review and paired nonparametric comparisons.",
+        "finding": "Eleven responses were unsafe, while performance differed significantly across interfaces, with ChatGPT highest in accuracy, Claude highest in empathy, and Copilot most readable."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171549322",
       "title": "Evaluating Healthcare Provider and Artificial Intelligence Chatbot Responses to Patient Messages from a Health System Using the CREATE TRUST Framework",
       "authors": "Matthew R. Allen, Vijay M. Tiyyala, Armaan Johal, Akhila Chekuri, Elizabeth Conner, Nimit Desai, Kaitlyn Dykes, Tanim Jain",
@@ -4157,6 +4227,20 @@
         "goal": "The study examines factors influencing tourism and hospitality students’ intention to adopt LLM-based learning tools in higher education.",
         "methodology": "It surveyed 365 university students in India and analyzed the data using PLS-SEM and Necessary Condition Analysis.",
         "finding": "Perceived usefulness, learner motivation, and social influence were identified as important and necessary conditions for high adoption intention."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7210264079",
+      "title": "EFL university students’ perceptions of ChatGPT’s impact on English writing content",
+      "authors": "Thanh Nguyen, Thi Nguyen Phuong Huynh",
+      "journal": "Proceedings of International Academia",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.65956/procia.2026.147",
+      "summary": {
+        "goal": "The study examines EFL university students’ perceptions of ChatGPT’s effects on academic writing content and learner autonomy.",
+        "methodology": "It uses a mixed-methods design combining a Likert-scale survey of 134 B1-level students with semi-structured interviews involving 10 participants.",
+        "finding": "Students generally viewed ChatGPT positively for idea generation, expansion, and organization, but expressed concerns that over-reliance could reduce writing autonomy and idea quality."
       }
     },
     {
@@ -4692,6 +4776,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7210293823",
+      "title": "Comparing DeepSeek-V4 and human clinicians in self-management education for patients with diabetic foot ulcer",
+      "authors": "Shangxue Sun, Xinyin Zhang, Yangyang Li, Fei Peng",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41598-026-70588-1",
+      "summary": {
+        "goal": "The study compares DeepSeek-V4 with human clinicians in generating accurate and safe self-management education materials for patients with diabetic foot ulcers.",
+        "methodology": "Researchers evaluated clinician-written and DeepSeek-V4-generated responses to 30 diabetic-foot-ulcer questions for understandability, actionability, readability, quality, accuracy, comprehensiveness, and humanistic care.",
+        "finding": "DeepSeek-V4 had higher quality and comprehensiveness and comparable understandability, actionability, accuracy, and readability, but performed relatively poorly in readability and humanistic care."
+      }
+    },
+    {
       "id": "https://openalex.org/W7202025720",
       "title": "Comparative Analysis of Machine Learning Models for Emotion Prediction in Reviews of Large Language Model-Powered Applications",
       "authors": "Semmy Wellem Taju, George Morris William Tangka, Ibrena Reghuella Chrisanti",
@@ -5210,6 +5308,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7208804662",
+      "title": "Artificial intelligence in mathematics education: A PRISMA-based systematic literature review (2021-2025)",
+      "authors": "Fariza Omirzakova, Sarsenkul Sh. Tleubai",
+      "journal": "European Journal of STEM Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.20897/ejsteme/19221",
+      "summary": {
+        "goal": "The review examines research on artificial intelligence, including generative AI, in mathematics education from 2021 to 2025.",
+        "methodology": "The authors systematically reviewed 42 peer-reviewed studies identified through Scopus and Google Scholar using PRISMA procedures, quantitative summaries, thematic synthesis, and MMAT quality assessment.",
+        "finding": "The literature suggests potential benefits for personalized support, feedback, and teaching, but evidence of classroom effectiveness, equity, and long-term impact remains limited and variable."
+      }
+    },
+    {
       "id": "https://openalex.org/W7207523632",
       "title": "Artificial intelligence in higher education: reconfiguring metacognition in unequal contexts",
       "authors": "Thasmai Dhurumraj, Celeste Labuschagne",
@@ -5630,6 +5742,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7208808985",
+      "title": "AI-generated self-assessment as a metacognitive scaffold in EFL learning",
+      "authors": "Wagdi Rashad Ali Bin-Hady, Hajar Al Sultan",
+      "journal": "Australian Journal of Applied Linguistics",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.29140/ajal.2026.104487",
+      "summary": {
+        "goal": "The study examines how EFL students’ use of AI-generated self-assessment relates to perceived metacognitive skill development and the perceived validity of AI assessment compared with instructor assessment.",
+        "methodology": "Researchers surveyed 242 EFL undergraduates in Saudi Arabia and Yemen and analyzed quantitative responses and qualitative themes about AI-generated self-assessment.",
+        "finding": "Students viewed AI-generated self-assessment positively, its perceived use was moderately correlated with reported metacognitive development, and students described it as supporting self-monitoring while complementing rather than replacing teacher feedback."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203537366",
       "title": "AI-generated food stimuli match real counterparts in perceived healthiness and calorie content but not in realism or willingness to eat",
       "authors": "Alexander Diel, Leonardo Pimpini, Giuseppe Marrazzo, Finley Sam Mellis, Niels Weber, Tania Josan Lalgi, Laura Bäuerle, Martin Teufel",
@@ -5837,6 +5963,20 @@
         "goal": "The paper examines how repeated human–LLM interactions produce both identifiable consequences and cumulative effects on inquiry, self-understanding, and cultural meaning-making.",
         "methodology": "It uses John Dewey’s pragmatist account of inquiry, habit formation, and moral reconstruction to develop a conceptual distinction between consequences and effects.",
         "finding": "The paper argues that attending to cumulative effects complements existing AI ethics by addressing transformations emerging through everyday LLM use."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7140045514",
+      "title": "AI dependency and its relationships with anxiety, quality of life, and digital stress",
+      "authors": "Fatma Elsayed, Jahz Fahd Al-Mutairi, Mahmoud Moussa",
+      "journal": "BMC Psychology",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1186/s40359-026-05496-0",
+      "summary": {
+        "goal": "The study examines how AI dependency relates to anxiety, digital stress, and quality of life among university students.",
+        "methodology": "Researchers surveyed 521 students at King Abdulaziz University using standardized instruments and analyzed relationships among AI dependency, psychological pressures, and quality of life through network analysis.",
+        "finding": "AI dependency was linked to digital stressors and anxiety, which were associated with reduced quality of life, while effects varied according to cognitive, motivational, and contextual factors."
       }
     },
     {
