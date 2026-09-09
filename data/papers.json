@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T07:04:29.655970+00:00",
+  "updatedAt": "2026-09-09T07:12:54.910865+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -1570,6 +1570,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7211879627",
+      "title": "Semantic analysis and intervention generation for dialogue between teachers and young children using large language models",
+      "authors": "Hua Xu, Chaojun Hu",
+      "journal": "Discover Artificial Intelligence",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1007/s44163-026-02187-y",
+      "summary": {
+        "goal": "The paper aims to generate age-appropriate interventions for teacher–young child dialogue using large language models.",
+        "methodology": "It evaluates a neuro-symbolic Bayesian graph transformer incorporating cognitive load theory on a reconstructed corpus of authentic teacher–learner dialogue and obtains expert teacher ratings.",
+        "finding": "The model improves intent-recognition accuracy, reduces estimated extraneous cognitive load, and produces outputs rated as more pedagogically appropriate than baseline systems."
+      }
+    },
+    {
       "id": "https://openalex.org/W7202207284",
       "title": "Seeing the Dance: Longitudinal AI as an Observational Instrument for Relational Systems",
       "authors": "Emily Yee",
@@ -1791,6 +1805,20 @@
         "goal": "The paper examines whether request-routing services undermine the reproducibility of LLM-based social-science text classification.",
         "methodology": "The authors classify British manifesto sentences 100 times across eight open-weight models and 33 hosting providers via OpenRouter, comparing results with five configurations run on their own hardware.",
         "finding": "OpenRouter classifications were nondeterministic at temperature zero, whereas classifications on the authors’ hardware were perfectly reproducible, showing that reproducibility depends on the full hosting environment."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7210283623",
+      "title": "Reliability Risks of Generative AI in Education: A Systematic Review of Hallucinations, Misinformation, Overreliance, and Assessment Validity",
+      "authors": "İsmail Kaşarcı",
+      "journal": "International Journal of Current Educational Studies",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.46328/ijces.315",
+      "summary": {
+        "goal": "The review examines reliability risks of generative AI in education and their consequences for learning and assessment.",
+        "methodology": "The authors conducted a PRISMA 2020 systematic review of Web of Science and Scopus records, synthesizing 35 empirical studies thematically.",
+        "finding": "The review identifies hallucinations, unreliable assessment tools, overreliance, cognitive offloading, and competence-related disparities in susceptibility to fluent AI errors."
       }
     },
     {
@@ -2200,6 +2228,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7210293557",
+      "title": "PENGARUH PEMANFAATAN AI DAN LINGKUNGAN BELAJAR TERHADAP PRESTASI AKADEMIK",
+      "authors": "Yuyun Yumiarty",
+      "journal": "ACADEMIA Jurnal Inovasi Riset Akademik",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.51878/academia.v6i4.15275",
+      "summary": {
+        "goal": "The study examines how AI utilization and the learning environment affect students’ academic performance.",
+        "methodology": "It surveys 117 university students using Likert-scale questionnaires and analyzes the data with PLS-SEM.",
+        "finding": "AI utilization and the learning environment both positively and significantly affect academic performance, jointly explaining 73.5% of its variance."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172535944",
       "title": "Optimizing educational analytics by analyzing student perceptions of ChatGPT in programming education using enhanced feature selection",
       "authors": "Shaymaa E. Sorour, Hosnia. M. M. Ahmed, Mohammed Aljaafari, Hanan E. Abdelkader",
@@ -2449,6 +2491,20 @@
         "goal": "The paper examines how artificial intelligence systems influence human mental models during interaction.",
         "methodology": "It develops a conceptual framework describing four pathways of influence and discusses using large language models to simulate distinct agencies or informational states.",
         "finding": "The paper identifies information provisioning, cognitive reconfiguration, personalized interaction, and collaborative integration as four broad pathways through which AI affects mental models."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7211895888",
+      "title": "Mediación de la inteligencia artificial en el aprendizaje de la gramática china: uso, percepciones y fiabilidad en estudiantes universitarios",
+      "authors": "Xiaoling Wang, Aurora Centellas-Rodrigo",
+      "journal": "Revista Tecnología Ciencia y Educación",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.51302/tce.2026.25131",
+      "summary": {
+        "goal": "Analizar cómo la inteligencia artificial media en el aprendizaje de la gramática china y explorar la precisión, agencia crítica y fiabilidad atribuida a ChatGPT y DeepSeek.",
+        "methodology": "Se aplicó un diseño mixto a 26 estudiantes universitarios hispanohablantes, examinando 19 guiones de análisis gramatical generados con IA y un cuestionario de 23 ítems.",
+        "finding": "Aunque el alumnado mostró alta conciencia crítica, no siempre detectó eficazmente los errores, utilizó la IA de forma predominantemente estática y prefirió DeepSeek por su precisión y utilidad percibidas."
       }
     },
     {
@@ -3163,6 +3219,20 @@
         "goal": "The dissertation examines how large language model agents compare with humans in socially embedded decision-making, particularly financial markets.",
         "methodology": "It compares out-of-the-box LLM agents in agent-only asset markets with human traders in equivalent experimental markets and analyzes their strategy text.",
         "finding": "LLM agents generally price assets near fundamental value and show weaker bubble formation, lower variance, and reduced bias than human traders."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7211886643",
+      "title": "How rejection letters from AI recruiters shape recruiter's prestige and experienced respect",
+      "authors": "Kyriaki Fousiani, Pieter A. Minnigh, Brian Lewis",
+      "journal": "Frontiers in Organizational Psychology",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.3389/forgp.2026.1933320",
+      "summary": {
+        "goal": "The study examined how AI-generated rejection letters affect applicants’ perceptions of the recruiter and their experienced respect.",
+        "methodology": "Two experiments manipulated rejection-letter type and measured mechanistic dehumanization, perceived recruiter prestige, and experienced respect across participants with different employment statuses.",
+        "finding": "Considerate versus typified rejection letters influenced mechanistic dehumanization, which was negatively associated with perceived recruiter prestige and experienced respect."
       }
     },
     {
@@ -4216,6 +4286,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7211890109",
+      "title": "EXPLORING CHATGPT UTILIZATION AND ETHICAL AWARENESS IN TVET EDUCATION THROUGH THE ABCE FRAMEWORK",
+      "authors": "Jacey Mariadass @ Manickam, Lim Yeong Chyng, Nalanie Raja Gobal",
+      "journal": "International Journal of Computer Systems & Software Engineering",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.15282/ijsecs.12.1.2026.7.0153",
+      "summary": {
+        "goal": "The study examines TVET students’ use of ChatGPT, its relationship with problem-solving abilities, and their ethical awareness.",
+        "methodology": "A quantitative cross-sectional survey of 381 students at Polytechnic Ungku Omar used convenience sampling, descriptive statistics, and correlation analysis within the ABCE framework.",
+        "finding": "Students often used ChatGPT to understand difficult concepts, and greater use was positively associated with self-reported problem-solving skills (r = 0.729, p < 0.01)."
+      }
+    },
+    {
       "id": "https://openalex.org/W7202081774",
       "title": "EXPLAINING TOURISM AND HOSPITALITY STUDENTS' ADOPTION OF LARGE LANGUAGE MODELS IN HIGHER EDUCATION: AN INTEGRATED TAM–UTAUT FRAMEWORK USING PLS-SEM AND NECESSARY CONDITION ANALYSIS",
       "authors": "Priya SINGH, Mandeep BHARTI, Sushma Rewal CHUGH, Rohit CHAUHAN, Saud Gulzar AHMAD",
@@ -5112,6 +5196,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7211878271",
+      "title": "Behind the screen: laypersons' mental models about ChatGPT",
+      "authors": "Maria Schneller, Jonas Seier, S Huber, Iliana Loi, Dietrich Albert",
+      "journal": "Frontiers in Computer Science",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.3389/fcomp.2026.1915035",
+      "summary": {
+        "goal": "The study examines how technical laypersons conceptualize ChatGPT and whether their mental models are internally consistent.",
+        "methodology": "Researchers conducted semi-structured interviews with 21 technical laypersons and coded their statements into deterministic, probabilistic, anthropomorphic, and dynamic concepts.",
+        "finding": "Participants exhibited three recurring mental-model configurations, and all had at least one misconception about ChatGPT, with technical terminology often masking or coexisting with misunderstanding."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170036560",
       "title": "Back to the museum: Investigation of the acceptance of Android Andrea with and without emotion simulation in a museum",
       "authors": "Christian Becker-Asano, Marcel Heisler",
@@ -5504,6 +5602,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7210277861",
+      "title": "Applied Informatics: Librarian Scepticism of Artificial Intelligence in Information Retrieval — Does AI Promote Library Usage or Displace It? Evidence from the Nigerian University Library Landscape",
+      "authors": "Kayode Sunday John Dada",
+      "journal": "Data Science Journal of Computing and Applied Informatics",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.32734/jocai.v10i2.25832",
+      "summary": {
+        "goal": "The study examines librarians’ scepticism toward AI-assisted information retrieval and whether AI adoption promotes or displaces library usage in Nigerian universities.",
+        "methodology": "It uses a convergent mixed-methods design comprising a survey of 214 librarians, 32 interviews, and documentary analysis of 81 institutional documents.",
+        "finding": "The study finds that scepticism is structurally grounded, AI-generated references are often locally unretrievable, female librarians in northern Nigeria report the greatest scepticism and least support, and no sampled institution has an operational AI-resource integration policy."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204865916",
       "title": "Analysis Capability Dynamics of E-Commerce MSMEs in Adopting Generative AI Technology for Content Strategy Efficiency Creative",
       "authors": "Anthonius S. Hutabarat, Dewi Tamara, Irawan R D Budianto, Yulianah Yulianah",
@@ -5784,6 +5896,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7134264917",
+      "title": "AI-driven feature selection using only survey variable descriptions: large language models identify adolescent vaping predictors",
+      "authors": "Kaidi Zhang, Zimo Zhao, Yan Hu, Thuy T. T. Le",
+      "journal": "Machine Learning Health",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1088/3049-477x/aea32f",
+      "summary": {
+        "goal": "The study evaluates whether large language models can identify reliable predictors of adolescent electronic nicotine delivery system initiation using only survey variable descriptions.",
+        "methodology": "Four instruction-tuned LLMs selected features from PATH Study wave 4.5 variable descriptions, and LightGBM classifiers trained on those features were evaluated against a baseline.",
+        "finding": "The LLMs showed substantial agreement in selected predictors, and Qwen 2.5-72B-Instruct achieved an AUC of 0.791 with 30 predictors compared with the baseline AUC of 0.768."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172521572",
       "title": "AI-Supported Scaffold Design for Lower-Proficiency EFL Learners: Experiences of Pre-Service Teachers in Inclusive Reading Instruction",
       "authors": "Dieu Bich Nguyen, An Hoai Thi Le",
@@ -5865,6 +5991,20 @@
         "goal": "The study develops a reproducible AI-assisted workflow for identifying and auditing colonial markers in MBA lecture slides.",
         "methodology": "It used expert review, AI-assisted analysis, thematic synthesis, and exploratory Langflow- and LangChain-Python-based workflows to analyze teaching materials.",
         "finding": "AI-generated markers substantially converged with expert-identified markers, although technical limitations constrained effectiveness and outputs were considered useful for reflective curriculum review."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7210293800",
+      "title": "AI vs. human touch: Comparing non-AI and AI-mediated informal digital learning of English (IDLE) and their associations with affective variables and L2 willingness to communicate",
+      "authors": "Ali Soyoof, Barry Lee Reynolds, Guangxiang Liu",
+      "journal": "Acta Psychologica",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1016/j.actpsy.2026.107759",
+      "summary": {
+        "goal": "The study compares AI-mediated and non-AI informal digital English learning and examines their associations with affective variables and willingness to communicate.",
+        "methodology": "It uses an explanatory sequential mixed-methods design involving questionnaires from 250 Iranian EFL learners, multiple regression modeling, and semi-structured interviews with 10 participants analyzed thematically.",
+        "finding": "Both environments correlated with affective variables, but only non-AI learning, self-confidence, grit, and motivation significantly predicted willingness to communicate, with qualitative evidence suggesting that non-AI learning fostered greater community engagement and situational awareness."
       }
     },
     {
