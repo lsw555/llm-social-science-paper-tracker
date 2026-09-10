@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T07:12:54.910865+00:00",
+  "updatedAt": "2026-09-10T07:11:26.952470+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -153,6 +153,20 @@
         "goal": "The paper aims to develop a real-world evaluation framework for understanding how generative AI is used and what consequences arise in specific organizational contexts.",
         "methodology": "It proposes an AI-in-use framework based on structured observation, a metrics hub, and reusable consortium models that capture variation across users, tasks, and settings.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7211974645",
+      "title": "Why we believe chatbots: trust calibration as a design problem",
+      "authors": "Kokil Jaidka, Mengxuan Cai",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1935527",
+      "summary": {
+        "goal": "The article aims to explain and address users’ miscalibrated trust in large language model chatbots as a design problem.",
+        "methodology": "It synthesizes research on psychological trust, communication credibility, and trust in automation to develop a user typology and propose design interventions with eight testable propositions.",
+        "finding": "The article argues that interpretability affordances, engagement mechanisms, and AI literacy can work as layered defenses to improve trust calibration."
       }
     },
     {
@@ -968,6 +982,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7211940316",
+      "title": "The Use of Artificial Intelligence in Learning: Opportunities and Challenges in the Digital Era",
+      "authors": "Dwipa Sumantri",
+      "journal": "Linguanusa Social Humanities Education and Linguistic",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.63605/ln.v3i3.136",
+      "summary": {
+        "goal": "The study analyzes opportunities and challenges associated with using artificial intelligence, including generative AI and intelligent tutoring systems, in learning.",
+        "methodology": "It uses a descriptive-analytical qualitative approach based on critical library research and recent literature on AI in education and technological ethics.",
+        "finding": "The abstract reports that AI can support personalized learning, feedback, assessment, and content design, while creating risks involving critical reasoning, academic integrity, algorithmic bias, and student data protection."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171452851",
       "title": "The Technological Turn of Cultural Studies in the AI Era: From Textual Hermeneutics to Multimodal Cultural Computation",
       "authors": "Junru Zhao",
@@ -1175,6 +1203,20 @@
         "goal": "The study examines how AI literacy, virtual social interaction, and experience with the Doubao AI platform influence users’ perceived self-efficacy.",
         "methodology": "It surveys 319 Doubao users in Beijing and applies multiple regression and mediation analyses.",
         "finding": "Virtual identity integration, virtual social support, platform experience, and AI literacy positively affect self-efficacy, with situational virtual awareness fully mediating the effects of identity integration and social support."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7211932598",
+      "title": "The Hidden Domestication of Probabilistic Fitting: The Individualization Fallacy and Extended‑Mark Cognitive Architecture",
+      "authors": "Baowen Liao",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.5281/zenodo.22660009",
+      "summary": {
+        "goal": "The paper examines how generative language models may impose group-averaged reasoning on individuals and proposes a way to preserve human judgment in high-stakes interactions.",
+        "methodology": "It introduces the individualization fallacy and presents the Extended-Mark proof-of-concept architecture, which retains interaction fragments, records human-calibrated axioms, measures cognitive gaps, and supports suspended judgment and auditable reasoning.",
+        "finding": "The abstract claims that Extended-Mark provides a feasible alternative to model fine-tuning and user training for returning value-closure authority to humans."
       }
     },
     {
@@ -1766,6 +1808,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7211892899",
+      "title": "Research on Digital Transformation Alleviating Financing Constraints and Promoting Green Innovation Through Semantic Measurement and Causal Forests of Large Language Models",
+      "authors": "Hongyi Xue",
+      "journal": "Applied and Computational Engineering",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.54254/2755-2721/2026.36665",
+      "summary": {
+        "goal": "The study examines how digital transformation affects firms' green innovation through financing constraints.",
+        "methodology": "It uses an open-source Chinese large language model to construct a digital transformation index from 18,642 Chinese listed-company observations and applies five-fold cross-fitting causal forests.",
+        "finding": "Digital transformation significantly enhances green innovation and reduces financing constraints, with financing constraints mediating 23.66% of the total effect."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203559901",
       "title": "Research on Data-Driven English Personalized Teaching Design in Smart Classrooms",
       "authors": "Linlin Li",
@@ -2267,6 +2323,20 @@
         "goal": "The study examines how sycophancy shapes the psychotherapeutic conversational competencies of ChatGPT configurations.",
         "methodology": "Four independent raters coded 36 simulated conversations involving three ChatGPT configurations and four clinical vignettes using measures derived from the Therapist Empathy Scale and Motivational Interviewing, supplemented by qualitative analysis.",
         "finding": "All configurations showed strong approval-congruent competencies but minimal confrontation and handling of sustain talk, while crisis-safety rankings inversely matched empathy rankings and failure patterns included fabricated intimacy, affective escalation, and delayed crisis response."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7211945329",
+      "title": "On AI’s role in training professionals in assisted reproductive technology",
+      "authors": "Yingming Zheng, Qijing Wang, Xijing Chen, 徐丽, Xiangrong Xu",
+      "journal": "Frontiers in Artificial Intelligence",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/frai.2026.1856714",
+      "summary": {
+        "goal": "The paper proposes an AI-enhanced framework to standardize and accelerate professional training in assisted reproductive technology.",
+        "methodology": "It conceptually integrates adaptive learning, AI simulations, virtual reality, large language model interactions for patient communication, and automated competency assessment.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -3250,6 +3320,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7211942928",
+      "title": "How emotional response styles of generative AI companions shape adaptive emotion regulation and short-term AI reliance",
+      "authors": "Chun Wang",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1950163",
+      "summary": {
+        "goal": "The study examines how adaptive regulation-oriented versus relational reassurance-oriented responses from generative AI companions affect emotion regulation and short-term AI reliance.",
+        "methodology": "In a randomized two-condition experiment with 380 adults, the researchers measured affect, emotion-regulation self-efficacy, strategy quality, no-AI recovery, perceived AI necessity, and reliance intentions.",
+        "finding": "Both response styles reduced immediate negative affect similarly, but adaptive responses improved independent regulation while reassurance-oriented responses increased perceived AI necessity and short-term reliance intentions."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170332713",
       "title": "How Teacher–Learner–AI collaboration empowers AI literacy of older adults: a case study of an older adult school in China",
       "authors": "Dengke Liu, J H Li",
@@ -4076,6 +4160,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7211950069",
+      "title": "Evaluating LLM–NACE divergence in firm classification: A multi-metric analysis in the experience industry",
+      "authors": "Mika Naumanen",
+      "journal": "Information Processing & Management",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1016/j.ipm.2026.105131",
+      "summary": {
+        "goal": "The study evaluates whether LLM-based firm classifications can complement formal NACE industry coding in the experience industry.",
+        "methodology": "It compares classifications from GPT-3.5, GPT-4, Gemini 1.5 Flash, and Llama 3 70B across 43,931 Finnish firms using agreement, similarity, and concentration metrics.",
+        "finding": "Inter-LLM similarity exceeded LLM–NACE alignment, suggesting divergence primarily reflects information availability and taxonomic ambiguity rather than model inconsistency."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171549322",
       "title": "Evaluating Healthcare Provider and Artificial Intelligence Chatbot Responses to Patient Messages from a Health System Using the CREATE TRUST Framework",
       "authors": "Matthew R. Allen, Vijay M. Tiyyala, Armaan Johal, Akhila Chekuri, Elizabeth Conner, Nimit Desai, Kaitlyn Dykes, Tanim Jain",
@@ -4157,6 +4255,20 @@
         "goal": "The review examines ethical dilemmas surrounding generative AI in education and their implications for inclusive and equitable quality education under SDG 4.",
         "methodology": "It systematically reviews 24 peer-reviewed studies published between December 2022 and December 2024 using PRISMA 2020 guidelines.",
         "finding": "The review identifies academic integrity, algorithmic equity, data privacy, and inclusive education as key themes, with discussions focused mainly on risks and limited proactive, context-sensitive strategies."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7211970029",
+      "title": "Establishing the behavioral feasibility of a structured story-generation paradigm for neurophysiological research",
+      "authors": "Simrut Kurry, Jasper Delichte, Samantha Yee, Samir Damji, Naznin Virji‐Babul",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1920009",
+      "summary": {
+        "goal": "The study assesses a structured story-generation task for studying continuous creative cognition and evaluates whether large language models can score the stories.",
+        "methodology": "Sixty undergraduates wrote stories integrating three unrelated images, which were scored by two LLMs and compared with human ratings and established creativity measures.",
+        "finding": "The LLMs showed moderate agreement with each other and with human raters, while story scores were not significantly correlated with the established creativity measures."
       }
     },
     {
@@ -5448,6 +5560,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7211956946",
+      "title": "Artificial intelligence for university physical education: a data–knowledge synergy digital-intelligent sports platform",
+      "authors": "Jiacheng Feng, Meijie Yao, Xueying Feng, Chenrui Wang, Hongmiao Chen, Dong Li, Qimeng Niu",
+      "journal": "Frontiers in Public Health",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpubh.2026.1835590",
+      "summary": {
+        "goal": "The study aims to develop and evaluate a university physical-education platform integrating a large language model, retrieval-augmented generation, campus data, and domain knowledge.",
+        "methodology": "It combined a formative deployment with 428 students and six instructors and a six-week non-randomized quasi-experiment comparing platform-supported and conventional instruction among 196 students.",
+        "finding": "Platform-supported instruction increased psychological-need satisfaction and reduced need frustration, but did not significantly increase self-reported physical activity."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171893954",
       "title": "Artificial intelligence dependency in college students: a critical narrative review",
       "authors": "Xuehua He, Shan Li, Ren Cha, Li Wang, Yunxia Shen, Ruijuan Wu, Lili Wu, Xiaoyan Gong",
@@ -6243,6 +6369,20 @@
         "goal": "The study aims to develop a community-aligned recommender system for speed safety camera policy by integrating public sentiment with authoritative guidance.",
         "methodology": "It combines a statewide survey of 1,000 residents with legislation, guidelines, and best practices in a knowledge graph, then uses LLMs and retrieval-augmented generation to produce policy recommendations evaluated through simulations, sentence similarity, and RAGAS metrics.",
         "finding": "The proposed framework outperformed baseline LLM and RAG pipelines in accuracy, faithfulness, and context recall."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7211930046",
+      "title": "A coevolutionary account of normative human–AI interaction",
+      "authors": "Jörg Noller",
+      "journal": "Discover Artificial Intelligence",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1007/s44163-026-02130-1",
+      "summary": {
+        "goal": "The paper develops a coevolutionary account of how aligned large language models may reshape human moral agency in AI-mediated societies.",
+        "methodology": "It uses conceptual analysis drawing on 4E cognition, human–AI coevolution, mediation theory, distributed morality, and empirical research on AI-induced behavioral change.",
+        "finding": "It argues that under specified conditions AI can become part of extended morality while normative authority remains human, and it proposes governance conditions for responsible moral coevolution."
       }
     },
     {
