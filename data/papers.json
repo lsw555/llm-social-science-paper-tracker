@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T07:11:26.952470+00:00",
+  "updatedAt": "2026-09-11T07:11:23.036987+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -559,6 +559,20 @@
         "goal": "The study aims to detect and understand media bias in news coverage of the Israel-Palestine conflict using sentiment as a proxy for emotional framing.",
         "methodology": "It analyzes 9,000 labeled news articles and compares DistilBERT, BERT-Mini, TinyBERT, GRU, RNN, and LSTM models.",
         "finding": "Transformer-based models outperform sequential models, with DistilBERT achieving the best performance at 94% accuracy."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212034639",
+      "title": "Trusting and staying with AI doctors: cognitive and emotional pathways driving continuance intention toward AI healthcare chatbots",
+      "authors": "Zhanyou Wang, H. Han, Dongmei Han, Liang Ma, Feifei Hao",
+      "journal": "Frontiers in Public Health",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fpubh.2026.1956063",
+      "summary": {
+        "goal": "The study examines how AI use, cognitive trust, emotional attachment, and technology anxiety influence users’ intention to continue using AI healthcare chatbots.",
+        "methodology": "It analyzes survey data from 233 users of AI medical services in China using partial least squares structural equation modeling and bootstrapping.",
+        "finding": "AI use increases cognitive trust and emotional attachment, which both promote continuance intention, while technology anxiety moderates only the cognitive-trust pathway."
       }
     },
     {
@@ -1304,6 +1318,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7212025007",
+      "title": "The BS meter: detecting politics and labour through ChatGPT’s language",
+      "authors": "Alessandro Trevisan, Harry Giddens, Sarah Dillon, Alan F. Blackwell",
+      "journal": "AI & Society",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1007/s00146-026-03238-9",
+      "summary": {
+        "goal": "The paper examines whether ChatGPT-generated language resembles forms of human political and workplace bullshit.",
+        "methodology": "The authors compare language from 1,000 scientific publications with ChatGPT-generated text and use hypothesis-testing methods to analyze similarities with Orwellian political speech and Graeber’s bullshit jobs.",
+        "finding": "The statistical model reliably relates ChatGPT’s artificial bullshit to political and workplace functions of bullshit in human language."
+      }
+    },
+    {
       "id": "https://openalex.org/W7163821660",
       "title": "The Autonomy Paradox: Artificial Intelligence and the Foundations of Political Behavior",
       "authors": "Chris Anderson, Elena Pro",
@@ -1399,6 +1427,20 @@
         "goal": "The study examines how AI recommendations, behavioral nudges, and perceived regulatory oversight influence Indian retail investors’ decision-making through trust in AI and cognitive bias.",
         "methodology": "It surveys 276 Indian retail investors using digital investment platforms and tests an integrated structural model with PLS-SEM and bootstrapping.",
         "finding": "Behavioral nudging most strongly predicted cognitive bias, trust partially mediated the effect of AI recommendation quality, and perceived oversight increased trust without significantly reducing bias susceptibility."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7211941052",
+      "title": "TANTANGAN DAN PENGEMBANGAN DISPOSISI MIPA (SIKAP, KEBIASAAN BERPIKIR, DAN PERILAKU BELAJAR) DALAM PEMBELAJARAN DI ERA DIGITAL DAN ARTIFICIAL INTELLIGENCE",
+      "authors": "Muhibatur Rohmatul Akhiroh, Dulhamin Arif, Ani Hoerunisa, Dahroni Dahroni, Dewi Ambar Prasilowati, Agung Windrianto, Achmad Saifudin, Acep Musliman",
+      "journal": "SCIENCE Jurnal Inovasi Pendidikan Matematika dan IPA",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.51878/science.v6i4.15342",
+      "summary": {
+        "goal": "The study aims to map challenges and develop pedagogical strategies for fostering STEM dispositions in the era of AI.",
+        "methodology": "It uses a PRISMA-guided systematic literature review of 14 empirical articles identified from Scopus, ERIC, SINTA, and Google Scholar.",
+        "finding": "Unregulated generative AI use is associated with cognitive offloading, superficial learning, academic dishonesty, and error blindness, while guided inquiry with tiered AI scaffolding can reduce math anxiety and enhance self-efficacy and productive struggle."
       }
     },
     {
@@ -3152,6 +3194,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4413103749",
+      "title": "Impact of LLM assistance on physician decision-making: a multi-country randomized controlled trial",
+      "authors": "Nicholas Rounding, Luthfi Saiful Arif, Janine Berg, Jochen Cals, Diederik de Boer, Eefje de Bont, Sander Dijksman, Ardi Findyartini",
+      "journal": "npj Digital Medicine",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41746-026-03111-5",
+      "summary": {
+        "goal": "The study evaluates whether access to GPT-4o improves physician clinical decision-making and reduces cross-country disparities in care quality.",
+        "methodology": "In a multi-country randomized controlled trial, 249 physicians in Indonesia, Kenya, and the Netherlands completed standardized clinical vignettes with or without access to GPT-4o.",
+        "finding": "LLM access significantly improved performance in all three countries, with the largest gains in Kenya, reduced some cross-country disparities, and produced heterogeneous effects depending on physician engagement and country."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172408459",
       "title": "Identifying generative AI use among genuine responders in online survey research",
       "authors": "Suzannah Gerber, Sean B. Cash",
@@ -3292,6 +3348,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7212077124",
+      "title": "How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants: a three-wave within-person longitudinal study",
+      "authors": "Lizhuo Fu, Zipei Ouyang, Qingtian Wu",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1900061",
+      "summary": {
+        "goal": "The study examines how students’ trust in AI teaching assistants, perceived fairness, and learning motivation influence one another over time.",
+        "methodology": "It uses a three-wave longitudinal survey of 450 undergraduates analyzed with a random-intercept cross-lagged panel model.",
+        "finding": "Within-person increases in trust predicted later increases in perceived fairness, and fairness significantly mediated the relationship between trust and motivation, while reciprocal effects were weaker."
+      }
+    },
+    {
       "id": "https://openalex.org/W7211886643",
       "title": "How rejection letters from AI recruiters shape recruiter's prestige and experienced respect",
       "authors": "Kyriaki Fousiani, Pieter A. Minnigh, Brian Lewis",
@@ -3415,6 +3485,20 @@
         "goal": "The study develops an ethical framework for responsible AI-assisted, multilingual hypothesis-driven research in Algerian higher education.",
         "methodology": "It uses a convergent mixed-methods approach to examine 45 master’s students in an English research methodology course at Batna 2 University.",
         "finding": "Structured AI ethics education improved ethical decision-making, bias awareness, and critical evaluation of AI outputs, while mainstream AI systems favored Anglophone norms that could marginalize local epistemologies."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7119510601",
+      "title": "Grading scale impact on LLM-as-a-judge: human-LLM alignment is highest on 0–5 grading scale",
+      "authors": "Weiyue Li, Minda Zhao, Weixuan Dong, Jiahui Cai, Yuze Wei, Michael Pocress, Yi Li, Wanyan Yuan",
+      "journal": "npj Artificial Intelligence",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s44387-026-00153-8",
+      "summary": {
+        "goal": "The study examines how grading-scale design affects the consistency of LLM judges and their alignment with human ratings.",
+        "methodology": "The authors compare human and LLM ratings across three scales and six objective, subjective, and mixed benchmarks using intraclass correlation coefficients.",
+        "finding": "The 0–5 scale produces the strongest overall human–LLM alignment, while alignment varies across benchmarks and gender groups."
       }
     },
     {
@@ -4804,6 +4888,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7212046593",
+      "title": "Cross-sectional comparative evaluation of five large language model–driven chatbots on an expert-curated 44-question set of parent-facing questions about pediatric vitamin D deficiency",
+      "authors": "Ping Shi, Tian Zhou, Qiao Nie, Baicheng Tao, Xiaolu Li, Mei Zhu",
+      "journal": "Frontiers in Pediatrics",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fped.2026.1927624",
+      "summary": {
+        "goal": "The study aimed to compare five large language model chatbots on the safety, accuracy, empathy, reliability, educational quality, transparency, overall quality, and readability of answers to parent-facing questions about pediatric vitamin D deficiency.",
+        "methodology": "Researchers submitted 44 expert-curated questions to each chatbot once and assessed responses using clinical and readability measures with inter-model statistical comparisons.",
+        "finding": "The chatbots differed significantly across most quality measures, while 9.1% of responses were unsafe and safety did not differ significantly between models."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172097533",
       "title": "CropChain: An AI-Powered Agricultural Social Platform Integrating Rice Disease Detection, Expert Collaboration, and Digital Marketplace Services for Smallholder Farmers",
       "authors": "Author unavailable",
@@ -5602,6 +5700,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7212053273",
+      "title": "Artificial intelligence as a source of psychotherapy-related psychoeducation: a cross-sectional content analysis of information on eye movement desensitization and reprocessing",
+      "authors": "İbrahim Karakaya, Onur Okan Demirci",
+      "journal": "Frontiers in Psychiatry",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.3389/fpsyt.2026.1937506",
+      "summary": {
+        "goal": "The study aimed to assess the informational quality and readability of AI-generated psychoeducational content about EMDR psychotherapy.",
+        "methodology": "Researchers converted Google Trends EMDR queries into 20 patient-facing questions and evaluated 180 responses from ChatGPT, Gemini, and DeepSeek using EQIP and readability indices.",
+        "finding": "Gemini had the highest informational quality, DeepSeek had the greatest readability, and all models exceeded recommended patient-education readability levels."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171354883",
       "title": "Artificial intelligence and teacher competence: a scoping review of assessment, analytics, and professional development",
       "authors": "Nurseit Baizhanov, Batyr Sharimbayev, Zhairan Churbanova, Akzhan Khaidarova, Lyazzat Shinetova",
@@ -5613,6 +5725,20 @@
         "goal": "The review maps how artificial intelligence is connected to teacher competence in assessment, analytics, and professional development.",
         "methodology": "It conducts a scoping review of 33 peer-reviewed articles published from 2022 to 2026 and identified through a bounded Web of Science search.",
         "finding": "The literature emphasizes AI-based competence assessment and teacher AI literacy but reports limited explainable AI, fairness analysis, multimodal validation, and longitudinal research."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212011254",
+      "title": "Artificial intelligence agents are responsive to identity cues in persuasive health communication",
+      "authors": "Xiaoli Nan, Xingman Wu",
+      "journal": "Frontiers in Communication",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3389/fcomm.2026.1784502",
+      "summary": {
+        "goal": "The paper examines whether LLM-based AI agents can simulate identity-based responses to persuasive COVID-19 vaccine messages.",
+        "methodology": "Across two studies, AI agents were assigned political or religious identities and exposed to vaccine messages with congruent, incongruent, or absent identity cues.",
+        "finding": "Agents responded more favorably to messages with politically or religiously congruent cues, suggesting potential value for pretesting health communication."
       }
     },
     {
@@ -5935,6 +6061,20 @@
         "goal": "The study examines the prevalence and psychological drivers of generative AI dependency among pre-service teachers and whether perceived AI literacy is protective.",
         "methodology": "It uses a mixed-methods design combining an online survey of 565 education-major students in Chinese teacher-preparation programs with interviews of five participants and structural and necessary-condition analyses.",
         "finding": "Dependency was widespread and was driven primarily by impulsivity and anthropomorphic attachment, while perceived AI literacy had a modest protective effect and social norms were a necessary condition."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212081663",
+      "title": "Acceptance of AI-gamified adaptive learning in EFL: bifactor evidence for essential unidimensionality and the limits of subscale scoring",
+      "authors": "Ainur Zhorabekova, Marzhan Duisenova, Moldir Kurmasheva, Assel Yesnazar",
+      "journal": "Frontiers in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/feduc.2026.1929123",
+      "summary": {
+        "goal": "The study examined whether EFL learners’ acceptance of AI-gamified adaptive learning is multidimensional or reflects a general evaluative orientation.",
+        "methodology": "Researchers analyzed survey responses from 401 Kazakhstani university EFL students using factor analyses, competing confirmatory models, bifactor indices, validity tests, and a held-out subsample.",
+        "finding": "Acceptance was best represented by a dominant general factor, indicating that fine-grained subscale interpretations are weak, with perceived gamification being the only partly distinguishable facet."
       }
     },
     {
