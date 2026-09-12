@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:11:23.036987+00:00",
+  "updatedAt": "2026-09-12T07:01:10.486688+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -828,6 +828,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7212054564",
+      "title": "The influence of generative artificial intelligence on STEM education: a systematic review of recent empirical studies",
+      "authors": "Jiarui Zhao, Zihao Wang, Xin Luo, Weitong Liu",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-08876-4",
+      "summary": {
+        "goal": "The review examines how generative AI influences STEM education systems, particularly in higher education.",
+        "methodology": "It synthesizes 61 empirical studies published between December 2022 and May 2025 using Activity Theory and a SWOT framework.",
+        "finding": "The review finds that GenAI can support personalized learning, pedagogical innovation, and access to resources, but also creates risks involving overdependence, reliability, and ethics."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204213473",
       "title": "The impact of generative artificial intelligence on language teaching and learning",
       "authors": "Abderahman Rejeb, Karim Rejeb, Heba F. Zaher, Abdo Hassoun, Maissa Lahbib, Edit Süle",
@@ -1458,6 +1472,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7212188904",
+      "title": "Survey-Anchored Agents for Cross-Cultural LLM Simulations",
+      "authors": "Huanxing Chen, Jonne Kamphorst, Michael Bernstein, Robb Willer",
+      "journal": "Stanford Digital Repository",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.25740/zj836zt1672",
+      "summary": {
+        "goal": "The study evaluates whether survey-anchored LLM agents can improve the cross-cultural accuracy and diversity of simulated human populations.",
+        "methodology": "Using World Values Survey data from 51 societies and 295 questions, the authors compare survey-anchored agents with country and demographic baselines and conduct ablation experiments.",
+        "finding": "Survey-anchored agents improve predictive accuracy and opinion diversity, especially in culturally distant countries, but their gains largely depend on thematically similar survey information."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171765211",
       "title": "Studi Pedagogis dan Etika Teknologi pada Penggunaan Sistem Penilaian Esai Berbasis AI di Pendidikan Tinggi",
       "authors": "Rizki Adha, Lusianto Lusianto, Dodi Syaripudin, Agus Nursikuwagus, Usep Mohamad Ishaq, Andrias Darmayadi",
@@ -1511,6 +1539,20 @@
         "goal": "The study examined university students’ use of generative AI in relation to engagement, confidence, ethical awareness, and perceived academic value.",
         "methodology": "Researchers conducted a cross-sectional descriptive-quantitative survey of 380 students from 11 colleges at a Philippine state university and analyzed the questionnaire data using descriptive statistics.",
         "finding": "Students commonly used ChatGPT and other AI tools for research, summarization, writing, and editing, but reported neutral engagement, moderate or low confidence, and uneven ethical awareness."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7211991513",
+      "title": "Strengthening Qualitative Research Competence through an International Seminar on AI-Assisted Qualitative Data Analysis",
+      "authors": "Ahmad Yani, Venny Karolina, Urai Salam, Wan Jumani Fauzi, Karen Gay P. Dy, Lindsay M. Ozarraga, Nadya Febriani Meldi, Ahmad Rifai",
+      "journal": "I-Com Indonesian Community Journal",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.70609/icom.v6i3.11185",
+      "summary": {
+        "goal": "The seminar aimed to improve participants’ understanding of AI-assisted qualitative data analysis and its ethical use.",
+        "methodology": "An online international seminar used presentations, discussion, and feedback from 156 participants, with closed responses analyzed descriptively and open responses analyzed thematically.",
+        "finding": "Most participants reported gaining knowledge about AI-assisted qualitative analysis, emphasized researchers’ final interpretive authority, identified transparency and data privacy as key ethical concerns, and expressed satisfaction with the seminar."
       }
     },
     {
@@ -1608,6 +1650,20 @@
       "summary": {
         "goal": "The study forecasts treatment effects of 16 message interventions on 13 outcomes related to trust in climate scientists before human data were available.",
         "methodology": "A single large language model directly predicted all 208 average treatment effects using outcome-specific prompts, 10 instruction variants, and aggregated predictions without synthetic respondents or access to human outcome data.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212115626",
+      "title": "Silicon Politicians",
+      "authors": "Raymond Duch, Laurenz Guenther, Raymond Low",
+      "journal": "Open Science Framework",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.17605/osf.io/d4wcz",
+      "summary": {
+        "goal": "The study aims to assess how accurately LLMs can predict the referendum voting behavior of politicians and ordinary citizens from digital traces.",
+        "methodology": "Researchers will use an LLM to generate votes for politicians and representative digital twins based on social media profiles and metadata, then compare these predictions with politicians’ roll-call votes and citizens’ referendum votes in Switzerland.",
         "finding": "The abstract does not report findings."
       }
     },
@@ -3236,6 +3292,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7203856137",
+      "title": "Identifying Implicit Premises for Logical Reconstruction of Argument Graphs",
+      "authors": "Xuyao Feng, Anthony Hunter",
+      "journal": "Frontiers in artificial intelligence and applications",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3233/faia260796",
+      "summary": {
+        "goal": "The study aims to use large language models to generate implicit premises for logically reconstructing argument graphs and identifying entailment, contradiction, or neutrality relationships.",
+        "methodology": "It proposes a neuro-symbolic pipeline that translates LLM-generated intermediate premises into logical formulae and evaluates the approach on the Microtext Argumentative Corpus.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172487197",
       "title": "IWAC AI Pipelines",
       "authors": "Frédérick Madore",
@@ -3852,6 +3922,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7212185723",
+      "title": "From cognitive offloading to algorithmic discernment: a grounded theory inquiry into generative AI’s shifting impact on university students’ critical thinking",
+      "authors": "Wenqin Ming, Qian Li",
+      "journal": "Interactive Technology and Smart Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1108/itse-05-2026-0199",
+      "summary": {
+        "goal": "The study examines how university students’ interactions with large language models shape the development of independent critical thinking.",
+        "methodology": "Researchers conducted semi-structured interviews with 55 undergraduate and postgraduate students, including stimulated recall of live interactions, and analyzed the data using inductive thematic analysis and grounded theory coding.",
+        "finding": "The study found that GenAI can both offload and extend cognition, while model errors, prompt literacy, and process-oriented instructional constraints can encourage critical scrutiny and preserve human cognitive agency."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203927477",
       "title": "From benchmarking to human–AI collaboration: a systematic review of ChatGPT in translation studies (2022–2025)",
       "authors": "Sukayna Ali, Marwan Jarrah",
@@ -4269,6 +4353,20 @@
         "goal": "The study compares the clinical substance and communication quality of healthcare provider and AI chatbot responses to cancer patients’ messages.",
         "methodology": "Oncologists blindly evaluated triplicate, anonymized responses from healthcare providers, GPT-4, and Mixtral to 189 real-world patient messages using the CREATE TRUST framework.",
         "finding": "Overall quality was comparable, with healthcare providers scoring higher on authenticity and tailoring while chatbots scored higher on empathy and referencing."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212138328",
+      "title": "Evaluating Digital Competence in Early Childhood Care and Education among Preschool Education Students",
+      "authors": "Lingling Wu",
+      "journal": "Education and Social Work",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.63313/esw.9172",
+      "summary": {
+        "goal": "The study develops a competency-based framework for evaluating preschool education students’ digital competence, including ethical generative-AI use and human–AI collaboration.",
+        "methodology": "It analyzes policy documents, decomposes representative kindergarten tasks, and maps course objectives to create five dimensions, 15 indicators, observable evidence, and a four-level rubric.",
+        "finding": "The framework prioritizes child-centered judgment, authentic tasks, and traceable evidence, but the abstract notes that it has not yet undergone large-sample validation."
       }
     },
     {
@@ -4857,6 +4955,20 @@
         "goal": "The study examines how responsible AI characteristics influence travellers’ willingness to delegate travel-planning decisions to GenAI agents.",
         "methodology": "It uses agency theory, trust theory, and a decision-delegation framework to analyze multi-method data from 421 travellers across three delegation levels.",
         "finding": "Reliability and accountability consistently increase delegation, trustworthiness matters at the attribute level, and excessive transparency can reduce delegation willingness through cognitive overload."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212001794",
+      "title": "Dancing with AI: how human-AI interaction affects employee task performance",
+      "authors": "Y. Wu, Y. Wu, Ping Li, Yujie Liang",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-09043-5",
+      "summary": {
+        "goal": "The study examines how human–AI interaction in the workplace relates to employee task performance.",
+        "methodology": "It uses grounded theory, inductive and deductive scale development, and self-concept theory to construct a 19-item measurement scale and test mediation mechanisms.",
+        "finding": "Human–AI interaction comprises anthropomorphic tool use, adaptive trust, and unidirectional emotional connection, positively relates to task performance, and operates partly through role identity and self-efficacy."
       }
     },
     {
@@ -5798,6 +5910,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7212194158",
+      "title": "Artificial Intelligence and Social Work: Considering the Past, Mapping the Present, and Imagining the Future",
+      "authors": "Shoshana Cantwell, Lauri Goldkind",
+      "journal": "Encyclopedia of Social Work",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1093/9780197851364.003.1706",
+      "summary": {
+        "goal": "The paper examines the historical development, current uses, and future implications of AI and generative AI in social work.",
+        "methodology": "It provides a conceptual overview of AI applications across micro, mezzo, and macro social-work practice and discusses associated ethical challenges.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7206150515",
       "title": "Artificial Intelligence and Future-Oriented Aesthetic Education: Design Thinking in Middle School Art Curriculum",
       "authors": "Yijun Feng",
@@ -6453,6 +6579,20 @@
         "goal": "The book examines how educators and ministry leaders should understand, use, and regulate artificial intelligence, including ChatGPT, in their responsibilities.",
         "methodology": "It develops a theological and conceptual analysis of AI’s social implications and proposes principled guidelines for education, spiritual formation, and ministry applications.",
         "finding": "The authors argue that AI should support human flourishing and cocreation while not replacing essential human relationships, counseling, teaching, or worship roles."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212186810",
+      "title": "AGENTIC AI ADOPTION IN HOTEL REVENUE MANAGEMENT: AN EXTENDED META-UTAUT FRAMEWORK",
+      "authors": "Neveen Mansour",
+      "journal": "GeoJournal of Tourism and Geosites",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.30892/gtg.67352-1864",
+      "summary": {
+        "goal": "The study examines factors influencing hotel revenue managers’ adoption of agentic AI in Egypt.",
+        "methodology": "It surveys 213 Egyptian hotel revenue management managers and uses structural equation modeling to test an extended Meta-UTAUT framework.",
+        "finding": "Performance expectancy, effort expectancy, social influence, and facilitating conditions significantly affect attitudes and behavioral intentions, with attitude toward use mediating adoption."
       }
     },
     {
