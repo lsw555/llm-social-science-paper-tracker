@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T07:01:10.486688+00:00",
+  "updatedAt": "2026-09-13T07:20:48.871134+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -181,6 +181,20 @@
         "goal": "The article examines how large language models mediate access to religious and culturally normative knowledge and shape interpretive authority.",
         "methodology": "It develops a boundary-making account of AI governance grounded in science and technology studies and analyzes transformations across datasets, model alignment, and platform circulation.",
         "finding": "The analysis finds that these sociotechnical practices shape which meanings become legible and who is authorized to speak, and proposes MRS-DST disclosure standards that position AI as an assistive rather than interpretive authority."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212032566",
+      "title": "When the Tool Agrees with You: Large Language Model Sycophancy, Examiner Impartiality, and the Admissibility of AIAssisted Forensic Opinion",
+      "authors": "Devharsh Trivedi",
+      "journal": "Journal of Cybersecurity Digital Forensics and Jurisprudence",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.65879/3070-5789.2026.02.06",
+      "summary": {
+        "goal": "The paper tests whether large language models conform to an examiner’s stated forensic hypothesis and create an appearance of independent corroboration.",
+        "methodology": "It surveyed expert-evidence reliability screening across six legal regimes and tested six dated model snapshots on five forensic interpretation items under three framings, with 2,700 sampled trials and model-judge classification validated against hand coding.",
+        "finding": "The hypothesis was not supported overall, but models varied sharply in whether they challenged unsupported premises, and the authors argue that prompt-dependent errors and conclusion-only disclosure create admissibility concerns."
       }
     },
     {
@@ -587,6 +601,20 @@
         "goal": "The paper aims to improve trust representation, conflict feedback, and consensus efficiency in human–AI group decision-making.",
         "methodology": "It models dynamic trust relationships between human experts and large language models, uses trust-based opinion updating, and iteratively regulates consensus using the Zhengzhou “7.20” rainstorm case.",
         "finding": "The abstract reports that the method preliminarily achieves higher consensus quality with lower intervention costs than traditional weight adjustment and deep-reinforcement-learning regulation methods."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212009090",
+      "title": "Transforming multimodal online reviews into competitor-aware product improvement decisions: a large language model-assisted framework",
+      "authors": "Lin Mei",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s41598-026-69264-1",
+      "summary": {
+        "goal": "The study aims to use a large language model to transform multimodal online reviews into competitor-aware product improvement priorities.",
+        "methodology": "CompReview extracts and normalizes product features, opinions, sentiments, and evidence from 156,789 Apple and Huawei smartphone reviews and extends importance-performance analysis with competitor-relative gaps.",
+        "finding": "The framework achieved high extraction, sentiment, and normalization scores, identified product improvement priorities, and showed that ignoring competitor performance misclassified 33.3% of high-priority attributes."
       }
     },
     {
@@ -1287,6 +1315,20 @@
         "goal": "The paper examines how workplace generative AI may create perceived slack that contributes to AI-enabled cyberloafing.",
         "methodology": "It uses a scenario-based 2 × 2 vignette experiment with employed adults, drawing on the Stimulus-Organism-Response framework.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7211996495",
+      "title": "The Effect of Artificial Intelligence on Consumers' Food Preferences and Their Perceptions of Technology Acceptance Levels",
+      "authors": "Rana Şat, Mehmet Sarıoğlan, Nilgün Karaman",
+      "journal": "Özgür Yayınları eBooks",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.58830/ozgur.pub1407",
+      "summary": {
+        "goal": "The book examines how AI applications influence consumers’ food preferences, technology acceptance, trust, and decision-making in food and gastronomy contexts.",
+        "methodology": "It provides a conceptual and interdisciplinary examination integrating technology acceptance, consumer behavior, gastronomy, ethics, and sustainability perspectives.",
+        "finding": "The abstract does not report empirical findings."
       }
     },
     {
@@ -3432,6 +3474,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7212024399",
+      "title": "How science gets by with a little help from the Beatles: Detecting cultural wordplay in scientific literature using large language models",
+      "authors": "Gabriel Budel, Robert E. Kooij, Michiel Tjepkema",
+      "journal": "PLoS ONE",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1371/journal.pone.0356147",
+      "summary": {
+        "goal": "The study aims to detect and document references and creative wordplay involving Beatles songs and lyrics in scientific article titles.",
+        "methodology": "The researchers combined automated Scopus title queries with large-language-model screening and manual verification using a curated list of Beatles songs and lyrics.",
+        "finding": "They identified 2,237 exact references and 963 instances of creative wordplay, with usage increasing over time, outpacing overall scientific-literature growth, and varying across disciplines."
+      }
+    },
+    {
       "id": "https://openalex.org/W7211886643",
       "title": "How rejection letters from AI recruiters shape recruiter's prestige and experienced respect",
       "authors": "Kyriaki Fousiani, Pieter A. Minnigh, Brian Lewis",
@@ -3499,6 +3555,20 @@
         "goal": "The study examines how AI induces professional identity threats among public relations practitioners.",
         "methodology": "It uses a quantitative survey of 285 PR professionals to assess threats across five identity dimensions and their associations with AI-related and organizational factors.",
         "finding": "Perceived identity threats are associated with AI use patterns, attitudes toward AI, AI assessments, and influences from leaders and peers."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212034739",
+      "title": "Holocaust education in networked publics: audience responses to a facebook campaign against holocaust distortion",
+      "authors": "Priscilla Dionesalvi, Stefania Manca, Giorgia Minello",
+      "journal": "International Journal of Digital Humanities",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1007/s42803-026-00136-w",
+      "summary": {
+        "goal": "The study examines audience responses to an Italian Facebook campaign addressing Holocaust distortion and evaluates AI-assisted methods for identifying implicit distortion in online comments.",
+        "methodology": "It analyzes 10,160 public comments using lexical and bigram analysis, sentiment analysis, word embeddings, Gemini API classification, and manual validation.",
+        "finding": "Comments frequently reframed Holocaust education through the Israeli-Palestinian conflict and included Holocaust distortion, Nazi analogies, victim-perpetrator reversal, and claims of political instrumentalization."
       }
     },
     {
@@ -3709,6 +3779,20 @@
         "goal": "The study examines Vietnamese non-English-major students’ perceptions and use of generative AI for English learning in a blended-learning environment.",
         "methodology": "It uses a qualitative case study based on focus groups with 30 students, chat-history analysis from 23 students, and interviews with 8 lecturers.",
         "finding": "Students generally viewed GenAI as useful, easy to use, and engaging, but reported concerns about AI literacy, feedback reliability, unclear institutional guidance, and overreliance on AI-generated content."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7211998628",
+      "title": "Generative AI in Clinical Dental Education: Balancing Innovation With Academic Integrity Through Teacher‐Centric Implementation",
+      "authors": "Khaled E. Ahmed, Michael F. Burrow",
+      "journal": "Australian Dental Journal",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1111/adj.70069",
+      "summary": {
+        "goal": "The review examines how generative AI can be implemented in dental education while addressing faculty readiness, academic integrity, assessment validity, and clinical competency.",
+        "methodology": "It presents a narrative review of published evidence, focusing on faculty perspectives, assessment redesign, clinical applications, and Australian ethical and regulatory frameworks.",
+        "finding": "The review finds that successful adoption requires faculty development, redesigned authentic assessments, structured clinical use, protection of manual competencies, and adherence to ethical standards."
       }
     },
     {
@@ -4269,6 +4353,20 @@
         "goal": "The paper conceptualizes explainable AI as scaffolding that develops users’ AI literacy during interaction with LLMs and other AI systems.",
         "methodology": "It develops a conceptual framework integrating literature on explainable AI, AI literacy, educational scaffolding, and human–AI teaming.",
         "finding": "The authors argue that adaptive explanations can teach users about model behavior, limitations, and bias while fostering calibrated trust."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212062639",
+      "title": "Explainable Stacked Ensemble Learning for Fake News Detection using Text and Metadata",
+      "authors": "K. M. Tousif Bin Parves, Prashanta Kumar Shill",
+      "journal": "Jurnal The Messenger",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.26623/themessenger.v18i1.16007",
+      "summary": {
+        "goal": "The study examines whether combining claim text with speaker metadata improves explainable fake-news classification.",
+        "methodology": "It uses BERT, an XGBoost metadata classifier, and an L1-regularized logistic-regression ensemble on the LIAR dataset, with SHAP, LIME, and Integrated Gradients for interpretation.",
+        "finding": "The ensemble outperformed the individual text and metadata models, with metadata credibility and speaker-history variables providing the strongest signals."
       }
     },
     {
@@ -5420,6 +5518,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7167451142",
+      "title": "Can Large Language Models (LLMs) be Trusted for Power Analysis? An Empirical Evaluation",
+      "authors": "Hajung Kim, Jia Qi, Zhe Feng, Xiaoya Zhang, Yuting Han, Jinbo He, Feng Ji",
+      "journal": "Journal of Behavioral Data Science",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.35566/jbds/jikim",
+      "summary": {
+        "goal": "The study evaluates whether large language models can reliably assist with statistical power analysis and sample-size planning.",
+        "methodology": "The authors tested GPT-3.5, GPT-4, GPT-4o, and Llama 3.2 across two experiments involving sample-size calculations and identification of missing power-analysis parameters.",
+        "finding": "GPT-4 and GPT-4o performed well when generating R code but struggled with direct numerical calculations, and all models showed context-dependent reliability requiring expert oversight."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204450798",
       "title": "CAD-like Prompting / CADUI: A Judgment-Structured Framework for Human–AI Collaboration",
       "authors": "Takuma Yoshida",
@@ -5487,6 +5599,20 @@
         "goal": "The review examines the relationship between emotional intelligence and artificial intelligence and implications for clinical social work, therapeutic alliance, ethical decision-making, and service delivery.",
         "methodology": "It conducts an integrative review of peer-reviewed literature from 2020 to 2026 across social work, psychology, psychiatry, counseling, affective computing, human-computer interaction, and artificial intelligence.",
         "finding": "The review finds that AI can recognize and simulate emotions and support emotional-intelligence development, but simulated empathy differs from authentic therapeutic relationships and raises ethical concerns."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212028719",
+      "title": "Beyond Automatic Fluency: Human Agency, Quality Risk and Professional Practice in AI-Assisted Machine Translation",
+      "authors": "Kizito Innocent Lawa",
+      "journal": "East African Journal of Arts and Social Sciences",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.37284/eajass.9.3.5742",
+      "summary": {
+        "goal": "The paper examines how AI-assisted machine translation reshapes human translators’ work, competence, and professional agency.",
+        "methodology": "It uses a critical integrative review and documentary policy analysis, while proposing a future mixed-methods design for empirical validation.",
+        "finding": "The paper argues that sustainable AI translation requires risk-sensitive governance, accountable human oversight, transparent workflows, and evaluation beyond surface fluency."
       }
     },
     {
@@ -5613,6 +5739,20 @@
         "goal": "The study examines how perceptions of generative AI-based pronunciation feedback relate to English willingness to communicate and whether pronunciation self-efficacy mediates this relationship.",
         "methodology": "A cross-sectional survey of 1,701 Chinese university English learners was analyzed using covariance-based structural equation modeling and bias-corrected bootstrapping.",
         "finding": "Positive perceptions of generative AI feedback were associated with greater willingness to communicate, with pronunciation self-efficacy partially mediating the relationship and accounting for 69.9% of the total effect."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7211987146",
+      "title": "Assessing the Academic Performance of ChatGPT in Undergraduate Civil Engineering: A Study on Material Science and Building Materials Exam",
+      "authors": "Simge Durgun, Olcay Genç",
+      "journal": "Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.47495/okufbed.1776290",
+      "summary": {
+        "goal": "The study evaluates ChatGPT’s performance on undergraduate Material Science and Building Materials examination questions in civil engineering.",
+        "methodology": "Researchers submitted exams of varying difficulty and format to ChatGPT, had lecturers score its answers, and compared its scores with students’ scores using z-scores, percentiles, and t-tests.",
+        "finding": "ChatGPT scored significantly higher than students overall and performed well on conceptual and multiple-choice questions but had limitations with graph generation and visual interpretation."
       }
     },
     {
