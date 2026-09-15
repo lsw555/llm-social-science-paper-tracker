@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T07:20:48.871134+00:00",
+  "updatedAt": "2026-09-15T07:28:41.973409+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -1850,6 +1850,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7212355887",
+      "title": "Safety, efficacy and acceptability of human-GenAI single-session exposure-based intervention for academic anxiety: randomized controlled trials",
+      "authors": "Yanling Yue, Yanwen Yu, Chuncheng Huang, Yong‐Jin Liu, Howard Berenbaum, Nisha Yao, Wenting Mu",
+      "journal": "npj Digital Medicine",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41746-026-03199-9",
+      "summary": {
+        "goal": "The study evaluates the safety, efficacy, and acceptability of a human–GenAI single-session exposure-based intervention for academic anxiety.",
+        "methodology": "The researchers conducted two randomized controlled trials with 425 participants, comparing the intervention with waitlist and active controls.",
+        "finding": "The intervention was perceived as safe and acceptable and generally improved immediate state anxiety, academic anxiety, and procrastination, while effects on broader affect, generalized anxiety, and depressive symptoms were limited."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172347329",
       "title": "Safety, accuracy, empathy, reliability, and readability of large language model chatbot responses to public-facing vegetarian and vegan nutrition advice questions: a cross-sectional comparative study",
       "authors": "Jiyong Zhou, Qiongjiao Zhou, Lijun Zhou, Jiajia Wang, Jing Gao, Long Qin, Bing Tan, Ping Fan",
@@ -1888,6 +1902,20 @@
       "summary": {
         "goal": "The study examines how instructor technology integration competence in AI-supported online learning relates to student academic performance through psychological and social mechanisms.",
         "methodology": "Using data from 339 preservice teachers, the authors validate a measurement model and test parallel-sequential mediation models with structural equation modeling.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7164643245",
+      "title": "RogueGPT: A Controlled Stimulus Generation Framework for News Authenticity Research",
+      "authors": "Alexander Loth, Martin Kappes, Marc‐Oliver Pahl",
+      "journal": "The Journal of Open Source Software",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.21105/joss.11219",
+      "summary": {
+        "goal": "The paper introduces a framework for generating and curating controlled synthetic multilingual news stimuli for AI authenticity research.",
+        "methodology": "It uses multiple LLM families, journalistic styles, languages, and content formats to produce news fragments while recording generation provenance in a MongoDB corpus.",
         "finding": "The abstract does not report findings."
       }
     },
@@ -2211,6 +2239,20 @@
         "goal": "The study examines whether AI-generated static and video advertisements can serve as substitutes for real ads in pretesting and whether AI disclosure affects ad effectiveness.",
         "methodology": "It compares carefully curated AI-generated ads with the real ads they were based on and tests the effects of prior AI disclosure in a low-involvement laboratory setting.",
         "finding": "Under the tested conditions, AI-generated and real ads did not significantly differ in recall, recognition, brand choice, brand attitude, or ad liking, and AI disclosure had no effect."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212373456",
+      "title": "Preserving Professional Skepticism in the Age of Algorithmic Auditing: A Conceptual Framework for AI Adoption in Accounting Practice",
+      "authors": "Pathan Aiyubkhan, Vaidhya Narendrabhai",
+      "journal": "International Journal For Multidisciplinary Research",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.36948/ijfmr.2026.v08i05.87624",
+      "summary": {
+        "goal": "The paper develops a framework for preserving auditors’ professional skepticism when adopting generative AI and other algorithmic tools.",
+        "methodology": "It synthesizes systematic reviews and empirical studies of AI in accounting and auditing to propose the Skepticism-Preserving AI Adoption framework.",
+        "finding": "The paper argues that automation bias is the primary risk in high-judgment tasks and that workflows should embed task decomposition, explainability thresholds, disconfirmation protocols, and human accountability."
       }
     },
     {
@@ -5028,6 +5070,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7164615365",
+      "title": "DeepSteer per-unit arrays: what refusal reads (flagship) and instruments before verdicts (methods note)",
+      "authors": "Orion Reblitz-Richardson",
+      "journal": "arXiv (Cornell University)",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.5281/zenodo.22731360",
+      "summary": {
+        "goal": "The paper provides data for studying what moral information language models use when making refusal decisions.",
+        "methodology": "It releases per-unit activations, ablation outcomes, interchange deltas, moral-contrast analyses, and checkpoint-specific refusal directions across several open-weight models and pretraining states.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7207563841",
       "title": "Deconstructing and Reconstructing University Classroom Authority in the Age of Generative AI: Practical Reflections on a Project Based Learning Reform",
       "authors": "Wu Wang",
@@ -5053,6 +5109,20 @@
         "goal": "The study examines how responsible AI characteristics influence travellers’ willingness to delegate travel-planning decisions to GenAI agents.",
         "methodology": "It uses agency theory, trust theory, and a decision-delegation framework to analyze multi-method data from 421 travellers across three delegation levels.",
         "finding": "Reliability and accountability consistently increase delegation, trustworthiness matters at the attribute level, and excessive transparency can reduce delegation willingness through cognitive overload."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212354795",
+      "title": "Data poisoning in LLM multiagent societies: Social proof drives collective decision failure in financial deliberation",
+      "authors": "Jeongsu Park, Yuji Lim, Geonwoo Kim, Taehyeon Yun, Moohong Min",
+      "journal": "ETRI Journal",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.4218/etrij.2026-0186",
+      "summary": {
+        "goal": "The study examines how social proof and data poisoning affect collective decision-making in LLM multiagent societies.",
+        "methodology": "It tests seven-agent deliberation societies in the Moltbook test bed, varying malicious-agent presence, network topology, model families, and a claim-verification defense.",
+        "finding": "A malicious agent comprising 14% of the society reduced accuracy from 87.5% to 52.5%, while publicly tagging unverifiable claims restored accuracy to 85.8%."
       }
     },
     {
@@ -5207,6 +5277,20 @@
         "goal": "The study introduces contextualized sensorimotor norms for ambiguous English words and evaluates whether GPT-4 can recover sensorimotor information.",
         "methodology": "Researchers collected human ratings for 112 words in four contexts and compared them with existing norms, semantic-relatedness judgments, and GPT-4 ratings.",
         "finding": "Contextualized ratings captured distinct information, reflected word meanings and semantic relatedness, and GPT-4 ratings aligned reasonably well with human judgments."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7134094522",
+      "title": "Context-Dependent Affordance Reports in Vision-Language Models",
+      "authors": "Murad Farzulla",
+      "journal": "arXiv (Cornell University)",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.5281/zenodo.22721059",
+      "summary": {
+        "goal": "The study examines whether persona prompts produce context-dependent affordance reports in vision-language models beyond variation caused by wording or sampling.",
+        "methodology": "It audits a prior seven-prompt Qwen study with matched-question controls and conducts a new experiment using 48 images, four personas, two wordings, two seeds, and two model configurations.",
+        "finding": "Persona-associated variation did not uniformly exceed wording or sampling variation, and the results do not support a universal persona effect or functional-manifold interpretation."
       }
     },
     {
@@ -5574,6 +5658,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7212359061",
+      "title": "Beyond unstructured use: scaffolded integration of generative AI in assessment for learning",
+      "authors": "Darryl J. Cochrane, Simin Littschwager, Elaine Tsang, Ying Jin",
+      "journal": "Cogent Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1080/2331186x.2026.2731708",
+      "summary": {
+        "goal": "The study examined how scaffolded integration of generative AI into an assessment task affected students’ experiences, evaluative engagement, learning, confidence, and competence.",
+        "methodology": "A cross-sectional quantitative survey of 164 first-year undergraduate students in an online health communication course measured reported experiences and outcomes after an assessment requiring students to generate, evaluate, revise, and reflect on GenAI-assisted outputs.",
+        "finding": "Students reported positive learning and evaluative skill development, but confidence and competence remained neutral and perceptions of AI reliability were cautious."
+      }
+    },
+    {
       "id": "https://openalex.org/W4414898195",
       "title": "Beyond static responses: multi-agent LLM systems as a new paradigm for social science research",
       "authors": "Jennifer Haase, Sebastian Pokutta",
@@ -5739,6 +5837,20 @@
         "goal": "The study examines how perceptions of generative AI-based pronunciation feedback relate to English willingness to communicate and whether pronunciation self-efficacy mediates this relationship.",
         "methodology": "A cross-sectional survey of 1,701 Chinese university English learners was analyzed using covariance-based structural equation modeling and bias-corrected bootstrapping.",
         "finding": "Positive perceptions of generative AI feedback were associated with greater willingness to communicate, with pronunciation self-efficacy partially mediating the relationship and accounting for 69.9% of the total effect."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212373635",
+      "title": "Assessing the Impact of AI-Assisted Writing Tool Utilization on the Writing Proficiency of Senior High School Students",
+      "authors": "Shelly April A. Basan, ALMIRA A. BATULANON, Sharon M. Enanoria, Aaron Keirt Gioca, Lovely C. Lemente, Mary Florie E. Niñal, Dannielle Gayle L. Orillo, Jenny Pearl C. Razonable",
+      "journal": "International Journal of Research on Multidisciplinary Studies",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.67903/ijroms0239",
+      "summary": {
+        "goal": "The study aimed to assess whether using AI-assisted writing tools improves senior high school students’ writing proficiency.",
+        "methodology": "A quantitative quasi-experimental study compared pretest–posttest writing assessment scores for 60 Grade 11 students assigned to experimental and control groups.",
+        "finding": "The AI-assisted writing group improved significantly more than the control group, with higher post-test scores, suggesting that these tools can enhance writing proficiency as supplementary instructional support."
       }
     },
     {
@@ -6103,6 +6215,20 @@
         "goal": "The study examines the benefits and challenges of using generative AI tools such as ChatGPT and MidJourney for brainstorming in interior design education.",
         "methodology": "The researchers used qualitative and quantitative methods with 18 students completing three stages of AI-assisted brainstorming tasks followed by interviews.",
         "finding": "AI saved students time and effort and supported creativity and idea development, although it sometimes repeated ideas or produced similar designs."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212358166",
+      "title": "ArguMap-AI: An Intelligent Claim–Evidence Mapping System for EFL Academic Writing",
+      "authors": "Mustakim Mustakim, Ismail Ismail, Sri Rosmiana, Ita Sarmita Samad",
+      "journal": "MAJESTY JOURNAL",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.33487/majesty.v8i2.490",
+      "summary": {
+        "goal": "The study aimed to develop and evaluate ArguMap-AI to help EFL students identify, visualize, and revise claim–evidence relationships in argumentative writing.",
+        "methodology": "The study used a mixed-method design and development approach with 21 university students, analyzing initial and revised drafts, writing scores, system records, questionnaires, and interviews.",
+        "finding": "Writing scores improved from 18.19 to 26.33, and students generally found the mapping and feedback useful, although misclassification, complex maps, and the need for lecturer guidance remained challenges."
       }
     },
     {
@@ -6677,6 +6803,20 @@
         "goal": "The chapter examines empathy, emotional support, and ethical questions in interactions between people and artificial intelligence.",
         "methodology": "It introduces themes and juxtaposes perspectives from the social sciences, humanities, and engineering and computer science.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212366746",
+      "title": "AI Transparency, Privacy Control, and Consumer Trust as Drivers of Purchase Intention in Omnichannel Retail",
+      "authors": "Salamatun Asakdiyah, Nur Afifah, Hetty Karunia Tunjungsari",
+      "journal": "Fundamental and Applied Management Journal",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.66314/famj.v4i3.1009",
+      "summary": {
+        "goal": "The study examines whether AI transparency and privacy control influence consumer trust and purchase intention in omnichannel retail.",
+        "methodology": "It uses survey data from 100 purposively sampled omnichannel consumers in Yogyakarta City and analyzes the relationships with partial least squares structural equation modeling.",
+        "finding": "AI transparency and privacy control positively affect trust and purchase intention, while trust also positively affects purchase intention and partially mediates both relationships."
       }
     },
     {
