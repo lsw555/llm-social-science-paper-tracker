@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T07:28:41.973409+00:00",
+  "updatedAt": "2026-09-18T07:13:27.105173+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -27,6 +27,20 @@
         "goal": "The article examines the ethical and legal challenges posed by companion AI chatbots and develops a theory of harm for digitally mediated intimacy.",
         "methodology": "It analyzes companion AI through anthropomorphism, emotional AI, emergent vulnerabilities, and mismatched legal taxonomies.",
         "finding": "The article argues that existing frameworks inadequately address companion AI harms and proposes intimacy capitalism as a framework for analyzing the monetization and exploitation of digitally mediated intimate relations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212527191",
+      "title": "Supplementary Material for \"Same Same, but Different: How Dedicated AI Leadership Roles Differentiate from Technology Leadership\"",
+      "authors": "Mihael Markic, Sven Hennemann, Jens Poeppelbuss",
+      "journal": "CDI B2Share",
+      "year": 2027,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.23728/b2share.7qxzn-4tw36",
+      "summary": {
+        "goal": "The study examines how dedicated AI leadership roles are defined and differ from established technology leadership roles.",
+        "methodology": "It uses large-language-model-assisted content analysis of 794 job advertisements through a governance-demands-and-skills lens.",
+        "finding": "AI leadership roles have a distinctive governance mandate that existing technology leadership roles address only partially, leaving a residual governance gap."
       }
     },
     {
@@ -195,6 +209,20 @@
         "goal": "The paper tests whether large language models conform to an examiner’s stated forensic hypothesis and create an appearance of independent corroboration.",
         "methodology": "It surveyed expert-evidence reliability screening across six legal regimes and tested six dated model snapshots on five forensic interpretation items under three framings, with 2,700 sampled trials and model-judge classification validated against hand coding.",
         "finding": "The hypothesis was not supported overall, but models varied sharply in whether they challenged unsupported premises, and the authors argue that prompt-dependent errors and conclusion-only disclosure create admissibility concerns."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202272105",
+      "title": "When the Interviewer Is a Bot: Behavior, Breakdowns, and Trust in MLLM-Led Interviews",
+      "authors": "He Zhang, Kambinachi Chukwuma, ChanMin Kim, John M. Carroll",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1145/3834580.3838754",
+      "summary": {
+        "goal": "The study examines how an off-the-shelf real-time multimodal LLM performs as a semi-structured interviewer and how participants experience bot-led interviews.",
+        "methodology": "Fifteen participants completed interviews with a voice-based MLLM system, followed by human-led reflection sessions, while researchers analyzed 428 interview turns and participant reflections.",
+        "finding": "The MLLM was acknowledgment-heavy but probe-light, produced several data-collection breakdowns, and elicited disclosure calibration, institutionally shaped trust, and greater perceptions of listening from content-grounded paraphrase."
       }
     },
     {
@@ -1934,6 +1962,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7155211631",
+      "title": "Revisiting Framing Codebooks with AI: Employing Large Language Models as Analytical Collaborators in Deductive Content Analysis",
+      "authors": "Diego Gomez-Zara, Hernán Valdivieso, Jorge Pérez, Denis Parra, Sebastián Valenzuela",
+      "journal": "Digital Journalism",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1080/21670811.2026.2730327",
+      "summary": {
+        "goal": "The article aims to develop a workflow using LLMs to create and refine framing codebooks for deductive content analysis.",
+        "methodology": "It illustrates an LLM-assisted workflow with Latin American news coverage, using dialogues between researchers, LLMs, and data to explore patterns and iteratively revise codebooks.",
+        "finding": "LLMs helped surface latent patterns, generate frame distinctions, and adapt theoretical frameworks to new contexts while preserving researchers’ interpretive authority."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171713825",
       "title": "Rethinking assessment in the age of generative AI: A systematic literature review of African higher education",
       "authors": "Ahmed Antwi-Boampong, Mark Ofori Nketia, Frank Senyo Loglo, Naomi Frimpong, Linda Osei-Fosuaa",
@@ -2228,6 +2270,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213396655",
+      "title": "Prevalence and disclosure of AI and non-AI online child sexual victimisation: Findings from a national study of Australian adolescents",
+      "authors": "Timothy Cubitt, Katie Logos, Russell Brewer, Ben Mathews, Mikaela Jago, Colm Gannon",
+      "journal": "Child Abuse & Neglect",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1016/j.chiabu.2026.108328",
+      "summary": {
+        "goal": "The study aimed to estimate the prevalence of online child sexual victimization among Australian adolescents, assess AI involvement, and examine disclosure pathways.",
+        "methodology": "Researchers surveyed a nationally representative sample of 1,894 Australian adolescents aged 16–18 using validated measures and follow-up questions about AI involvement and disclosure.",
+        "finding": "AI-facilitated victimization affected one in 25 adolescents or their friends, AI was involved in 26.0% of nonconsensual image-sharing cases, and disclosure to AI was more common than disclosure to authorities."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203547210",
       "title": "Pretesting with AI-generated static and video ads",
       "authors": "Steven Bellman, Sid Ali Ourradi, D. Varan",
@@ -2267,6 +2323,20 @@
         "goal": "The study examines how AI mediation across multilingual qualitative research pipelines alters meaning, epistemic authority, and responsibility.",
         "methodology": "It conducts a critical integrative synthesis of cross-language qualitative methods, AI-assisted analysis, machine translation bias, reflexivity, and epistemic justice.",
         "finding": "The study identifies cascading meaning loss through five mechanisms and proposes an AI-Mediated Interpretive Chain of Custody with provenance, logging, human adjudication, and traceability safeguards."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7212460714",
+      "title": "Predicting facial impressions using guided Grad-CAM and a large language model",
+      "authors": "Takanori Sano, Hideaki Kawabata",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s41598-026-69824-5",
+      "summary": {
+        "goal": "The study aimed to use a large language model to provide structured, reproducible summaries of facial regions relevant to attractiveness, dominance, and trustworthiness predictions.",
+        "methodology": "Researchers trained a VGG19 regression model on facial impression ratings, generated Grad-CAM visualizations, and used a large language model to summarize Guided Grad-CAM outputs before cross-checking them with facial region-of-interest analyses.",
+        "finding": "The language-based summaries were consistent with quantitative region-of-interest distributions, with impression-specific activation patterns involving central facial regions, upper-face cues, and the eyes and mouth."
       }
     },
     {
@@ -3684,6 +3754,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4400480938",
+      "title": "Generative debunking of climate misinformation",
+      "authors": "Francisco Zanartu, Lea Frermann, Yulia Otmakhova, Markus Wagner, John Granger Cook",
+      "journal": "Climatic Change",
+      "year": 2026,
+      "field": "Climate & environment",
+      "url": "https://doi.org/10.1007/s10584-026-04279-1",
+      "summary": {
+        "goal": "The study aims to develop psychologically informed large language model methods for generating effective debunkings of climate misinformation.",
+        "methodology": "It compares Vanilla, Structured, and Structured+RAG LLM-based debunking models using climate misinformation taxonomies, fallacy detection, and expert-annotated evaluation data.",
+        "finding": "The Structured+RAG model improved fallacy identification and explanation, while the Structured model generated more relevant facts than the Vanilla model."
+      }
+    },
+    {
       "id": "https://openalex.org/W7208835837",
       "title": "Generative Artificial Intelligence: Ethical challenges and pedagogical implications in emerging educational contexts",
       "authors": "Ana Paulina Alfaro Rodríguez, Mónica del Carmen Olivarría González, Héctor Luis López López, Rosa Leticia Ibarra Martínez",
@@ -3919,6 +4003,20 @@
         "goal": "The study aims to develop a conceptual model explaining how organizations can adopt generative AI securely, ethically, responsibly, and with user trust.",
         "methodology": "It uses an integrative literature review and thematic synthesis of academic, conference, and technical sources to identify constructs, relationships, and research propositions.",
         "finding": "The abstract reports that governance readiness strengthens security controls and ethical awareness, which build digital trust and support effective generative AI adoption."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213224388",
+      "title": "GenAI needs to be banned at law faculties under a precautionary principle",
+      "authors": "Joris van Laarhoven, Eva van Vugt",
+      "journal": "Transnational Legal Theory",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1080/20414005.2026.2732448",
+      "summary": {
+        "goal": "The paper evaluates whether law faculties should ban generative AI use by students and academics under a precautionary principle.",
+        "methodology": "The authors synthesize and translate arguments from two previously published articles and discuss GenAI’s implications for legal education, scholarship, democracy, and the rule of law.",
+        "finding": "The authors argue that GenAI threatens critical thinking, scientific integrity, confidence, trust, and institutional autonomy, and therefore call for bans in law faculties."
       }
     },
     {
@@ -4818,6 +4916,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4415316260",
+      "title": "DoubleAgents: Human-Agent Alignment in a Socially Embedded Workflow",
+      "authors": "Tao Long, Xuanming Zhang, Sitong Wang, Yu Zhou, Lydia B. Chilton",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1145/3834580.3838737",
+      "summary": {
+        "goal": "The paper aims to improve human–agent alignment for complex, socially embedded coordination tasks with implicit and evolving user preferences.",
+        "methodology": "It presents the DoubleAgents system and evaluates it through a two-day in-lab interactive simulation with 10 participants, three real-world deployments, and a technical evaluation.",
+        "finding": "Participants’ comfort with offloading tasks and reliance on DoubleAgents increased over time, but they still required control during uncertainty, including edge cases and context-dependent actions."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204999235",
       "title": "Don’t Look up: Evaluating the Tradeoff Between Performance and Sustainability of Text Classification Using Open LLMs",
       "authors": "Sean-Kelly Palicki, Isaac Bravo, Clint Claessen",
@@ -5686,6 +5798,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7204146082",
+      "title": "Beyond Truth Discovery: A Two-Stage Framework to Assess the Severity of False Claim during Disasters",
+      "authors": "Ruichen Yao, Tejna Dasari, Gulshat Baispay, Aizhan Zaurbek, Yifan Liu, Yaokun Liu, Zelin Li, Dong Wang",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1145/3834580.3838746",
+      "summary": {
+        "goal": "The study aims to assess the severity of false claims in disaster-related social media by measuring their believability and harmfulness.",
+        "methodology": "It extracts and verifies claims from multimodal Reddit posts about hurricanes and wildfires, creates a human-annotated benchmark, and evaluates supervised models and LLMs against human judgments.",
+        "finding": "LLMs achieve stronger alignment with human judgments than traditional supervised models, with in-context learning performing best."
+      }
+    },
+    {
       "id": "https://openalex.org/W7202283386",
       "title": "Beyond Empathy: Emotional Intelligence and Artificial Intelligence in Clinical Social Work Practice, Therapeutic Alliance and Human Services",
       "authors": "Gary Bailey",
@@ -6369,6 +6495,20 @@
         "goal": "The paper examines how Agentic AI may drive organizational innovation and change management during technology-enabled transformation.",
         "methodology": "It uses a desk-based conceptual review and framework development based on a structured literature search and thematic synthesis.",
         "finding": "Agentic AI may support ideation, experimentation, process redesign, and workflow coordination, but successful transformation requires organizational readiness, employee trust, human oversight, and responsible governance."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4415086593",
+      "title": "AgentDynEx: Nudging the Mechanics and Dynamics of Multi-Agent Simulations",
+      "authors": "Jenny Ma, Riya Sahni, Karthik Sreedhar, Lydia B. Chilton",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1145/3834580.3838752",
+      "summary": {
+        "goal": "The paper aims to help researchers set up, monitor, and repair multi-agent LLM simulations while preserving emergent social dynamics.",
+        "methodology": "It introduces AgentDynEx, which uses milestones, failure conditions, and dynamic nudging to guide simulations, and evaluates the system technically and through a case study with real users.",
+        "finding": "The evaluation found that nudging allowed simulations to progress further without reducing notable dynamics, and the case study showed that users could simulate lived experiences."
       }
     },
     {
