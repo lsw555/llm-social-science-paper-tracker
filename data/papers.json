@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T07:13:27.105173+00:00",
+  "updatedAt": "2026-09-19T07:10:16.792896+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -867,6 +867,20 @@
         "goal": "The paper examines how recommender systems and large language models transform authority, meaning-making, and moral agency through algorithmic guidance.",
         "methodology": "It develops a comparative, integrative framework drawing on religious doctrines of providence, AI ethics, sociology of digital religion, and philosophy of technology.",
         "finding": "The analysis finds that recommender systems resemble providence in perceived ubiquity and guidance but optimize engagement rather than human goods, while LLM integration intensifies conversational persuasion and agentic influence."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203961133",
+      "title": "The politics of translation in African-language generative AI: opportunities and challenges for critical engagement, education and resistance",
+      "authors": "Peter Chonka, Mohamed Abdimalik",
+      "journal": "Journal of Eastern African Studies",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1080/17531055.2026.2730596",
+      "summary": {
+        "goal": "The article examines how translation shapes knowledge exchange, critical engagement, education, and resistance concerning generative AI in East Africa.",
+        "methodology": "It draws on practice-based research in Somalia and the authors’ development of Somali-language educational and public engagement resources about generative AI.",
+        "finding": "The article argues that translation can enable critical debate and resistance while also reflecting language inaccessibility, historical inequalities, and ongoing data extractivism."
       }
     },
     {
@@ -3110,6 +3124,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7208762369",
+      "title": "Large-Language Models as a Cognitive Virus",
+      "authors": "Ricard Solé, Giulio Ruffini, Francesca Castaldo, Marco Tuccio, Luis F. Seoane, Manlio de Domenico, Santiago F. Elena, David C. Krakauer",
+      "journal": "Preprints.org",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.20944/preprints202609.1536.v1",
+      "summary": {
+        "goal": "The paper aims to model how LLM adoption may spread through populations and affect cognitive autonomy.",
+        "methodology": "It develops a viral-diffusion model of transitions among uncoupled, coupled, and persistently dependent LLM users.",
+        "finding": "The model suggests that social transmission and reinforcement can produce tipping points, persistent dependence, and losses in cognitive competence, while reduced transmission and reversibility may enable cognitive immunization."
+      }
+    },
+    {
       "id": "https://openalex.org/W7167299651",
       "title": "Large language models outperform humans at estimating society’s everyday norms",
       "authors": "Kimmo Eriksson, Simon Karlsson, Irina Vartanova, Pontus Strimling",
@@ -3348,6 +3376,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7114020432",
+      "title": "Intention-like representations in language models?",
+      "authors": "Iwan Williams",
+      "journal": "Philosophical Studies",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1007/s11098-026-02605-y",
+      "summary": {
+        "goal": "The paper assesses whether internal representations in large language models resemble human intention states.",
+        "methodology": "It surveys five philosophical properties of intentions and evaluates two candidate classes of LLM representations against them.",
+        "finding": "LLMs have representations that are intention-like in many respects but differ from human intentions in important ways."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172124834",
       "title": "Integration of Artificial Intelligence in Social Media Content Production Workflow to Improve Efficiency and Productivity: A Case Study of the Publication Team at SMP Islam Al Azhar 12 Rawamangun",
       "authors": "Arrum Dara Efda, Ropik, Izzaty Zephaniah, Feri Johansah",
@@ -3415,6 +3457,20 @@
         "goal": "The study evaluates whether access to GPT-4o improves physician clinical decision-making and reduces cross-country disparities in care quality.",
         "methodology": "In a multi-country randomized controlled trial, 249 physicians in Indonesia, Kenya, and the Netherlands completed standardized clinical vignettes with or without access to GPT-4o.",
         "finding": "LLM access significantly improved performance in all three countries, with the largest gains in Kenya, reduced some cross-country disparities, and produced heterogeneous effects depending on physician engagement and country."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4415901701",
+      "title": "ImaGGen: Zero-Shot Generation of Co-Speech Semantic Gestures Grounded in Language and Image Input",
+      "authors": "Hendric Voß, Stefan Kopp",
+      "journal": "ACM Transactions on Interactive Intelligent Systems",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1145/3845992",
+      "summary": {
+        "goal": "The paper aims to generate semantically meaningful co-speech gestures for virtual agents using language and image input.",
+        "methodology": "It presents a zero-shot system combining image analysis, semantic matching, inverse kinematics, and a user study.",
+        "finding": "Generated gestures significantly improved participants’ ability to identify object properties when speech was ambiguous."
       }
     },
     {
@@ -4188,6 +4244,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213559156",
+      "title": "From access to engagement: AI literacy, technological play and academic libraries as sociotechnical learning environments",
+      "authors": "Neil Grimes",
+      "journal": "Library Hi Tech",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1108/lht-05-2026-0146",
+      "summary": {
+        "goal": "The study examines how academic libraries can support meaningful AI literacy through technological play, informal learning, librarian mediation, and technology-rich spaces.",
+        "methodology": "It uses qualitative critical discourse analysis of library scholarship, professional frameworks, and institutional and higher-education documents, interpreted through a political-economy lens.",
+        "finding": "AI literacy develops through the interaction of tools, spaces, labor, pedagogy, experimentation, and institutional conditions, while opportunities for participation remain uneven."
+      }
+    },
+    {
       "id": "https://openalex.org/W7166255613",
       "title": "From Work-from-Home to Return-to-Office: A Theory-Anchored Reddit Study of Remote Work Discourse",
       "authors": "Zheng Cui, Zixing Shen",
@@ -4563,6 +4633,20 @@
         "goal": "The study evaluates the safety, accuracy, empathy, information quality, and readability of public-facing LLM chatbots for postoperative pain education.",
         "methodology": "Researchers tested seven chatbot interfaces with 51 postoperative pain questions, producing 357 responses assessed through blinded clinical review and paired nonparametric comparisons.",
         "finding": "Eleven responses were unsafe, while performance differed significantly across interfaces, with ChatGPT highest in accuracy, Claude highest in empathy, and Copilot most readable."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7153693637",
+      "title": "Evaluating fine-tuned, embedding-based, and zero-shot models for aspect-based sentiment analysis in South Slavic news",
+      "authors": "Nishan Chatterjee, Boshko Koloski, Antoine Doucet, Senja Pollak, Matthew Purver",
+      "journal": "Frontiers in Artificial Intelligence",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.3389/frai.2026.1844418",
+      "summary": {
+        "goal": "The study evaluates methods for document-level entity-targeted sentiment analysis in Slovenian and Serbo-Croatian news, including local LLMs and LLM deferral systems.",
+        "methodology": "It introduces the AspectBench dataset and compares embedding classifiers, fine-tuned language models, hierarchical attention networks, zero- and few-shot LLMs, and selective LLM deferral policies.",
+        "finding": "Supervised expert models were most reliable, while selective routing of low-confidence predictions to LLMs was more promising than standalone or complete LLM use."
       }
     },
     {
@@ -5448,6 +5532,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213498070",
+      "title": "Consistency of ChatGPT responses with the American Psychiatric Association guidelines in adolescent eating disorders: evaluation of quality, reliability, and readability",
+      "authors": "Ayşe Gül Güven, Simay Mirioğlu, Burak Kurt, Rahime Duygu Temeltürk, Zehra Aycan",
+      "journal": "Journal of Eating Disorders",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1186/s40337-026-01749-w",
+      "summary": {
+        "goal": "The study aimed to assess whether ChatGPT responses about adolescent eating disorders align with American Psychiatric Association guidelines and to evaluate their quality, reliability, and readability.",
+        "methodology": "Researchers analyzed ChatGPT responses to 34 guideline-derived clinical questions, which nine experts rated using quality and reliability scales, inter-rater agreement measures, and readability indices.",
+        "finding": "ChatGPT responses showed substantial guideline alignment and high quality but variable reliability and readability levels that warrant cautious use alongside clinical expertise."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203948581",
       "title": "Comparison of artificial intelligence assisted training and traditional learning paths in clinical simulation skills training: meta-analysis of randomized controlled trials",
       "authors": "Sihan Che, Huan Zhao, Tianlin Lu, Zhen You",
@@ -5630,6 +5728,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213441769",
+      "title": "ChatGPT as a self-regulated learning support tool in thesis writing: a mixed-methods study",
+      "authors": "Nagaletchimee Annamalai, Chuhan Niu, Xiaofan Wu, Amer Ayada Ayoub Alkubaisy",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1871579",
+      "summary": {
+        "goal": "The study examines how ChatGPT supports postgraduate students’ self-regulated learning during thesis writing.",
+        "methodology": "It uses a mixed-methods design combining a survey of 303 postgraduate students with interviews of 20 students, guided by Zimmerman’s self-regulated learning framework.",
+        "finding": "Students reported that ChatGPT supported planning, monitoring, evaluation, and thesis-writing tasks while they retained critical control, authorial agency, and academic ownership."
+      }
+    },
+    {
       "id": "https://openalex.org/W7201993829",
       "title": "ChatGPT and Large Language Models in Contemporary Nursing",
       "authors": "Izabella Uchmanowicz, Heba Aldossary, Christopher S. Lee, Mariachiara Figura, Maria Jędrzejczyk, Maddalena De Maria, Gianluca Pucciarelli, Ewa Molka",
@@ -5753,6 +5865,20 @@
         "goal": "The paper aims to design a privacy-preserving AI learning companion that supports guided exploration of professional codebases in large graduate engineering courses.",
         "methodology": "It presents a retrieval-grounded system using hybrid lexical-semantic retrieval, chunk-level indexing, and a locally hosted 8B-parameter language model, along with a planned classroom evaluation.",
         "finding": "The abstract does not report findings."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213544844",
+      "title": "Born in the wrong era: rethinking human-AI relations through the lens of anemoia",
+      "authors": "Márk Miskolczi",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1057/s41599-026-09130-7",
+      "summary": {
+        "goal": "The study examines how LLM users emotionally respond to AI’s growing presence, focusing on nostalgia for a less technologized past.",
+        "methodology": "The researchers qualitatively analyzed 1,625 Reddit comments using Grounded Theory coding procedures.",
+        "finding": "The analysis identified discomfort, emotional fatigue, and AI-triggered anemoia as recurring patterns in users’ discourse."
       }
     },
     {
@@ -7055,6 +7181,20 @@
         "goal": "The study evaluates whether AI coding can complement or replace manual qualitative data analysis.",
         "methodology": "Researchers compared manual coding of 164 interviews with AI coding under two prompting conditions and assessed reliability and validity using mixed quantitative and qualitative analyses.",
         "finding": "AI identified many relevant segments and some missed by manual coding but substantially overcoded, so the authors recommend hybrid coding rather than replacing manual analysis."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213440681",
+      "title": "A hybrid framework combining large language models and Shapley-based methods for explainable cyberbullying detection",
+      "authors": "Giuseppe Loseto, Filippo Gramegna, Agnese Pinto, Floriano Scioscia, Michèle Ruta",
+      "journal": "Discover Artificial Intelligence",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1007/s44163-026-02204-0",
+      "summary": {
+        "goal": "The study aims to develop an explainable cyberbullying detection framework combining LLM-based explanations with SHAP feature attributions.",
+        "methodology": "It uses multiple classifiers to analyze message, user, linguistic, and stylistic features and evaluates the explanations with 100 students, IT professionals, and researchers using the Co-12 properties.",
+        "finding": "SHAP explanations provide more detailed content-based insights, while LLM explanations offer clearer and more user-oriented presentations."
       }
     },
     {
