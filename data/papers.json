@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T07:10:16.792896+00:00",
+  "updatedAt": "2026-09-20T07:37:07.004511+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -1402,6 +1402,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213464053",
+      "title": "The Challenges for Linguists to Develop Innovative Pedagogy due to the Impact of Artificial Intelligence on Job Opportunities",
+      "authors": "Oyéniran Michel CHABI, Servais Dieu-Donné Yédia Dadjo, Abdoulaye Hakibou",
+      "journal": "Akofena revue scientifique des Sciences du Langage Lettres Langues & de la Communication",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.48734/akofena.n022.vol.5.25.2026",
+      "summary": {
+        "goal": "The study examines how artificial intelligence affects linguists’ job opportunities and the need for innovative pedagogy.",
+        "methodology": "It uses a mixed-method approach grounded in technological pedagogical content knowledge and socio-constructivist learning theory to compare job-market outcomes for individuals trained with or without exposure to AI.",
+        "finding": "The abstract reports that integrating AI and computational linguistics into curricula improves students’ competencies, employability, and ability to bridge AI developers and users."
+      }
+    },
+    {
       "id": "https://openalex.org/W7202386115",
       "title": "The Bitter End of Universal Grammar: Skinner–Chomsky Debate Today",
       "authors": "Peter Ayolov",
@@ -1777,6 +1791,20 @@
         "goal": "The study aims to develop an LLM-powered platform for multidimensional corporate health assessment.",
         "methodology": "It combines a locally deployed Gemma 3 27B model, retrieval-augmented generation, fuzzy set theory, graph-based analysis, and financial indicators to assess 788 Chinese companies.",
         "finding": "The platform identified 86.7% of high-risk enterprises and achieved an R² of 0.647."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213492748",
+      "title": "Sharly AI: an AI research assistant for source-grounded document analysis",
+      "authors": "Simone Macario",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.5281/zenodo.22803980",
+      "summary": {
+        "goal": "The paper describes Sharly AI as a source-grounded research instrument for analyzing user-uploaded documents.",
+        "methodology": "It examines the deployed system and published uses, focusing on its retrieval of document passages, LLM-generated answers, source excerpts, and verification protocol.",
+        "finding": "The abstract reports that Sharly is suitable for literature screening, data extraction, and content analysis when users verify its cited sources."
       }
     },
     {
@@ -3320,6 +3348,34 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213590907",
+      "title": "L'Inversione Paradigmica dell'Iper-Specializzazione Cognitiva: Dequalificazione Procedurale Mediata da Modelli Fondazionali e Primato Emergente della Sintesi Transdisciplinare",
+      "authors": "Luigi Usai",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.5281/zenodo.22834492",
+      "summary": {
+        "goal": "The paper examines how generative AI may transform cognitive labor by reducing the value of specialized procedural skills and increasing the value of transdisciplinary synthesis.",
+        "methodology": "It develops a theoretical model drawing on cybernetic control theory, the extended-mind thesis, and bisociation theory.",
+        "finding": "It argues that generative AI produces asymmetric procedural deskilling while amplifying the productivity and value of transdisciplinary agents."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213450563",
+      "title": "Knotworking With Artificial Intelligence: A Case Study of Emergent Student User-Experience Composition With AI-Assisted Cocreation",
+      "authors": "Gustav Verhulsdonck, Jialei Jiang",
+      "journal": "Journal of Business and Technical Communication",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1177/10506519261485276",
+      "summary": {
+        "goal": "The study examines how technical communication students use generative AI in collaborative user-experience design.",
+        "methodology": "The authors conduct a semester-long case study analyzing students’ individual and team reflections on using Figma Jambot, AI plug-ins, and other GenAI tools through activity theory’s concept of knotworking.",
+        "finding": "AI helped coordinate team workflows and translate design ideas, while students used rework strategies to refine designs in a cocreative process."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203607282",
       "title": "Journalism and Mass Communication Students Attitudes toward Using of AI: Challenges and Opportunities (Case of Georgia)",
       "authors": "Dali Osepashvili",
@@ -4171,6 +4227,20 @@
         "goal": "The study examines how an AI-infused STEM workforce program shapes high school students’ machine-learning knowledge, attitudes, ethical awareness, self-efficacy, belonging, and identities as future AI users and contributors.",
         "methodology": "It uses a mixed-methods time-series design combining surveys of 42 participants across three timepoints with interviews and research-artifact analysis from 17 participants.",
         "finding": "The program increased machine-learning knowledge and skills, fostered ethical awareness and informed ambivalence toward AI, and supported emerging self-efficacy, belonging, and identities as future AI contributors."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213561792",
+      "title": "From evolutionary individuality to cognitive integration: a cross-modular perspective on human–AI coevolution",
+      "authors": "Edward Ruoyang Shi",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1768785",
+      "summary": {
+        "goal": "The article develops a cross-modular framework for assessing when human–AI coupling might constitute cognitive rather than merely functional integration.",
+        "methodology": "It uses theoretical analysis of evolutionary transitions, cognitive architecture, extended-mind theories, and proposed criteria for bidirectional, persistent, cross-domain, and corrigible representational coupling.",
+        "finding": "The article argues that current AI supports cognitive scaffolding and partial informational integration, but constitutive participation in a shared, temporally continuous, event-grounded architecture has not been demonstrated."
       }
     },
     {
@@ -5196,6 +5266,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213444249",
+      "title": "Detecting emotional distress in cancer patients through sentiment analysis",
+      "authors": "Md. Murad Hossain, Yasir Arfat, Md Abdullah Al Rahat, Mohammad Abdul Halim",
+      "journal": "Discover Analytics",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1007/s44257-026-00087-0",
+      "summary": {
+        "goal": "The study aims to identify sentiment and emotion patterns in online cancer-related narratives using multiple natural language processing methods.",
+        "methodology": "The researchers analyzed text from more than 200 online sources with NRCLex, VADER, LSTM, BiLSTM, DistilBERT, and RoBERTa.",
+        "finding": "The analysis found predominantly negative and uncertainty-related expressions, with frequent fear, trust, caring, and realization, and concluded that a multi-model strategy provides a broader exploratory view of cancer discourse."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171144936",
       "title": "Detecting and managing participants’ large language model use for open–ended questions in online research",
       "authors": "Justus Mann, Jutta Stumpf-Wollersheim",
@@ -5602,6 +5686,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213457651",
+      "title": "Comparative Analysis of Large Language Models in Interpreting Publication Research Ethics: Insights from COPE Forum Case Studies",
+      "authors": "Kannan Sridharan, Gowri Sivaramakrishnan",
+      "journal": "Journal of Empirical Research on Human Research Ethics",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1177/15562646261488630",
+      "summary": {
+        "goal": "The study evaluates how well large language models interpret real-world publication ethics cases compared with COPE member responses.",
+        "methodology": "The authors tested Gemini 2.5 Flash and DeepSeek-V3.2 on 11 anonymized COPE cases and scored their editorial advice using a structured rubric and descriptive comparisons.",
+        "finding": "The models generally aligned with COPE and offered actionable advice but sometimes omitted recommendations or contradicted guidance, indicating that human oversight remains necessary."
+      }
+    },
+    {
       "id": "https://openalex.org/W4412131342",
       "title": "Combining implementation and data sciences to accelerate evidence integration into healthcare – ImpleMATE",
       "authors": "J. Chan, Janna Hastings, Gabriella Tiernan, Jeannie Paterson, Nigel H. Lovell, Luc Betbeder-Matibet, Patrick Kin Man Tung, Sarah Pink",
@@ -5977,6 +6075,20 @@
         "goal": "The study assessed whether reasoning-enabled LLMs can classify COVID-19 vaccination stances and produce coherent, auditable reasoning for public health research.",
         "methodology": "The authors evaluated zero-shot stance classification by o4-mini and Gemini 2.5 Flash on 3,060 human-annotated vaccination tweets and qualitatively analyzed shared misclassifications and chain-of-thought summaries.",
         "finding": "Both models achieved macro-F1 scores around 0.8, but shared errors included target confusion, literal interpretations of sarcasm, and mismatches between labels and rationales."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213449050",
+      "title": "Between gatekeeping and coping: Iranian EFL students’ lived experience of AI-mediated writing assessment",
+      "authors": "Zahraossadat Mirsanjari",
+      "journal": "Language Testing in Asia",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1186/s40468-026-00475-z",
+      "summary": {
+        "goal": "The study investigates Iranian EFL students’ lived experiences of using generative AI in high-stakes academic writing assessment.",
+        "methodology": "Researchers conducted semi-structured interviews in Persian with purposively selected undergraduate students at a public Iranian university and analyzed them using Interpretive Phenomenological Analysis.",
+        "finding": "Students experienced a structural double-bind, diminished authorship, secrecy, anxiety relief, shame, and ethical ambiguity, while assessment practices thwarted autonomy, competence, and relatedness."
       }
     },
     {
@@ -6439,6 +6551,20 @@
         "goal": "The study develops and evaluates a middle-school art curriculum integrating generative AI with design thinking to support aesthetic judgment, creative problem-solving, and stylistic self-awareness.",
         "methodology": "A quasi-experimental pretest-posttest pilot compared 68 eighth-grade students in a ten-week generative-AI intervention with a control group, using ANCOVA and thematic analysis of journals and interviews.",
         "finding": "The AI-integrated group showed significantly greater gains in aesthetic judgment, creative problem-solving, and stylistic self-awareness, while qualitative data indicated shifts toward selection, prompt-based reasoning, and concerns about authorship."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213416912",
+      "title": "Artificial Intelligence and Electoral Democracy in Nigeria: Political Participation, Information Integrity and The Future of Democratic Governance",
+      "authors": "Ph.D Hilary Ekpang Bisong, Ph.D Abubakar Sodeeq Suleiman",
+      "journal": "International Journal of Scientific Research Studies",
+      "year": 2026,
+      "field": "Public opinion & politics",
+      "url": "https://doi.org/10.58806/ijsrs.2026.v3i9n04",
+      "summary": {
+        "goal": "The article examines how AI and AI-enabled information practices may shape electoral democracy and political participation in Nigeria.",
+        "methodology": "It uses qualitative documentary research and thematic content analysis of scholarship, electoral and legal documents, institutional reports, and fact-checking evidence concerning Nigeria’s 2023 election and 2027 electoral environment.",
+        "finding": "The abstract reports that AI offers civic and administrative benefits but risks synthetic political content, disinformation, authenticity uncertainty, and declining trust in political information."
       }
     },
     {
@@ -7125,6 +7251,20 @@
         "goal": "The book examines how educators and ministry leaders should understand, use, and regulate artificial intelligence, including ChatGPT, in their responsibilities.",
         "methodology": "It develops a theological and conceptual analysis of AI’s social implications and proposes principled guidelines for education, spiritual formation, and ministry applications.",
         "finding": "The authors argue that AI should support human flourishing and cocreation while not replacing essential human relationships, counseling, teaching, or worship roles."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4415315176",
+      "title": "AI Eyes on the Road: Cross-Cultural Perspectives on Traffic Surveillance",
+      "authors": "Ziming Wang, Shiwei Yang, Rebecca Currano, Morten Fjeld, David Sirkin",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1145/3828157.3828769",
+      "summary": {
+        "goal": "The study examines how people across cultures perceive and accept AI-enhanced road surveillance.",
+        "methodology": "An online survey of 720 participants used a 3×3 factorial design comparing conventional surveillance, AI-enhanced surveillance, and AI-enhanced surveillance with public shaming across China, Europe, and the United States.",
+        "finding": "Conventional surveillance was most preferred, public shaming was least preferred, and Chinese respondents showed higher acceptance of AI-enhanced surveillance than Europeans or Americans."
       }
     },
     {
