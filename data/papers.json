@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T07:37:07.004511+00:00",
+  "updatedAt": "2026-09-21T07:49:41.884992+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -629,6 +629,20 @@
         "goal": "The paper aims to improve trust representation, conflict feedback, and consensus efficiency in human–AI group decision-making.",
         "methodology": "It models dynamic trust relationships between human experts and large language models, uses trust-based opinion updating, and iteratively regulates consensus using the Zhengzhou “7.20” rainstorm case.",
         "finding": "The abstract reports that the method preliminarily achieves higher consensus quality with lower intervention costs than traditional weight adjustment and deep-reinforcement-learning regulation methods."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4415328855",
+      "title": "Trends and challenges in authorship analysis: a review of ML, DL, and LLM approaches",
+      "authors": "Nudrat Habib, Tosin Adewumi, Marcus Liwicki, Elisa Barney",
+      "journal": "Language Resources and Evaluation",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1007/s10579-026-09951-7",
+      "summary": {
+        "goal": "The paper reviews machine-learning, deep-learning, and LLM approaches to authorship attribution and verification, including AI-generated text detection.",
+        "methodology": "It conducts a systematic literature review of studies published from 2015 to 2024, comparing methods, features, datasets, strengths, limitations, and research gaps.",
+        "finding": "The review identifies challenges in low-resource languages, multilingual adaptation, cross-domain generalization, and reliable AI-generated text detection."
       }
     },
     {
@@ -1917,6 +1931,20 @@
         "goal": "The study aims to measure competitive moves at scale while preserving construct validity using calibrated large language models.",
         "methodology": "It constructs a human-reviewed gold standard from Nation’s Restaurant News articles and calibrates an LLM classifier using a shared codebook and evidence-grounding requirements.",
         "finding": "The resulting pipeline enables traceable, large-scale classification of competitive moves and analysis of temporal patterns, firm heterogeneity, and action sequences."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213621642",
+      "title": "Scaffolding students-AI dialogue for safe educational interactions",
+      "authors": "Olga Muss, Luca M. Leisten, Charles Edouard Bardyn",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1038/s41598-026-69820-9",
+      "summary": {
+        "goal": "The paper aims to develop a safe, pedagogically grounded framework for supporting productive student–LLM dialogue and learning.",
+        "methodology": "The authors piloted a SCAFFOLD prototype with 12–16-year-old students using an LLM-powered social robot, comparing it with a prompt-only LLM during a collaborative mnemonic-design intervention.",
+        "finding": "The SCAFFOLD prototype was associated with greater student activity, engagement, and on-topic participation, while comprehension tracking performed poorly and co-creation predicted post-test knowledge."
       }
     },
     {
@@ -3474,6 +3502,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213661199",
+      "title": "Integrated Pedagogical Frameworks for Early School Education: Synergizing Generative Artificial Intelligence, Large Language Models, and Immersive Virtual Realit",
+      "authors": "Gaurav Thaker, Saurabh Dave, Sachinkumar Anandpal, Kashayp Patel",
+      "journal": "International Journal of Computer Applications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.5120/ijcaed12649aa654",
+      "summary": {
+        "goal": "The paper aims to develop an integrated GenAI, LLM, and immersive VR pedagogical framework for early school education.",
+        "methodology": "It examines theoretical alignment with educational theories, synthesizes evidence on cognitive, motor, and social-emotional outcomes, considers pediatric constraints, and proposes a five-layer architecture.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172147402",
       "title": "Individual skill differences and human AI interaction shape creative outcomes",
       "authors": "Yuan Yuan, Zizhou Peng",
@@ -4538,6 +4580,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213635552",
+      "title": "Exploring the potential of large language models for public participation in urban redevelopment planning",
+      "authors": "Shimin Qi, Shanqi Zhang, Xiao Qin, Meng Shi, Zhen Feng, Haibo Hu, Jun Zheng",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1057/s41599-026-09073-z",
+      "summary": {
+        "goal": "The study examines whether LLMs can organize public and expert preferences and support deliberation in urban redevelopment planning.",
+        "methodology": "The authors develop an RLHF-based LLM framework and apply it to 226 urban redevelopment cases in Chinese cities.",
+        "finding": "Fine-tuned LLMs generated planning proposals with distinguishable expert- and public-oriented emphases, but showed technical instability requiring cautious and transparent integration."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204784480",
       "title": "Exploring the Relationship Between Generative Artificial Intelligence Usage and the Development of University Students’ Critical Thinking in Higher Education",
       "authors": "Agustina, Dwi Otik Kurniawati, B Lumoindong, Irwan Suanto",
@@ -4563,6 +4619,20 @@
         "goal": "The study explores religious education students’ experiences and perceptions of using AI to understand Hindu concepts and scriptures.",
         "methodology": "It uses a qualitative phenomenological approach with surveys and in-depth interviews analyzed for student perceptions and experiences.",
         "finding": "Students use AI heavily but continue to prioritize Hindu scriptures, lecturers, and religious leaders as validators, treating AI as a tool rather than a knowledge center."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213583470",
+      "title": "Exploring the Design Space of Adaptive Explanations in Automated Vehicles",
+      "authors": "Philipp Asteriou, Ambika Shahu, Philipp Wintersberger",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1145/3828158.3838273",
+      "summary": {
+        "goal": "The work aims to explore adaptive explanations in automated vehicles that respond to driving context and user information needs.",
+        "methodology": "It presents a simulator platform combining a Unity driving environment, motion-based VR, scripted traffic incidents, an in-vehicle interface, and an LLM-based pipeline that adapts explanation presentation, detail, and delivery using scenario information and user feedback.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -5291,6 +5361,20 @@
         "goal": "The study examines how participants’ large language model use affects the validity and authenticity of open-ended online research data.",
         "methodology": "Researchers conducted creative brainstorming studies with 450 Prolific and 442 MTurk participants, using self-reports and activity-monitoring indicators including keystrokes, word-generation rates, webpage exits, and response characteristics.",
         "finding": "Indicators of LLM use were associated with more ideas, longer responses, and lower construct reliability, with stronger effects on MTurk than Prolific data."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213641109",
+      "title": "Detecting and Responding to AI Errors and Disagreement in Nursing: A Scoping Review",
+      "authors": "Euna Si, Ki Han KWON",
+      "journal": "Open Science Framework",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.17605/osf.io/a7nm5",
+      "summary": {
+        "goal": "The study aims to map research on how nurses detect and respond to errors, discrepancies, and disagreements from AI and clinical decision-support systems.",
+        "methodology": "It conducts a scoping review using Joanna Briggs Institute methodology and PRISMA-ScR guidelines.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -6106,6 +6190,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213621137",
+      "title": "Between Methodological Expansion and Epistemic Boundary Dissolution: Generative AI, Distributed Epistemic Processes, and the Reorganization of Scientific Responsibility",
+      "authors": "Giovanni Vindigni",
+      "journal": "American Journal of Multidisciplinary Research and Innovation",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.54536/ajmri.v5i5.8515",
+      "summary": {
+        "goal": "The study examines when delegating research operations to LLMs constitutes controlled methodological extension versus epistemic boundary dissolution.",
+        "methodology": "It conducts a critical integrative evidence synthesis of 58 publications evaluating LLM-mediated research operations, validity, bias, reproducibility, epistemic efficacy, or governance.",
+        "finding": "The synthesis finds that LLMs can scale quantitative methods, broaden qualitative interpretation, and reduce mixed-method translation costs, but introduce epistemic risks requiring verification and retain ultimate responsibility with researchers and institutions."
+      }
+    },
+    {
       "id": "https://openalex.org/W7211878271",
       "title": "Behind the screen: laypersons' mental models about ChatGPT",
       "authors": "Maria Schneller, Jonas Seier, S Huber, Iliana Loi, Dietrich Albert",
@@ -6187,6 +6285,20 @@
         "goal": "The study evaluates how AI is used for oral and written higher-education tasks and informs policy formulation in the Philippines.",
         "methodology": "It uses qualitative grounded theory and the Delphi method with students, teachers, and administrators from four higher-education institutions in Bulacan.",
         "finding": "AI was used for brainstorming, editing, lesson development, material preparation, and documentation, but participants reported plagiarism, excessive reliance, and reduced original thought, supporting the need for national policies and greater awareness."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213449598",
+      "title": "Asymmetric Ideological LLM Fine-Tuning in the Polish Political Domain",
+      "authors": "Damian Jankowski, Radosław Gajewski, Jan Barczewski, Maciej Sikora, Jan Majkutewicz",
+      "journal": "Proceedings of the International Conference on Information Systems Development",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.62036/isd.2026.48",
+      "summary": {
+        "goal": "The study investigates political bias in Polish LLMs and whether parliamentary speeches can steer their ideological tendencies.",
+        "methodology": "The authors construct a Polish Parliamentary Speeches Corpus, fine-tune two Polish LLMs into left- and right-leaning variants, and evaluate them with a 266-statement Political Views benchmark.",
+        "finding": "Both base models show left-leaning tendencies, fine-tuning shifts ideology asymmetrically and in model-dependent ways, and system prompts influence ideological responses more strongly than fine-tuning."
       }
     },
     {
@@ -7338,6 +7450,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213444512",
+      "title": "A dual-path trust–risk model of GenAI continuance: Conversational attributes, psychological evaluations, and configurational patterns",
+      "authors": "Binyuan Zhang, Tingting Jia",
+      "journal": "Acta Psychologica",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1016/j.actpsy.2026.107799",
+      "summary": {
+        "goal": "The study examines how GenAI conversational attributes, trust, perceived risk, and satisfaction relate to users’ intention to continue using GenAI.",
+        "methodology": "It analyzes survey data from 452 GenAI users using partial least squares structural equation modeling and fuzzy-set qualitative comparative analysis.",
+        "finding": "Competence, interactivity, anthropomorphism, and information accuracy increased trust, while trust and satisfaction increased continuance intention and perceived risk reduced satisfaction."
+      }
+    },
+    {
       "id": "https://openalex.org/W7124930241",
       "title": "A community-driven recommender system for speed safety camera policy using large language models and knowledge graphs",
       "authors": "Farhad Sedighi, Brian M. Staes, Benyamin Ghoreishi, Xuehan Jing, Haizhong Wang",
@@ -7475,6 +7601,20 @@
         "goal": "The study develops a governance-oriented framework for structuring, documenting, and governing auditors’ interactions with large language models.",
         "methodology": "It uses a conceptual synthesis of internal audit standards, LLM risk and security frameworks, and prompt engineering and human–AI interaction research to create a taxonomy of 13 audit-specific prompt types across the audit lifecycle.",
         "finding": "The abstract reports that structured prompting can improve repeatability, transparency, professional skepticism, and evidentiary controls, while LLM outputs should remain intermediate analytical support rather than audit evidence or authoritative judgment."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213447802",
+      "title": "A Comparative Analysis of Lecturer and Student Attitudes Toward Generative AI Policies in Higher Education",
+      "authors": "Dariusz Dudek, Jacek Piątkowski, Marcin Kwapisz",
+      "journal": "Proceedings of the International Conference on Information Systems Development",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.62036/isd.2026.165",
+      "summary": {
+        "goal": "The study examines student and lecturer attitudes toward institutional policies governing generative AI in higher education.",
+        "methodology": "It surveys 144 respondents at a Polish technical university using an online questionnaire covering eight topic areas.",
+        "finding": "Most respondents were unaware of existing policies, students and lecturers differed on AI’s effects on academic integrity and independent thinking, and both groups favored clear selective rules over outright bans."
       }
     },
     {
