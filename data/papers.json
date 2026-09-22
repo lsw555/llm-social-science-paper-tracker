@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T07:49:41.884992+00:00",
+  "updatedAt": "2026-09-22T07:31:29.264570+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -590,6 +590,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213768581",
+      "title": "Understanding older adults’ sharing intention toward AI-generated health misinformation: a heuristic-systematic and health belief perspective",
+      "authors": "Qiuhao Huang, Yanxue Zou",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41598-026-67991-z",
+      "summary": {
+        "goal": "The study examines how AI-generated influenza-related health misinformation source and message characteristics affect older adults’ intention to share it.",
+        "methodology": "It uses a 2×2 between-subjects online experiment with 320 older adults and analyzes the data using ANCOVA and PLS-SEM.",
+        "finding": "Pseudo-authoritative sources increased sharing intention under weak arguments but not strong arguments, while perceived threat and benefit indirectly linked source and argument characteristics to sharing intention."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171804681",
       "title": "Uncovering Bias: Leveraging Large Language Models for News Analysis inthe Context of Palestine",
       "authors": "Saba Saddique, Usman Ahmad",
@@ -629,6 +643,20 @@
         "goal": "The paper aims to improve trust representation, conflict feedback, and consensus efficiency in human–AI group decision-making.",
         "methodology": "It models dynamic trust relationships between human experts and large language models, uses trust-based opinion updating, and iteratively regulates consensus using the Zhengzhou “7.20” rainstorm case.",
         "finding": "The abstract reports that the method preliminarily achieves higher consensus quality with lower intervention costs than traditional weight adjustment and deep-reinforcement-learning regulation methods."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213616982",
+      "title": "Trust in online hotel reviews in an AI-influenced environment: the roles of authenticity, credibility and AI awareness",
+      "authors": "Shilpa Singh, Arun Mittal",
+      "journal": "Research in Hospitality Management",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1080/22243534.2026.2717848",
+      "summary": {
+        "goal": "The study examines how travellers evaluate online hotel reviews in an AI-influenced environment and how these evaluations relate to booking intention.",
+        "methodology": "It uses a sequential mixed-methods design comprising a survey of 197 travellers and 15 semi-structured interviews.",
+        "finding": "Review credibility was more strongly associated with booking intention than authenticity, while travellers viewed AI-generated summaries more favorably than fully AI-generated reviews and relied on contextual and platform-related trust cues."
       }
     },
     {
@@ -1175,6 +1203,20 @@
         "goal": "The paper examines how generative AI can be used responsibly in Korean language learning.",
         "methodology": "It presents a conceptual narrative review synthesizing scholarship on AI-assisted language learning, Korean education, technology acceptance, and educational ethics.",
         "finding": "The review suggests that generative AI can support Korean language skills but poses risks involving cultural accuracy, assessment, privacy, unequal access, teacher readiness, and learner dependency."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7113653839",
+      "title": "The Promise and Perils of Smart (City) Bots as Educational Tools",
+      "authors": "Thomas Menkhoff, Siew Ning Kan, Shaohui Foong",
+      "journal": "WORLD SCIENTIFIC eBooks",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1142/9789819838202_0011",
+      "summary": {
+        "goal": "The paper examines the promises and perils of smart bots, including large language models such as ChatGPT, as educational tools in the smart-city context.",
+        "methodology": "It uses an educator’s perspective to analyze chatbot applications and describe their use in an introductory AI for business course, with a mixed-methods study proposed for the future.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -3992,6 +4034,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213783766",
+      "title": "Generative AI-Based Virtual Hand Skin Tone and Nail Art Color Harmony: An Integrative Review Toward Personalized Nail Color Selection Guidelines",
+      "authors": "Seon-Young Yi, Min-Gyeong Song, Da-Bin Choi, Ye‐Jin Kim, Sokho Kim, In‐Ah Lee",
+      "journal": "Preprints.org",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.20944/preprints202609.1667.v1",
+      "summary": {
+        "goal": "The review aims to develop a methodological framework for using generative AI and objective color science to personalize nail color selection.",
+        "methodology": "It synthesizes literature on skin color measurement, colorimetry, nail color matching, virtual beauty technologies, and skin-tone bias in AI-generated imagery.",
+        "finding": "The abstract reports that generative AI can create standardized virtual hand-nail stimuli but shows skin-tone imbalance and color inaccuracy, so the proposed framework remains hypothesis-generating and requires external validation."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171541389",
       "title": "Generative AI use, self-regulation, and Neuro-AI Pedagogical competence in higher education: a comparative study of undergraduate and graduate students in Uzbekistan",
       "authors": "Dilnoza Zaripova, Kudratjon Zohirov, Nasibakhon Rasulova, Umidjon Khayitov, Dildora Saidova, Zavqiddin Temirov, Rashid Nasimov",
@@ -4241,6 +4297,20 @@
         "goal": "The review examines how artificial intelligence is integrated into EFL/ESL education across language skills, instructional domains, and educational contexts.",
         "methodology": "It conducts a PRISMA-guided systematic review of 221 peer-reviewed publications using a framework covering pedagogical roles, mediating processes, outcomes, and contextual constraints.",
         "finding": "AI functioned as a multifunctional pedagogical actor, offering benefits such as expanded practice and faster feedback while raising concerns about reliability, privacy, over-reliance, inequality, bias, and academic integrity."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204138777",
+      "title": "From search agents to dissemination interfaces: understanding human trust in health information from conversational search",
+      "authors": "Xin Sun, Rongjun Ma, Xiaochang Zhao, Janne Lindqvist, Jan de Wit, Zhuying Li, Abdallah El Ali, Jos A. Bosch",
+      "journal": "Behaviour and Information Technology",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1080/0144929x.2026.2719735",
+      "summary": {
+        "goal": "The studies examine how search agents and dissemination interfaces influence trust in LLM-sourced health information.",
+        "methodology": "Two mixed-methods studies used lab sessions and interviews, comparing ChatGPT with Google among 21 participants and testing text-, speech-, and embodied interfaces with 20 participants.",
+        "finding": "Participants trusted health information from ChatGPT more than Google, and trust varied significantly across dissemination interfaces, with source credibility, search autonomy, prior knowledge, interaction style, and modality shaping perceptions."
       }
     },
     {
@@ -4944,6 +5014,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213616664",
+      "title": "Enhancing heritage-oriented design learning through a value-sensitive approach to generative AI in higher education aesthetic pedagogy",
+      "authors": "Tingting Yu, Yixin Li",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1038/s41598-026-71408-2",
+      "summary": {
+        "goal": "The study aims to assess whether a Value-Sensitive Design framework for generative AI can support culturally grounded heritage-oriented design learning.",
+        "methodology": "In a 12-week quasi-experimental study, 118 design students used either a custom AI pipeline with multimodal LLM tagging, LoRA fine-tuning, and ControlNet constraints or traditional methods.",
+        "finding": "The AI group showed significant improvements in aesthetic appreciation, design implementation, and cultural identity, while qualitative feedback indicated reduced drafting barriers and greater focus on cultural curation and aesthetic judgment."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172482611",
       "title": "Enhancing EFL learners’ speaking performance through ChatGPT-assisted practice: evidence from complexity, accuracy, and fluency measures",
       "authors": "Niloofar Karami, Bahareh Feizarbabi, Ismail Xodabande",
@@ -5011,6 +5095,20 @@
         "goal": "The paper examines when AI in medical education strengthens training and when it undermines clinical judgment and safety.",
         "methodology": "It conducts a targeted review of 1,266 publications and applies role conflict theory to analyze ethical tensions in AI-mediated medical education.",
         "finding": "The paper identifies tensions between efficiency and equity, convenience and clinical judgment, and personalization and professional integrity, and argues that learners should be trained to question, calibrate, and sometimes refuse AI outputs."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213754607",
+      "title": "Effects of STEM Based Project Based Learning Assisted by Artificial Intelligence on Cognitive Learning Outcomes and Creative Thinking Skills",
+      "authors": "Kasfa Atharisna, Jailani Jailani, Herliani Herliani, Suparno Putera Makkadafi, Nelda Anasthasia Serena",
+      "journal": "Ainara Journal (Jurnal Penelitian dan PKM Bidang Ilmu Pendidikan)",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.54371/ainj.v7i3.1445",
+      "summary": {
+        "goal": "The study aimed to examine the effect of an AI-assisted STEM-based project-based learning model on seventh-grade students’ cognitive learning outcomes and creative thinking skills.",
+        "methodology": "Researchers used a quasi-experimental pretest–posttest control group design with tests of cognitive learning and creative thinking skills.",
+        "finding": "The AI-assisted model significantly improved outcomes, with higher mastery in the experimental class than the control class for both cognitive learning and creative thinking."
       }
     },
     {
@@ -6610,6 +6708,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213784447",
+      "title": "Artificial Intelligence in Higher Education: Balancing Opportunities, Risks, and Ethical Challenges in the Era of Generative AI",
+      "authors": "Habtamu Teferi",
+      "journal": "Innovation Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.11648/j.iedu.20260103.13",
+      "summary": {
+        "goal": "The study examines the opportunities, risks, and ethical challenges of generative AI in higher education.",
+        "methodology": "It conducts a systematic literature review following PRISMA 2020 and analyzes selected publications through thematic analysis.",
+        "finding": "The review finds that AI improves personalized learning, academic support, research productivity, administration, and accessibility, but also creates risks involving academic dishonesty, misinformation, bias, privacy, reduced critical thinking, and inadequate institutional preparedness."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204002921",
       "title": "Artificial Intelligence in Higher Education: A review of Applications Benefits, Challenges and future Directions",
       "authors": "Jestin James M",
@@ -7086,6 +7198,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213748993",
+      "title": "AI-Mediated Ethical Communication: Epistemic Totalization, the Fabricatable Zone, and the Governmental Chain of Custody as Terminus",
+      "authors": "Jonathan d'Aquitaine",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.5281/zenodo.22851978",
+      "summary": {
+        "goal": "The paper examines how AI-mediated communication can fabricate institutional authority and undermine epistemic integrity.",
+        "methodology": "It develops theoretical concepts and analyzes an anonymous, unadjudicated public-record case study.",
+        "finding": "The paper argues that AI systems should defer to inaccessible authorities, acknowledge records they cannot access, and refuse unverified confirmation."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204266037",
       "title": "AI-Generated TikTok Microlearning Videos for Eight Grade EFL Learners’ Pronunciation of English Silent Letters",
       "authors": "Silvia Syahara, Dholiful Hadi, Agus Wardhono",
@@ -7111,6 +7237,20 @@
         "goal": "The study explores students’ and a teacher’s perceptions of AI-generated contextual listening materials in an EFL classroom.",
         "methodology": "Researchers used a descriptive qualitative design involving interviews and observations of three ninth-grade students and one English teacher, analyzed thematically.",
         "finding": "Students reported greater confidence and comprehension from familiar local content, while the teacher valued customization but noted inconsistent audio clarity and the need for human editing and feedback."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213617794",
+      "title": "AI-Enabled Approaches to Developing Critical Thinking Among Graduate Students in Universities of Applied Sciences",
+      "authors": "Teng Sun, Jingxiang Zhang, 邓银汉, Tangqing Chen, Qingxin Bu, Kaixuan Chen, Qiuping Chen",
+      "journal": "International Educational Research",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.30560/ier.v9n5p47",
+      "summary": {
+        "goal": "The study aims to develop graduate students’ critical-thinking abilities for complex engineering and technology-transfer problems using an AI-supported educational framework.",
+        "methodology": "It proposes a scenario introduction–knowledge integration–practice-based reasoning–outcome validation framework and examines evidence from the Elastic-Plastic Mechanics course at Beibu Gulf University.",
+        "finding": "The abstract reports improvements in students’ problem identification and analysis, solution optimization, and risk control during technological R&D."
       }
     },
     {
