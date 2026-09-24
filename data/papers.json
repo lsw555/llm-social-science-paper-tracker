@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T07:31:29.264570+00:00",
+  "updatedAt": "2026-09-24T07:27:28.305901+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -615,6 +615,20 @@
         "goal": "The study aims to detect and understand media bias in news coverage of the Israel-Palestine conflict using sentiment as a proxy for emotional framing.",
         "methodology": "It analyzes 9,000 labeled news articles and compares DistilBERT, BERT-Mini, TinyBERT, GRU, RNN, and LSTM models.",
         "finding": "Transformer-based models outperform sequential models, with DistilBERT achieving the best performance at 94% accuracy."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7214044071",
+      "title": "UNSTRUCTURED DATA PROCESSING: ASKING NEW QUESTIONS OF AVALANCHE ACCIDENT REPORTS AND OTHER NATURAL LANGUAGE DOCUMENTS",
+      "authors": "Bhavya Chopra, Björn Hartmann, Aditya Parameswaran, Shreya Shankar",
+      "journal": "Venue unavailable",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.15788/1790098815",
+      "summary": {
+        "goal": "The paper demonstrates how large language models can process and analyze unstructured avalanche accident and incident reports to identify patterns and themes.",
+        "methodology": "It applies natural-language-prompted LLM processing to U.S. and Canadian avalanche reports and discusses validation strategies and the DocETL tool.",
+        "finding": "The abstract reports that LLM processing can support deductive and inductive analysis but is vulnerable to hallucinations and brittleness from prompt and pipeline changes."
       }
     },
     {
@@ -2169,6 +2183,20 @@
         "goal": "The paper aims to examine how excessive AI attention guidance in immersive environments may undermine user autonomy and exploratory behavior.",
         "methodology": "It develops a conceptual framework linking excessive guidance to perceived control, voluntary choice, and decision-making authority, and proposes behavioral indicators for measuring user agency.",
         "finding": "The paper argues for shifting from attention optimization to curiosity-led design and presents AI as an exploratory collaborator rather than a provider of fixed routes."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7214014391",
+      "title": "Research Gap Discovery Dataset (Portuguese): LLM-Generated Limitations and Research Gaps from 1,724 SciELO Brazil Articles",
+      "authors": "Mounata Saha",
+      "journal": "Mendeley Data",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.17632/ktg5vpd829.1",
+      "summary": {
+        "goal": "The dataset aims to use large language models to generate article limitations, research gaps, and their importance from Portuguese-language scientific abstracts.",
+        "methodology": "The authors sent the titles and abstracts of 1,724 SciELO Brazil articles to Mistral or Qwen models using the same Portuguese prompt and released the generated fields with metadata and train, validation, and test splits.",
+        "finding": "The abstract does not report findings."
       }
     },
     {
@@ -4720,6 +4748,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213762807",
+      "title": "Exploring Teachers’ Latent Resistance to AI-Supported Teaching: A Qualitative Study",
+      "authors": "Meriç BOYNUKARA, Talha ÇİÇEK, Rabia Durhan, Fatmagül Bor",
+      "journal": "International Journal of Current Educational Studies",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.46328/ijces.308",
+      "summary": {
+        "goal": "The study explored teachers’ latent resistance to AI-supported teaching and the professional reasons underlying cautious or selective engagement.",
+        "methodology": "Researchers conducted face-to-face semi-structured interviews with eight teachers in two public educational institutions in Türkiye and analyzed the data using codebook thematic analysis.",
+        "finding": "Teachers’ cautious AI engagement reflected professional boundary work involving distrust, ethical concerns, protection of teacher identity, and competence-related withdrawal rather than simple technophobia."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172271238",
       "title": "Exploring New Teaching Way: Integrating the Silent Way with Artificial Intelligence",
       "authors": "XinYao Wang",
@@ -5098,6 +5140,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213894354",
+      "title": "Effects of proactivity, autonomy, and transparency on user perception in human-AI agent interactions",
+      "authors": "Na Liu, Yuxin Zuo",
+      "journal": "International Journal of Industrial Ergonomics",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1016/j.ergon.2026.104058",
+      "summary": {
+        "goal": "The study examines how AI-agent proactivity, autonomy, and transparency affect user perceptions during task delegation.",
+        "methodology": "It uses a within-subject experiment involving a travel-planning task and measures perceived usefulness, trust, expectation confirmation, satisfaction, and continuance intention.",
+        "finding": "Proactivity and transparency significantly affected all five outcomes, while autonomy had no significant main effect; highly proactive and low-autonomy agents received the most favorable evaluations, and transparency helped maintain trust."
+      }
+    },
+    {
       "id": "https://openalex.org/W7213754607",
       "title": "Effects of STEM Based Project Based Learning Assisted by Artificial Intelligence on Cognitive Learning Outcomes and Creative Thinking Skills",
       "authors": "Kasfa Atharisna, Jailani Jailani, Herliani Herliani, Suparno Putera Makkadafi, Nelda Anasthasia Serena",
@@ -5333,6 +5389,20 @@
         "goal": "The study examines whether successful communication guarantees shared internal representations in human–LLM interaction.",
         "methodology": "It compares controlled agent–agent conditions that update perceptual or language-generation modules, with or without discriminative learning, using referent-identification accuracy and feature-space similarity as metrics.",
         "finding": "Updating language generation with discrimination improved symbolic alignment but reduced representational alignment, whereas updating perception tended to preserve representational alignment."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4415057169",
+      "title": "Disentangling interaction and bias effects in opinion dynamics of large language models",
+      "authors": "Vincent C. Brockers, David A. Ehrlich, Viola Priesemann",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1038/s41467-026-77340-3",
+      "summary": {
+        "goal": "The paper aims to disentangle genuine interaction effects from systematic biases in LLM opinion dynamics.",
+        "methodology": "The authors develop a Bayesian framework and apply it to multi-step dialogues across various LLMs and 12 questions, including climate change, societal justice, and music preferences.",
+        "finding": "Opinion trajectories quickly converge to shared attractors, bias and interaction effects decay over time, their impacts differ across LLMs, and fine-tuning on opinionated statements shifts the attractors."
       }
     },
     {
@@ -6218,6 +6288,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7214011626",
+      "title": "Beyond Outcome Supervision: Aligning Large Language Models via Human Cognitive Trace Distillation and Process-Based Supervision",
+      "authors": "Shahi Bhavya",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.5281/zenodo.22902923",
+      "summary": {
+        "goal": "The paper proposes reducing immediate AI assistance to preserve human cognitive autonomy and critical thinking.",
+        "methodology": "It introduces the theoretical Cognitive Friction Architecture, which restricts AI assistance and uses it primarily for secondary validation after independent human reasoning.",
+        "finding": "The abstract argues that this approach may reduce automation bias, improve memory retention, and strengthen analytical rigor."
+      }
+    },
+    {
       "id": "https://openalex.org/W7202283386",
       "title": "Beyond Empathy: Emotional Intelligence and Artificial Intelligence in Clinical Social Work Practice, Therapeutic Alliance and Human Services",
       "authors": "Gary Bailey",
@@ -6750,6 +6834,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213758932",
+      "title": "Artificial Intelligence as a Catalyst for Educational Innovation at ITP: Perspectives and Challenges of Teaching Practice",
+      "authors": "Roberto Rafael López Jiménez, Emilio Merlo Peña, Erika Gutiérrez González",
+      "journal": "International Journal of Combinatorial Optimization Problems and Informatics.",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.61467/2007.1558.2027.v18i1.1505",
+      "summary": {
+        "goal": "The article examines the use and integration of generative AI in teaching practices at the Technological Institute of Pachuca.",
+        "methodology": "It analyzes AI adoption and educational innovation using contemporary technology-adoption models, but the abstract does not specify the empirical methods.",
+        "finding": "The abstract reports that teacher willingness to adopt AI positively influences professional practice and supports recommendations for training and ethical technology governance."
+      }
+    },
+    {
       "id": "https://openalex.org/W7212194158",
       "title": "Artificial Intelligence and Social Work: Considering the Past, Mapping the Present, and Imagining the Future",
       "authors": "Shoshana Cantwell, Lauri Goldkind",
@@ -6915,6 +7013,20 @@
         "goal": "The paper proposes an external governance framework to make LLM-based AI roles more deterministic, verifiable, and auditable in human–AI interaction.",
         "methodology": "Using a design science approach, it develops the Role Base framework with semantic layers, governance mechanisms, external constraints, and output-based drift measures.",
         "finding": "The framework provides a theoretical and technical design for governed AI roles, but its effectiveness awaits prototype implementation and empirical validation."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7213747175",
+      "title": "Ambiguitas Deiksis dan Implikatur Percakapan dalam Tuturan Prompt ChatGPT: Kajian Pragmatik Berdasarkan Prinsip Kerja Sama Grice",
+      "authors": "Rolandus Edwinus Pape Tegu",
+      "journal": "Sintaksis Publikasi Para ahli Bahasa dan Sastra Inggris",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.61132/sintaksis.v4i5.2963",
+      "summary": {
+        "goal": "The study examines deictic ambiguity in ChatGPT prompts and the conversational implicatures arising from it.",
+        "methodology": "It qualitatively analyzes 15 prompt-response pairs from five university students across person, temporal, and spatial deixis using Grice’s Cooperative Principle.",
+        "finding": "Deictic ambiguity led to clarification-seeking or overly general responses, with violations of the maxim of quantity occurring most frequently."
       }
     },
     {
@@ -7254,6 +7366,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7213869363",
+      "title": "AI-EMPOWERED TEACHING REFORM OF OPERATIONS RESEARCH ORIENTED TOWARD DIGITAL TALENT DEVELOPMENT",
+      "authors": "Lingjing Duan",
+      "journal": "World Journal of Educational Studies",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.61784/wjes3208",
+      "summary": {
+        "goal": "The paper aims to develop an AI-integrated reform framework for operations research teaching and digital talent development.",
+        "methodology": "It analyzes shortcomings in traditional operations research instruction and proposes a five-part framework involving AI-enhanced curricula, content, teaching methods, practice platforms, and evaluation.",
+        "finding": "The abstract states that university reform practices provide implementation outcomes and that the framework offers a reference for developing operations research courses, but it does not report specific results."
+      }
+    },
+    {
       "id": "https://openalex.org/W7172416951",
       "title": "AI-Based Resume Screening and Job Matching Systems: A Comprehensive Review of NLP, Machine Learning, Explainable AI, and Fairness-Aware Recruitment Approaches",
       "authors": "Naveen J, Manoj M, Jayanth Vishwakarma G",
@@ -7587,6 +7713,20 @@
         "goal": "The study aims to develop an explainable cyberbullying detection framework combining LLM-based explanations with SHAP feature attributions.",
         "methodology": "It uses multiple classifiers to analyze message, user, linguistic, and stylistic features and evaluates the explanations with 100 students, IT professionals, and researchers using the Co-12 properties.",
         "finding": "SHAP explanations provide more detailed content-based insights, while LLM explanations offer clearer and more user-oriented presentations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204800640",
+      "title": "A guided inquiry approach to students co-designing generative AI course policies",
+      "authors": "Ashish Hingle, Aditya Johri",
+      "journal": "Artificial Intelligence in Education",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1108/aiie-05-2025-0123",
+      "summary": {
+        "goal": "The study examines how students co-design a generative AI course policy and reflect on the ethical and practical considerations involved.",
+        "methodology": "Students proposed individual policies after readings and GenAI brainstorming, then collaboratively developed a collective policy using stakeholder perspectives, with analysis of their written artifacts and group discussions.",
+        "finding": "Students prioritized training, standardized AI-use disclosure procedures, institutional support, and greater involvement in decision-making, while viewing co-design as a way to engage with diverse perspectives and trade-offs."
       }
     },
     {
