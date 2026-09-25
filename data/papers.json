@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T07:27:28.305901+00:00",
+  "updatedAt": "2026-09-25T07:22:02.797767+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7165701127",
@@ -2340,6 +2340,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7214101311",
+      "title": "Psychometric applications of generative artificial intelligence: Lifecycle, risks, and research agenda",
+      "authors": "David Villarreal‐Zegarra, Yscenia Paredes-Gonzales, Jackeline García-Serna",
+      "journal": "PLOS mental health.",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1371/journal.pmen.0000702",
+      "summary": {
+        "goal": "The paper proposes a lifecycle framework for evaluating generative AI applications in psychological assessment and digital mental health measurement.",
+        "methodology": "It reviews potential GenAI uses across psychometric development, evaluation, validation, scoring, fairness assessment, documentation, and monitoring.",
+        "finding": "The abstract concludes that GenAI may improve efficiency and scale but cannot replace human-data validation, fairness evaluation, human oversight, and psychometric standards."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204087197",
       "title": "Psychological pathways linking generative AI dependency to psychological capital depletion among Chinese international students",
       "authors": "Le Yao, Huiqin Luo, QuanGan Yao",
@@ -2760,6 +2774,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4415251259",
+      "title": "Not a Collaborator or a Supervisor, but an Assistant: Striking the Balance Between Efficiency and Ownership in AI-incorporated Qualitative Data Analysis",
+      "authors": "Anoushka Puranik, E. S. Chen, Roshan L Peiris, Ha-Kyung Hidy Kong",
+      "journal": "Proceedings of the ACM on Human-Computer Interaction",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1145/3816977",
+      "summary": {
+        "goal": "The study examines qualitative researchers’ preferences for different levels of AI delegation in qualitative data analysis and the factors shaping those preferences.",
+        "methodology": "The researchers interviewed 16 qualitative researchers about human-only, human-initiated, and AI-initiated coding.",
+        "finding": "Researchers valued efficiency but emphasized ownership, trust, human oversight, and transparency when using AI for qualitative analysis."
+      }
+    },
+    {
       "id": "https://openalex.org/W7170690777",
       "title": "News Sufficiency: How Generative AI Summaries Reduce News Consumption in Zero-Click Searches",
       "authors": "Paulo Couraceiro, Pedro Caldeira Pais",
@@ -2939,6 +2967,34 @@
         "goal": "The study examines factors associated with rural teachers’ adoption of generative AI and whether digital divide conditions moderate these relationships.",
         "methodology": "Researchers surveyed 971 rural teachers in Guangxi, China, and analyzed the data using structural equation modeling and moderation analysis.",
         "finding": "Technical support, perceived usefulness, and perceived ease of use were positively associated with adoption attitudes, while digital divide conditions moderated the relationship between ease of use and attitudes."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167330229",
+      "title": "Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI",
+      "authors": "Tomohiro Nagashima, Lisa Siegrist, Niklas Scholz, Shintaro Sato, Martina Vincoli, Man Su",
+      "journal": "Proceedings of the ACM on Human-Computer Interaction",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1145/3816972",
+      "summary": {
+        "goal": "The study examines alignment and misalignment between teachers’ and students’ views of student-AI decision-making control in K-12 classrooms.",
+        "methodology": "Researchers conducted a storyboard-based speed-dating study with 16 students and 15 teachers in Germany and used explicit pair-matching analysis.",
+        "finding": "Teachers and students held misaligned views about AI trust and the social and emotional aspects of learning with AI, while relationships outside AI use shaped their perspectives."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204236562",
+      "title": "Method, Mind, and Morality: How People Make Sense of Artificial Intelligence",
+      "authors": "Jacy Reese Anthis, Erik Brynjolfsson, James A. Evans",
+      "journal": "Proceedings of the ACM on Human-Computer Interaction",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1145/3816971",
+      "summary": {
+        "goal": "The study examines how AI professionals and public discourse make sense of rapid advances in artificial intelligence.",
+        "methodology": "It combines computational text analysis of millions of newspaper articles and social media posts with 57 semi-structured interviews conducted in 2021 and 2023.",
+        "finding": "It identifies sociological frames organized around AI development methods, the nature of AI minds, and whether AI development should be slowed or accelerated."
       }
     },
     {
@@ -5756,6 +5812,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7168349774",
+      "title": "Creating Group Rules with AI: Human-AI Collaboration in WhatsApp Moderation",
+      "authors": "Gauri Nayak, Farhana Shahid, Kiran Garimella, Aditya Vashistha",
+      "journal": "Proceedings of the ACM on Human-Computer Interaction",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1145/3816915",
+      "summary": {
+        "goal": "The study examines how WhatsApp group administrators collaborate with AI to create, enforce, and maintain group rules.",
+        "methodology": "It uses a two-phase speculative design study with 20 administrators in India who interacted with Meta AI and AI-assisted moderation probes.",
+        "finding": "Administrators valued reduced moderation burdens but remained concerned about relational trust, privacy, tone, social context, and delegating authority."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203695827",
       "title": "Crafting Effective Prompts: Thinking with Machines Not Just Talking to Them",
       "authors": "Ekta Sinha, Shalini Chandra, Charles Waghmare",
@@ -7310,6 +7380,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7214121587",
+      "title": "AI-Supported Interview Training for Young People with Disabilities: The ELVIR Virtual Trainer",
+      "authors": "David Araya, Alejandra Ríos, Carla Taramasco, Diego Robles",
+      "journal": "ATHENS JOURNAL OF HEALTH & MEDICAL SCIENCES",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.30958/ajhms.13-3-4",
+      "summary": {
+        "goal": "The paper aims to design a conversational AI platform that helps young people with disabilities practice job interviews.",
+        "methodology": "It describes the architecture and implementation of ELVIR, which uses conversational AI, virtual avatars, configurable scenarios, and session recording in a pilot with Teletón Chile participants.",
+        "finding": "The abstract does not report findings."
+      }
+    },
+    {
       "id": "https://openalex.org/W7213748993",
       "title": "AI-Mediated Ethical Communication: Epistemic Totalization, the Fabricatable Zone, and the Governmental Chain of Custody as Terminus",
       "authors": "Jonathan d'Aquitaine",
@@ -7506,6 +7590,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7162773126",
+      "title": "AI in the Workplace: The Impact of AI on Perceived Job Decency and Meaningfulness",
+      "authors": "Kuntal Ghosh, Marc Hassenzahl, Shadan Sadeghian",
+      "journal": "Proceedings of the ACM on Human-Computer Interaction",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1145/3816896",
+      "summary": {
+        "goal": "The paper examines how workplace AI affects employees’ perceived job decency, meaningfulness, and overall job satisfaction.",
+        "methodology": "The authors interviewed 24 employees from IT, service-based, and healthcare sectors about AI’s current and anticipated effects on their work.",
+        "finding": "Anticipated effects on job satisfaction vary by occupation, with IT and healthcare expecting improved working-hour decency but reduced meaningfulness, while service workers expect higher social standing without improved working hours."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203654296",
       "title": "AI for Understanding Subtext in Film and Drama",
       "authors": "Yair Neuman",
@@ -7629,6 +7727,20 @@
         "goal": "The book examines how educators and ministry leaders should understand, use, and regulate artificial intelligence, including ChatGPT, in their responsibilities.",
         "methodology": "It develops a theological and conceptual analysis of AI’s social implications and proposes principled guidelines for education, spiritual formation, and ministry applications.",
         "finding": "The authors argue that AI should support human flourishing and cocreation while not replacing essential human relationships, counseling, teaching, or worship roles."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4415199950",
+      "title": "AI LEGO: Scaffolding Cross-Functional Collaboration in Industrial Responsible AI Practices during Early Design Stages",
+      "authors": "Mengyao Wu, Yi Zhao, Shuyi Han, Michael Xieyang Liu, Hong Yuan Shen",
+      "journal": "Proceedings of the ACM on Human-Computer Interaction",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1145/3816897",
+      "summary": {
+        "goal": "The study aims to support cross-functional collaboration and early identification of harmful AI design choices in responsible AI practices.",
+        "methodology": "The authors conducted a literature review, interviewed 8 practitioners, and evaluated the AI LEGO prototype with 18 cross-functional practitioners against baseline worksheets.",
+        "finding": "AI LEGO increased the volume and likelihood of harms identified, while participants found its modular structure and persona prompts accessible and collaborative."
       }
     },
     {
@@ -7926,6 +8038,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4417356765",
+      "title": "(De)composing Craft: An Elementary Grammar for Sharing Expertise in Craft Workflows",
+      "authors": "Ritik Batra, Lydia Kim, Ilan Mandel, Amritansh Kwatra, Jane L. E, Steven J. Jackson, Thijs Jan Roumen",
+      "journal": "Proceedings of the ACM on Human-Computer Interaction",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1145/3816917",
+      "summary": {
+        "goal": "The paper aims to develop a grammar and MLLM-powered interface for documenting and sharing tacit, improvisational craft expertise.",
+        "methodology": "The authors draw on expert interviews and HCI, CSCW, and social-science literature, then evaluate CraftLink with seven expert crocheters.",
+        "finding": "The abstract reports that the grammar captures and shares expert knowledge and addresses tensions involving documentation, expertise, practice structure, and data ownership."
+      }
+    },
+    {
       "id": "https://openalex.org/W7171361904",
       "title": "&lt;p&gt;Sequencing Human-Artificial Intelligence Creative Writing Collaboration Affects Perceived Authorship&lt;/p&gt;",
       "authors": "Philipp Lizat, Patrick Jost, Daria Leus, Melani Da Cunha Alves, Laureen Vanessa Schmidt",
@@ -7965,6 +8091,20 @@
         "goal": "The study evaluated how traditional lectures and three AI-supported multilingual CTCA 2.0 instructional modalities affect students’ OSI model achievement and attitudes.",
         "methodology": "A quasi-experimental study assigned 75 students in four intact groups and analyzed pre-test and post-test data using MANCOVA.",
         "finding": "CTCA modalities produced significantly more positive attitudes, while their higher achievement means were not statistically significant compared with the control group."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4417258234",
+      "title": "\"Is This Really a Human Peer Supporter?\": Misalignments Between Peer Supporters and Experts in LLM-Supported Interactions",
+      "authors": "Kellie Yu Hui Sim, Roy Ka-Wei Lee, Kenny Tsu Wei Choo",
+      "journal": "Proceedings of the ACM on Human-Computer Interaction",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1145/3816956",
+      "summary": {
+        "goal": "The study examines whether an LLM-supported system can enhance peer-support training and interaction quality in mental-health contexts.",
+        "methodology": "The authors conducted two mixed-methods studies with 12 peer supporters and 6 mental-health professionals using an LLM-simulated distressed client, context-sensitive suggestions, and real-time emotion visualizations.",
+        "finding": "Both groups saw potential benefits, but experts identified missed distress cues and premature advice-giving in peer supporters’ responses, highlighting training and safety concerns."
       }
     },
     {
