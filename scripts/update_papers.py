@@ -3,7 +3,9 @@ import json, os, re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlencode
+from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
+from time import sleep
 
 ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/'data'/'papers.json'; KEY=os.environ['OPENAI_API_KEY']
 QUERIES=[
@@ -20,6 +22,11 @@ QUERIES=[
     '"large language model" values stereotypes discrimination',
 ]
 MAX_NEW_PAPERS=10
+# OpenAlex can rate-limit requests originating from shared GitHub Actions IP
+# addresses.  Spread the searches out and retry temporary rate-limit/network
+# failures instead of failing the entire daily update.
+OPENALEX_REQUEST_DELAY_SECONDS=1.0
+OPENALEX_MAX_RETRIES=5
 # Strict journal whitelist. Values are normalized to handle punctuation differences
 # in OpenAlex metadata (for example, "PNAS" versus the journal's full title).
 ALLOWED_JOURNALS={
@@ -55,7 +62,32 @@ Exclude papers that only improve model architecture, benchmarks, coding, mathema
 
 For an included paper, choose exactly one field from: "AI as research tool", "Human–AI interaction", "Health & wellbeing", "Media & communication", "Public opinion & politics", "Climate & environment", "Work & education", "LLM behavior & bias". Provide a simple summary with goal, methodology, and finding. Each value must be one sentence, grounded only in the abstract; if a result is not reported, say "The abstract does not report findings." Schema: {"include":boolean,"field":string,"goal":string,"methodology":string,"finding":string}.'''
 def get_json(url,headers=None):
-    with urlopen(Request(url,headers=headers or {}),timeout=60) as r:return json.load(r)
+    request_headers={
+        'User-Agent':'LLM-Social-Science-Paper-Tracker/1.0 (https://github.com/lsw555/llm-social-science-paper-tracker)'
+    }
+    request_headers.update(headers or {})
+    for attempt in range(OPENALEX_MAX_RETRIES):
+        try:
+            with urlopen(Request(url,headers=request_headers),timeout=60) as response:
+                payload=json.load(response)
+            sleep(OPENALEX_REQUEST_DELAY_SECONDS)
+            return payload
+        except HTTPError as error:
+            if error.code != 429 or attempt == OPENALEX_MAX_RETRIES - 1:
+                raise
+            retry_after=error.headers.get('Retry-After')
+            try:
+                wait_seconds=float(retry_after) if retry_after else 2 ** attempt
+            except ValueError:
+                wait_seconds=2 ** attempt
+            print(f'OpenAlex rate-limited the request; retrying in {wait_seconds:.0f} seconds ({attempt + 1}/{OPENALEX_MAX_RETRIES}).', flush=True)
+            sleep(wait_seconds)
+        except URLError as error:
+            if attempt == OPENALEX_MAX_RETRIES - 1:
+                raise
+            wait_seconds=2 ** attempt
+            print(f'OpenAlex request failed ({error.reason}); retrying in {wait_seconds:.0f} seconds ({attempt + 1}/{OPENALEX_MAX_RETRIES}).', flush=True)
+            sleep(wait_seconds)
 def abstract(work):
     words=work.get('abstract_inverted_index') or {}; ordered=sorted(((i,w) for w,positions in words.items() for i in positions)); return ' '.join(w for _,w in ordered)
 def normalise(value): return re.sub(r'[^a-z0-9]+','',str(value).lower())
@@ -81,7 +113,12 @@ def main():
     lookback_days=90 if not papers else 10; since=(datetime.now(timezone.utc)-timedelta(days=lookback_days)).date().isoformat(); candidates=[]
     for query in QUERIES:
         url='https://api.openalex.org/works?'+urlencode({'search':query,'filter':f'from_publication_date:{since},has_abstract:true','per-page':25,'sort':'publication_date:desc','select':'id,doi,title,publication_year,publication_date,authorships,primary_location,abstract_inverted_index'})
-        candidates.extend(get_json(url).get('results',[]))
+        try:
+            candidates.extend(get_json(url).get('results',[]))
+        except (HTTPError, URLError) as error:
+            # A single temporarily unavailable query should not prevent the
+            # tracker from publishing the results of its other searches.
+            print(f'Skipping OpenAlex query after retries: {query!r} ({error}).', flush=True)
     # A paper may appear in more than one query; screen each OpenAlex record once.
     candidates=list({work['id']:work for work in candidates if work.get('id')}.values())
     # Restrict collection before calling either model to avoid spending tokens on
