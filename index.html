@@ -17,6 +17,32 @@
         <p class="subtitle">Automated daily digest of research on LLMs as social-science tools, human–AI interaction, and LLM behavior. <span id="updatedAt">Loading latest papers…</span></p>
       </header>
       <div class="rule"></div>
+      <section id="insights" class="insights" aria-labelledby="insightsTitle">
+        <div class="insights-heading">
+          <div>
+            <p class="eyebrow">Corpus overview</p>
+            <h2 id="insightsTitle">What this field is studying</h2>
+          </div>
+          <p id="insightsUpdated" class="insights-updated">Loading corpus insights…</p>
+        </div>
+        <p id="corpusSummary" class="corpus-summary"></p>
+        <div class="insight-grid">
+          <section aria-labelledby="themesTitle">
+            <h3 id="themesTitle">Recurring themes</h3>
+            <div id="themes" class="themes"></div>
+          </section>
+          <section aria-labelledby="keywordsTitle">
+            <h3 id="keywordsTitle">Emerging keywords</h3>
+            <div id="keywords" class="keywords"></div>
+            <h3 class="trend-heading">Publications by year</h3>
+            <div id="yearTrend" class="year-trend" aria-label="Publication counts by year"></div>
+          </section>
+        </div>
+        <section class="field-section" aria-labelledby="fieldsTitle">
+          <h3 id="fieldsTitle">Research streams</h3>
+          <div id="fieldTrend" class="field-trend" aria-label="Paper counts by research stream"></div>
+        </section>
+      </section>
       <section class="toolbar" aria-label="Paper filters">
         <label><span class="sr-only">Search papers</span><input id="search" type="search" placeholder="Search papers, authors, journals" /></label>
         <select id="fieldFilter" aria-label="Filter by field"><option value="all">All social science fields</option></select>

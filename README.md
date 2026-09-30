@@ -12,13 +12,17 @@ Every day, the GitHub Action in `.github/workflows/update-papers.yml`:
 4. Creates three short abstract-grounded fields: **Goal**, **Methodology**, and **Finding**.
 5. Adds up to 10 approved records to `data/papers.json`, rejects duplicates by OpenAlex ID, DOI, and normalized title, commits them, and thereby refreshes the GitHub Pages site.
 
+## Corpus insights
+
+Each update also generates `data/insights.json`, which powers the tracker’s **Corpus overview**. It includes a concise synthesis of the eligible corpus, 3–5 recurring themes, emerging keywords, paper counts by publication year, and the distribution across research streams. The thematic synthesis uses `gpt-5-nano` over a compact version of the current corpus; counts are calculated directly from the tracker data.
+
 ## Discovery queries
 
 The tracker uses broad concept-based OpenAlex searches for LLMs/generative AI in social science, public opinion, content analysis, communication/media/journalism, human–AI interaction, mental health/social support, health/climate behavior, AI-generated news, and human behavior/bias/values. It does not rely on a single product name such as ChatGPT.
 
-## Journal priority
+## Included journals
 
-When multiple suitable papers are available, the tracker screens the following journals first: **Nature**, **Science**, **Nature Climate Change**, **Nature Human Behaviour**, **Nature Communications**, **PNAS**, **PNAS Nexus**, **Journal of Communication**, **Human Communication Research**, **Communication Research**, **Communication Methods and Measures**, **Journal of Computer-Mediated Communication**, **Computers in Human Behavior**, **Digital Journalism**, **Social Science Computer Review**, **Humanities and Social Sciences Communications**, and **Media, Culture & Society**. Other journals remain eligible; the weighting only affects the order of selection. Edit `JOURNAL_WEIGHTS` in `scripts/update_papers.py` to add or change priorities.
+The tracker admits papers only from: **Humanities and Social Sciences Communications**, **Scientific Reports**, **Nature Communications**, **Nature**, **Science**, **Computers in Human Behavior**, **Social Science Computer Review**, **PNAS**, **PNAS Nexus**, **Digital Journalism**, **Journal of Communication**, **Communication Research**, **Human Communication Research**, and **Communication Methods and Measures**. The update workflow also removes existing records from other sources, so the public catalogue remains restricted to this list.
 
 The website is deliberately simple: a headline, latest-update timestamp, search/field filter, and paper cards. There is no subscription component.
 

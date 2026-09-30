@@ -20,19 +20,24 @@ QUERIES=[
     '"large language model" values stereotypes discrimination',
 ]
 MAX_NEW_PAPERS=10
-JOURNAL_WEIGHTS={
-    # Broad, multidisciplinary journals
-    'nature':100, 'science':100, 'nature climate change':100, 'nature human behaviour':100,
-    'nature communications':95, 'proceedings of the national academy of sciences':90,
-    'pnas':90, 'pnas nexus':90,
-    # Communication journals
-    'journal of communication':85, 'human communication research':85,
-    'communication research':85, 'communication methods and measures':80,
-    'journal of computer-mediated communication':80,
-    'computers in human behavior':80, 'digital journalism':80,
-    'social science computer review':80, 'humanities and social sciences communications':80,
-    'media, culture & society':75, 'media culture & society':75,
-    'media and society':75, 'communication & society':75,
+# Strict journal whitelist. Values are normalized to handle punctuation differences
+# in OpenAlex metadata (for example, "PNAS" versus the journal's full title).
+ALLOWED_JOURNALS={
+    'humanitiesandsocialsciencescommunications',
+    'scientificreports',
+    'naturecommunications',
+    'nature',
+    'science',
+    'computersinhumanbehavior',
+    'socialsciencecomputerreview',
+    'pnas',
+    'proceedingsofthenationalacademyofsciences',
+    'pnasnexus',
+    'digitaljournalism',
+    'journalofcommunication',
+    'communicationresearch',
+    'humancommunicationresearch',
+    'communicationmethodsandmeasures',
 }
 PREFILTER_SYSTEM='''You are the first, conservative screening pass for an LLM social science paper tracker. Return ONLY {"candidate": true} or {"candidate": false}.
 
@@ -54,10 +59,8 @@ def get_json(url,headers=None):
 def abstract(work):
     words=work.get('abstract_inverted_index') or {}; ordered=sorted(((i,w) for w,positions in words.items() for i in positions)); return ' '.join(w for _,w in ordered)
 def normalise(value): return re.sub(r'[^a-z0-9]+','',str(value).lower())
-def journal_weight(work):
-    source=((work.get('primary_location') or {}).get('source') or {}).get('display_name') or ''
-    name=source.lower().strip()
-    return max((weight for journal,weight in JOURNAL_WEIGHTS.items() if journal == name),default=0)
+def source_name(work): return ((work.get('primary_location') or {}).get('source') or {}).get('display_name') or ''
+def allowed_journal(name): return normalise(name) in ALLOWED_JOURNALS
 def text_response(model, instructions, prompt):
     payload=json.dumps({'model':model,'input':[{'role':'system','content':instructions},{'role':'user','content':prompt}],'text':{'verbosity':'low'}}).encode()
     request=Request('https://api.openai.com/v1/responses',data=payload,method='POST',headers={'Authorization':f'Bearer {KEY}','Content-Type':'application/json'})
@@ -69,7 +72,11 @@ def text_response(model, instructions, prompt):
     raise ValueError('The OpenAI response did not contain output text.')
 def authors(work): return ', '.join(a['author']['display_name'] for a in work.get('authorships',[])[:8]) or 'Author unavailable'
 def main():
-    existing=json.loads(DATA.read_text()); papers=existing.get('papers',[])
+    existing=json.loads(DATA.read_text())
+    # Keep the public catalogue consistent with the whitelist, including papers
+    # collected before the restriction was introduced.
+    papers=[paper for paper in existing.get('papers',[]) if allowed_journal(paper.get('journal',''))]
+    existing['papers']=papers
     seen_ids={p['id'] for p in papers if p.get('id')}; seen_dois={normalise(p.get('url','')) for p in papers if p.get('url')}; seen_titles={normalise(p.get('title','')) for p in papers if p.get('title')}
     lookback_days=90 if not papers else 10; since=(datetime.now(timezone.utc)-timedelta(days=lookback_days)).date().isoformat(); candidates=[]
     for query in QUERIES:
@@ -77,8 +84,10 @@ def main():
         candidates.extend(get_json(url).get('results',[]))
     # A paper may appear in more than one query; screen each OpenAlex record once.
     candidates=list({work['id']:work for work in candidates if work.get('id')}.values())
-    # Prioritize prestigious outlets when several suitable papers are available.
-    candidates.sort(key=lambda work:(journal_weight(work),work.get('publication_date') or ''),reverse=True)
+    # Restrict collection before calling either model to avoid spending tokens on
+    # papers that cannot appear in the tracker.
+    candidates=[work for work in candidates if allowed_journal(source_name(work))]
+    candidates.sort(key=lambda work:work.get('publication_date') or '',reverse=True)
     added=0
     for work in candidates:
         if added >= MAX_NEW_PAPERS: break
@@ -93,7 +102,7 @@ def main():
             verdict=json.loads(re.search(r'\{.*\}',text_response('gpt-5.6-luna',FINAL_SYSTEM,prompt),re.S).group())
         except Exception as error: print(f"Skipping {work['id']}: {error}"); continue
         if not verdict.get('include'): continue
-        source=((work.get('primary_location') or {}).get('source') or {}).get('display_name') or 'Venue unavailable'
+        source=source_name(work)
         existing['papers'].append({'id':work['id'],'title':work['title'],'authors':authors(work),'journal':source,'year':work.get('publication_year','Year unavailable'),'field':verdict['field'],'url':doi or work['id'],'summary':{k:verdict[k] for k in ('goal','methodology','finding')}}); seen_ids.add(work['id']); seen_dois.add(normalise(doi)); seen_titles.add(title_key); added+=1
     existing['papers'].sort(key=lambda p:(str(p['year']),p['title']),reverse=True); existing['updatedAt']=datetime.now(timezone.utc).isoformat(); DATA.write_text(json.dumps(existing,ensure_ascii=False,indent=2)+'\n')
 if __name__=='__main__':main()
