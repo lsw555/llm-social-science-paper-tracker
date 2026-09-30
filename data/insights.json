@@ -1,32 +1,34 @@
 {
-  "updatedAt": "2026-09-30T07:41:54.592760+00:00",
+  "updatedAt": "2026-09-30T08:11:26.602079+00:00",
   "paperCount": 59,
-  "corpusSummary": "Across more than 40 2026 records spanning human–AI interaction, health, climate, education, and AI-enabled research, this corpus shows large language models being used as both analytical tools and decision-making agents. It reveals methodological opportunities and governance needs, with mixed findings on personalization and trust, and persistent concerns about misinformation, bias, safety, ethics, and energy costs.",
+  "corpusSummary": "Across 2026 records, scholars investigate how large language models shape human–AI interactions, governance, education, and research practice. Findings reveal nuanced trust dynamics and embodiment limits, while LLMs serve as methodological partners for analysis, simulation, and public participation. The literature highlights opportunities for AI-enabled learning and decision-making alongside caution about bias, misinformation, and sustainability.",
   "themes": [
     {
-      "name": "LLMs for social science methods and governance",
-      "description": "Methodological and governance-oriented use of LLMs in social science, evidenced by papers on public policy analysis, urban participatory planning, AI-assisted coding and content analysis, and AI-enabled research workflows."
+      "name": "Trust, embodiment, and human–AI interaction",
+      "description": "A cluster of studies investigates trust, perceived humanness vs. empathy, AI embodiment, and user attitudes across health, education, and everyday decision contexts."
     },
     {
-      "name": "Human–AI interaction, trust, and adoption",
-      "description": "Across domains from education and work to health and everyday life, studies show that trust, perceived credibility, presentation style, social networks, and embodied interfaces shape AI adoption and interaction outcomes."
+      "name": "LLMs as methodological partners: analysis, simulation, and governance",
+      "description": "Papers explore using LLMs to assist content analysis, coding, data classification, multi-agent simulations, and public-participation processes, while stressing validation, transparency, and ethical governance."
     },
     {
-      "name": "AI in health, wellbeing, and health communication",
-      "description": "Health and wellbeing literature analyzes AI-generated misinformation, AI-assisted counseling, patient education quality, and health communication, revealing both benefits and safety and ethics concerns."
+      "name": "AI in education and learning: pedagogy, assessment, and equity",
+      "description": "A body of work examines AI’s role in STEM education, language learning, tutoring, and assessment design, with attention to trust, privacy, workload, and digital divide."
     },
     {
-      "name": "AI in education, learning, and literacy",
-      "description": "Education-focused work reports mixed effects of GenAI on learning, pedagogy, assessment, AI literacy, and teacher adoption, with potential for personalization alongside risks of overreliance and skill erosion."
+      "name": "Safety, bias, and misinformation in AI outputs",
+      "description": "Studies assess accuracy, safety, fairness, and the spread of misinformation in AI-generated content across health, media, and library contexts, often highlighting risks and mitigation strategies."
     }
   ],
   "emergingKeywords": [
-    "AI governance and policy tools",
-    "trust and adoption in human–AI interaction",
-    "AI-enabled health communication and misinformation",
+    "AI-in-use framework",
+    "trust and humanness in AI",
+    "LLM as research tool",
     "AI in education and literacy",
-    "ethics, bias, and safety in LLM outputs",
-    "multi-agent LLMs and social science research"
+    "misinformation and health communication",
+    "public participation with LLMs",
+    "ethics, bias, and fairness in AI outputs",
+    "sustainability and energy efficiency in AI research"
   ],
   "yearCounts": [
     {
