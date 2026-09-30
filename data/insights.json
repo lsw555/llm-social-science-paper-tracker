@@ -1,9 +1,67 @@
 {
-  "updatedAt": null,
-  "paperCount": 0,
-  "corpusSummary": "Insights will appear once the tracker has collected eligible papers.",
-  "themes": [],
-  "emergingKeywords": [],
-  "yearCounts": [],
-  "fieldCounts": []
+  "updatedAt": "2026-09-30T07:41:54.592760+00:00",
+  "paperCount": 59,
+  "corpusSummary": "Across more than 40 2026 records spanning human–AI interaction, health, climate, education, and AI-enabled research, this corpus shows large language models being used as both analytical tools and decision-making agents. It reveals methodological opportunities and governance needs, with mixed findings on personalization and trust, and persistent concerns about misinformation, bias, safety, ethics, and energy costs.",
+  "themes": [
+    {
+      "name": "LLMs for social science methods and governance",
+      "description": "Methodological and governance-oriented use of LLMs in social science, evidenced by papers on public policy analysis, urban participatory planning, AI-assisted coding and content analysis, and AI-enabled research workflows."
+    },
+    {
+      "name": "Human–AI interaction, trust, and adoption",
+      "description": "Across domains from education and work to health and everyday life, studies show that trust, perceived credibility, presentation style, social networks, and embodied interfaces shape AI adoption and interaction outcomes."
+    },
+    {
+      "name": "AI in health, wellbeing, and health communication",
+      "description": "Health and wellbeing literature analyzes AI-generated misinformation, AI-assisted counseling, patient education quality, and health communication, revealing both benefits and safety and ethics concerns."
+    },
+    {
+      "name": "AI in education, learning, and literacy",
+      "description": "Education-focused work reports mixed effects of GenAI on learning, pedagogy, assessment, AI literacy, and teacher adoption, with potential for personalization alongside risks of overreliance and skill erosion."
+    }
+  ],
+  "emergingKeywords": [
+    "AI governance and policy tools",
+    "trust and adoption in human–AI interaction",
+    "AI-enabled health communication and misinformation",
+    "AI in education and literacy",
+    "ethics, bias, and safety in LLM outputs",
+    "multi-agent LLMs and social science research"
+  ],
+  "yearCounts": [
+    {
+      "year": "2026",
+      "count": 59
+    }
+  ],
+  "fieldCounts": [
+    {
+      "field": "Work & education",
+      "count": 17
+    },
+    {
+      "field": "AI as research tool",
+      "count": 14
+    },
+    {
+      "field": "Health & wellbeing",
+      "count": 10
+    },
+    {
+      "field": "Human–AI interaction",
+      "count": 9
+    },
+    {
+      "field": "LLM behavior & bias",
+      "count": 5
+    },
+    {
+      "field": "Media & communication",
+      "count": 3
+    },
+    {
+      "field": "Climate & environment",
+      "count": 1
+    }
+  ]
 }
