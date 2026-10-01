@@ -1,34 +1,38 @@
 {
-  "updatedAt": "2026-09-30T08:11:26.602079+00:00",
+  "updatedAt": "2026-10-01T08:32:04.746112+00:00",
   "paperCount": 59,
-  "corpusSummary": "Across 2026 records, scholars investigate how large language models shape human–AI interactions, governance, education, and research practice. Findings reveal nuanced trust dynamics and embodiment limits, while LLMs serve as methodological partners for analysis, simulation, and public participation. The literature highlights opportunities for AI-enabled learning and decision-making alongside caution about bias, misinformation, and sustainability.",
+  "corpusSummary": "The corpus presents a cautious, cross-disciplinary view of large language models in 2026, emphasizing how users trust, adopt, and interact with AI across education, health, and governance contexts, while researchers test LLMs as analytical collaborators, assess safety and bias, and explore ethical frameworks. It also foregrounds equity, literacy, and transparent governance as essential complements to technical potentials.",
   "themes": [
     {
-      "name": "Trust, embodiment, and human–AI interaction",
-      "description": "A cluster of studies investigates trust, perceived humanness vs. empathy, AI embodiment, and user attitudes across health, education, and everyday decision contexts."
+      "name": "Human–AI interaction and social dynamics",
+      "description": "Across the records, studies investigate how users trust, prefer AI representations, adopt AI tools, and navigate embodiment and social influence in education, health, and daily decision-making."
     },
     {
-      "name": "LLMs as methodological partners: analysis, simulation, and governance",
-      "description": "Papers explore using LLMs to assist content analysis, coding, data classification, multi-agent simulations, and public-participation processes, while stressing validation, transparency, and ethical governance."
+      "name": "LLMs as research tools and analytical collaborators",
+      "description": "A range of papers propone LLMs as analytical partners for coding, framing, data extraction, design ideation, and cross-domain simulation, highlighting methodological opportunities and governance needs."
     },
     {
-      "name": "AI in education and learning: pedagogy, assessment, and equity",
-      "description": "A body of work examines AI’s role in STEM education, language learning, tutoring, and assessment design, with attention to trust, privacy, workload, and digital divide."
+      "name": "Safety, bias, and misinformation in AI-enabled communication",
+      "description": "The corpus underscores concerns about bias, misinformation propagation, safety of AI-generated content (especially in health), and the need for transparency and governance to mitigate harms."
     },
     {
-      "name": "Safety, bias, and misinformation in AI outputs",
-      "description": "Studies assess accuracy, safety, fairness, and the spread of misinformation in AI-generated content across health, media, and library contexts, often highlighting risks and mitigation strategies."
+      "name": "AI in education and learning",
+      "description": "Numerous studies examine AI’s role in pedagogy, literacy development, assessment integrity, and learner engagement across K–12, higher education, and lifelong learning, noting both opportunities and risks."
+    },
+    {
+      "name": "Equity, inclusion, and governance in AI deployment",
+      "description": "The records reveal disparities in access and adoption (digital divide, global south contexts) and call for governance, standards, and ethical scrutiny to ensure fair, responsible AI deployment."
     }
   ],
   "emergingKeywords": [
-    "AI-in-use framework",
-    "trust and humanness in AI",
-    "LLM as research tool",
-    "AI in education and literacy",
-    "misinformation and health communication",
-    "public participation with LLMs",
-    "ethics, bias, and fairness in AI outputs",
-    "sustainability and energy efficiency in AI research"
+    "trust and adoption",
+    "embodiment",
+    "AI literacy",
+    "LLM as analytical collaborator",
+    "misinformation mitigation",
+    "ethics and governance",
+    "digital divide",
+    "fairness in AI services"
   ],
   "yearCounts": [
     {
