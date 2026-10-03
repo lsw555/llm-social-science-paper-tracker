@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-10-02T08:07:19.905272+00:00",
+  "updatedAt": "2026-10-03T07:46:27.827074+00:00",
   "paperCount": 59,
-  "corpusSummary": "This corpus chronicles a 2026 wave of social-science work using large language models to study real-world AI use, trust, and safety; to augment research methods; to transform education and literacy; and to illuminate societal, cultural, and governance implications—from misinformation and representation to public participation and policy-relevant applications. These themes surface across health, climate, work, and urban studies, highlighting both scalable opportunities and context-specific challenges.",
+  "corpusSummary": "This corpus of 2026 social-science papers on large language models spans human–AI interaction, education, health, climate, and AI-as-research-tool. It centers on trust, representation, safety, and ethics, while highlighting LLMs as analytic aids, co-ideation partners, and governance tools. Recurring topics include misinformation, bias, cultural sensitivity, and the social implications of deploying AI in diverse contexts.",
   "themes": [
     {
-      "name": "Trust, safety, and ethics in AI-enabled interactions and information",
-      "description": "A growing set of studies investigates how users perceive AI—humanness, empathy, and reliability—alongside safety, misinformation, bias, and governance implications across health, education, and everyday decision making."
+      "name": "Trust and humanness in AI interactions",
+      "description": "Explores how users judge trust, perceived humanness, and influence in AI-supported counseling, relationship advice, and everyday decision contexts."
     },
     {
-      "name": "AI as a transformative research tool: methods, collaboration, and validation",
-      "description": "Researchers deploy LLMs and AI pipelines to code, analyze, simulate, summarize, and organize data, producing new workflows while emphasizing validation, transparency, and researcher authority."
+      "name": "AI as research tool and methodological governance",
+      "description": "Documents frameworks, workflows, and governance considerations for integrating LLMs into social-science research, policy analysis, and data-driven inquiry."
     },
     {
-      "name": "AI in education: adoption, pedagogy, assessment, and AI literacy",
-      "description": "Empirical work on how AI changes teaching, learning, assessment, and student skills, with attention to adoption barriers, teacher readiness, and AI-supported literacy across age groups."
+      "name": "AI in education and learning across ages",
+      "description": "Encompasses AI-assisted learning, literacy development, and assessment practices across students, teachers, and older adults."
     },
     {
-      "name": "Societal, cultural, and governance dimensions of AI deployment",
-      "description": "Studies examine how AI reshapes social networks, representation, polarization, public participation, cultural practices, and policy, including equity, digital divide, and global south contexts."
+      "name": "Safety, bias, and misinformation in LLM deployment",
+      "description": "Examines model fairness, risk of misinformation, content safety, and the reliability of AI outputs across domains including health, libraries, and media."
     }
   ],
   "emergingKeywords": [
-    "AI-in-use evaluation",
-    "humanness vs empathy",
-    "LLM as research collaborator",
-    "AI literacy for older adults",
-    "social dynamics of AI adoption",
-    "AI misinformation and warnings",
-    "public participation with LLMs"
+    "trust dynamics in AI interactions",
+    "humanness vs empathy in AI-generated text",
+    "AI literacy across ages",
+    "AI as research tool and methodology",
+    "misinformation and warning effectiveness",
+    "fairness, bias, and safety in LLMs",
+    "governance and public participation with AI"
   ],
   "yearCounts": [
     {
