@@ -1,56 +1,57 @@
 {
-  "updatedAt": "2026-10-03T07:46:27.827074+00:00",
-  "paperCount": 59,
-  "corpusSummary": "This corpus of 2026 social-science papers on large language models spans human–AI interaction, education, health, climate, and AI-as-research-tool. It centers on trust, representation, safety, and ethics, while highlighting LLMs as analytic aids, co-ideation partners, and governance tools. Recurring topics include misinformation, bias, cultural sensitivity, and the social implications of deploying AI in diverse contexts.",
+  "updatedAt": "2026-10-04T07:55:55.420083+00:00",
+  "paperCount": 61,
+  "corpusSummary": "Across 2026 social-science studies on large language models, the corpus reveals converging concerns about how AI is adopted in organizations and households, how LLMs serve as research tools, how AI affects health information and wellbeing, and how ethics, fairness, and trust influence human-AI interaction. The records emphasize evaluation frameworks, governance, and education-focused responses.",
   "themes": [
     {
-      "name": "Trust and humanness in AI interactions",
-      "description": "Explores how users judge trust, perceived humanness, and influence in AI-supported counseling, relationship advice, and everyday decision contexts."
+      "name": "AI adoption and social dynamics",
+      "description": "Studies examine how individuals, organizations, and communities adopt generative AI, how peer effects, trust, and social norms shape use, and how governance and policy contexts respond."
     },
     {
-      "name": "AI as research tool and methodological governance",
-      "description": "Documents frameworks, workflows, and governance considerations for integrating LLMs into social-science research, policy analysis, and data-driven inquiry."
+      "name": "LLMs as research tools and methodological innovation",
+      "description": "Papers show LLMs enabling data extraction, codebook creation, cross-domain analysis, simulations, and governance studies while highlighting validation, transparency, and ethical considerations."
     },
     {
-      "name": "AI in education and learning across ages",
-      "description": "Encompasses AI-assisted learning, literacy development, and assessment practices across students, teachers, and older adults."
+      "name": "AI in health, education, and wellbeing",
+      "description": "Research investigates AI-driven health information, education technologies, counseling, and wellbeing outcomes, including misinformation risks and user trust."
     },
     {
-      "name": "Safety, bias, and misinformation in LLM deployment",
-      "description": "Examines model fairness, risk of misinformation, content safety, and the reliability of AI outputs across domains including health, libraries, and media."
+      "name": "Fairness, safety, and human-centered AI design",
+      "description": "A thread across papers on bias, fairness, safety, perceived humanness, and design frameworks (e.g., Value-Sensitive Design, ADE) to ground AI in human values."
     }
   ],
   "emergingKeywords": [
-    "trust dynamics in AI interactions",
-    "humanness vs empathy in AI-generated text",
-    "AI literacy across ages",
-    "AI as research tool and methodology",
-    "misinformation and warning effectiveness",
-    "fairness, bias, and safety in LLMs",
-    "governance and public participation with AI"
+    "AI-in-use evaluation",
+    "LLM-enabled research methods",
+    "AI literacy in education",
+    "health misinformation and AI",
+    "perceived humanness and empathy in AI",
+    "multi-agent LLM systems",
+    "ethics and bias in AI systems",
+    "data-driven AI governance"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 59
+      "count": 61
     }
   ],
   "fieldCounts": [
     {
       "field": "Work & education",
-      "count": 17
+      "count": 18
     },
     {
       "field": "AI as research tool",
       "count": 14
     },
     {
-      "field": "Health & wellbeing",
+      "field": "Human–AI interaction",
       "count": 10
     },
     {
-      "field": "Human–AI interaction",
-      "count": 9
+      "field": "Health & wellbeing",
+      "count": 10
     },
     {
       "field": "LLM behavior & bias",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T07:46:27.737917+00:00",
+  "updatedAt": "2026-10-04T07:55:55.336895+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7208765815",
@@ -604,6 +604,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7215063865",
+      "title": "Does AI literacy enhance employee work engagement by boosting work self-efficacy or reducing job burnout? A one-year longitudinal study",
+      "authors": "Qingqi Liu, Yuju Lei, Jingjing Li",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-09184-7",
+      "summary": {
+        "goal": "The study examines whether employee AI literacy predicts later work engagement through work self-efficacy and job burnout.",
+        "methodology": "Researchers conducted a three-wave, one-year longitudinal survey of 1,108 employees, measuring AI literacy and work engagement at baseline, mediators after six months, and work engagement after one year.",
+        "finding": "AI literacy positively predicted later work engagement directly and indirectly through work self-efficacy, job burnout, and their chain mediation, controlling for demographics, AI use intensity, and baseline engagement."
+      }
+    },
+    {
       "id": "https://openalex.org/W4415057169",
       "title": "Disentangling interaction and bias effects in opinion dynamics of large language models",
       "authors": "Vincent C. Brockers, David A. Ehrlich, Viola Priesemann",
@@ -825,6 +839,20 @@
         "goal": "The paper aims to detect and classify technology adoption and contextual dynamics in protest events from large-scale news data.",
         "methodology": "It develops a self-training pipeline combining pre-trained language models, syntactic graph convolutional networks, and pattern matching to reconstruct protest datasets while reducing manual annotation.",
         "finding": "The framework supports context-sensitive protest event classification and demonstrates the analytical value of integrating LLMs with GCNs."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7214774474",
+      "title": "A human-centric approach for responding to online soft hate speech: the effect of AI-based persuasion on the comment modification intention of commenters",
+      "authors": "Min Jia, Weijun Wang, Xuejun Zuo, Yonghui Hu, Ye Ma, Shihao Ma",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1057/s41599-026-09100-z",
+      "summary": {
+        "goal": "The study examines whether AI-based persuasion can encourage commenters to modify online soft hate speech.",
+        "methodology": "It uses controlled scenario-based experiments across two studies comparing persuasion conditions and testing emotional labelling, reason explanation, participant perspective, and perceived persuasiveness.",
+        "finding": "AI-based persuasion positively affects scenario-based comment modification intention, with perceived persuasiveness mediating this effect."
       }
     }
   ]
