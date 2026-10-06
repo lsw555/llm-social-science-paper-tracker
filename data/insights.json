@@ -1,38 +1,34 @@
 {
-  "updatedAt": "2026-10-05T08:37:39.080129+00:00",
+  "updatedAt": "2026-10-06T08:44:08.035899+00:00",
   "paperCount": 61,
-  "corpusSummary": "A 2026 corpus of social-science papers investigates how large language models (LLMs) and generative AI influence research methods, education, health communication, and policy. It highlights methodological uses (coding, framing, multi-agent systems), AI-enabled learning and literacy, health misinformation and AI-driven counseling, and governance, safety, and fairness concerns across diverse contexts and populations.",
+  "corpusSummary": "The corpus maps rapid scholarly attention to how generative AI and large language models intersect with decision-making, work, education, health, and public discourse. It highlights trust, embodiment, and social dynamics of AI adoption; methodological use of LLMs as research tools with governance considerations; education and AI literacy in pedagogy and assessment; and safety, bias, and misinformation challenges across domains, alongside evaluation and governance frameworks for responsible deployment.",
   "themes": [
     {
-      "name": "AI as a methodological tool and governance in social science",
-      "description": "Papers show LLMs supporting coding, content analysis, simulations, and framework-building, while underscoring validation, transparency, and ethical oversight."
+      "name": "Socio-technical AI adoption and interaction",
+      "description": "Papers explore AI-in-use, embodiment, trust formation, and social influence shaping adoption in work, health, parenting, travel, and everyday decision-making."
+    },
+    {
+      "name": "AI as a research tool and governance",
+      "description": "A growing strand proposes LLM-based workflows, data pipelines, fairness checks, and governance frameworks to validate, document, and ethically oversee AI-enabled research."
     },
     {
       "name": "AI in education and AI literacy",
-      "description": "Research covers AI's impact on STEM education, learning analytics, teacher practices, and AI literacy across age groups and settings."
+      "description": "Studies examine AI’s impact on STEM learning, pedagogy, assessment practices, and AI literacy for diverse learners, including older adults and rural educators."
     },
     {
-      "name": "Health, wellbeing, and information dynamics in AI ecosystems",
-      "description": "Studies address AI-generated health information, misinformation, patient education, and the psychosocial effects on wellbeing and health behaviors."
-    },
-    {
-      "name": "Human–AI interaction, trust, and social dynamics",
-      "description": "Work examines perceived humanness, embodiment, interaction styles, social networks, and trust across diverse AI-enabled contexts."
-    },
-    {
-      "name": "AI adoption, policy, and societal implications",
-      "description": "Analyses of adoption in organizations and education, governance frameworks, public-policy use of LLMs, and equity considerations."
+      "name": "Safety, bias, and misinformation in AI outputs",
+      "description": "Research interrogates the quality, safety, and bias of AI-generated content across health, media, and public discourse, including misinformation and deepfake warnings."
     }
   ],
   "emergingKeywords": [
-    "AI-in-use evaluation framework",
-    "multi-agent LLM systems",
-    "AI literacy across ages",
-    "AI-assisted learning analytics",
-    "perceived humanness and empathy",
-    "fairness and bias in LLMs",
-    "governance and ethical oversight of AI",
-    "energy efficiency of open LLMs"
+    "AI-in-use evaluation",
+    "AI literacy and education",
+    "Embodiment of AI",
+    "LLM-based research tools",
+    "Governance and ethics",
+    "AI misinformation and safety",
+    "Education-tech and assessment in AI era",
+    "Cross-domain AI evaluation"
   ],
   "yearCounts": [
     {
