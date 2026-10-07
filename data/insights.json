@@ -1,39 +1,42 @@
 {
-  "updatedAt": "2026-10-06T08:44:08.035899+00:00",
-  "paperCount": 61,
-  "corpusSummary": "The corpus maps rapid scholarly attention to how generative AI and large language models intersect with decision-making, work, education, health, and public discourse. It highlights trust, embodiment, and social dynamics of AI adoption; methodological use of LLMs as research tools with governance considerations; education and AI literacy in pedagogy and assessment; and safety, bias, and misinformation challenges across domains, alongside evaluation and governance frameworks for responsible deployment.",
+  "updatedAt": "2026-10-07T08:19:15.140454+00:00",
+  "paperCount": 64,
+  "corpusSummary": "Across 2026 social-science papers on large language models, the corpus reveals a dispersed but coherent focus on AI as a research tool, health information governance, education and literacy, societal risk and fairness, and culture/heritage design. Findings emphasize methodological innovation, cautious adoption, user trust, and the need for transparent governance and ethical considerations as AI permeates research, learning, and public discourse.",
   "themes": [
     {
-      "name": "Socio-technical AI adoption and interaction",
-      "description": "Papers explore AI-in-use, embodiment, trust formation, and social influence shaping adoption in work, health, parenting, travel, and everyday decision-making."
+      "name": "AI as methodological innovator and research tool",
+      "description": "Papers show LLMs and multi-agent systems enabling novel social-science methods, including coding, analysis, data extraction, cross-domain transfer, and governance framing."
     },
     {
-      "name": "AI as a research tool and governance",
-      "description": "A growing strand proposes LLM-based workflows, data pipelines, fairness checks, and governance frameworks to validate, document, and ethically oversee AI-enabled research."
+      "name": "Health information, care, and governance with AI",
+      "description": "Research examines AI-generated health misinformation, clinician decision support, patient education, and equity-focused governance of digital health AI."
     },
     {
       "name": "AI in education and AI literacy",
-      "description": "Studies examine AI’s impact on STEM learning, pedagogy, assessment practices, and AI literacy for diverse learners, including older adults and rural educators."
+      "description": "Papers explore AI adoption in classrooms and universities, AI-assisted learning, and initiatives to build AI literacy across learners and age groups."
     },
     {
-      "name": "Safety, bias, and misinformation in AI outputs",
-      "description": "Research interrogates the quality, safety, and bias of AI-generated content across health, media, and public discourse, including misinformation and deepfake warnings."
+      "name": "Fairness, bias, safety, and societal risks of LLM deployment",
+      "description": "Work investigates fairness across user groups, fallibility under misinformation pressure, deepfake warnings, and normative standards for responsible AI."
+    },
+    {
+      "name": "Culture, heritage, and design with AI",
+      "description": "Digital humanities and design pedagogy leverage AI for heritage reconstruction, sense-of-place analysis, and culturally grounded aesthetic learning."
     }
   ],
   "emergingKeywords": [
-    "AI-in-use evaluation",
-    "AI literacy and education",
-    "Embodiment of AI",
-    "LLM-based research tools",
-    "Governance and ethics",
-    "AI misinformation and safety",
-    "Education-tech and assessment in AI era",
-    "Cross-domain AI evaluation"
+    "AI as research tool",
+    "Multi-agent LLM systems",
+    "AI literacy in education",
+    "Health misinformation governance",
+    "Fairness and bias in LLMs",
+    "Heritage and design with AI",
+    "Public policy and governance of LLMs"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 61
+      "count": 64
     }
   ],
   "fieldCounts": [
@@ -43,15 +46,15 @@
     },
     {
       "field": "AI as research tool",
-      "count": 14
+      "count": 15
     },
     {
       "field": "Human–AI interaction",
-      "count": 10
+      "count": 11
     },
     {
       "field": "Health & wellbeing",
-      "count": 10
+      "count": 11
     },
     {
       "field": "LLM behavior & bias",

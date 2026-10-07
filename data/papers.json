@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T08:44:07.965378+00:00",
+  "updatedAt": "2026-10-07T08:19:15.057822+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7208765815",
@@ -240,6 +240,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7219897082",
+      "title": "Responsible use of large language models in digital health: an equity-first governance framework",
+      "authors": "Abbas Yazdinejad, Jude Kong",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41598-026-72535-6",
+      "summary": {
+        "goal": "The paper develops an equity-first framework for auditing the safety and cultural adequacy of LLMs used in digital health.",
+        "methodology": "It evaluated 1,350 responses from three open-source LLMs to three First Nations mental-wellness persona prompts using automated text metrics and an exploratory human-rating pilot.",
+        "finding": "Crisis guidance was common but medical disclaimers were nearly absent, readability exceeded recommended patient-facing levels, and lexical markers did not establish cultural adequacy."
+      }
+    },
+    {
       "id": "https://openalex.org/W7124556463",
       "title": "Reconstructing perished vernacular architecture: a digital humanities perspective on methods for digitally reconstituting lost rural built heritage",
       "authors": "Jieyuan Yu, Lun Tao",
@@ -433,6 +447,20 @@
         "goal": "The paper examines how LLMs can augment established public policy research methods while addressing methodological and ethical challenges.",
         "methodology": "It provides a conceptual analysis of LLM applications in qualitative inquiry, quantitative analysis, and simulation-based research and proposes an Objective-Path-Boundary governance framework.",
         "finding": "The paper argues that LLMs are enabling research tools whose value depends on validation, transparency, standardized protocols, and ethical scrutiny."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7220470778",
+      "title": "Influence of large language models on pediatricians’ clinical reasoning and decision-making process",
+      "authors": "Alkinoos A Armoundas, Maria-Eleni Papakonstantinou, Anastasia-Rafaela Triantafyllou, Aristidis Armoundas, Aris Paschalidis, Georgia Kourlaba, Vassiliki Papaevangelou",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1038/s41598-026-74134-x",
+      "summary": {
+        "goal": "The study assessed whether pediatricians are influenced by LLM-generated answers in clinical decision-making and whether they can distinguish correct from incorrect responses.",
+        "methodology": "Ninety-eight pediatricians in Greece evaluated correct and incorrect LLM-generated answers, with mixed-effects logistic regression and subgroup analyses by training level and practice setting.",
+        "finding": "Most pediatricians identified incorrect answers and used LLMs constructively, but residents and private-practice pediatricians were more likely to change their decisions based on incorrect AI responses."
       }
     },
     {
@@ -825,6 +853,20 @@
         "goal": "The study examines how different AI usage patterns relate to Chinese university students’ perceived critical thinking and how academic motivation moderates these relationships.",
         "methodology": "A cross-sectional survey of 342 undergraduate students measured information retrieval, content generation, and text revision uses of AI, academic motivation, and perceived critical thinking dispositions.",
         "finding": "Information retrieval use was positively associated with perceived critical thinking, content generation use was negatively associated, text revision use was not significant, and motivation moderated these associations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7220361412",
+      "title": "A zero-shot LLM framework for analyzing user preference on product attributes: a case study of smartwatch reviews",
+      "authors": "Imam Adi Nata, Nila Nurlina, Muhammad Rifqi Maarif, Norma Latif Fitriyani, Yeong Hyeon Gu, Muhammad Syafrudin",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s41598-026-57281-z",
+      "summary": {
+        "goal": "The study aims to develop a zero-shot LLM framework for extracting consumer preferences from product reviews without annotated data.",
+        "methodology": "It analyzes 12,900 Amazon smartwatch reviews using semantic keyword extraction, LLM-based attribute classification, sentiment analysis, Importance–Performance Analysis, and validation against human annotations.",
+        "finding": "The framework achieved 0.88 sentiment accuracy and identified Design & Comfort, Connectivity, and Health Monitoring Features as important and positively perceived, while Power & Battery Management was a major dissatisfaction area."
       }
     },
     {
