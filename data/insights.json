@@ -1,42 +1,38 @@
 {
-  "updatedAt": "2026-10-07T08:19:15.140454+00:00",
-  "paperCount": 64,
-  "corpusSummary": "Across 2026 social-science papers on large language models, the corpus reveals a dispersed but coherent focus on AI as a research tool, health information governance, education and literacy, societal risk and fairness, and culture/heritage design. Findings emphasize methodological innovation, cautious adoption, user trust, and the need for transparent governance and ethical considerations as AI permeates research, learning, and public discourse.",
+  "updatedAt": "2026-10-08T08:35:36.308161+00:00",
+  "paperCount": 67,
+  "corpusSummary": "This corpus comprises 60+ social-science studies (2026) examining how large language models and generative AI influence trust, decision making, education, health communication, and policy research. Across domains, papers analyze user experience, adoption, and embodiment; probe AI as a research tool, analysis collaborator, and design partner; assess risks around misinformation, bias, ethics, and governance; and highlight opportunities for pedagogy, literacy, and data-driven decision support while calling for validation and responsible use.",
   "themes": [
     {
-      "name": "AI as methodological innovator and research tool",
-      "description": "Papers show LLMs and multi-agent systems enabling novel social-science methods, including coding, analysis, data extraction, cross-domain transfer, and governance framing."
+      "name": "Human–AI interaction, trust, and social dynamics",
+      "description": "Across health, education, and everyday contexts, studies explore trust formation, perceived humanness, social influence, and adoption of generative AI and LLMs."
     },
     {
-      "name": "Health information, care, and governance with AI",
-      "description": "Research examines AI-generated health misinformation, clinician decision support, patient education, and equity-focused governance of digital health AI."
+      "name": "AI as a research tool and methodological transformation",
+      "description": "Papers investigate LLMs as analytical collaborators, data classifiers, and research instruments, emphasizing validation, transparency, and governance."
     },
     {
-      "name": "AI in education and AI literacy",
-      "description": "Papers explore AI adoption in classrooms and universities, AI-assisted learning, and initiatives to build AI literacy across learners and age groups."
+      "name": "AI in education and learning",
+      "description": "Research investigates AI-enabled pedagogy, student engagement, AI literacy development, and collaborative learning with teachers and AI across K-12 and higher education."
     },
     {
-      "name": "Fairness, bias, safety, and societal risks of LLM deployment",
-      "description": "Work investigates fairness across user groups, fallibility under misinformation pressure, deepfake warnings, and normative standards for responsible AI."
-    },
-    {
-      "name": "Culture, heritage, and design with AI",
-      "description": "Digital humanities and design pedagogy leverage AI for heritage reconstruction, sense-of-place analysis, and culturally grounded aesthetic learning."
+      "name": "AI in health and wellbeing: information quality and instruction",
+      "description": "A cluster analyzes AI-mediated health misinformation, patient education, and digital health governance, with attention to safety, readability, and equity."
     }
   ],
   "emergingKeywords": [
+    "AI literacy",
+    "trust and humanness in AI",
     "AI as research tool",
-    "Multi-agent LLM systems",
-    "AI literacy in education",
-    "Health misinformation governance",
-    "Fairness and bias in LLMs",
-    "Heritage and design with AI",
-    "Public policy and governance of LLMs"
+    "AI-assisted education",
+    "health misinformation and AI",
+    "equity and governance of LLMs",
+    "human–AI collaboration and creativity"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 64
+      "count": 67
     }
   ],
   "fieldCounts": [
@@ -46,14 +42,14 @@
     },
     {
       "field": "AI as research tool",
-      "count": 15
-    },
-    {
-      "field": "Human–AI interaction",
-      "count": 11
+      "count": 16
     },
     {
       "field": "Health & wellbeing",
+      "count": 13
+    },
+    {
+      "field": "Human–AI interaction",
       "count": 11
     },
     {
