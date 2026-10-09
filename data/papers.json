@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T08:35:36.236152+00:00",
+  "updatedAt": "2026-10-09T08:42:10.352305+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7208765815",
@@ -167,6 +167,20 @@
         "goal": "The paper examines how education can preserve and develop critical human abilities as generative AI disrupts assessment and knowledge practices.",
         "methodology": "The authors draw on their experiences teaching in the transdisciplinary environment-and-society field to develop a critical perspective and propose AI-proof assessments centered on discern, engage, evaluate, and produce capacities.",
         "finding": "The authors argue that relying on AI outputs can undermine students’ development of these capacities because generative AI is structurally unreliable and lacks ethical sensitivity."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4417324113",
+      "title": "Social simulations with large language model risk Utopian illusion",
+      "authors": "Ning Bian, Xianpei Han, Hongyu Lin, B. C. Y. Wu, Jun Wang",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1057/s41599-026-09282-6",
+      "summary": {
+        "goal": "The study examines whether LLM-based social simulations faithfully reproduce human behavior and identifies divergences that could affect social-science research.",
+        "methodology": "It simulates multi-agent chatroom interactions using eight LLMs from three model families and analyzes them across five linguistic dimensions for emergent social cognitive biases.",
+        "finding": "The LLMs produce overly idealized, socially desirable behavior characterized by social role, primacy, and positivity biases, creating utopian societies that diverge from authentic human interactions."
       }
     },
     {
@@ -741,6 +755,20 @@
         "goal": "The study examines how collaboration with GPT-4o affects creative performance and dynamics compared with collaboration between humans.",
         "methodology": "In a preregistered experiment, 68 human-human pairs and 72 human-AI pairs completed the Alternative Uses Task and creative short-story writing while alternating response order.",
         "finding": "The apparent AI advantage reflected greater verbosity rather than creativity, and human-AI collaboration reduced participants’ creative responses without improving originality or diversity compared with human-human collaboration."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7220656690",
+      "title": "Comparing language models and machine learning classifiers for detecting humorous vaccine misinformation on social media",
+      "authors": "Emily K McKinley, Sijia Qian, Muhammad Ehab Rasul, Kenji Sagae",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s41598-026-74197-w",
+      "summary": {
+        "goal": "The study evaluates whether LLMs can detect humorous COVID-19 vaccine misinformation on Twitter.",
+        "methodology": "Researchers compared logistic regression, linear SVC, RoBERTa, and zero-shot and few-shot GPT-4o prompts on 1,500 human-annotated tweets.",
+        "finding": "Few-shot GPT-4o achieved the highest mean recall and F1 scores for the prompted misinformation types, while RoBERTa performed comparably overall."
       }
     },
     {
