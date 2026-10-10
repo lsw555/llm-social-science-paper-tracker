@@ -1,33 +1,34 @@
 {
-  "updatedAt": "2026-10-09T08:42:10.434266+00:00",
+  "updatedAt": "2026-10-10T08:13:59.078829+00:00",
   "paperCount": 69,
-  "corpusSummary": "Across 2026 records, the corpus chronicles how LLMs and AI tools are studied in real use, governance, and social contexts. It documents evaluation frameworks for deployment, equity-focused governance in health, education and policy, LLMs as research instruments with validation challenges, and nuanced human–AI interactions spanning trust, embodiment, and social influence, alongside concerns about bias, safety, and misinformation.",
+  "corpusSummary": "The corpus assembles 2026 social-science papers on large language models across health, education, policy, climate, and media, emphasizing human–AI interaction, LLM-powered research workflows, and governance. It reveals varied trust and perceived humanness, safety and fairness concerns, and the dual role of LLMs as analytic tools and educational aids. Reliability gaps and misinformation risks call for human oversight and transparent, ethically guided adoption.",
   "themes": [
     {
-      "name": "Real-world AI deployment, evaluation, and governance",
-      "description": "Empirical and framework-based studies examine deployment decisions, contextual consequences, governance, and equity implications across organizational, health, and policy domains."
+      "name": "Trust and social dynamics of AI use",
+      "description": "Trust, perceived humanness, disclosure, and the social dynamics of AI adoption across consumer, educational, clinical, and organizational contexts."
     },
     {
-      "name": "LLMs as social science research tools and methodological challenges",
-      "description": "A spectrum of works explores using LLMs and multi-agent LLM systems for data extraction, analysis, simulation, and theory-building, while highlighting validation, bias, and ethical constraints."
+      "name": "LLMs as research tools and agents in social science",
+      "description": "LLMs are used as methodological collaborators, agents in simulations, and analytic aids—transforming framing, coding, data extraction, policy analysis, and governance, while highlighting validation and ethical concerns."
     },
     {
-      "name": "Human–AI interaction, trust, embodiment, and social influence",
-      "description": "Research investigates how users perceive AI advice, trust AI, experience embodiment, and respond to social cues in education, health, and everyday decision-making."
+      "name": "AI in education and learning",
+      "description": "GenAI influences teaching, learning, and design education, shaping pedagogy, literacy development, and student experiences, with benefits and risks like overreliance and ethics."
     },
     {
-      "name": "AI in health, education, and wellbeing: safety, literacy, and equity",
-      "description": "A cluster of studies focuses on AI-enabled health information, patient education, mental health, literacy, and governance aimed at fairness, accessibility, and readability."
+      "name": "Safety, fairness, and governance of AI",
+      "description": "Across domains, researchers evaluate safety, equity, bias, ethics, misinformation, and governance frameworks guiding responsible AI deployment."
     }
   ],
   "emergingKeywords": [
-    "AI-in-use framework",
-    "embodied knowledge gap",
-    "trust and humanness in AI",
-    "equity-first governance",
-    "LLM-assisted social simulations",
-    "AI literacy and wellbeing",
-    "multi-agent LLM systems in social science"
+    "AI trust dynamics",
+    "AI as research tool",
+    "AI literacy and education",
+    "AI safety and fairness",
+    "AI misinformation and health",
+    "AI governance frameworks",
+    "human–AI collaboration in learning",
+    "multi-agent LLM simulations"
   ],
   "yearCounts": [
     {
