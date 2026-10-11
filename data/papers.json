@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T08:13:59.009924+00:00",
+  "updatedAt": "2026-10-11T08:28:16.821588+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7208765815",
@@ -492,6 +492,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7221010651",
+      "title": "Integrating LLM-based tutor into digital game-based learning for Chinese as a foreign language: impacts on language acquisition, motivation, and learning behaviours",
+      "authors": "Lu Zhang, Lu Fang, Yuhan Huang, Tim Pelton, Jun Oshima",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-09289-z",
+      "summary": {
+        "goal": "The study investigates whether integrating an LLM-based tutor into digital game-based learning improves Chinese language acquisition, motivation, and learning behaviors.",
+        "methodology": "A quasi-experimental study randomly assigned 66 Chinese-as-a-foreign-language learners to six gameplay sessions with either digital game-based learning plus an LLM tutor or digital game-based learning alone.",
+        "finding": "The LLM-tutor group showed greater discourse comprehension, motivational intensity, motivation, self-confidence, adaptive response transitions, and sustained engagement than the comparison group."
+      }
+    },
+    {
       "id": "https://openalex.org/W7220470778",
       "title": "Influence of large language models on pediatricians’ clinical reasoning and decision-making process",
       "authors": "Alkinoos A Armoundas, Maria-Eleni Papakonstantinou, Anastasia-Rafaela Triantafyllou, Aristidis Armoundas, Aris Paschalidis, Georgia Kourlaba, Vassiliki Papaevangelou",
@@ -657,6 +671,20 @@
         "goal": "The study aims to assess whether a Value-Sensitive Design framework for generative AI can support culturally grounded heritage-oriented design learning.",
         "methodology": "In a 12-week quasi-experimental study, 118 design students used either a custom AI pipeline with multimodal LLM tagging, LoRA fine-tuning, and ControlNet constraints or traditional methods.",
         "finding": "The AI group showed significant improvements in aesthetic appreciation, design implementation, and cultural identity, while qualitative feedback indicated reduced drafting barriers and greater focus on cultural curation and aesthetic judgment."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4406272922",
+      "title": "Emergence of polarization in networks of large language model agents",
+      "authors": "Jinghua Piao, Zhihong Lu, Gao Chen, Fengli Xu, Qinghua Hu, Fernando Pereira dos Santos, Yongping Li, James A. Evans",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1038/s41467-026-78228-y",
+      "summary": {
+        "goal": "The paper examines how networked LLM agents develop social networks and polarized political opinions.",
+        "methodology": "It simulates thousands of agents based on GPT-3.5, GPT-4o, ChatGLM, Llama-3, and DeepSeek-V3 that communicate, form networks, and update opinions over time.",
+        "finding": "The agents spontaneously develop homophilic social networks and human-like opinion dynamics, including polarization, while interventions promoting diverse interactions and reducing confirmation bias affect these dynamics."
       }
     },
     {

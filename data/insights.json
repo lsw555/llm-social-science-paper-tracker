@@ -1,45 +1,44 @@
 {
-  "updatedAt": "2026-10-10T08:13:59.078829+00:00",
-  "paperCount": 69,
-  "corpusSummary": "The corpus assembles 2026 social-science papers on large language models across health, education, policy, climate, and media, emphasizing human–AI interaction, LLM-powered research workflows, and governance. It reveals varied trust and perceived humanness, safety and fairness concerns, and the dual role of LLMs as analytic tools and educational aids. Reliability gaps and misinformation risks call for human oversight and transparent, ethically guided adoption.",
+  "updatedAt": "2026-10-11T08:28:16.903905+00:00",
+  "paperCount": 71,
+  "corpusSummary": "Across 2026, social-science studies deploy and critique large language models (LLMs) in health, education, policy, and culture. The corpus highlights methodological innovations (LLM-assisted coding, multi-agent simulations, governance frameworks), rising attention to trust, embodiment, and social influence in human–AI interactions, and ongoing concerns about fairness, bias, and safety. Applications span health misinformation, ESG, AI literacy, and heritage preservation, signaling both promise and need for validation.",
   "themes": [
     {
-      "name": "Trust and social dynamics of AI use",
-      "description": "Trust, perceived humanness, disclosure, and the social dynamics of AI adoption across consumer, educational, clinical, and organizational contexts."
+      "name": "LLM-enabled research methods and governance",
+      "description": "Papers show LLM-assisted data analysis, coding, simulations, and governance frameworks, emphasizing validation, transparency, and ethical oversight across domains."
     },
     {
-      "name": "LLMs as research tools and agents in social science",
-      "description": "LLMs are used as methodological collaborators, agents in simulations, and analytic aids—transforming framing, coding, data extraction, policy analysis, and governance, while highlighting validation and ethical concerns."
+      "name": "Trust, embodiment, and social dynamics in human–AI interaction",
+      "description": "A cross-domain thread examines how perceptions of humanness, AI embodiment, privacy, and social influences shape trust, acceptance, and collaboration with AI."
     },
     {
-      "name": "AI in education and learning",
-      "description": "GenAI influences teaching, learning, and design education, shaping pedagogy, literacy development, and student experiences, with benefits and risks like overreliance and ethics."
+      "name": "Equity, bias, and representation in AI deployment",
+      "description": "Studies assess fairness, cultural adequacy, representation, and governance strategies to mitigate disparities in health, education, and policy contexts."
     },
     {
-      "name": "Safety, fairness, and governance of AI",
-      "description": "Across domains, researchers evaluate safety, equity, bias, ethics, misinformation, and governance frameworks guiding responsible AI deployment."
+      "name": "Education, learning, and heritage in AI-enabled contexts",
+      "description": "GenAI applications in education, AI literacy for diverse populations, and heritage-oriented design explore learning gains alongside risks like overreliance and ethics."
     }
   ],
   "emergingKeywords": [
-    "AI trust dynamics",
-    "AI as research tool",
-    "AI literacy and education",
-    "AI safety and fairness",
-    "AI misinformation and health",
-    "AI governance frameworks",
-    "human–AI collaboration in learning",
-    "multi-agent LLM simulations"
+    "AI-in-use evaluation framework",
+    "situated knowledge in AI",
+    "equity-first governance",
+    "AI literacy for older adults",
+    "trust and human-AI collaboration",
+    "multi-agent LLM simulations",
+    "cultural adequacy and representation in AI"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 69
+      "count": 71
     }
   ],
   "fieldCounts": [
     {
       "field": "Work & education",
-      "count": 18
+      "count": 19
     },
     {
       "field": "AI as research tool",
@@ -55,7 +54,7 @@
     },
     {
       "field": "LLM behavior & bias",
-      "count": 6
+      "count": 7
     },
     {
       "field": "Media & communication",
