@@ -1,33 +1,34 @@
 {
-  "updatedAt": "2026-10-11T08:28:16.903905+00:00",
+  "updatedAt": "2026-10-12T08:49:25.153634+00:00",
   "paperCount": 71,
-  "corpusSummary": "Across 2026, social-science studies deploy and critique large language models (LLMs) in health, education, policy, and culture. The corpus highlights methodological innovations (LLM-assisted coding, multi-agent simulations, governance frameworks), rising attention to trust, embodiment, and social influence in human–AI interactions, and ongoing concerns about fairness, bias, and safety. Applications span health misinformation, ESG, AI literacy, and heritage preservation, signaling both promise and need for validation.",
+  "corpusSummary": "The corpus spans social-science applications of large language models across health, education, governance, and everyday life. It highlights methodological uses of LLMs for data processing and analysis, examines human–AI interaction and trust, explores AI-enabled health information and education, and foregrounds equity, ethics, and governance. It also notes limitations in reliability, embodiment, and cultural adequacy, underscoring calls for validation and transparent practices.",
   "themes": [
     {
-      "name": "LLM-enabled research methods and governance",
-      "description": "Papers show LLM-assisted data analysis, coding, simulations, and governance frameworks, emphasizing validation, transparency, and ethical oversight across domains."
+      "name": "AI as methodological catalyst in social science",
+      "description": "Papers show LLMs enabling data extraction, coding, cross-domain transfer, and simulations, with emphasis on validation, transparency, and ethical oversight."
     },
     {
-      "name": "Trust, embodiment, and social dynamics in human–AI interaction",
-      "description": "A cross-domain thread examines how perceptions of humanness, AI embodiment, privacy, and social influences shape trust, acceptance, and collaboration with AI."
+      "name": "Human–AI interaction, trust, and social dynamics",
+      "description": "Research across health, education, work, and daily life analyzes trust, perceived humanness, embodiment, peer effects, and networked adoption shaping user experience."
     },
     {
-      "name": "Equity, bias, and representation in AI deployment",
-      "description": "Studies assess fairness, cultural adequacy, representation, and governance strategies to mitigate disparities in health, education, and policy contexts."
+      "name": "AI in health, education, and public communication",
+      "description": "Studies address AI-generated health information, patient education, AI tutoring, and AI-assisted public communication, balancing opportunities with safety and quality concerns."
     },
     {
-      "name": "Education, learning, and heritage in AI-enabled contexts",
-      "description": "GenAI applications in education, AI literacy for diverse populations, and heritage-oriented design explore learning gains alongside risks like overreliance and ethics."
+      "name": "Equity, ethics, governance, and fairness in large language models",
+      "description": "A consistent focus on equity-first governance, bias and fairness analyses, and methodological standards to govern responsible AI use."
     }
   ],
   "emergingKeywords": [
-    "AI-in-use evaluation framework",
-    "situated knowledge in AI",
-    "equity-first governance",
+    "AI-in-use evaluation",
+    "situated knowledge",
+    "trust and humanness in AI",
     "AI literacy for older adults",
-    "trust and human-AI collaboration",
-    "multi-agent LLM simulations",
-    "cultural adequacy and representation in AI"
+    "equity-first governance",
+    "fairness across identities",
+    "multi-agent LLM systems",
+    "AI in education and health communications"
   ],
   "yearCounts": [
     {
