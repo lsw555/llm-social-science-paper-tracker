@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T09:06:41.741970+00:00",
+  "updatedAt": "2026-10-14T07:16:27.183634+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7208765815",
@@ -909,6 +909,20 @@
         "goal": "The study examines factors influencing K-12 computer science teachers’ adoption of generative AI in instruction in China.",
         "methodology": "It uses a mixed-methods design combining structural equation modeling of survey data from 338 teachers across 20 provinces with thematic analysis of concept map-supported interviews with 12 teachers.",
         "finding": "Performance expectancy, effort expectancy, innovation expectation, cost-benefit, attitude, and perceived risk shaped adoption intentions, while interviews identified concerns about teacher authority, student overreliance, limited understanding, and data security."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7221519620",
+      "title": "AI-generated language remains systematically distinguishable from human communication",
+      "authors": "Nicolò Pagan, Petter Törnberg, Christopher A. Bail, Christopher Barrie",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1073/pnas.2531748123",
+      "summary": {
+        "goal": "The paper aims to develop a scalable framework for validating and calibrating LLM-generated language used in social-science simulations.",
+        "methodology": "It introduces the Conversational Human Authenticity Test and benchmarks nine open-weight LLMs across five calibration strategies using interactions from X, Bluesky, and Reddit.",
+        "finding": "Even after calibration, LLM outputs remain distinguishable from human text, particularly in affective tone and emotional expression, while greater realism can reduce semantic fidelity."
       }
     },
     {

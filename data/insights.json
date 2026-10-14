@@ -1,38 +1,42 @@
 {
-  "updatedAt": "2026-10-13T09:06:41.824669+00:00",
-  "paperCount": 71,
-  "corpusSummary": "Annual 2026 work coalesces around (1) LLMs as research tools and methodological enablers across disciplines; (2) human–AI interaction, trust, embodiment, and ethics in everyday use; (3) AI in education and AI literacy with equity considerations; (4) health, misinformation, and governance frameworks addressing safety, bias, and cultural adequacy. The corpus also highlights policy-relevant AI adoption, design collaboration, and public-participation applications.",
+  "updatedAt": "2026-10-14T07:16:27.254278+00:00",
+  "paperCount": 72,
+  "corpusSummary": "A broad, multidisciplinary corpus examining how large language models are used, evaluated, and governed across domains. The records reveal empirical work on user trust and adoption, AI-assisted decision making, education, health communication, and policy research. They stress contextualized evaluation, safety and fairness, and the growing role of AI as a methodological tool and pedagogical aid.",
   "themes": [
     {
-      "name": "LLMs as research tools and methodological enablers",
-      "description": "Papers show how LLMs enable new workflows, codebook generation, cross-domain analysis, and multi-agent simulations for social science and humanities research."
+      "name": "Human–AI interaction, trust, and social dynamics",
+      "description": "Studies explore user trust, adoption decisions, social influence, wellbeing, and embodiment in human–AI collaborations across education, health, and daily life."
     },
     {
-      "name": "Human–AI interaction, trust, embodiment, and ethics",
-      "description": "Studies investigate trust dynamics, perceived humanness and empathy, AI device embodiment, privacy concerns, and social implications of AI interactions."
+      "name": "LLM behavior, bias, safety, and robustness",
+      "description": "Researchers investigate bias, misinformation susceptibility, credibility, polarization, and safety of LLM outputs across applications and populations."
     },
     {
-      "name": "AI in education, literacy, and equitable access",
-      "description": "Research on AI tutors, classroom integration, AI literacy for diverse users, and equity considerations in learning and assessment."
+      "name": "AI as research tool and methodological innovations",
+      "description": "Work proposes and evaluates LLM-enabled methods for content analysis, policy study, heritage reconstruction, and multi-agent simulations in social science."
     },
     {
-      "name": "Health, governance, and ethical concerns of AI",
-      "description": "Work on AI’s role in health information, misinformation, patient safety, and equity-focused governance frameworks."
+      "name": "Health and wellbeing implications of AI",
+      "description": "Papers address AI-driven health communication, patient education, digital health equity, and misinformation within health contexts."
+    },
+    {
+      "name": "AI in education and learning",
+      "description": "Research examines AI’s impact on pedagogy, assessment, literacy, teacher–learner dynamics, and strategies for responsible integration in learning environments."
     }
   ],
   "emergingKeywords": [
-    "LLMs as research tools",
-    "multi-agent LLM simulations",
-    "trust and embodiment in AI",
+    "AI-in-use evaluation",
+    "LLM safety and bias",
     "AI literacy and education equity",
-    "AI governance in health and ethics",
-    "AI-enabled policy and public participation",
-    "bias, fairness, and safety in LLMs"
+    "AI as research tool",
+    "Health misinformation and risk communication",
+    "Policy/governance and AI ethics",
+    "Collaborative human–AI creativity"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 71
+      "count": 72
     }
   ],
   "fieldCounts": [
@@ -42,7 +46,7 @@
     },
     {
       "field": "AI as research tool",
-      "count": 17
+      "count": 18
     },
     {
       "field": "Health & wellbeing",
