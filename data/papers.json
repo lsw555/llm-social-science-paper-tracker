@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:16:27.183634+00:00",
+  "updatedAt": "2026-10-15T07:08:29.199621+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7208765815",
@@ -167,6 +167,20 @@
         "goal": "The paper examines how education can preserve and develop critical human abilities as generative AI disrupts assessment and knowledge practices.",
         "methodology": "The authors draw on their experiences teaching in the transdisciplinary environment-and-society field to develop a critical perspective and propose AI-proof assessments centered on discern, engage, evaluate, and produce capacities.",
         "finding": "The authors argue that relying on AI outputs can undermine students’ development of these capacities because generative AI is structurally unreliable and lacks ethical sensitivity."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7221574255",
+      "title": "Synthetic spirituality: AI is reshaping religion",
+      "authors": "Ian McGonigle",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1057/s41599-026-08746-z",
+      "summary": {
+        "goal": "The Comment develops the concept of synthetic spirituality to explain how LLMs are reshaping religious meaning, practice, authority, and agency.",
+        "methodology": "It draws on examples from multiple religious traditions and situates them within scholarship on digital religion and technological mediation.",
+        "finding": "The Comment argues that LLMs reconfigure textual interpretation, pastoral and prophetic roles, and mystical experience while introducing limitations involving hallucination, bias, and interpretive fidelity."
       }
     },
     {

@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-14T07:16:27.254278+00:00",
-  "paperCount": 72,
-  "corpusSummary": "A broad, multidisciplinary corpus examining how large language models are used, evaluated, and governed across domains. The records reveal empirical work on user trust and adoption, AI-assisted decision making, education, health communication, and policy research. They stress contextualized evaluation, safety and fairness, and the growing role of AI as a methodological tool and pedagogical aid.",
+  "updatedAt": "2026-10-15T07:08:29.287850+00:00",
+  "paperCount": 73,
+  "corpusSummary": "Across 2026 social-science records, large language models are analyzed as interaction partners, research tools, and governance concerns across domains (HCI, health, education, environment, media). The corpus highlights trends in trust, embodiment, and user experience; LLMs as collaborative analytical instruments; equity and safety in health and policy contexts; education and learning analytics; and societal implications including polarization, culture, and public participation, all while noting methodological limitations and the need for validation and human oversight.",
   "themes": [
     {
-      "name": "Human–AI interaction, trust, and social dynamics",
-      "description": "Studies explore user trust, adoption decisions, social influence, wellbeing, and embodiment in human–AI collaborations across education, health, and daily life."
+      "name": "Human–AI interaction, trust, embodiment, and social dynamics",
+      "description": "A range of studies examines perceived humanness vs. empathy, how richer AI presentations boost trust, how AI device embodiment affects well‑being and adoption, and how social networks and simulations reveal biases and polarization in AI‑mediated interactions."
     },
     {
-      "name": "LLM behavior, bias, safety, and robustness",
-      "description": "Researchers investigate bias, misinformation susceptibility, credibility, polarization, and safety of LLM outputs across applications and populations."
+      "name": "LLMs as research tools and methodological innovation",
+      "description": "Numerous works treat LLMs as analytical partners or workflow assistants for framing codebooks, sentiment analysis, data extraction, policy planning, and multi‑agent simulations, while calling for rigorous validation, transparency, and ethical oversight."
     },
     {
-      "name": "AI as research tool and methodological innovations",
-      "description": "Work proposes and evaluates LLM-enabled methods for content analysis, policy study, heritage reconstruction, and multi-agent simulations in social science."
+      "name": "Equity, safety, and governance in health, policy, and education",
+      "description": "Studies propose equity‑first governance in digital health, assess fairness in library/reference services, investigate health misinformation and safety/readability, and develop governance frameworks to address bias, cultural adequacy, and oversight."
     },
     {
-      "name": "Health and wellbeing implications of AI",
-      "description": "Papers address AI-driven health communication, patient education, digital health equity, and misinformation within health contexts."
+      "name": "AI in education and learning analytics",
+      "description": "Research scrutinizes AI tutoring, game‑based learning, AI literacy among diverse learners, teacher competencies, and student engagement, alongside concerns about anxiety, overreliance, and pedagogical implications."
     },
     {
-      "name": "AI in education and learning",
-      "description": "Research examines AI’s impact on pedagogy, assessment, literacy, teacher–learner dynamics, and strategies for responsible integration in learning environments."
+      "name": "Societal, cultural, and public‑participation implications of LLMs",
+      "description": "Evidence covers polarization, AI‑mediated religion and spirituality, heritage and urban planning, and public participation in decision‑making, highlighting both empowering possibilities and risks of misinformation, bias, and cultural insensitivity."
     }
   ],
   "emergingKeywords": [
-    "AI-in-use evaluation",
-    "LLM safety and bias",
-    "AI literacy and education equity",
-    "AI as research tool",
-    "Health misinformation and risk communication",
-    "Policy/governance and AI ethics",
-    "Collaborative human–AI creativity"
+    "AI trust dynamics",
+    "AI embodiment and well-being",
+    "LLM-based research tools",
+    "equity-focused governance",
+    "AI literacy and education",
+    "health misinformation safety",
+    "multi-agent LLM simulations"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 72
+      "count": 73
     }
   ],
   "fieldCounts": [
@@ -54,7 +54,7 @@
     },
     {
       "field": "Human–AI interaction",
-      "count": 11
+      "count": 12
     },
     {
       "field": "LLM behavior & bias",
