@@ -1,37 +1,33 @@
 {
-  "updatedAt": "2026-10-15T07:08:29.287850+00:00",
+  "updatedAt": "2026-10-16T06:51:20.774387+00:00",
   "paperCount": 73,
-  "corpusSummary": "Across 2026 social-science records, large language models are analyzed as interaction partners, research tools, and governance concerns across domains (HCI, health, education, environment, media). The corpus highlights trends in trust, embodiment, and user experience; LLMs as collaborative analytical instruments; equity and safety in health and policy contexts; education and learning analytics; and societal implications including polarization, culture, and public participation, all while noting methodological limitations and the need for validation and human oversight.",
+  "corpusSummary": "Across 40+ records, the corpus reveals a landscape where Large Language Models intersect with human decision-making, health, education, policy, and culture. Recurring themes include evaluating real-world AI use, social trust and embodiment, LLMs as research tools requiring validation, and persistent concerns about bias, ethics, and sustainability. Findings depict varied adoption, context-dependent trust, and a strong call for governance and human oversight.",
   "themes": [
     {
-      "name": "Human–AI interaction, trust, embodiment, and social dynamics",
-      "description": "A range of studies examines perceived humanness vs. empathy, how richer AI presentations boost trust, how AI device embodiment affects well‑being and adoption, and how social networks and simulations reveal biases and polarization in AI‑mediated interactions."
+      "name": "Human–AI interaction, trust, and embodiment",
+      "description": "Explores how users perceive, trust, and interact with AI agents, including embodiment, empathy, privacy, and social influence, across consumer, educational, and health contexts."
     },
     {
-      "name": "LLMs as research tools and methodological innovation",
-      "description": "Numerous works treat LLMs as analytical partners or workflow assistants for framing codebooks, sentiment analysis, data extraction, policy planning, and multi‑agent simulations, while calling for rigorous validation, transparency, and ethical oversight."
+      "name": "LLMs as research tools and governance",
+      "description": "Examines methodological opportunities, validation challenges, multi-agent simulations, and governance frameworks for responsible use of LLMs in social science research."
     },
     {
-      "name": "Equity, safety, and governance in health, policy, and education",
-      "description": "Studies propose equity‑first governance in digital health, assess fairness in library/reference services, investigate health misinformation and safety/readability, and develop governance frameworks to address bias, cultural adequacy, and oversight."
+      "name": "AI in health, wellbeing, and education",
+      "description": "Investigates AI-driven health information, patient education, counseling, and AI-enhanced learning and literacy, highlighting safety, accuracy, engagement, and equity considerations."
     },
     {
-      "name": "AI in education and learning analytics",
-      "description": "Research scrutinizes AI tutoring, game‑based learning, AI literacy among diverse learners, teacher competencies, and student engagement, alongside concerns about anxiety, overreliance, and pedagogical implications."
-    },
-    {
-      "name": "Societal, cultural, and public‑participation implications of LLMs",
-      "description": "Evidence covers polarization, AI‑mediated religion and spirituality, heritage and urban planning, and public participation in decision‑making, highlighting both empowering possibilities and risks of misinformation, bias, and cultural insensitivity."
+      "name": "AI in policy, culture, heritage, and inequality",
+      "description": "Covers AI-enabled public participation, policy analysis, climate and ESG implications, heritage preservation, digital humanities, and the digital divide shaping adoption and outcomes."
     }
   ],
   "emergingKeywords": [
-    "AI trust dynamics",
-    "AI embodiment and well-being",
-    "LLM-based research tools",
-    "equity-focused governance",
-    "AI literacy and education",
-    "health misinformation safety",
-    "multi-agent LLM simulations"
+    "AI-in-use evaluation frameworks",
+    "embodied knowledge gap between AI and practice",
+    "trust and perceived empathy in AI",
+    "multi-agent LLM simulations and polarization",
+    "equity-first governance in digital health AI",
+    "digital divide and AI adoption in rural contexts",
+    "heritage-centered AI design"
   ],
   "yearCounts": [
     {
