@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T06:51:20.689467+00:00",
+  "updatedAt": "2026-10-17T06:43:44.166044+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7208765815",
@@ -909,6 +909,20 @@
         "goal": "The study examines whether AI-generated catalogue descriptions approximate human-written quality and how generative AI could support archival and museum cataloguing workflows.",
         "methodology": "InternVL2 generated descriptions of archaeological photographs, which experts and non-experts evaluated after human curation by classifying authorship, rating quality, and reporting willingness to use and trust AI tools.",
         "finding": "Participants performed above chance at identifying AI descriptions, while OCR errors and hallucinations reduced quality perceptions and experts showed lower willingness to adopt AI, supporting human verification and transparent collaboration."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7221808501",
+      "title": "Advancing generative AI for stakeholder empowerment in community-based tourism: an experimental approach to inclusivity and sustainability",
+      "authors": "Jinsheng Jason Zhu, Aranya Siriphon",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1057/s41599-026-09374-3",
+      "summary": {
+        "goal": "The study investigates whether Kimi.ai can simulate interactions among community-based tourism stakeholders to promote inclusivity and sustainability.",
+        "methodology": "It uses identity-based chatbot interactions across six stakeholder groups, analyzed through thematic and sentiment analyses.",
+        "finding": "The abstract reports that GenAI addressed stakeholder-specific needs, supported cultural preservation, and encouraged economic inclusivity, engagement, coordination, and problem-solving."
       }
     },
     {
