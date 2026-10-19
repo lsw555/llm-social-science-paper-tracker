@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-18T07:04:14.773793+00:00",
+  "updatedAt": "2026-10-19T07:28:57.783876+00:00",
   "papers": [
+    {
+      "id": "https://openalex.org/W7222632548",
+      "title": "“Creatures of the symbolic ocean”: toward a structure-mapped apperception of synthetic cognition",
+      "authors": "Qingchen Guo",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1057/s41599-026-09496-8",
+      "summary": {
+        "goal": "The article aims to develop a phenomenological framework for understanding LLM cognition and distinguishing it from embodied human subjectivity.",
+        "methodology": "It conceptually maps processes of human consciousness onto LLM operations, including token embedding, Attention-FFN synthesis, and recursive policy emergence.",
+        "finding": "The framework identifies functional parallels between human consciousness and LLMs while emphasizing fundamental existential differences and implications for mitigating anthropomorphism, dependency, and sycophancy."
+      }
+    },
     {
       "id": "https://openalex.org/W7208765815",
       "title": "Wild, Thick, and Wicked: Situated Evidence on AI-In-Use for Decisions About Deploying AI Systems",
@@ -993,6 +1007,20 @@
         "goal": "The study examines how different AI usage patterns relate to Chinese university students’ perceived critical thinking and how academic motivation moderates these relationships.",
         "methodology": "A cross-sectional survey of 342 undergraduate students measured information retrieval, content generation, and text revision uses of AI, academic motivation, and perceived critical thinking dispositions.",
         "finding": "Information retrieval use was positively associated with perceived critical thinking, content generation use was negatively associated, text revision use was not significant, and motivation moderated these associations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7222405229",
+      "title": "AI can persuade people to take political actions",
+      "authors": "Kobi Hackenburg, Luke Hewitt, Catharina Wagner, Christopher Summerfield, Ben M Tappin",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2026,
+      "field": "Public opinion & politics",
+      "url": "https://doi.org/10.1073/pnas.2611368123",
+      "summary": {
+        "goal": "The study examines whether conversational AI can persuade people to take consequential political and charitable actions, rather than merely change their attitudes.",
+        "methodology": "Two large preregistered experiments with 14,779 participants tested AI persuasion across attitudinal and behavioral outcomes, including petition signing and charitable donations.",
+        "finding": "AI produced sizable behavioral persuasion effects, including a 19.7-percentage-point increase in petition signing, but attitude and behavior effects were uncorrelated and information provision generated the smallest behavioral effect among eight strategies."
       }
     },
     {
