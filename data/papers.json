@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T07:28:57.783876+00:00",
+  "updatedAt": "2026-10-20T07:18:48.041930+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -601,6 +601,20 @@
         "goal": "The study aims to identify generative AI interaction styles among college students and examine their associations with depressive and anxiety symptoms.",
         "methodology": "The researchers used latent profile analysis of 7,029 Chinese college students based on five interaction indicators, followed by comparisons of mental health outcomes and random forest and SHAP analyses of profile predictors.",
         "finding": "The Ambivalent-Attached profile had the highest depressive and anxiety symptoms, with differences aligning more closely with relational quality than use intensity."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7222843132",
+      "title": "From appropriate use to dependency: How AI attitude and use motivations shape university students’ AI dependency",
+      "authors": "Jianfeng Yin, Yueying Zhang, Runjie Jiang",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-09477-x",
+      "summary": {
+        "goal": "The study examines how university students’ attitudes toward AI and motivations for using it shape AI dependency.",
+        "methodology": "A questionnaire study of 405 university students measured AI attitudes, use motivations, and AI dependency, and identified dependency profiles.",
+        "finding": "AI attitudes influenced dependency indirectly through motivation, with intrinsic motivation reducing dependency and identified or external motivation increasing it, while users clustered into dependent, moderate, and conservative profiles."
       }
     },
     {
