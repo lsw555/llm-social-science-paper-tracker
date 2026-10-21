@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T07:18:48.041930+00:00",
+  "updatedAt": "2026-10-21T07:16:13.069545+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -783,6 +783,20 @@
         "goal": "The study examines how willingness to self-disclose, anthropomorphism, and thinking style relate to perceived fit and comfort in AI mental-health chatbot interactions.",
         "methodology": "It uses a laboratory mixed-methods design with 83 participants, combining association analyses, group comparisons, Rational-Experiential Inventory measures, and thematic analysis.",
         "finding": "Willingness to self-disclose was the strongest correlate of perceived fit and comfort, while anthropomorphism strengthened this association without having a stable direct effect."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7222916571",
+      "title": "Decoding urban thermal well-being: bridging the gap between physical cooling and social perception in wetlands via AI-enhanced sensing",
+      "authors": "Guanwei Zhao, Wenqi Wang",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1057/s41599-026-09466-0",
+      "summary": {
+        "goal": "The study aims to connect physical thermal conditions in urban wetlands with visitors’ perceived thermal well-being using AI-enhanced social sensing.",
+        "methodology": "The researchers combined Landsat environmental data with 11,109 online reviews and used large language models to extract thermal sentiments.",
+        "finding": "The analysis found nonlinear relationships between landscape features, temperature, accessibility, and perceived thermal comfort, including turning points for impervious-surface density and land-surface temperature."
       }
     },
     {

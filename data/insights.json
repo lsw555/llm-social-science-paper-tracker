@@ -1,39 +1,38 @@
 {
-  "updatedAt": "2026-10-20T07:18:48.102998+00:00",
-  "paperCount": 77,
-  "corpusSummary": "A 2026 collection of social-science papers on large language models examining human–AI interaction, education, health, policy, and methodological use. It highlights trust, embodiment, and anthropomorphism, alongside AI-driven research methods, governance, and ethics. The corpus exposes both practical opportunities for AI-enabled learning and decision support, and warnings about reliability, bias, mis/ misinformation, and environmental costs.",
+  "updatedAt": "2026-10-21T07:16:13.127692+00:00",
+  "paperCount": 78,
+  "corpusSummary": "The 2026 corpus comprises diverse social-science studies on large language models, spanning behavior, health, education, policy, and research-methods. It highlights tensions between algorithmic cognition and embodied human subjectivity, demonstrates AI-enabled benefits in learning and decision support, and foregrounds equity, safety, and transparency challenges in AI deployment, including misinformation, governance, and methodological validation of AI-inspired research workflows.",
   "themes": [
     {
-      "name": "Human–AI interaction and embodiment dynamics",
-      "description": "Research explores perceived humanness vs. empathy, trust, disclosure, and the effects of AI device embodiment on well‑being, adoption, and social behavior."
+      "name": "LLM Cognition, Embodiment, and Critical Limits",
+      "description": "Papers investigate phenomenological framings of LLM cognition, compare algorithmic processing with embodied human subjectivity, and emphasize risks of anthropomorphism and gaps in situated knowledge."
     },
     {
-      "name": "AI as a methodological tool for social science",
-      "description": "A suite of studies uses LLMs for coding, framing codebooks, data extraction, cross-domain transfer, simulations, and governance frameworks to augment research practice."
+      "name": "AI in Education, Literacy, and Learning Governance",
+      "description": "Research on AI-enabled tutoring, learning analytics, AI literacy across diverse learners, and governance/assessment implications, noting learning gains alongside risks of overreliance, ethics, and data privacy."
     },
     {
-      "name": "AI in education and health domains",
-      "description": "Work examines AI-enabled learning, AI tutoring, educational analytics, and AI-generated health information and counseling, with attention to motivation, anxiety, and accessibility."
+      "name": "AI as Research Tool: Methods, Validation, and Ethics",
+      "description": "The corpus demonstrates LLMs aiding coding, content analysis, sentiment analysis, and simulations, while underscoring the need for validation, transparency, energy considerations, and human oversight."
     },
     {
-      "name": "Equity, governance, and ethics of AI deployment",
-      "description": "Articles propose equity-first governance, fairness evaluations, and critical perspectives on AI's societal impacts, assessment practices, and policy integration."
+      "name": "Health, Equity, and Public-Policy AI",
+      "description": "Studies address equitable governance of digital health LLMs, safety and readability of patient information, misinformation mitigation, and AI’s role in public participation and ESG/policy decision-making."
     }
   ],
   "emergingKeywords": [
-    "anthropomorphism",
-    "AI-in-use evaluation",
-    "equity-first governance",
-    "AI literacy",
-    "misinformation and health misinformation",
-    "multi-agent LLM simulations",
-    "AI adoption in organizations and policy",
-    "fairness evaluation"
+    "LLM cognition and embodiment",
+    "AI literacy and education governance",
+    "AI as research tool and methodology",
+    "Equity-oriented AI governance",
+    "Misinformation, health communication, and safety",
+    "Trust, adoption, and social dynamics of AI",
+    "AI-generated content authenticity and evaluation"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 77
+      "count": 78
     }
   ],
   "fieldCounts": [
@@ -43,7 +42,7 @@
     },
     {
       "field": "AI as research tool",
-      "count": 18
+      "count": 19
     },
     {
       "field": "Human–AI interaction",
