@@ -1,33 +1,34 @@
 {
-  "updatedAt": "2026-10-21T07:16:13.127692+00:00",
+  "updatedAt": "2026-10-22T07:17:48.269269+00:00",
   "paperCount": 78,
-  "corpusSummary": "The 2026 corpus comprises diverse social-science studies on large language models, spanning behavior, health, education, policy, and research-methods. It highlights tensions between algorithmic cognition and embodied human subjectivity, demonstrates AI-enabled benefits in learning and decision support, and foregrounds equity, safety, and transparency challenges in AI deployment, including misinformation, governance, and methodological validation of AI-inspired research workflows.",
+  "corpusSummary": "A diverse 2026 corpus of social-science papers on large language models spans health, education, policy, climate, and everyday human–AI interactions. Across these records, researchers emphasize ethics, equity, and governance; pedagogy, trust, literacy, and safe deployment in learning; human–AI embodiment and social dynamics; and methodological innovation, using LLMs for coding, data analysis, simulations, and policy study. Calls for validation, transparency, and responsible, accessible AI remain prominent.",
   "themes": [
     {
-      "name": "LLM Cognition, Embodiment, and Critical Limits",
-      "description": "Papers investigate phenomenological framings of LLM cognition, compare algorithmic processing with embodied human subjectivity, and emphasize risks of anthropomorphism and gaps in situated knowledge."
+      "name": "Ethics, equity, and governance of generative AI in society",
+      "description": "A synthesis of governance, ethics, and equity concerns across health, education, and AI deployments, emphasizing equity-first governance, cultural adequacy, bias mitigation, and transparent, standardized oversight."
     },
     {
-      "name": "AI in Education, Literacy, and Learning Governance",
-      "description": "Research on AI-enabled tutoring, learning analytics, AI literacy across diverse learners, and governance/assessment implications, noting learning gains alongside risks of overreliance, ethics, and data privacy."
+      "name": "AI in education and learning: trust, literacy, and pedagogy",
+      "description": "Examines AI-enabled tutoring, counseling, assessment, and classroom integration, highlighting trust, AI literacy, dependency risks, and design frameworks to support effective, ethical learning."
     },
     {
-      "name": "AI as Research Tool: Methods, Validation, and Ethics",
-      "description": "The corpus demonstrates LLMs aiding coding, content analysis, sentiment analysis, and simulations, while underscoring the need for validation, transparency, energy considerations, and human oversight."
+      "name": "Human–AI interaction, embodiment, and social dynamics",
+      "description": "Explores how users perceive AI as social actors through embodiment, humanness-empathy tensions, trust, adoption, and the emergence of social dynamics in simulations and everyday interactions."
     },
     {
-      "name": "Health, Equity, and Public-Policy AI",
-      "description": "Studies address equitable governance of digital health LLMs, safety and readability of patient information, misinformation mitigation, and AI’s role in public participation and ESG/policy decision-making."
+      "name": "AI methods, tools, and methodological rigor in social science",
+      "description": "Charts how LLMs and AI tools reshape coding, data analysis, simulations, and policy research, stressing validation, transparency, ethics, and interdisciplinary collaboration."
     }
   ],
   "emergingKeywords": [
-    "LLM cognition and embodiment",
-    "AI literacy and education governance",
-    "AI as research tool and methodology",
-    "Equity-oriented AI governance",
-    "Misinformation, health communication, and safety",
-    "Trust, adoption, and social dynamics of AI",
-    "AI-generated content authenticity and evaluation"
+    "equity-first governance",
+    "AI literacy and dependency",
+    "trust and embodiment in human–AI interaction",
+    "AI-enabled pedagogy",
+    "LLM-based research methods",
+    "misinformation safety",
+    "ESG and sustainability with GenAI",
+    "multi-agent LLM simulations"
   ],
   "yearCounts": [
     {
