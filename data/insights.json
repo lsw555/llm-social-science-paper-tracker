@@ -1,34 +1,33 @@
 {
-  "updatedAt": "2026-10-22T07:17:48.269269+00:00",
+  "updatedAt": "2026-10-23T07:10:19.298220+00:00",
   "paperCount": 78,
-  "corpusSummary": "A diverse 2026 corpus of social-science papers on large language models spans health, education, policy, climate, and everyday human–AI interactions. Across these records, researchers emphasize ethics, equity, and governance; pedagogy, trust, literacy, and safe deployment in learning; human–AI embodiment and social dynamics; and methodological innovation, using LLMs for coding, data analysis, simulations, and policy study. Calls for validation, transparency, and responsible, accessible AI remain prominent.",
+  "corpusSummary": "Across 2026 social-science records on large language models, the corpus reveals a broad research focus on LLM behavior, governance, and ethics; AI as a research tool; health misinformation and clinical decision influence; and education- and workforce-related adoption and literacy. The studies consistently caution against anthropomorphism, surface biases, and reliability concerns while exploring tools for teaching, policy, and problem-solving.",
   "themes": [
     {
-      "name": "Ethics, equity, and governance of generative AI in society",
-      "description": "A synthesis of governance, ethics, and equity concerns across health, education, and AI deployments, emphasizing equity-first governance, cultural adequacy, bias mitigation, and transparent, standardized oversight."
+      "name": "LLM Behavior, Bias, and Social Dynamics",
+      "description": "Studies analyze how LLMs exhibit bias, anthropomorphism, empathy versus humanness, and emergent social behaviors (e.g., polarization and utopian simulation artifacts), with attention to fallibility and mitigation of dependency and sycophancy."
     },
     {
-      "name": "AI in education and learning: trust, literacy, and pedagogy",
-      "description": "Examines AI-enabled tutoring, counseling, assessment, and classroom integration, highlighting trust, AI literacy, dependency risks, and design frameworks to support effective, ethical learning."
+      "name": "LLMs as Methodological Tools for Social Science",
+      "description": "Work on harnessing LLMs as research tools and partners—from framing codebooks and qualitative analysis to policy simulation and urban planning—along with calls for validation, transparency, and governance."
     },
     {
-      "name": "Human–AI interaction, embodiment, and social dynamics",
-      "description": "Explores how users perceive AI as social actors through embodiment, humanness-empathy tensions, trust, adoption, and the emergence of social dynamics in simulations and everyday interactions."
+      "name": "AI in Health and Wellbeing",
+      "description": "Research on AI’s role in health contexts, including health misinformation, digital health equity, patient education, and clinicians’ decision-making under AI advice."
     },
     {
-      "name": "AI methods, tools, and methodological rigor in social science",
-      "description": "Charts how LLMs and AI tools reshape coding, data analysis, simulations, and policy research, stressing validation, transparency, ethics, and interdisciplinary collaboration."
+      "name": "AI in Education and Learning",
+      "description": "Empirical work on AI-enabled learning, literacy, tutoring, and classroom adoption by teachers and students, exploring engagement, motivation, and pedagogy in AI-era education."
     }
   ],
   "emergingKeywords": [
-    "equity-first governance",
-    "AI literacy and dependency",
-    "trust and embodiment in human–AI interaction",
-    "AI-enabled pedagogy",
-    "LLM-based research methods",
-    "misinformation safety",
-    "ESG and sustainability with GenAI",
-    "multi-agent LLM simulations"
+    "LLM bias and anthropomorphism",
+    "AI governance and equity in health",
+    "AI as research tool and standards",
+    "Health misinformation and digital health literacy",
+    "AI literacy and education",
+    "Multi-agent LLM simulations and social dynamics",
+    "Trust and user interaction with AI"
   ],
   "yearCounts": [
     {
