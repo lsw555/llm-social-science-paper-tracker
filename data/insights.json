@@ -1,38 +1,39 @@
 {
-  "updatedAt": "2026-10-23T07:10:19.298220+00:00",
-  "paperCount": 78,
-  "corpusSummary": "Across 2026 social-science records on large language models, the corpus reveals a broad research focus on LLM behavior, governance, and ethics; AI as a research tool; health misinformation and clinical decision influence; and education- and workforce-related adoption and literacy. The studies consistently caution against anthropomorphism, surface biases, and reliability concerns while exploring tools for teaching, policy, and problem-solving.",
+  "updatedAt": "2026-10-24T06:59:46.231935+00:00",
+  "paperCount": 79,
+  "corpusSummary": "Across 2026 records, this corpus surveys how large language models intersect social science—from methodological use as analytical collaborators and simulations to analyses of human–AI interaction, trust, and adoption, to applications in education, health, policy, and organizational ESG. It chronicles benefits (personalized learning, decision support, rapid analysis) alongside risks (bias, misinformation, safety, ethics), and foregrounds governance, equity-first auditing, and critical appraisal of AI’s social implications.",
   "themes": [
     {
-      "name": "LLM Behavior, Bias, and Social Dynamics",
-      "description": "Studies analyze how LLMs exhibit bias, anthropomorphism, empathy versus humanness, and emergent social behaviors (e.g., polarization and utopian simulation artifacts), with attention to fallibility and mitigation of dependency and sycophancy."
+      "name": "LLMs as methodological tools in social science",
+      "description": "Papers show LLMs as analytical collaborators for coding, framing, sentiment, content analysis, and simulations, with emphasis on validation and transparent governance."
     },
     {
-      "name": "LLMs as Methodological Tools for Social Science",
-      "description": "Work on harnessing LLMs as research tools and partners—from framing codebooks and qualitative analysis to policy simulation and urban planning—along with calls for validation, transparency, and governance."
+      "name": "Human–AI interaction, trust, and embodiment",
+      "description": "Research maps trust, perceived humanness, device embodiment, social influence, and adoption barriers across health, education, work, and crisis contexts."
     },
     {
-      "name": "AI in Health and Wellbeing",
-      "description": "Research on AI’s role in health contexts, including health misinformation, digital health equity, patient education, and clinicians’ decision-making under AI advice."
+      "name": "AI in education, health, and well-being: benefits and risks",
+      "description": "GenAI enhances personalized learning, tutoring, and health information but raises concerns about safety, reliability, ethics, and dependence."
     },
     {
-      "name": "AI in Education and Learning",
-      "description": "Empirical work on AI-enabled learning, literacy, tutoring, and classroom adoption by teachers and students, exploring engagement, motivation, and pedagogy in AI-era education."
+      "name": "Equity, governance, and societal implications of AI",
+      "description": "Work assesses fairness, bias, cultural adequacy, misinformation, governance frameworks, and policy implications across domains."
     }
   ],
   "emergingKeywords": [
-    "LLM bias and anthropomorphism",
-    "AI governance and equity in health",
-    "AI as research tool and standards",
-    "Health misinformation and digital health literacy",
-    "AI literacy and education",
-    "Multi-agent LLM simulations and social dynamics",
-    "Trust and user interaction with AI"
+    "LLMs as research collaborators",
+    "trust and perceived humanness in AI",
+    "AI ethics and governance frameworks",
+    "AI in education and literacy",
+    "AI in health information and misinformation",
+    "AI bias and fairness evaluation",
+    "policy and governance with LLMs",
+    "multimodal AI in design and development"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 78
+      "count": 79
     }
   ],
   "fieldCounts": [
@@ -46,7 +47,7 @@
     },
     {
       "field": "Human–AI interaction",
-      "count": 13
+      "count": 14
     },
     {
       "field": "Health & wellbeing",

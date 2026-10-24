@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T07:10:18.973775+00:00",
+  "updatedAt": "2026-10-24T06:59:46.162692+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -559,6 +559,20 @@
         "goal": "The study examines how individual skill levels and different forms of human–AI interaction relate to creative outcomes measured by novelty and usefulness.",
         "methodology": "Using quasi-experimental data, the study compares cognitive, informative, and logical AI interactions among low-, medium-, and high-skill individuals.",
         "finding": "Logical interactions are positively associated with novelty and usefulness, cognitive interactions with novelty, and informative interactions with usefulness, while medium-skill individuals perform best overall and low-skill individuals show the greatest improvement potential."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7223181770",
+      "title": "Human-AI collaboration in crisis response: understanding adoption barriers and enablers for generative AI in emergency decision-making",
+      "authors": "Liguo Fei, Jiayi Sun, Zongfeng Sun",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1057/s41599-026-09366-3",
+      "summary": {
+        "goal": "The study examines barriers and enablers influencing emergency decision-makers’ adoption of generative AI in crisis response.",
+        "methodology": "It uses expert interviews and intuitionistic fuzzy DEMATEL analysis with Chinese emergency management practitioners.",
+        "finding": "Contextual factors and decision-making processes are primary drivers, while organizational support, trust-building, and self-efficacy enable successful human–AI collaboration."
       }
     },
     {
