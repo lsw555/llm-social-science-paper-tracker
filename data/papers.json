@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T06:59:46.162692+00:00",
+  "updatedAt": "2026-10-25T07:23:44.299601+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -744,6 +744,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7161712988",
+      "title": "Dynamics of collective creativity in AI art competitions",
+      "authors": "Mason Youngblood, Jeff Nusz, Joel Simon",
+      "journal": "PNAS Nexus",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1093/pnasnexus/pgag369",
+      "summary": {
+        "goal": "The study examines how collective creativity and cultural evolution unfold in networked systems involving humans and generative AI.",
+        "methodology": "The authors analyze 130,882 images from 368 Artbreeder remix parties over 13 months.",
+        "finding": "Images became less novel and closer to their parents over time, while novelty attracted more likes but not more remixes and larger parties produced more novel but less complex images."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204999235",
       "title": "Don’t Look up: Evaluating the Tradeoff Between Performance and Sustainability of Text Classification Using Open LLMs",
       "authors": "Sean-Kelly Palicki, Isaac Bravo, Clint Claessen",
@@ -1021,6 +1035,20 @@
         "goal": "The study examines whether AI-generated food images are perceived similarly to real food images in terms of realism, willingness to eat, calorie content, and healthiness.",
         "methodology": "In a within-subject online experiment, 87 participants rated 60 matched pairs of AI-generated and pre-validated real food images on four visual analogue scales.",
         "finding": "AI-generated images were rated as less realistic and less appealing to eat, while perceived healthiness and calorie content did not differ from real images."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7223172338",
+      "title": "AI-generated content-plagiarism versus institutional silence: comparative insights on responses of higher education to rapid technological changes in China and Japan",
+      "authors": "Zhang Taolue, Chen Hunan",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-09431-x",
+      "summary": {
+        "goal": "The study compares how higher education systems in China and Japan respond to plagiarism involving generative AI.",
+        "methodology": "It conducts a comparative analysis of Japanese government policies and 359 Japanese universities alongside the Chinese context.",
+        "finding": "It finds that Japan’s “No Copy + Exceptions” approach is instructive, while Chinese institutional silence reflects technological and political uncertainty and amounts to passive acquiescence."
       }
     },
     {
