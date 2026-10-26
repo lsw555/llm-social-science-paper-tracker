@@ -1,33 +1,37 @@
 {
-  "updatedAt": "2026-10-25T07:23:44.382146+00:00",
+  "updatedAt": "2026-10-26T07:33:20.376995+00:00",
   "paperCount": 81,
-  "corpusSummary": "Across 2026 social-science studies, the corpus reveals rapid growth of LLM-enabled methods, critical reflection on AI’s social effects, and applications spanning education, health, policy, and culture. Researchers explore methodological opportunities and governance needs for LLMs, examine trust, bias, and equity in deployment, and assess AI’s influence on learning, decision-making, and public discourse. A common emphasis is on validation, transparency, and human-centered oversight to mitigate risks.",
+  "corpusSummary": "The corpus assembles a diverse set of 2026 social-science studies on large language models, highlighting themes of LLM behavior and bias, methodological use of LLMs in research and governance, AI in education and health, and the social dynamics of AI adoption and polarization. Across fields, researchers probe trust, fairness, evaluation, and ethical integration, while testing AI’s limits and opportunities.",
   "themes": [
     {
-      "name": "LLM-enabled social science methods and governance",
-      "description": "Studies examine how LLMs augment research methods, simulations, and public-participation tools while highlighting validation, transparency, and governance needs."
+      "name": "Mimicry, bias, and trust in LLMs",
+      "description": "A body of work examines how LLMs mirror or diverge from human cognition and social behavior, revealing attention to anthropomorphism, bias, and the need for reliability, fairness, and mitigation strategies."
     },
     {
-      "name": "Trust, ethics, equity, and societal impact of AI",
-      "description": "Research across domains investigates trust, anthropomorphism, cultural adequacy, misinformation, and equitable governance, underscoring ethical considerations and governance frameworks."
+      "name": "LLMs as social-science tools and governance frameworks",
+      "description": "Researchers explore using LLMs for data extraction, coding, simulation, and policy analysis while emphasizing validation, transparency, and ethical governance to guide responsible use."
     },
     {
-      "name": "AI in education, learning, and literacy",
-      "description": "Research investigates AI’s effects on learning outcomes, pedagogy, classroom dynamics, AI literacy, and risks such as overreliance and assessment challenges."
+      "name": "AI in education and learning",
+      "description": "Studies address AI tutoring, classroom integration, and learner trust, investigating AI-based learning tools and their effects on engagement, literacy, and pedagogy across diverse populations."
     },
     {
-      "name": "Health, wellbeing, misinformation, and AI in health communication",
-      "description": "A cluster analyzes AI’s role in health information, patient education, sharing behaviors, and health misinformation, with safety and readability considerations."
+      "name": "AI in health communication, misinformation, and equity",
+      "description": "A cluster of work analyzes AI-driven misinformation, health information quality, patient education, and equity considerations in deploying digital health AI."
+    },
+    {
+      "name": "Social dynamics, polarization, and AI adoption",
+      "description": "Research into AI-enabled social systems examines how LLM agents, adoption patterns, and crisis-response tools shape networks, polarization, and collective creativity, including interventions for diversity and responsible use."
     }
   ],
   "emergingKeywords": [
-    "equity-first AI governance",
-    "AI literacy and dependency",
-    "trust and perceived humanness in AI feedback",
-    "AI-assisted education and scaffolding",
-    "AI for public participation and urban planning",
-    "health AI safety and misinformation",
-    "robustness and fairness of LLMs in practice"
+    "anthropomorphism mitigation",
+    "equity-first governance",
+    "AI literacy for older adults",
+    "trust in AI feedback",
+    "multi-agent LLM ecosystems",
+    "polarization in AI-enabled networks",
+    "AI in education and teacher adoption"
   ],
   "yearCounts": [
     {
