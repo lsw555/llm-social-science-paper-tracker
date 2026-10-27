@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T07:33:20.294375+00:00",
+  "updatedAt": "2026-10-27T07:30:02.335711+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -517,6 +517,20 @@
         "goal": "The paper examines how LLMs can augment established public policy research methods while addressing methodological and ethical challenges.",
         "methodology": "It provides a conceptual analysis of LLM applications in qualitative inquiry, quantitative analysis, and simulation-based research and proposes an Objective-Path-Boundary governance framework.",
         "finding": "The paper argues that LLMs are enabling research tools whose value depends on validation, transparency, standardized protocols, and ethical scrutiny."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7223356112",
+      "title": "Knowledge and attitudes of Egyptian medical students towards artificial intelligence application in medical practice: a multicenter cross‑sectional study",
+      "authors": "Mohamed El-Helaly, Abdelaziz M. Hussein, Amira Ibrahim Taman, Nesrine Saad Farrag, Asmaa Ali Elfeky, Ahmed Mohamed Elhelaly, Noha Essam",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1038/s41598-026-72964-3",
+      "summary": {
+        "goal": "The study aimed to assess Egyptian medical students’ knowledge and attitudes toward applying artificial intelligence in medical practice.",
+        "methodology": "Researchers conducted a multicenter cross-sectional survey of 1,438 undergraduate medical students from seven Egyptian medical schools using a validated web-based questionnaire.",
+        "finding": "Most students demonstrated good knowledge and positive attitudes toward AI, although the authors identified limited institutional guidance and recommended integrating AI literacy and ethics into medical curricula."
       }
     },
     {
