@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T07:30:02.335711+00:00",
+  "updatedAt": "2026-10-28T08:02:30.073901+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -531,6 +531,20 @@
         "goal": "The study aimed to assess Egyptian medical students’ knowledge and attitudes toward applying artificial intelligence in medical practice.",
         "methodology": "Researchers conducted a multicenter cross-sectional survey of 1,438 undergraduate medical students from seven Egyptian medical schools using a validated web-based questionnaire.",
         "finding": "Most students demonstrated good knowledge and positive attitudes toward AI, although the authors identified limited institutional guidance and recommended integrating AI literacy and ethics into medical curricula."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7223275921",
+      "title": "Intelligent educational agent-based collaborative scaffolding for STEM interdisciplinary project-based learning: a multi-dimensional framework and empirical evaluation",
+      "authors": "Jingjing Zang",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1038/s41598-026-75820-6",
+      "summary": {
+        "goal": "The paper evaluates an intelligent educational agent-based scaffolding model for interdisciplinary STEM project-based learning.",
+        "methodology": "Twenty-four student teams were assigned to agent-based scaffolding, teacher-led scaffolding, or unsupported collaboration and compared using baseline-adjusted cluster-robust models.",
+        "finding": "Agent-based scaffolding improved posttest achievement and interdisciplinary integration relative to unsupported collaboration, while teacher-led scaffolding produced intermediate outcomes."
       }
     },
     {
