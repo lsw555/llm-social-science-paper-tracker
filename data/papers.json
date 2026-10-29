@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T08:02:30.073901+00:00",
+  "updatedAt": "2026-10-29T08:12:37.664520+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -517,6 +517,20 @@
         "goal": "The paper examines how LLMs can augment established public policy research methods while addressing methodological and ethical challenges.",
         "methodology": "It provides a conceptual analysis of LLM applications in qualitative inquiry, quantitative analysis, and simulation-based research and proposes an Objective-Path-Boundary governance framework.",
         "finding": "The paper argues that LLMs are enabling research tools whose value depends on validation, transparency, standardized protocols, and ethical scrutiny."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7223650793",
+      "title": "Language-based assessments for experienced well-being: accuracy and external validity across behaviors, traits, and states",
+      "authors": "August Nilsson, Ryan L. Boyd, Adithya V Ganesan, Oscar Kjell, Syeda Mahwish, Haitao Huang, Richard N. Rosenthal, Lyle Ungar",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s41598-026-76359-2",
+      "summary": {
+        "goal": "The study evaluates whether LLM-based analysis of language responses can assess experienced well-being more accurately and informatively than traditional rating scales.",
+        "methodology": "The authors used LLMs and machine learning to analyze short essays, descriptive words, and ratings from 764 U.S. hospitality workers over 12 weeks, comparing their accuracy across affective traits and 24 external criteria.",
+        "finding": "Language-based responses had comparable internal accuracy to ratings but doubled accuracy across external criteria and provided richer psychological information, with words capturing emotional nuances and essays capturing broader life contexts."
       }
     },
     {
