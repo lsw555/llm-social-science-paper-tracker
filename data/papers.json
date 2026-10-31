@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T08:17:46.069352+00:00",
+  "updatedAt": "2026-10-31T08:08:22.300592+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -825,6 +825,20 @@
         "goal": "The study examines whether employee AI literacy predicts later work engagement through work self-efficacy and job burnout.",
         "methodology": "Researchers conducted a three-wave, one-year longitudinal survey of 1,108 employees, measuring AI literacy and work engagement at baseline, mediators after six months, and work engagement after one year.",
         "finding": "AI literacy positively predicted later work engagement directly and indirectly through work self-efficacy, job burnout, and their chain mediation, controlling for demographics, AI use intensity, and baseline engagement."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7224137745",
+      "title": "Divergent user expectations of conversational AI: a comparative sentiment and thematic analysis of ChatGPT and Replika app store reviews",
+      "authors": "Kausalya N, Gemini Velleringatt Joy",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1038/s41598-026-77683-3",
+      "summary": {
+        "goal": "The study examines how users evaluate task-oriented ChatGPT and companionship-oriented Replika according to instrumental and relational expectations.",
+        "methodology": "It computationally analyzes sentiment, emotions, topics, ratings, and rating-language relationships in 6,000 publicly available app store reviews using sentiment lexicons, NRC emotion analysis, topic modeling, and inferential tests.",
+        "finding": "ChatGPT reviews emphasized task assistance and usefulness, whereas Replika reviews emphasized conversation and companionship, with differences in emotions, ratings, and evaluative framing."
       }
     },
     {

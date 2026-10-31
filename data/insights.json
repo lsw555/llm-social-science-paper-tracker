@@ -1,38 +1,39 @@
 {
-  "updatedAt": "2026-10-30T08:17:46.149783+00:00",
-  "paperCount": 84,
-  "corpusSummary": "Across 2026 publications, large language models are studied as both analytical tools and social actors. Researchers explore methodological uses in policy, climate, health, and humanities, while examining human–AI interaction, trust, embodiment, ethics, and governance. The corpus highlights equity, safety, and literacy considerations, and notes persistent concerns around mis/disinformation, anthropomorphism, and access disparities in diverse settings.",
+  "updatedAt": "2026-10-31T08:08:22.381848+00:00",
+  "paperCount": 85,
+  "corpusSummary": "Across 2026 records, the corpus maps diverse social-science inquiries into large language models, spanning trust, embodiment, and ethics in human-AI interaction; AI as a research instrument for policy, climate, health, and education; assessment of safety, fairness, and misinformation; and the societal implications of AI-enabled decision making, pedagogy, and participation. The collection reveals recurring concerns about anthropomorphism, bias, dependency, and the need for governance and transparency.",
   "themes": [
     {
-      "name": "AI as a methodological instrument for social science",
-      "description": "Papers position LLMs as analytical tools and theory-builders across policy, climate, health, and humanities, enabling cross-domain transfer, framing analyses, and agentic simulations while raising validity and ethics concerns."
+      "name": "Human-AI interaction: trust, embodiment, and social dynamics",
+      "description": "Studies document how users perceive humanness and empathy, how devices influence well-being, and how adoption is shaped by social context, privacy, and trust in AI."
     },
     {
-      "name": "Human–AI interaction, trust, and social dynamics",
-      "description": "Research investigates trust, perceived humanness vs. empathy, AI embodiment, and how social networks and contexts shape AI adoption and the effectiveness of AI assistance."
+      "name": "AI as a research tool: methodological innovations, validation, and governance",
+      "description": "A broad set of papers demonstrates LLMs supporting data extraction, coding, simulations, and policy analysis, while emphasizing validation, transparency, and ethical oversight."
     },
     {
-      "name": "AI in education: literacy, tutoring, and assessment",
-      "description": "Studies examine AI-assisted tutoring, scaffolding, and learning analytics, as well as AI literacy development and assessment integrity in educational contexts."
+      "name": "AI in health, education, and well-being: safety, literacy, and equity",
+      "description": "Research assesses AI's role in health misinformation, clinical decision-making, AI-assisted education, and equity concerns in digital health governance."
     },
     {
-      "name": "Equity, health governance, and ethical accountability",
-      "description": "Work focuses on equity-first governance for digital health AI, fairness in services, clinical safety, and frameworks to audit bias and cultural adequacy in AI deployments."
+      "name": "AI, misinformation, polarization, and governance in society",
+      "description": "There is a focus on misinformation, political persuasion, polarization, deepfakes, and governance frameworks for responsible AI deployment."
     }
   ],
   "emergingKeywords": [
-    "AI as research tool",
-    "trust in AI",
-    "AI literacy",
+    "AI-in-use framework",
+    "AI device embodiment",
+    "perceived humanness vs empathy",
     "equity-first governance",
-    "AI embodiment",
-    "multi-agent LLM simulations",
-    "health misinformation"
+    "multi-agent LLM systems",
+    "narrative polarization",
+    "AI literacy and education",
+    "AI-assisted policy research"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 84
+      "count": 85
     }
   ],
   "fieldCounts": [
@@ -46,7 +47,7 @@
     },
     {
       "field": "Human–AI interaction",
-      "count": 14
+      "count": 15
     },
     {
       "field": "Health & wellbeing",
