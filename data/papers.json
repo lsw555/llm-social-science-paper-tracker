@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T08:08:22.300592+00:00",
+  "updatedAt": "2026-11-01T08:53:50.543632+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -772,6 +772,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7224346913",
+      "title": "Emotional and behavioral asymmetries in user responses to virtual versus human influencers",
+      "authors": "Kathleen M. Jagodnik, Alon Bartal",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1038/s41598-026-77485-7",
+      "summary": {
+        "goal": "The study examines whether AI virtual influencers elicit emotional and semantic responses comparable to those elicited by human influencers.",
+        "methodology": "The authors analyzed 156,918 Instagram comments using LLM-derived knowledge graphs, emotion analysis, behavioral metrics, semantic embeddings, and machine-learning classification.",
+        "finding": "Comments directed at AI virtual influencers showed less positive and negative affect and less differentiated semantic expression than comments directed at human influencers, although responses varied across AI influencers."
+      }
+    },
+    {
       "id": "https://openalex.org/W4406272922",
       "title": "Emergence of polarization in networks of large language model agents",
       "authors": "Jinghua Piao, Zhihong Lu, Gao Chen, Fengli Xu, Qinghua Hu, Fernando Pereira dos Santos, Yongping Li, James A. Evans",
@@ -867,6 +881,20 @@
         "goal": "The study examines how willingness to self-disclose, anthropomorphism, and thinking style relate to perceived fit and comfort in AI mental-health chatbot interactions.",
         "methodology": "It uses a laboratory mixed-methods design with 83 participants, combining association analyses, group comparisons, Rational-Experiential Inventory measures, and thematic analysis.",
         "finding": "Willingness to self-disclose was the strongest correlate of perceived fit and comfort, while anthropomorphism strengthened this association without having a stable direct effect."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7224360030",
+      "title": "Dentists’ acceptance of artificial intelligence-assisted decision support for oral potentially malignant disorder detection: a structural equation modeling study",
+      "authors": "Dalia M. Ghalwash",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41598-026-73787-y",
+      "summary": {
+        "goal": "The study aimed to identify factors associated with dentists’ acceptance of AI-assisted decision support for detecting oral potentially malignant disorders.",
+        "methodology": "A cross-sectional survey of 500 dentists used confirmatory factor analysis and structural equation modeling with bootstrap mediation analysis based on an extended Technology Acceptance Model.",
+        "finding": "Dentists reported favorable behavioral intentions, with attitude toward AI showing the strongest association with intention, and the model explaining 67.5% of its variance."
       }
     },
     {
