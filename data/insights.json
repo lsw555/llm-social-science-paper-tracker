@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-11-01T08:53:50.620126+00:00",
+  "updatedAt": "2026-11-02T09:01:49.867566+00:00",
   "paperCount": 87,
-  "corpusSummary": "Across 2026 papers, the corpus maps how large language models intersect society, learning, policy, and research practice. It highlights LLMs as tools for analysis, design, and decision support, while exposing persistent concerns about bias, safety, accountability, and anthropomorphism. The records show shifting emphasis toward user trust, ethical governance, educational integration, and culturally grounded assessments, with a strong call for validation and responsible deployment.",
+  "corpusSummary": "Across 2026 records, the corpus maps broad exploration of large language models in social science, spanning education, health, policy, and everyday life. It reveals recurring concerns about reliability, safety, and bias, alongside opportunities for AI-enabled learning, research methods, and governance. The literature highlights diverse human-AI interactions, social dynamics, and cross-domain analytics that demand careful validation and ethical framing.",
   "themes": [
     {
-      "name": "LLMs as research tools and methodological shifts",
-      "description": "The corpus documents growing use of LLMs for data extraction, coding, simulation, and analytical workflows across disciplines, with emphasis on validation, transparency, and ethical oversight."
+      "name": "LLM reliability, safety, and governance in practice",
+      "description": "A cross-section of 2026 papers scrutinize LLM fallibility, safety, fairness, and the need for governance frameworks to mitigate misinformation, bias, and misleading behavior."
     },
     {
-      "name": "Human–AI interaction, trust, and adoption",
-      "description": "A broad set of studies investigates user interaction with AI across health, education, parenting, design, and crisis contexts, focusing on trust, privacy, social influence, and barriers and enablers to adoption."
+      "name": "AI-enhanced learning and education design",
+      "description": "Studies explore AI tutors, scaffolding, classroom integration, and AI literacy across school, higher education, and lifelong learning, assessing trust, engagement, pedagogy, and outcomes."
     },
     {
-      "name": "Education, learning, and AI literacy",
-      "description": "Work spans AI-assisted learning, tutoring, scaffolding, and literacy development, alongside concerns about dependency, ethics, and the evolving role of teachers and curricula."
+      "name": "Socio-technical dynamics of AI adoption and interaction",
+      "description": "A broad set of studies analyze how users trust, anthropomorphism, peer influence, social networks, and organizational contexts shape adoption, use, and collaboration with AI."
     },
     {
-      "name": "Safety, bias, and ethics in LLMs",
-      "description": "Multiple studies assess fairness, safety, misinformation, fallibility, and cultural adequacy, advocating standardized protocols and responsible deployment."
+      "name": "AI as a cross-disciplinary research and policy instrument",
+      "description": "Papers show LLMs used to support research methods, policy analysis, climate and health governance, and cultural heritage, alongside methodological debates about validation and ethics."
     }
   ],
   "emergingKeywords": [
-    "AI literacy",
-    "Trust and adoption",
-    "AI as research tool",
-    "Safety and bias evaluation",
-    "Misinformation risk",
-    "Equity governance",
-    "Anthropomorphism and humanness",
-    "Multi-agent LLM simulations"
+    "AI reliability and safety governance",
+    "Human-AI trust and adoption dynamics",
+    "AI literacy and education integration",
+    "AI in health information and misinformation",
+    "LLM-enabled research methods and governance",
+    "Embodiment, empathy, and anthropomorphism in AI",
+    "Climate and ESG analytics with LLMs",
+    "Creative collaboration with AI systems"
   ],
   "yearCounts": [
     {
