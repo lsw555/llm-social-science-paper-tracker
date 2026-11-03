@@ -1,45 +1,45 @@
 {
-  "updatedAt": "2026-11-02T09:01:49.867566+00:00",
-  "paperCount": 87,
-  "corpusSummary": "Across 2026 records, the corpus maps broad exploration of large language models in social science, spanning education, health, policy, and everyday life. It reveals recurring concerns about reliability, safety, and bias, alongside opportunities for AI-enabled learning, research methods, and governance. The literature highlights diverse human-AI interactions, social dynamics, and cross-domain analytics that demand careful validation and ethical framing.",
+  "updatedAt": "2026-11-03T09:10:35.578574+00:00",
+  "paperCount": 88,
+  "corpusSummary": "Across 2026 papers on large language models, the corpus reveals a tension between ambitious AI capabilities and persistent gaps in embodiment, situated knowledge, and governance. Clusters include critical framings of LLM cognition and anthropomorphism; trust, ethics, and equity in health, education, and policy; AI-supported learning and concerns about dependency; and the emergence of LLMs as methodological tools requiring validation, transparency, and safety standards.",
   "themes": [
     {
-      "name": "LLM reliability, safety, and governance in practice",
-      "description": "A cross-section of 2026 papers scrutinize LLM fallibility, safety, fairness, and the need for governance frameworks to mitigate misinformation, bias, and misleading behavior."
+      "name": "Cognition, embodiment, and the limits of AI agency",
+      "description": "Maps cognition-like processes onto LLMs, highlights embodied knowledge gaps, and cautions against anthropomorphism and conflating AI outputs with subjective experience."
     },
     {
-      "name": "AI-enhanced learning and education design",
-      "description": "Studies explore AI tutors, scaffolding, classroom integration, and AI literacy across school, higher education, and lifelong learning, assessing trust, engagement, pedagogy, and outcomes."
+      "name": "Trust, governance, and responsible AI deployment",
+      "description": "Examines equity-focused governance, trust dynamics in AI counseling, and organizational and professional adoption barriers across sectors."
     },
     {
-      "name": "Socio-technical dynamics of AI adoption and interaction",
-      "description": "A broad set of studies analyze how users trust, anthropomorphism, peer influence, social networks, and organizational contexts shape adoption, use, and collaboration with AI."
+      "name": "AI in education and learning: pedagogy, literacy, and dependency",
+      "description": "Investigates AI tutoring, scaffolding, and learning analytics, plus risks of overreliance, ethical concerns, and the need for AI literacy."
     },
     {
-      "name": "AI as a cross-disciplinary research and policy instrument",
-      "description": "Papers show LLMs used to support research methods, policy analysis, climate and health governance, and cultural heritage, alongside methodological debates about validation and ethics."
+      "name": "LLMs as research tools: opportunities, standards, and validation",
+      "description": "Explores LLM-enabled methods in policy, design, data analysis, and social science workflows, with emphasis on validation, transparency, and ethical oversight."
     }
   ],
   "emergingKeywords": [
-    "AI reliability and safety governance",
-    "Human-AI trust and adoption dynamics",
-    "AI literacy and education integration",
-    "AI in health information and misinformation",
-    "LLM-enabled research methods and governance",
-    "Embodiment, empathy, and anthropomorphism in AI",
-    "Climate and ESG analytics with LLMs",
-    "Creative collaboration with AI systems"
+    "embodied cognition gap",
+    "equity-first governance",
+    "AI literacy and dependency",
+    "pedagogical scaffolding with LLMs",
+    "LLMs as research tools and standards",
+    "anthropomorphism in AI interactions",
+    "social dynamics and polarization of AI agents",
+    "trust and safety in AI deployment"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 87
+      "count": 88
     }
   ],
   "fieldCounts": [
     {
       "field": "Work & education",
-      "count": 23
+      "count": 24
     },
     {
       "field": "AI as research tool",

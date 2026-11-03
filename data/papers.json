@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T09:01:49.812891+00:00",
+  "updatedAt": "2026-11-03T09:10:35.524402+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -979,6 +979,20 @@
         "goal": "The study compares DeepSeek-V4 with human clinicians in generating accurate and safe self-management education materials for patients with diabetic foot ulcers.",
         "methodology": "Researchers evaluated clinician-written and DeepSeek-V4-generated responses to 30 diabetic-foot-ulcer questions for understandability, actionability, readability, quality, accuracy, comprehensiveness, and humanistic care.",
         "finding": "DeepSeek-V4 had higher quality and comprehensiveness and comparable understandability, actionability, accuracy, and readability, but performed relatively poorly in readability and humanistic care."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7225002108",
+      "title": "Cognitive mechanisms of AI agent behavioral intention among design graduate students: an integrated TAM–TTF perspective",
+      "authors": "Mingliang Chu, Musen Liu",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-09565-y",
+      "summary": {
+        "goal": "The study examines how self-efficacy, technology acceptance, and task–technology fit shape design graduate students’ intentions to use AI agents.",
+        "methodology": "It analyzes 405 questionnaire responses using PLS-SEM, MLP-ANN, and Necessary Condition Analysis.",
+        "finding": "Self-efficacy, perceived usefulness, perceived ease of use, task–technology fit, and attitude positively influenced AI-agent use intentions, while self-efficacy and attitude were identified as necessary conditions."
       }
     },
     {
