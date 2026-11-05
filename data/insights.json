@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-11-04T08:46:35.796022+00:00",
+  "updatedAt": "2026-11-05T09:08:46.274274+00:00",
   "paperCount": 88,
-  "corpusSummary": "An international 2026 corpus of social-science work on large language models spans human–AI interaction, AI-as-research-tool, health, education, and climate. It shifts from descriptive AI-behavior accounts toward evaluative frameworks on trust, equity, governance, safety, and ethics, with growing emphasis on AI-enabled pedagogy, responsible research practices, and real-world deployment in organizations and policy.",
+  "corpusSummary": "Across 2026 social-science records, four themes emerge: (1) LLM cognition reveals an embodied knowledge gap and anthropomorphism risk; (2) AI in education reshapes tutoring, scaffolding, and assessment with varied adoption and governance needs; (3) equity, safety, and trust dominate AI use in health, policy, and society; (4) LLMs as research tools and agents drive methodological transformations while exposing validation and bias challenges.",
   "themes": [
     {
-      "name": "Trust, adoption, and human–AI interaction",
-      "description": "Across domains, studies identify how presentation, privacy, peer influence, and perceived humanness shape trust, acceptance, and use of AI in counseling, education, parenting, and crisis settings."
+      "name": "Embodiment gap and anthropomorphic risk",
+      "description": "LLMs are scrutinized for simulating cognition without access to embodied, sensory, and culturally situated knowledge, raising concerns about anthropomorphism and trust."
     },
     {
-      "name": "AI as a research tool: methods, validation, and governance",
-      "description": "Papers explore LLM-assisted content analysis, policy research, social simulations, and methodological frameworks, highlighting validation, transparency, and ethical oversight."
+      "name": "AI in education: learning, pedagogy, and adoption dynamics",
+      "description": "A range of studies examines AI tutoring, scaffolding, literacy, and teacher readiness, highlighting educational benefits and potential risks to equity and reliance on AI."
     },
     {
-      "name": "Equity, fairness, and cultural adequacy in AI outputs",
-      "description": "Research assesses bias, fairness, accessibility, and cultural sensitivity in AI-generated content and tools across health, education, and information domains."
+      "name": "Equity, safety, and governance in AI-enabled health and policy",
+      "description": "Research addresses equity-first governance, fairness, safety, and trust in AI applications across health, library services, and public-policy contexts."
     },
     {
-      "name": "AI-enhanced education and AI literacy",
-      "description": "A body of work investigates AI tutors, scaffolding, learning analytics, and literacy programs for diverse learners, including older adults, with attention to risks like overreliance."
+      "name": "LLMs as research tools and agents: methodological transformations and risk",
+      "description": "Papers propose LLMs as tools for content analysis, data extraction, simulations, and agent-based research, while discussing validation, ethics, and bias considerations."
     }
   ],
   "emergingKeywords": [
+    "embodiment gap",
+    "anthropomorphism risk",
     "AI literacy",
-    "trust and adoption",
-    "LLM-based research tools",
-    "ethics and governance",
-    "fairness and bias",
-    "education and pedagogy with AI",
-    "misinformation and health communication",
-    "multimodal AI in practice"
+    "AI in education",
+    "equity in digital health",
+    "multi-agent LLM simulations",
+    "LLM-based research methods",
+    "trust and fairness in AI"
   ],
   "yearCounts": [
     {
