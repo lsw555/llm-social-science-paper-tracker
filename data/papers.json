@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T09:08:46.193896+00:00",
+  "updatedAt": "2026-11-06T09:02:13.343034+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -338,6 +338,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7225098510",
+      "title": "Professional or personal? How hybrid self-presentation shapes bridging and bonding social capital across social status on LinkedIn",
+      "authors": "Xinran Zhang, Yuhan Wei, Xiaohui Wang",
+      "journal": "Computers in Human Behavior",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1016/j.chb.2026.109244",
+      "summary": {
+        "goal": "The study examines how personal-professional hybrid self-presentation on LinkedIn relates to bridging and bonding social capital across users of different statuses.",
+        "methodology": "Researchers analyzed 9,918 LinkedIn profiles and 86,160 posts using automated text mining, including large language models, to identify personal and professional content and linguistic styles.",
+        "finding": "Professional content expressed in a personal style was associated with bridging social capital, while personal content in a personal style was associated with bonding social capital, with patterns varying by online and offline status including gender."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203547210",
       "title": "Pretesting with AI-generated static and video ads",
       "authors": "Steven Bellman, Sid Ali Ourradi, D. Varan",
@@ -363,6 +377,20 @@
         "goal": "The study aimed to use a large language model to provide structured, reproducible summaries of facial regions relevant to attractiveness, dominance, and trustworthiness predictions.",
         "methodology": "Researchers trained a VGG19 regression model on facial impression ratings, generated Grad-CAM visualizations, and used a large language model to summarize Guided Grad-CAM outputs before cross-checking them with facial region-of-interest analyses.",
         "finding": "The language-based summaries were consistent with quantitative region-of-interest distributions, with impression-specific activation patterns involving central facial regions, upper-face cues, and the eyes and mouth."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7225159214",
+      "title": "Personality expression and perception in large language models and humans",
+      "authors": "Sophie T. Koerner, Boris Egloff, Sarah Hirschmüller",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1038/s41598-026-75546-5",
+      "summary": {
+        "goal": "The study examines how LLMs express and are perceived to express personality compared with humans.",
+        "methodology": "Researchers collected Big Five, self-esteem, narcissism, and self-descriptive text responses from seven LLMs and humans, which LLM and human judges evaluated for personality and text origin.",
+        "finding": "LLM outputs conveyed personality-consistent cues but were perceived differently from human responses, while judges accurately inferred personality and distinguished LLM-generated from human text."
       }
     },
     {
