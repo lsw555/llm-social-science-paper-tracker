@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-11-06T09:02:13.403951+00:00",
-  "paperCount": 90,
-  "corpusSummary": "Across 2026 papers, the corpus reveals a cautious, multi-domain examination of large language models as tools, partners, and drivers of social change. Studies document methodological use (agentic LLMs, policy research, and AI-assisted analytics), mixed-user experiences (trust, adoption, and social capital), and persistent gaps in embodied, situated knowledge, safety, and equity. Together they urge critical governance, human-centered design, and rigorous evaluation in health, education, and policy contexts.",
+  "updatedAt": "2026-11-07T08:30:18.744044+00:00",
+  "paperCount": 92,
+  "corpusSummary": "This corpus assembles 2026 social-science inquiries into large language models across health, education, governance, and everyday use, highlighting trust, ethics, safety, and equity; methodological innovations include AI-assisted research tools, multi-agent simulations, and AI-enabled analysis of policy, education, heritage, and communication. The records reveal ongoing concerns about anthropomorphism, mis/disinformation, and the need for governance, transparency, and human-in-the-loop verification.",
   "themes": [
     {
-      "name": "AI-augmented research methods and agentic systems",
-      "description": "A broad set of papers shows LLMs and agentic systems reshaping social science methods, including policy analysis, multi-agent simulations, and workflow tooling, while stressing validation, transparency, and ethical safeguards."
+      "name": "Trust, perception, and ethics in AI-enabled interaction",
+      "description": "Explores how users perceive AI, the role of humanness vs. empathy, and ethical risks in AI-enabled decision-making and everyday interactions."
     },
     {
-      "name": "Human–AI interaction, trust, and social dynamics",
-      "description": "Research across health, education, and everyday contexts examines trust, adoption pressures, social networks, and behavioral responses to AI, revealing both persuasive potential and concerns about dependency and embodiment."
+      "name": "AI in education and learning: literacy, pedagogy, safety, and assessment",
+      "description": "Examines AI's impact on learning, AI literacy, classroom scaffolding, tutoring, and the redesign of assessment practices in diverse educational contexts."
     },
     {
-      "name": "Safety, equity, and governance of AI deployment",
-      "description": "A recurring emphasis on equitable design, safety/readability, literacy, and governance frameworks addresses risks of misinformation, bias, and cultural insensitivity in AI-enabled digital health and education."
+      "name": "AI as a research tool and methodological innovation in social science",
+      "description": "Documents how LLMs and AI agents are used for data analysis, coding, simulations, and governance, with emphasis on validation and ethical scrutiny."
     },
     {
-      "name": "AI in education and learning design",
-      "description": "Studies explore AI tutors, scaffolding, literacy, and assessment, highlighting benefits for engagement and personalized learning alongside concerns about overreliance, fairness, and teacher roles."
+      "name": "Equity, bias, fairness, and governance in AI deployment",
+      "description": "Centers on equitable AI use in health, libraries, policy research, and global contexts, including frameworks to audit safety, cultural adequacy, and bias mitigation."
     }
   ],
   "emergingKeywords": [
-    "agentic LLMs and social simulations",
-    "embodied and situated knowledge gaps",
-    "equity-first governance in digital health",
-    "trust, disclosure, and humanness in AI",
-    "AI literacy and education technology",
-    "AI-enabled public participation and policy",
-    "misinformation detection and correction with LLMs"
+    "AI literacy",
+    "trust in AI",
+    "equity and fairness",
+    "multi-agent LLM simulations",
+    "AI as research tool",
+    "AI in education",
+    "misinformation and governance"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 90
+      "count": 92
     }
   ],
   "fieldCounts": [
@@ -46,11 +46,11 @@
     },
     {
       "field": "Human–AI interaction",
-      "count": 16
+      "count": 17
     },
     {
       "field": "Health & wellbeing",
-      "count": 14
+      "count": 15
     },
     {
       "field": "LLM behavior & bias",

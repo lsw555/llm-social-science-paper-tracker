@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T09:02:13.343034+00:00",
+  "updatedAt": "2026-11-07T08:30:18.674813+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -758,6 +758,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7225225714",
+      "title": "Exploring the user experience and improvement strategies of AI chatbots on China’s Meituan instant retail platform from the perspective of generation Z users",
+      "authors": "Tao Lu, Ji-Seong Song",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1038/s41598-026-77412-w",
+      "summary": {
+        "goal": "The study examines Generation Z users’ experiences with AI chatbots on China’s Meituan instant retail platform and identifies strategies to improve those experiences.",
+        "methodology": "It combines user interviews with the KANO model and Analytic Hierarchy Process.",
+        "finding": "Generation Z particularly values intelligent interaction, personalized recommendations, humanized interaction, emotional perception, visualized service progress, and privacy protection, with demands extending beyond basic product and order inquiries."
+      }
+    },
+    {
       "id": "https://openalex.org/W7213635552",
       "title": "Exploring the potential of large language models for public participation in urban redevelopment planning",
       "authors": "Shimin Qi, Shanqi Zhang, Xiao Qin, Meng Shi, Zhen Feng, Haibo Hu, Jun Zheng",
@@ -1245,6 +1259,20 @@
         "goal": "The paper aims to detect and classify technology adoption and contextual dynamics in protest events from large-scale news data.",
         "methodology": "It develops a self-training pipeline combining pre-trained language models, syntactic graph convolutional networks, and pattern matching to reconstruct protest datasets while reducing manual annotation.",
         "finding": "The framework supports context-sensitive protest event classification and demonstrates the analytical value of integrating LLMs with GCNs."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4391045928",
+      "title": "A mixed-methods evaluation of a language model-powered breast cancer note augmentation tool for patients",
+      "authors": "Niklas Mannhardt, Elizabeth Bondi, Barbara D. Lam, Hussein Mozannar, Chloe P. O’Connell, Mercy Asiedu, Alejandro Buendia, Tatiana Urman",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41598-026-59948-z",
+      "summary": {
+        "goal": "The study evaluates whether an LLM-powered tool improves patients’ understanding and confidence when reading breast cancer clinical notes.",
+        "methodology": "The researchers conducted a mixed-methods evaluation with 200 healthy female participants, interviews with 7 breast cancer patients, and clinician error analysis of augmentations generated from 8 notes.",
+        "finding": "Compared with controls, participants using augmentations reported greater confidence and comprehension, while interviews indicated improved understanding alongside concerns about LLMs and clinicians found mostly minor errors."
       }
     },
     {
