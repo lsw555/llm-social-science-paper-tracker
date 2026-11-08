@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-11-07T08:30:18.744044+00:00",
+  "updatedAt": "2026-11-08T08:43:42.971919+00:00",
   "paperCount": 92,
-  "corpusSummary": "This corpus assembles 2026 social-science inquiries into large language models across health, education, governance, and everyday use, highlighting trust, ethics, safety, and equity; methodological innovations include AI-assisted research tools, multi-agent simulations, and AI-enabled analysis of policy, education, heritage, and communication. The records reveal ongoing concerns about anthropomorphism, mis/disinformation, and the need for governance, transparency, and human-in-the-loop verification.",
+  "corpusSummary": "Across 2026, this corpus documents how large language models and generative AI reshape social science inquiry and lived experience. Studies probe cognition, bias, and embodiment; position AI as a research instrument across disciplines; scrutinize AI’s roles in health, education, governance, and policy; and examine cultural, ethical, and existential dimensions of AI-mediated interaction. The overarching message stresses careful, context-aware use, validation, and attention to equity and safety.",
   "themes": [
     {
-      "name": "Trust, perception, and ethics in AI-enabled interaction",
-      "description": "Explores how users perceive AI, the role of humanness vs. empathy, and ethical risks in AI-enabled decision-making and everyday interactions."
+      "name": "Trust, embodiment, and AI governance",
+      "description": "Research examines user trust, anthropomorphism, perceived humanness vs empathy, device embodiment, privacy, and equity considerations shaping AI adoption and governance."
     },
     {
-      "name": "AI in education and learning: literacy, pedagogy, safety, and assessment",
-      "description": "Examines AI's impact on learning, AI literacy, classroom scaffolding, tutoring, and the redesign of assessment practices in diverse educational contexts."
+      "name": "AI as a methodological tool for social science",
+      "description": "A growth of work positions LLMs as research tools for coding, data extraction, simulation, and policy prototyping, while stressing validation, transparency, and ethical standards."
     },
     {
-      "name": "AI as a research tool and methodological innovation in social science",
-      "description": "Documents how LLMs and AI agents are used for data analysis, coding, simulations, and governance, with emphasis on validation and ethical scrutiny."
+      "name": "AI in education and health: benefits, risks, and literacy",
+      "description": "Evidence spans AI tutoring, learning outcomes, health information, misinformation, and the need for AI literacy and ethical guidelines in educational and clinical contexts."
     },
     {
-      "name": "Equity, bias, fairness, and governance in AI deployment",
-      "description": "Centers on equitable AI use in health, libraries, policy research, and global contexts, including frameworks to audit safety, cultural adequacy, and bias mitigation."
+      "name": "Cultural, spatial, and ethical dimensions of AI",
+      "description": "Literature explores AI’s impact on religion, heritage, sense of place, aesthetics, and digital mediation, highlighting limits of embodiment and cultural adaptation."
     }
   ],
   "emergingKeywords": [
-    "AI literacy",
-    "trust in AI",
-    "equity and fairness",
-    "multi-agent LLM simulations",
     "AI as research tool",
-    "AI in education",
-    "misinformation and governance"
+    "trust and governance",
+    "AI literacy and dependency",
+    "AI embodiment and well-being",
+    "multi-agent LLM simulations",
+    "health misinformation and safety",
+    "AI in education and pedagogy"
   ],
   "yearCounts": [
     {
