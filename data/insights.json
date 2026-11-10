@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-11-09T09:23:23.446600+00:00",
+  "updatedAt": "2026-11-10T09:27:31.690471+00:00",
   "paperCount": 92,
-  "corpusSummary": "Corpus covers 2026–era social-science work on large language models (LLMs) across health, education, policy, and everyday life. It includes methodological uses as research tools, studies of trust and adoption in human–AI interaction, and assessments of misinformation, safety, and equity. Recurring concerns address ethics, governance, and alignment, while embodied and situated knowledge gaps reveal limits to AI mimicry of human experience. The collection also probes public-participation potential.",
+  "corpusSummary": "Across 2026 studies, the corpus charts how large language models intersect social life: trust, fairness, governance, safety, and equity; AI as methodological partners in education, health, policy, and humanities; patterns of human–AI interaction, adoption barriers, and social consequences; and heritage, culture, and literacy in AI-enabled futures. Together, they reveal opportunities for augmentation alongside concerns about reliability, bias, and cultural adequacy.",
   "themes": [
     {
-      "name": "LLMs as research tools and methodological experimentation",
-      "description": "A broad set of works treats LLMs as analytical collaborators for coding, framing, data extraction, simulations, and governance evaluation, emphasizing validation, transparency, and ethical oversight."
+      "name": "Trust, ethics, governance, and safety",
+      "description": "Across health, education, policy, and corporate settings, studies examine how trust, equity, privacy, bias, and governance shape AI adoption, evaluation, and impact."
     },
     {
-      "name": "Human–AI interaction, trust, adoption, and wellbeing",
-      "description": "Studies across health, education, work, and daily life examine how people trust, engage with, and are affected by AI, highlighting factors such as presentation style, privacy, embodiment, and perceived humanness."
+      "name": "AI as methodological tool and research collaborator",
+      "description": "A broad set of works demonstrates LLMs and related tools aiding analysis, coding, translation, simulation, and design, while emphasizing validation, transparency, and methodological caveats."
     },
     {
-      "name": "Equity, safety, and governance of AI across domains",
-      "description": "Papers propose equity-centered governance and safety frameworks for digital health, education, policy, and culture, alongside fairness and ethical considerations in AI-enabled services."
+      "name": "Human–AI interaction, adoption dynamics, and social consequences",
+      "description": "Empirical work tracks how user perceptions of humanness, trust, social capital, and peer effects influence AI adoption, use, and social outcomes across education, health, work, and everyday life."
     },
     {
-      "name": "Embodiment gaps and situated knowledge limits",
-      "description": "Research reveals AI limitations in accessing embodied, sensory, cultural, and relational knowledge, questioning AI’s ability to accurately mirror human experiences and practices."
+      "name": "Education, literacy, culture, and heritage in AI-enabled futures",
+      "description": "Research explores AI's role in learning, literacy for diverse populations, health education, and culturally grounded heritage and religious practices, balancing opportunities with ethics and cultural sensitivity."
     }
   ],
   "emergingKeywords": [
-    "AI-in-use framework",
-    "equity-first governance",
-    "multi-agent LLM systems",
-    "AI literacy",
-    "AI Device Embodiment",
-    "perceived humanness",
-    "public participation with LLMs"
+    "AI governance and equity",
+    "Trust and perceived humanness",
+    "LLMs as research tools",
+    "AI literacy in education",
+    "Cultural adequacy and bias",
+    "Health communication with AI",
+    "Digital divide and inclusion"
   ],
   "yearCounts": [
     {
