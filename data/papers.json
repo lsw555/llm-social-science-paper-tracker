@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T09:00:14.430134+00:00",
+  "updatedAt": "2026-11-12T09:28:33.070001+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -251,6 +251,20 @@
         "goal": "The study aims to theorize AI Device Embodiment and examine its effects on well-being, perceived social support, and AI adoption intentions.",
         "methodology": "A between-subject experiment with 153 participants compared AI glasses, mobile phones, and laptops using a newly developed AI Device Embodiment scale.",
         "finding": "AI glasses produced greater perceived embodiment than mobile phones and laptops, indirectly increasing subjective well-being, perceived social support availability, and adoption intentions."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7164742960",
+      "title": "Scoring consistency of teachers and artificial intelligence algorithms in written expression assessment: a comparative quantitative study",
+      "authors": "Ahmet Akçay, Kılıç Köçeri, Tuğba TÜMEN, Serdar SAFALI",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1038/s41598-026-74899-1",
+      "summary": {
+        "goal": "The study examines agreement and differences between LLM-based algorithms and teachers when assessing secondary students’ written expression.",
+        "methodology": "Four LLMs and human teachers rated texts from 122 Turkish students across three genres using the same five-dimensional rubric, with agreement and score differences analyzed statistically.",
+        "finding": "ChatGPT aligned most closely with teacher scores, while AI systems did not reproduce teachers’ poetry or gender-related scoring patterns and therefore should not replace human judgment in high-stakes assessment."
       }
     },
     {
