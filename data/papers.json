@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T09:14:48.760111+00:00",
+  "updatedAt": "2026-11-14T08:44:36.798009+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -730,6 +730,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7225893590",
+      "title": "Fine-Tuned Large Language Models for Theory-Aligned Social Science Content Analysis: Evidence From Collaborative Learning Discourse",
+      "authors": "Yoonhee Shin, YoungKwan Son, Haengkyung Lee, Minyoung Kim",
+      "journal": "Social Science Computer Review",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1177/08944393261502769",
+      "summary": {
+        "goal": "The study examines whether fine-tuned large language models can support theory-aligned, episode-level coding of complex collaborative learning discourse.",
+        "methodology": "The authors compared prompt-only and supervised fine-tuned models using a human-coded dataset of 2,372 discourse episodes and multilayer socially shared metacognitive regulation coding.",
+        "finding": "Fine-tuned models improved agreement and predictive performance over prompt-only models, but struggled with sparse, boundary-prone, and highly interpretive categories."
+      }
+    },
+    {
       "id": "https://openalex.org/W7163691355",
       "title": "Fallibility, persuadability, and correctability of large language models under sustained conversational misinformation pressure",
       "authors": "Jordan Rodriguez, Zachary Hansen, Luis De Anda, Katelyn Rohrer, Camila Grubb, Enrique Noriega-Atala, Mihai Surdeanu, Marvin J. Slepian",
@@ -1245,6 +1259,20 @@
         "goal": "The study examines how different AI usage patterns relate to Chinese university students’ perceived critical thinking and how academic motivation moderates these relationships.",
         "methodology": "A cross-sectional survey of 342 undergraduate students measured information retrieval, content generation, and text revision uses of AI, academic motivation, and perceived critical thinking dispositions.",
         "finding": "Information retrieval use was positively associated with perceived critical thinking, content generation use was negatively associated, text revision use was not significant, and motivation moderated these associations."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7225811246",
+      "title": "AI for Democracy? How Public Service Media Around the World Use Artificial Intelligence to Produce Journalism",
+      "authors": "Kate Wright, Melissa Terras",
+      "journal": "Digital Journalism",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1080/21670811.2026.2752405",
+      "summary": {
+        "goal": "The study examines how public service media organizations worldwide use artificial intelligence in journalism production and navigate tensions between efficiency, institutional values, and democratic responsibilities.",
+        "methodology": "It uses surveys, organizational documents, and interviews with senior managers from public service media organizations across Africa, Asia, Europe, Oceania, and the Caribbean.",
+        "finding": "The study finds that AI use is mainly driven by time and cost savings but creates complex tensions between efficiency, public service values, and democratic obligations."
       }
     },
     {

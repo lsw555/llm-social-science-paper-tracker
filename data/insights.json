@@ -1,39 +1,38 @@
 {
-  "updatedAt": "2026-11-13T09:14:48.841754+00:00",
-  "paperCount": 94,
-  "corpusSummary": "This corpus comprises 2026 social-science papers examining how large language models intersect with human behavior, learning, health, and policy. Across fields, authors map cognition, bias, and embodiment gaps; explore AI’s roles in education, counseling, governance, and public participation; and investigate LLM-enabled research methods, simulations, and analytics. Recurring concerns center on trust, safety, equity, and the need for transparent, responsible use.",
+  "updatedAt": "2026-11-14T08:44:36.856488+00:00",
+  "paperCount": 96,
+  "corpusSummary": "Across a broad collection of 2026 social-science records, this corpus charts how large language models intersect with human activity in cognition, governance, education, health, and policy. It highlights themes of embodiment limits, trust and governance, AI-enabled learning, health information risk, and the use of LLMs as research tools, while noting safety, ethics, and equity considerations and the persistent gaps between algorithmic and situated knowledge.",
   "themes": [
     {
-      "name": "Embodiment and epistemic limits of LLMs",
-      "description": "Papers consistently show LLMs remain disembodied and struggle to access embodied, sensory, and culturally situated knowledge, heightening concerns about anthropomorphism and misinterpretation."
+      "name": "Cognition, embodiment, and epistemic boundaries",
+      "description": "Explores how LLM cognition relates to embodied human meaning, highlighting limits in sense-making and risks of anthropomorphism."
     },
     {
-      "name": "AI in learning, health, and governance: trust, safety, and ethics",
-      "description": "Studies address AI use in education, health, and public participation, highlighting trust, safety, equity, and governance challenges across contexts."
+      "name": "Trust, governance, and adoption of AI",
+      "description": "Investigates how organizations and individuals build trust, govern, and adopt generative AI across work, health, and civic contexts."
     },
     {
-      "name": "AI as research tool and methodological frontier",
-      "description": "A wave of work uses LLMs for coding, analysis, simulations, and policy research, while calling for validation, transparency, and ethical oversight."
+      "name": "AI-enabled education and learning ecosystems",
+      "description": "Examines AI-assisted teaching, scaffolding, tutoring, and assessment across diverse learning settings and populations."
     },
     {
-      "name": "Social dynamics of AI adoption and interaction",
-      "description": "Research maps how social networks, peer effects, device embodiment, and identity influence AI adoption, consultation, and collaboration."
+      "name": "AI in health, risk communication, and patient education",
+      "description": "Assesses AI's role in health information, patient education, and clinical decision support with safety and equity considerations."
     }
   ],
   "emergingKeywords": [
-    "embodiment gap",
-    "anthropomorphism risk",
-    "AI literacy and trust",
-    "AI in education scaffolding",
-    "equity-first governance",
-    "multi-agent LLM simulations",
-    "AI as research tool governance",
-    "social capital and AI consultation"
+    "LLM embodiment and sense-making limits",
+    "Equity-first AI governance",
+    "AI-enabled education and literacy",
+    "AI in health misinformation and patient education",
+    "AI as research tool and method validation",
+    "Multi-agent LLM simulations and social dynamics",
+    "Trust, transparency, and human-centered AI design"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 94
+      "count": 96
     }
   ],
   "fieldCounts": [
@@ -43,7 +42,7 @@
     },
     {
       "field": "AI as research tool",
-      "count": 23
+      "count": 24
     },
     {
       "field": "Human–AI interaction",
@@ -59,7 +58,7 @@
     },
     {
       "field": "Media & communication",
-      "count": 3
+      "count": 4
     },
     {
       "field": "Climate & environment",
