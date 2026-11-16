@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-11-15T08:56:38.454333+00:00",
-  "paperCount": 99,
-  "corpusSummary": "The corpus surveys 2026 social-science research on large language models across human–AI interaction, AI as research tools, education and wellbeing, and ethics and governance. It highlights trust, dependency, and social dynamics; methodological use of AI for analysis and governance; AI in learning and health contexts with attention to readability and misinformation; and broader concerns about fairness, bias, and societal impact.",
+  "updatedAt": "2026-11-16T09:10:46.130757+00:00",
+  "paperCount": 100,
+  "corpusSummary": "This corpus surveys 2026-focused social-science research on large language models across education, health, policy, and everyday life. It highlights AI-enhanced learning, AI-powered research methods, equity and safety governance, and the social consequences of AI adoption, including trust, representation, and polarization. Across domains, studies report potential benefits alongside concerns about reliability, ethics, and anthropomorphism.",
   "themes": [
     {
-      "name": "Human–AI interaction and relational dynamics",
-      "description": "A synthesis of studies on trust, adoption barriers, dependence, embodiment, empathy versus humanness, and how social ties shape AI use in daily life and organizations."
+      "name": "AI-Enhanced Education and Learning",
+      "description": "A body of work investigates how generative AI supports teaching, learning, assessment, and literacy, including scaffolding, tutoring, game-based learning, and AI literacy initiatives, while signaling risks like overreliance and equity gaps."
     },
     {
-      "name": "AI as research tool: methods, validation, and governance",
-      "description": "Papers explore using LLMs and AI to augment social-science methods, develop coding and analysis workflows, simulate social processes, and address validation, transparency, and ethical governance."
+      "name": "AI as Research Tool and Methodology",
+      "description": "Papers explore LLMs for coding, analysis, data extraction, design, policy evaluation, and simulations, emphasizing validation, transparency, and ethical integration into research workflows."
     },
     {
-      "name": "AI in education and health and wellbeing",
-      "description": "Research on AI-enabled learning, tutoring, and health information, including effects on engagement and anxiety, readability, and risks around misinformation and ethics."
+      "name": "Equity, Safety, and Governance of LLMs",
+      "description": "Work proposals and empirical studies address equity in digital health, fairness in services, safety and readability, mis/disinformation, and governance frameworks for responsible LLM use."
     },
     {
-      "name": "Ethics, fairness, and societal impact of LLMs",
-      "description": "Work examining bias, cultural adequacy, polarization, and broader socio-political implications of deploying LLMs in media, policy, health, and everyday life."
+      "name": "AI and Society: Trust, Identity, and Polarization",
+      "description": "Research examines how AI alters social trust, representation, decision-making, consumer behavior, religious meaning, and political dynamics, including AI adoption, anthropomorphism, and the emergence of polarized AI networks."
     }
   ],
   "emergingKeywords": [
-    "AI literacy and education",
-    "trust, reliance, and AI dependency",
-    "AI as research tool governance and validation",
-    "equity, fairness, and cultural adequacy in LLMs",
-    "health misinformation mitigation with AI",
-    "public participation with LLMs",
-    "polarization and social dynamics in AI networks"
+    "AI-enabled pedagogy",
+    "equity-focused AI governance",
+    "LLM-based research methods",
+    "AI misinformation and safety",
+    "social polarization of AI agents",
+    "trust and adoption of AI in society",
+    "human–AI collaboration and design ethics"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 99
+      "count": 100
     }
   ],
   "fieldCounts": [
     {
-      "field": "AI as research tool",
-      "count": 25
+      "field": "Work & education",
+      "count": 26
     },
     {
-      "field": "Work & education",
+      "field": "AI as research tool",
       "count": 25
     },
     {

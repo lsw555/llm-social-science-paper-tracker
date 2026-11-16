@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T08:56:38.375101+00:00",
+  "updatedAt": "2026-11-16T09:10:46.068751+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -1287,6 +1287,20 @@
         "goal": "The study examines whether AI-assisted English speaking practice affects foreign language speaking anxiety, enjoyment, and learner engagement compared with teacher-led practice.",
         "methodology": "In a 12-week quasi-experiment, 71 Chinese EFL undergraduates practiced speaking with either an AI chatbot or a teacher, and pretest–posttest surveys were analyzed using ANCOVA and within-group comparisons.",
         "finding": "AI-assisted practice significantly reduced speaking anxiety and improved enjoyment and engagement within the AI group, although between-group differences in enjoyment and engagement were not significant."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7226031519",
+      "title": "AI writing tools and academic integrity in higher education: a systematic review of emerging ethical challenges",
+      "authors": "Wang Xiaohui, Lianghui Cai",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1057/s41599-026-09387-y",
+      "summary": {
+        "goal": "The study examines the adoption of AI writing tools in higher education and the ethical challenges they pose for academic integrity.",
+        "methodology": "It systematically reviewed 97 records published between 2020 and 2025, with 55 included for PRISMA-based thematic synthesis.",
+        "finding": "The review found increasing use of ChatGPT and Grammarly alongside concerns about misuse, over-reliance, academic misconduct, and heterogeneous institutional and faculty responses."
       }
     },
     {
