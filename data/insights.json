@@ -1,56 +1,56 @@
 {
-  "updatedAt": "2026-11-16T09:10:46.130757+00:00",
-  "paperCount": 100,
-  "corpusSummary": "This corpus surveys 2026-focused social-science research on large language models across education, health, policy, and everyday life. It highlights AI-enhanced learning, AI-powered research methods, equity and safety governance, and the social consequences of AI adoption, including trust, representation, and polarization. Across domains, studies report potential benefits alongside concerns about reliability, ethics, and anthropomorphism.",
+  "updatedAt": "2026-11-17T10:22:38.565590+00:00",
+  "paperCount": 104,
+  "corpusSummary": "The corpus surveys social-science studies of large language models across behavior, interaction, health, education, and policy. It highlights LLM-based modeling of social dynamics, human–AI trust and embodiment, AI as a research instrument with governance concerns, and AI-enabled learning and assessment. Across these domains, findings stress reliability, ethical equity, transparency, and the need for human oversight.",
   "themes": [
     {
-      "name": "AI-Enhanced Education and Learning",
-      "description": "A body of work investigates how generative AI supports teaching, learning, assessment, and literacy, including scaffolding, tutoring, game-based learning, and AI literacy initiatives, while signaling risks like overreliance and equity gaps."
+      "name": "LLM-driven social dynamics",
+      "description": "LLMs are used to model and analyze social dynamics, including opinion formation, polarization, and multi-agent interactions, with critical attention to biases and validity."
     },
     {
-      "name": "AI as Research Tool and Methodology",
-      "description": "Papers explore LLMs for coding, analysis, data extraction, design, policy evaluation, and simulations, emphasizing validation, transparency, and ethical integration into research workflows."
+      "name": "Human–AI interaction, trust, embodiment, and well-being",
+      "description": "A broad research thread investigates how people trust, relate to, and are affected by AI in everyday contexts—health, education, consumer tech—and how design features shape outcomes."
     },
     {
-      "name": "Equity, Safety, and Governance of LLMs",
-      "description": "Work proposals and empirical studies address equity in digital health, fairness in services, safety and readability, mis/disinformation, and governance frameworks for responsible LLM use."
+      "name": "AI as research instrument and governance",
+      "description": "Researchers explore LLMs as research tools for analysis, data extraction, and knowledge discovery, while developing governance frameworks and validation standards."
     },
     {
-      "name": "AI and Society: Trust, Identity, and Polarization",
-      "description": "Research examines how AI alters social trust, representation, decision-making, consumer behavior, religious meaning, and political dynamics, including AI adoption, anthropomorphism, and the emergence of polarized AI networks."
+      "name": "AI in education and learning",
+      "description": "Studies examine AI tutoring, scaffolding, assessment, and literacy, and their effects on learning, motivation, and pedagogy."
     }
   ],
   "emergingKeywords": [
-    "AI-enabled pedagogy",
+    "AI literacy and education",
+    "trust and humanness in AI",
+    "multi-agent LLM simulations",
+    "health misinformation and AI",
+    "LLM-assisted education and tutoring",
     "equity-focused AI governance",
-    "LLM-based research methods",
-    "AI misinformation and safety",
-    "social polarization of AI agents",
-    "trust and adoption of AI in society",
-    "human–AI collaboration and design ethics"
+    "validation and transparency in AI research"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 100
+      "count": 104
     }
   ],
   "fieldCounts": [
+    {
+      "field": "AI as research tool",
+      "count": 26
+    },
     {
       "field": "Work & education",
       "count": 26
     },
     {
-      "field": "AI as research tool",
-      "count": 25
-    },
-    {
       "field": "Human–AI interaction",
-      "count": 18
+      "count": 19
     },
     {
       "field": "Health & wellbeing",
-      "count": 16
+      "count": 18
     },
     {
       "field": "LLM behavior & bias",
