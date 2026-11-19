@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T09:54:01.559760+00:00",
+  "updatedAt": "2026-11-19T10:01:05.198228+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -111,6 +111,20 @@
         "goal": "The study examines how presentation formats, counseling contexts, and user characteristics shape trust in and preference for AI versus human counseling.",
         "methodology": "A scenario-based mixed-design experiment with 375 Chinese university students compared five counseling methods across scenarios and analyzed trust and preference using hierarchical linear models.",
         "finding": "Richer AI presentations increased trust, while privacy concerns reduced AI choice and positive AI attitudes increased it, with contextual effects on preference."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7234420833",
+      "title": "Theory of mind inspired mental state reasoning with large language models for empathetic response generation",
+      "authors": "Hayoung Lee, Seonghee Lee",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1038/s41598-026-77880-0",
+      "summary": {
+        "goal": "The paper aims to improve empathetic response generation by using large language models to infer speakers’ mental states.",
+        "methodology": "The framework infers beliefs, desires, emotions, intentions, and knowledge from dialogue histories and conditions response generation, evaluated on theory-of-mind and empathetic-dialogue datasets.",
+        "finding": "Mental-state conditioning improved response quality, although controls indicated that contextual grounding was the primary source of the benefit."
       }
     },
     {
@@ -380,6 +394,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4416184663",
+      "title": "Public opinion surveys with large language models: methodological opportunities and validity risks",
+      "authors": "Yutong Li, Meng-Jie Wang, Tian Xie, Pan Liu, Yin Luo, Lin Qiu",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1057/s41599-026-09593-8",
+      "summary": {
+        "goal": "The study examines whether large language models can estimate aggregate public opinion under out-of-sample conditions.",
+        "methodology": "It evaluates commercial and open-source LLMs across three studies against recent Pew Research Centre surveys, including tests of baselines, persona simulations, prompts, temperature settings, and survey-item context.",
+        "finding": "LLMs can approximate national response distributions but show validity risks including partisan underrepresentation, underestimated uncertainty, homogeneity bias, and sensitivity to context."
+      }
+    },
+    {
       "id": "https://openalex.org/W7204087197",
       "title": "Psychological pathways linking generative AI dependency to psychological capital depletion among Chinese international students",
       "authors": "Le Yao, Huiqin Luo, QuanGan Yao",
@@ -615,6 +643,20 @@
         "goal": "The review examines how machine translation and post-editing, amid advances in neural MT and large language models, are integrated into translator education and what challenges remain.",
         "methodology": "The authors conduct a PRISMA-based systematic review of peer-reviewed studies across curricular, learner, methodological, and pedagogical dimensions.",
         "finding": "MTPE pedagogy is expanding through varied course models but remains English-centric, technically focused, and uneven in cognitive, affective, and cross-language support."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7235316305",
+      "title": "Longitudinal association between AI dependence and pre-service teachers’ critical thinking disposition: the role of AI self-efficacy and perceived stress",
+      "authors": "Min Zhu, Yandong Yang, Qian Long, Qing Zhou, Zeyujie Hu",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1038/s41598-026-78895-3",
+      "summary": {
+        "goal": "The study examines how AI dependence relates to pre-service teachers’ critical thinking disposition, including the mediating role of AI self-efficacy and moderating role of perceived stress.",
+        "methodology": "Researchers conducted a three-phase longitudinal study of 461 pre-service teachers in Jiangxi, China, analyzing the data with structural equation modeling.",
+        "finding": "AI dependence negatively predicted critical thinking disposition, partly through reduced AI self-efficacy, with perceived stress strengthening this indirect effect at the first mediation stage."
       }
     },
     {
@@ -1091,6 +1133,20 @@
         "goal": "The study examines how willingness to self-disclose, anthropomorphism, and thinking style relate to perceived fit and comfort in AI mental-health chatbot interactions.",
         "methodology": "It uses a laboratory mixed-methods design with 83 participants, combining association analyses, group comparisons, Rational-Experiential Inventory measures, and thematic analysis.",
         "finding": "Willingness to self-disclose was the strongest correlate of perceived fit and comfort, while anthropomorphism strengthened this association without having a stable direct effect."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7233894643",
+      "title": "Development and psychometric validation of the generative AI Educator PerspectoMeter Scale (GAIE-PM) in medical education: a descriptive scale development study",
+      "authors": "Noushin Kohan, Soleiman Ahmady, Manijeh Hooshmandja, Sadia Yaseen, Mohammad Hasan Keshavarzi, Parvin Rezaei",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1038/s41598-026-65645-8",
+      "summary": {
+        "goal": "The study aimed to develop and validate a scale measuring medical educators’ perceptions of generative AI limitations in medical education.",
+        "methodology": "Researchers used literature review, expert focus groups, item validation, pilot testing, factor analysis, structural equation modeling, and test–retest reliability assessment among 180 Iranian medical educators.",
+        "finding": "The resulting 14-item GAIE-PM scale showed acceptable validity, internal consistency, and temporal stability across pedagogical, technical/access, and ethical/quality limitation dimensions."
       }
     },
     {
