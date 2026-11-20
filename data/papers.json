@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T10:01:05.198228+00:00",
+  "updatedAt": "2026-11-20T09:49:26.642448+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -1315,6 +1315,20 @@
         "goal": "The paper develops a framework for understanding how multi-agent LLM systems can transform social science research.",
         "methodology": "It maps agentic LLM applications across six levels, from text processing and annotation to systems simulating social dynamics, and discusses methodological and ethical challenges.",
         "finding": "The paper argues that agentic LLMs offer substantial potential for social science but require validation, ethical oversight, interdisciplinary collaboration, and standardized evaluation."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7234628464",
+      "title": "Automating inequality? Gender bias in AI-mediated labor markets",
+      "authors": "Kenza Elass, Germain Gauthier, Debora Nozza, Paola Antonia Profeta",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2026,
+      "field": "Work & education",
+      "url": "https://doi.org/10.1073/pnas.2534118123",
+      "summary": {
+        "goal": "The study examines whether LLMs introduce gender bias into AI-mediated job applications and hiring decisions.",
+        "methodology": "The authors conduct audit experiments that randomly assign applicant gender while holding other information constant and assess generated CVs, screening scores, and wage recommendations.",
+        "finding": "LLMs generate gender-stereotypical CVs and show gender bias in screening and wage recommendations through evaluation and generation bias."
       }
     },
     {
