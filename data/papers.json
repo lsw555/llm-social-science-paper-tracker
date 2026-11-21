@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T09:49:26.642448+00:00",
+  "updatedAt": "2026-11-21T09:22:42.432895+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -450,6 +450,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W4410702611",
+      "title": "ProactiMate: evaluating LLM-based chatbots for behavior change interventions",
+      "authors": "Ben Chen, Nina Dethlefs",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1038/s41598-026-79399-w",
+      "summary": {
+        "goal": "The study evaluates an LLM-based chatbot designed to help users overcome procrastination and sustain behavior change.",
+        "methodology": "It compares four LLMs and examines how temperature and top-p settings affect chatbot outputs using automatic and expert evaluations.",
+        "finding": "GPT-3.5 Turbo performed best overall, while GPT-3.5 Turbo and Qwen-2.5 were judged effective for engagement and motivation."
+      }
+    },
+    {
       "id": "https://openalex.org/W7203547210",
       "title": "Pretesting with AI-generated static and video ads",
       "authors": "Steven Bellman, Sid Ali Ourradi, D. Varan",
@@ -531,6 +545,20 @@
         "goal": "The study examines how students’ informal uses of generative AI become incorporated into teaching and assessment in university visual effects courses.",
         "methodology": "It uses an interpretivist multiple-case study of three Chinese universities based on 45 interviews, 15 observations, course documents, student work, and available GenAI-use records.",
         "finding": "GenAI use depended on task objectives, teacher guidance, assessment requirements, and institutional support, while process visibility helped distinguish assistance from substitution without demonstrating educational effects."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7131373435",
+      "title": "PVminer: a domain-specific tool to detect the patient voice in patient generated data",
+      "authors": "Samah Jarad Fodeh, Linhai Ma, Yan Wang, Srivani Talakokkul, Ganesh Puthiaraju, Afshan Khan, Ashley K. Hagaman, Sarah Lowe",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s41598-026-72916-x",
+      "summary": {
+        "goal": "The study aims to develop a scalable, domain-adapted tool for detecting patient voice and social determinants of health in patient-generated text.",
+        "methodology": "PVminer combines patient-specific BERT encoders, topic modeling, and hierarchical multi-label classifiers for secure patient-provider messages.",
+        "finding": "PVminer outperformed biomedical and clinical pretrained baselines, with F1 scores ranging from 77.58% to 82.25%, and ablations showed gains from author identity and topic augmentation."
       }
     },
     {
@@ -1469,6 +1497,20 @@
         "goal": "The study examines whether AI-assisted English speaking practice affects foreign language speaking anxiety, enjoyment, and learner engagement compared with teacher-led practice.",
         "methodology": "In a 12-week quasi-experiment, 71 Chinese EFL undergraduates practiced speaking with either an AI chatbot or a teacher, and pretest–posttest surveys were analyzed using ANCOVA and within-group comparisons.",
         "finding": "AI-assisted practice significantly reduced speaking anxiety and improved enjoyment and engagement within the AI group, although between-group differences in enjoyment and engagement were not significant."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7236822795",
+      "title": "AI-assisted curriculum mapping for competency-based dental education: a comparative study",
+      "authors": "Fatma E. A. Hassanein, Suliman Alsaeed, Asmaa Abou‐Bakr",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "AI as research tool",
+      "url": "https://doi.org/10.1038/s41598-026-81224-3",
+      "summary": {
+        "goal": "The study evaluates whether ChatGPT improves the accuracy, quality, efficiency, and faculty acceptance of competency-based dental curriculum mapping.",
+        "methodology": "In a fixed-order repeated-measures study, 90 dental faculty completed manual mapping followed by ChatGPT-assisted mapping, with outcomes compared against a Delphi-derived reference standard and assessed using paired statistical tests and the Technology Acceptance Model.",
+        "finding": "ChatGPT-assisted mapping produced higher accuracy and quality scores, shorter completion times, and favorable faculty acceptance, although practice and familiarity effects cannot be excluded."
       }
     },
     {
