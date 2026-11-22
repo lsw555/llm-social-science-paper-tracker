@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T09:22:42.432895+00:00",
+  "updatedAt": "2026-11-22T09:29:41.056397+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -366,6 +366,20 @@
       }
     },
     {
+      "id": "https://openalex.org/W7165202047",
+      "title": "Research through evaluation for large language models in patient-clinician communications",
+      "authors": "Yuexing Hao, Jason Holmes, Jared N. Hobson, Alexandra Bennett, Elizabeth L. McKone, Daniel K. Ebner, David M. Routman, Satomi Shiraishi",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Health & wellbeing",
+      "url": "https://doi.org/10.1038/s41598-026-80958-4",
+      "summary": {
+        "goal": "The study develops an iterative method for evaluating LLM-generated replies to patient messages and compares them with clinician-written replies.",
+        "methodology": "Researchers evaluated 158 prostate cancer inquiries through three rounds of clinician grading followed by LLM grading using a jointly developed rubric.",
+        "finding": "Clinicians rated clinician replies higher in completeness, correctness, and clarity, while LLM graders favored bot replies and showed low agreement, indicating that zero-shot LLM graders cannot yet replace clinicians."
+      }
+    },
+    {
       "id": "https://openalex.org/W7124556463",
       "title": "Reconstructing perished vernacular architecture: a digital humanities perspective on methods for digitally reconstituting lost rural built heritage",
       "authors": "Jieyuan Yu, Lun Tao",
@@ -685,6 +699,20 @@
         "goal": "The study examines how AI dependence relates to pre-service teachers’ critical thinking disposition, including the mediating role of AI self-efficacy and moderating role of perceived stress.",
         "methodology": "Researchers conducted a three-phase longitudinal study of 461 pre-service teachers in Jiangxi, China, analyzing the data with structural equation modeling.",
         "finding": "AI dependence negatively predicted critical thinking disposition, partly through reduced AI self-efficacy, with perceived stress strengthening this indirect effect at the first mediation stage."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4417098379",
+      "title": "Large language models' complicit responses to illicit instructions across socio-legal contexts",
+      "authors": "Xing Wang, Huiyuan Xie, Yiyan Wang, Chaojun Xiao, Huimin Chen, Holli Sargeant, Felix Steffek, Jie Shao",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "field": "LLM behavior & bias",
+      "url": "https://doi.org/10.1038/s41467-026-79176-3",
+      "summary": {
+        "goal": "The study examines how large language models facilitate illicit instructions across socio-legal contexts and user characteristics.",
+        "methodology": "The authors develop a legally informed automated pipeline and evaluate models using the EVIL benchmark, which covers 269 illicit scenarios and 50 intents across Chinese and United States legal contexts.",
+        "finding": "Complicit facilitation is widespread, varies by socio-legal context and illicit intent, and increases when users are described as older adults, racial minorities, non-religious individuals, or lower-prestige workers."
       }
     },
     {
@@ -1287,6 +1315,20 @@
         "goal": "The study examines how self-efficacy, technology acceptance, and task–technology fit shape design graduate students’ intentions to use AI agents.",
         "methodology": "It analyzes 405 questionnaire responses using PLS-SEM, MLP-ANN, and Necessary Condition Analysis.",
         "finding": "Self-efficacy, perceived usefulness, perceived ease of use, task–technology fit, and attitude positively influenced AI-agent use intentions, while self-efficacy and attitude were identified as necessary conditions."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4416577778",
+      "title": "Cognitive and attitudinal correlates of trust in AI-generated content among university students in Türkiye",
+      "authors": "Murat Aytaş, Mehmet Kucuktongur, Cengiz Apaydın, Candan Koçak",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "field": "Human–AI interaction",
+      "url": "https://doi.org/10.1038/s41598-026-78416-2",
+      "summary": {
+        "goal": "The study examined cognitive and attitudinal correlates of university students’ trust in AI-generated content in Türkiye.",
+        "methodology": "It used a 2025 cross-sectional survey of 232 respondents, including 207 generative AI users, and hierarchical regression analyses.",
+        "finding": "The final model explained 26.0% of trust variance, with positive and negative AI attitudes and a post-truth index showing significant conditional associations, while the associations were noncausal and did not establish misinformation susceptibility."
       }
     },
     {

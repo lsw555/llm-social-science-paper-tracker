@@ -1,38 +1,39 @@
 {
-  "updatedAt": "2026-11-21T09:22:42.485678+00:00",
-  "paperCount": 116,
-  "corpusSummary": "Across 2026 papers, researchers probe how large language models reshape social science inquiry, practice, and policy. The corpus reveals methodological use of LLMs as tools for data extraction, coding, and governance; investigations of user trust, representation, and dependency; health, education, and environmental applications; concerns about bias, safety, and ethical implementation; and the emergence of frameworks to ensure equity, transparency, and critical human oversight.",
+  "updatedAt": "2026-11-22T09:29:41.145912+00:00",
+  "paperCount": 119,
+  "corpusSummary": "This corpus of 2026 social-science work on large language models reveals a field intensifying scrutiny of AI’s social effects, epistemic roles, and governance. Across health, education, policy, and everyday life, researchers examine AI’s trust dynamics, anthropomorphism, and risk management; harness LLMs as methodological tools; investigate AI-enabled learning and counseling; and analyze AI’s influence on organizations, climate, and public discourse. Common threads emphasize transparency, ethics, literacy, and robust evaluation.",
   "themes": [
     {
-      "name": "LLMs as methodological instruments in social science",
-      "description": "A set of studies deploy LLMs for data extraction, coding, sentiment analysis, ethics review, and simulations, while calling for validation, transparency, and methodological rigor."
+      "name": "Trust, embodiment, and social perception of AI",
+      "description": "Studies cluster around how AI appears to users—humanness, empathy, social presence—and how these cues shape trust, attachment, and behavior, including potential dependency and misalignment with human experience."
     },
     {
-      "name": "Human–AI interaction, trust, and social dynamics",
-      "description": "Research examines trust, anthropomorphism, dependency, device embodiment, and persuasion across health, education, work, and everyday contexts."
+      "name": "AI as methodological tool and governance",
+      "description": "A growing strand documents how LLMs can augment qualitative and quantitative research, from public opinion surveys to ethics-review automation, while highlighting validity, transparency, and governance challenges."
     },
     {
-      "name": "AI in health, wellbeing, and ethics",
-      "description": "Work on health misinformation, patient education, risk assessment, digital health equity, and culturally-aware governance of AI in health contexts."
+      "name": "AI in education and literacy",
+      "description": "Research explores AI-enabled tutoring, assessment, design education, AI literacy for diverse groups, and the implications for pedagogy and equity."
     },
     {
-      "name": "AI in education and learning systems",
-      "description": "Studies on AI-enabled tutoring, scaffolding, assessment, AI literacy, and impacts on student learning, instructor practice, and curriculum design."
+      "name": "AI in health, misinformation, and wellbeing",
+      "description": "A substantial portion examines AI’s role in health information, patient education, misinformation, and governance to protect wellbeing and equity."
     }
   ],
   "emergingKeywords": [
-    "AI as research tool",
-    "trust and transparency in AI",
-    "equity-first governance",
-    "AI literacy and pedagogy",
-    "health misinformation and digital health equity",
-    "multi-agent LLM simulations",
-    "bias, safety, and correctability in LLMs"
+    "AI literacy",
+    "trust and perceived humanness",
+    "transparency and accuracy warnings",
+    "AI-enabled research methods",
+    "AI in education and assessment",
+    "health misinformation governance",
+    "equity and ethics in AI",
+    "multi-agent LLM systems"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 116
+      "count": 119
     }
   ],
   "fieldCounts": [
@@ -46,15 +47,15 @@
     },
     {
       "field": "Human–AI interaction",
-      "count": 22
+      "count": 23
     },
     {
       "field": "Health & wellbeing",
-      "count": 18
+      "count": 19
     },
     {
       "field": "LLM behavior & bias",
-      "count": 9
+      "count": 10
     },
     {
       "field": "Media & communication",
