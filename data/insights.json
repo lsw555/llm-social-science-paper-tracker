@@ -1,34 +1,33 @@
 {
-  "updatedAt": "2026-11-22T09:29:41.145912+00:00",
+  "updatedAt": "2026-11-23T10:27:45.960838+00:00",
   "paperCount": 119,
-  "corpusSummary": "This corpus of 2026 social-science work on large language models reveals a field intensifying scrutiny of AI’s social effects, epistemic roles, and governance. Across health, education, policy, and everyday life, researchers examine AI’s trust dynamics, anthropomorphism, and risk management; harness LLMs as methodological tools; investigate AI-enabled learning and counseling; and analyze AI’s influence on organizations, climate, and public discourse. Common threads emphasize transparency, ethics, literacy, and robust evaluation.",
+  "corpusSummary": "Across 2026 social-science studies, the corpus reveals a growing focus on how large language models reshape trust, learning, health, and governance, while foregrounding methodological, ethical, and equity challenges. Evidence spans AI as a research tool, human-AI interaction and embodiment, AI-driven education and health messaging, and AI-enabled policy deliberation. Collectively, findings stress validation, transparency, responsible design, and context-aware use to avoid anthropomorphism, bias, and misuse.",
   "themes": [
     {
-      "name": "Trust, embodiment, and social perception of AI",
-      "description": "Studies cluster around how AI appears to users—humanness, empathy, social presence—and how these cues shape trust, attachment, and behavior, including potential dependency and misalignment with human experience."
+      "name": "Trust, embodiment, and human–AI interaction dynamics",
+      "description": "Investigates how AI embodiment, perceived humanness, trust, and interaction styles shape user experiences, welfare, and decision-making across health, education, and workplace contexts."
     },
     {
-      "name": "AI as methodological tool and governance",
-      "description": "A growing strand documents how LLMs can augment qualitative and quantitative research, from public opinion surveys to ethics-review automation, while highlighting validity, transparency, and governance challenges."
+      "name": "AI as a methodological instrument and governance in social science",
+      "description": "Synthesizes opportunities and limits of using LLMs for data analysis, coding, surveys, simulations, and governance, emphasizing validation, transparency, and ethical oversight."
     },
     {
-      "name": "AI in education and literacy",
-      "description": "Research explores AI-enabled tutoring, assessment, design education, AI literacy for diverse groups, and the implications for pedagogy and equity."
+      "name": "AI in education and learning: literacy, tutoring, and assessment",
+      "description": "Documents the role of GenAI in learning, tutoring, scaffolding, curriculum mapping, and assessment practices, while highlighting risks like overreliance and equity concerns."
     },
     {
-      "name": "AI in health, misinformation, and wellbeing",
-      "description": "A substantial portion examines AI’s role in health information, patient education, misinformation, and governance to protect wellbeing and equity."
+      "name": "AI in health, misinformation, and health equity",
+      "description": "Covers AI-generated health information, misinformation mitigation, patient education, clinician support, and equity-focused governance in digital health."
     }
   ],
   "emergingKeywords": [
-    "AI literacy",
-    "trust and perceived humanness",
-    "transparency and accuracy warnings",
-    "AI-enabled research methods",
-    "AI in education and assessment",
-    "health misinformation governance",
-    "equity and ethics in AI",
-    "multi-agent LLM systems"
+    "embodiment and trust in AI",
+    "LLM as research instrument governance",
+    "AI literacy and education design",
+    "health information and equity",
+    "ethics and bias evaluation",
+    "public participation with LLMs",
+    "transparency and accuracy cues in AI"
   ],
   "yearCounts": [
     {
