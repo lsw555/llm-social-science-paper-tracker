@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:09:20.248184+00:00",
+  "updatedAt": "2026-11-25T10:58:49.988254+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -377,6 +377,20 @@
         "goal": "The study develops an iterative method for evaluating LLM-generated replies to patient messages and compares them with clinician-written replies.",
         "methodology": "Researchers evaluated 158 prostate cancer inquiries through three rounds of clinician grading followed by LLM grading using a jointly developed rubric.",
         "finding": "Clinicians rated clinician replies higher in completeness, correctness, and clarity, while LLM graders favored bot replies and showed low agreement, indicating that zero-shot LLM graders cannot yet replace clinicians."
+      }
+    },
+    {
+      "id": "https://openalex.org/W4412664754",
+      "title": "Reducing belief in conspiracy theories as they unfold using large language models",
+      "authors": "Thomas H. Costello, Nathaniel Rabb, Michael Nicholas Stagnaro, Gordon Pennycook, David Gertler Rand",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2026,
+      "field": "Public opinion & politics",
+      "url": "https://doi.org/10.1073/pnas.2628011123",
+      "summary": {
+        "goal": "The study tests whether conversations with an LLM can reduce belief in emerging conspiracy theories after major political events.",
+        "methodology": "US adults holding conspiratorial views participated in multiturn LLM conversations or control conditions following the 2024 Trump assassination attempt and 2025 Charlie Kirk assassination, with follow-up assessment after 1–2 months.",
+        "finding": "LLM conversations significantly reduced conspiracy beliefs immediately, with suggestive evidence of reduced belief in some conspiratorial beliefs at follow-up."
       }
     },
     {

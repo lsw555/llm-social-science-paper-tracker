@@ -1,39 +1,39 @@
 {
-  "updatedAt": "2026-11-24T12:09:20.310760+00:00",
-  "paperCount": 119,
-  "corpusSummary": "The corpus reveals a rapidly expanding body of social-science work on large language models across health, education, governance, and culture. It documents both opportunities and risks of human–AI interaction, including trust, dependency, and social embodiment; methodological uses of LLMs as research tools; educational and health applications with attention to safety, equity, and ethics; and culturally situated concerns rising in heritage, religion, and public policy.",
+  "updatedAt": "2026-11-25T10:58:50.066600+00:00",
+  "paperCount": 120,
+  "corpusSummary": "Across 2026 records, the corpus documents a rapid expansion of social-science work on large language models, emphasizing methodological use, governance, and cross-domain impacts. Researchers probe LLM cognition and bias, interrogate trust and embodiment in human-AI interaction, harness LLMs for health misinformation, education, and policy analysis, and assess fairness, transparency, and ethical considerations. The studies reveal both promise (personalized pedagogy, participatory planning) and cautions (misinformation, dependency, and cultural relevance).",
   "themes": [
     {
-      "name": "Human–AI interaction, trust, and social dynamics",
-      "description": "Studies across 2026 data show users’ trust, dependence, embodiment, and social implications of AI agents, including attachment, perceived humanness, and adoption patterns, with both productive task support and risks of manipulation or overreliance."
+      "name": "AI as methodological instrument and governance",
+      "description": "A wave of studies shows LLMs as research tools and governance instruments for coding, analysis, simulations, and evaluation across health, policy, and education."
     },
     {
-      "name": "AI as research tool: methodology, validation, and governance",
-      "description": "A broad set of works leverage LLMs for data extraction, coding, forecasting, ethics review, and policy simulation while emphasizing validation, transparency, and standardized evaluation."
+      "name": "Human-AI interaction, trust, and embodiment",
+      "description": "Papers examine trust, perceived humanness, embodiment (ADE), addiction risk, social capital, and the effects of anthropomorphism on behavior."
     },
     {
-      "name": "AI in education and health: learning, tutoring, and patient safety",
-      "description": "Empirical work investigates AI-assisted tutoring, scaffolding, and learning analytics, alongside AI-generated health information and education, highlighting gains in engagement and comprehension alongside safety and ethical concerns."
+      "name": "AI in health, misinformation, and healthcare communication ethics",
+      "description": "Research investigates AI-driven misinformation spread, patient education, and clinician–patient communication, with equity and safety frameworks."
     },
     {
-      "name": "Equity, culture, and governance in AI deployment",
-      "description": "Scholars address bias, fairness, cultural adequacy, heritage, religion, and democratic implications, advocating equity-first governance and culturally grounded design."
+      "name": "AI in education: tutoring, scaffolding, assessment, and literacy",
+      "description": "Studies explore AI tutoring, agent-based scaffolding, AI-integrated curricula, and ethical implications for learning and assessment."
     }
   ],
   "emergingKeywords": [
-    "AI trust and dependency",
-    "source transparency and accuracy warnings",
-    "AI literacy and education",
-    "AI in health education and safety",
-    "equity-first governance and cultural adequacy",
-    "multi-agent LLM simulations",
-    "AI-assisted research methods and validation",
-    "heritage, religion, and synthetic spirituality"
+    "AI-as-research-tool governance",
+    "Trust and embodiment in human-AI interaction",
+    "Health misinformation and patient education ethics",
+    "AI-assisted education and pedagogy",
+    "Public participation with LLMs in planning",
+    "Fairness, bias, and cross-cultural evaluation of LLMs",
+    "Multi-agent LLM systems and social simulations",
+    "AI-dependency and wellbeing"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 119
+      "count": 120
     }
   ],
   "fieldCounts": [
@@ -62,11 +62,11 @@
       "count": 4
     },
     {
-      "field": "Climate & environment",
-      "count": 1
+      "field": "Public opinion & politics",
+      "count": 2
     },
     {
-      "field": "Public opinion & politics",
+      "field": "Climate & environment",
       "count": 1
     }
   ]
