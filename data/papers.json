@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T10:58:49.988254+00:00",
+  "updatedAt": "2026-11-26T10:35:35.830194+00:00",
   "papers": [
     {
       "id": "https://openalex.org/W7222632548",
@@ -839,6 +839,20 @@
         "goal": "The study examines how individual skill levels and different forms of human–AI interaction relate to creative outcomes measured by novelty and usefulness.",
         "methodology": "Using quasi-experimental data, the study compares cognitive, informative, and logical AI interactions among low-, medium-, and high-skill individuals.",
         "finding": "Logical interactions are positively associated with novelty and usefulness, cognitive interactions with novelty, and informative interactions with usefulness, while medium-skill individuals perform best overall and low-skill individuals show the greatest improvement potential."
+      }
+    },
+    {
+      "id": "https://openalex.org/W7238776041",
+      "title": "Humans show limited ability to distinguish human-authored from AI-generated political content on social media",
+      "authors": "Sejin Paik, Tiago Ventura, Rebecca Ansell, Leticia Bode, Autumn Toney, Lisa Singh",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2026,
+      "field": "Media & communication",
+      "url": "https://doi.org/10.1073/pnas.2534309123",
+      "summary": {
+        "goal": "The study examines how well people distinguish human-authored from AI-generated political social media posts and how perceptions vary by LLM, platform, content, and partisanship.",
+        "methodology": "Behavioral experiments had participants identify which of randomly paired posts about the 2024 U.S. presidential debate were AI-generated, with posts varying by author, LLM, platform, and political persona.",
+        "finding": "Participants detected AI-generated content only slightly above chance, with detection varying by model, platform, incivility, emotions, and partisan identity."
       }
     },
     {

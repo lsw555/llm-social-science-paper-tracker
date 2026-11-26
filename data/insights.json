@@ -1,39 +1,38 @@
 {
-  "updatedAt": "2026-11-25T10:58:50.066600+00:00",
-  "paperCount": 120,
-  "corpusSummary": "Across 2026 records, the corpus documents a rapid expansion of social-science work on large language models, emphasizing methodological use, governance, and cross-domain impacts. Researchers probe LLM cognition and bias, interrogate trust and embodiment in human-AI interaction, harness LLMs for health misinformation, education, and policy analysis, and assess fairness, transparency, and ethical considerations. The studies reveal both promise (personalized pedagogy, participatory planning) and cautions (misinformation, dependency, and cultural relevance).",
+  "updatedAt": "2026-11-26T10:35:35.896519+00:00",
+  "paperCount": 121,
+  "corpusSummary": "Across 2026 social-science records, large language models appear as both research instruments and social actors. The corpus shows methodological uses of LLMs in policy analysis, education, health communication, and sentiment analysis, alongside deepening attention to human–AI interaction, trust, and embodiment. Recurring concerns include bias, misinformation, ethical governance, and the gap between algorithmic and situated knowledge, with emphasis on governance, literacy, and responsible deployment.",
   "themes": [
     {
-      "name": "AI as methodological instrument and governance",
-      "description": "A wave of studies shows LLMs as research tools and governance instruments for coding, analysis, simulations, and evaluation across health, policy, and education."
+      "name": "LLMs as research tools in social science",
+      "description": "Papers demonstrate LLMs aiding data classification, content analysis, ethics review, and simulation across policy, health, climate, and education, while highlighting validation and transparency needs."
     },
     {
-      "name": "Human-AI interaction, trust, and embodiment",
-      "description": "Papers examine trust, perceived humanness, embodiment (ADE), addiction risk, social capital, and the effects of anthropomorphism on behavior."
+      "name": "Human–AI interaction, trust, and social dynamics",
+      "description": "Studies investigate trust, perceived humanness, addiction, embodiment, and adoption of AI across health, education, media, and everyday contexts."
     },
     {
-      "name": "AI in health, misinformation, and healthcare communication ethics",
-      "description": "Research investigates AI-driven misinformation spread, patient education, and clinician–patient communication, with equity and safety frameworks."
+      "name": "AI in health communication, wellbeing, and misinformation",
+      "description": "Works examine AI’s role in health information dissemination, patient education, misinformation mitigation, and wellbeing outcomes."
     },
     {
-      "name": "AI in education: tutoring, scaffolding, assessment, and literacy",
-      "description": "Studies explore AI tutoring, agent-based scaffolding, AI-integrated curricula, and ethical implications for learning and assessment."
+      "name": "AI in education, literacy, and assessment",
+      "description": "Research covers AI tutoring, classroom integration, assessment integrity, teacher perspectives, and strategies to foster AI literacy and safe AI-enabled learning."
     }
   ],
   "emergingKeywords": [
-    "AI-as-research-tool governance",
-    "Trust and embodiment in human-AI interaction",
-    "Health misinformation and patient education ethics",
-    "AI-assisted education and pedagogy",
-    "Public participation with LLMs in planning",
-    "Fairness, bias, and cross-cultural evaluation of LLMs",
-    "Multi-agent LLM systems and social simulations",
-    "AI-dependency and wellbeing"
+    "AI as research tool",
+    "Trust and reliance in AI",
+    "AI health misinformation",
+    "AI literacy in education",
+    "AI governance and ethics",
+    "AI-assisted learning",
+    "Public policy with LLMs"
   ],
   "yearCounts": [
     {
       "year": "2026",
-      "count": 120
+      "count": 121
     }
   ],
   "fieldCounts": [
@@ -59,7 +58,7 @@
     },
     {
       "field": "Media & communication",
-      "count": 4
+      "count": 5
     },
     {
       "field": "Public opinion & politics",
